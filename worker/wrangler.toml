@@ -1,0 +1,6 @@
+name = "crypto-news-api"
+main = "worker.js"
+compatibility_date = "2024-09-01"
+
+# Free tier: no necesitas cuenta de pago, ni dominio propio.
+# Tu API quedará en: https://crypto-news-api.<tu-subdominio>.workers.dev
