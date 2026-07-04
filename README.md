@@ -28,7 +28,7 @@ Si no tienes `gh` (GitHub CLI), créalo manualmente en github.com → New reposi
 → público → y luego:
 
 ```bash
-git remote add origin https://github.com/TU_USUARIO/crypto-news-api.git
+git remote add origin https://github.com/alejandroceo/crypto-news-api.git
 git branch -M main
 git push -u origin main
 ```
@@ -53,13 +53,13 @@ dentro del límite incluso corriendo cada 15 min todo el mes).
 Sin hacer nada más, tu JSON ya es accesible en:
 
 ```
-https://raw.githubusercontent.com/TU_USUARIO/crypto-news-api/main/data/news.json
+https://raw.githubusercontent.com/alejandroceo/crypto-news-api/main/data/news.json
 ```
 
 Pruébalo:
 
 ```bash
-curl https://raw.githubusercontent.com/TU_USUARIO/crypto-news-api/main/data/news.json
+curl https://raw.githubusercontent.com/alejandroceo/crypto-news-api/main/data/news.json
 ```
 
 Esto YA es una "API" de solo lectura, gratis, pública, sin que montes nada más.
@@ -78,7 +78,7 @@ wrangler login            # abre el navegador, login con cuenta gratuita
 Edita `worker.js` y cambia esta línea con tu usuario/repo real:
 
 ```js
-const RAW_JSON_URL = "https://raw.githubusercontent.com/TU_USUARIO/crypto-news-api/main/data/news.json";
+const RAW_JSON_URL = "https://raw.githubusercontent.com/alejandroceo/crypto-news-api/main/data/news.json";
 ```
 
 Luego:
@@ -179,7 +179,7 @@ Si no quieres montar el Worker, puedes consumir el raw JSON directo
 ```python
 import requests
 data = requests.get(
-    "https://raw.githubusercontent.com/TU_USUARIO/crypto-news-api/main/data/news.json"
+    "https://raw.githubusercontent.com/alejandroceo/crypto-news-api/main/data/news.json"
 ).json()
 ```
 
