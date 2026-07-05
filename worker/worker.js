@@ -12,9 +12,9 @@
  *   GET /sources                   -> lista las fuentes disponibles
  */
 
-// Cambia esto por tu usuario/repo reales
+//
 const RAW_JSON_URL =
-  "https://raw.githubusercontent.com/for-test0x/crypto-news-api/main/data/news.json";
+  "https://raw.githubusercontent.com/alejandroceo/crypto-news-api/main/data/news.json";
 
 const CORS_HEADERS = {
   "access-control-allow-origin": "*",
