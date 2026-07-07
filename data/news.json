@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-06T22:08:53.382055+00:00",
-  "count": 125,
+  "updated_at": "2026-07-07T11:40:40.240225+00:00",
+  "count": 115,
   "sources": [
     "coindesk",
     "cointelegraph",
@@ -10,6 +10,294 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "85def1afa1cd",
+      "title": "Coinbase secures UK authorization to offer traditional investments alongside crypto",
+      "link": "https://www.coindesk.com/business/2026/07/07/coinbase-secures-uk-authorization-to-offer-traditional-investments-alongside-crypto",
+      "source": "coindesk",
+      "published": "2026-07-07T11:37:01+00:00",
+      "summary": "",
+      "title_es": "Coinbase obtiene la autorización del Reino Unido para ofrecer inversiones tradicionales junto con criptomonedas"
+    },
+    {
+      "id": "a53ad663e95b",
+      "title": "Traders Sue Polymarket Over 'No' Ruling on Strategy Bitcoin Sale",
+      "link": "https://decrypt.co/372899/traders-sue-polymarket-over-no-ruling-on-strategy-bitcoin-sale",
+      "source": "decrypt",
+      "published": "2026-07-07T11:34:51+00:00",
+      "summary": "The plaintiffs say Polymarket added a rule after the fact, turning their winning \"Yes\" bet on Strategy's Bitcoin sale into a loss.",
+      "title_es": "Los comerciantes demandan a Polymarket por la decisión de 'no' sobre la estrategia de venta de Bitcoin"
+    },
+    {
+      "id": "d4ca4af85d29",
+      "title": "Chainwire Parent MediaFuse Launches Tech Newswire Optimized for AI Search",
+      "link": "https://decrypt.co/372901/chainwire-parent-mediafuse-launches-tech-newswire-optimized-for-ai-search",
+      "source": "decrypt",
+      "published": "2026-07-07T11:28:04+00:00",
+      "summary": "TechnologyWire pitches guaranteed placement across tech media, alongside content tuned to be picked up by tools like ChatGPT and Gemini.",
+      "title_es": "MediaFuse, matriz de Chainwire, lanza Tech Newswire optimizado para búsqueda con IA"
+    },
+    {
+      "id": "36267853147b",
+      "title": "Bitcoin's July gains may be fleeting as U.S. demand stays weak",
+      "link": "https://www.coindesk.com/daybook-us/2026/07/07/bitcoin-s-july-gains-may-be-fleeting-as-u-s-demand-stays-weak",
+      "source": "coindesk",
+      "published": "2026-07-07T11:26:17+00:00",
+      "summary": "",
+      "title_es": "Las ganancias de julio de Bitcoin pueden ser fugaces ya que la demanda estadounidense sigue siendo débil"
+    },
+    {
+      "id": "96c5b93c1903",
+      "title": "Ctrl Wallet to shut weeks after security exploit",
+      "link": "https://cointelegraph.com/news/ctrl-wallet-shutdown-security-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-07T10:46:24+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ctrl Wallet to shut weeks after security exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/mwallet.jpg\" /></p><p>The move follows a June 23 exploit that has now resulted in closing down th",
+      "title_es": "Ctrl Wallet cerrará semanas después de un ataque de seguridad"
+    },
+    {
+      "id": "13596933cae0",
+      "title": "Bitcoin stalls as open interest decline raises questions about rally's staying power",
+      "link": "https://www.coindesk.com/markets/2026/07/07/bitcoin-stalls-as-open-interest-decline-raises-questions-about-rally-s-staying-power",
+      "source": "coindesk",
+      "published": "2026-07-07T10:44:09+00:00",
+      "summary": "",
+      "title_es": "Bitcoin se estanca mientras la caída del interés abierto plantea dudas sobre la capacidad de permanencia del repunte"
+    },
+    {
+      "id": "a30604a89f06",
+      "title": "Vitalik Buterin confirms AI identified his anonymous Ethereum proposal contribution",
+      "link": "https://cointelegraph.com/news/vitalik-buterin-confirms-ai-identified-his-anonymous-ethereum-proposal-contribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-07T10:27:04+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Vitalik Buterin confirms AI identified his anonymous Ethereum proposal contribution\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-formal-verification-and-why-does-vitalik-think-ai-c",
+      "title_es": "Vitalik Buterin confirma que AI identificó su contribución anónima a la propuesta de Ethereum"
+    },
+    {
+      "id": "2eda0930de44",
+      "title": "Bitcoin can fall below $58K if one of its 'cleanest' metrics copies history: Analysis",
+      "link": "https://cointelegraph.com/markets/bitcoin-can-fall-below-58k-if-one-of-its-cleanest-metrics-copies-history-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-07T10:14:40+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin can fall below $58K if one of its 'cleanest' metrics copies history: Analysis\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/analys-analytics-building-window-glass-red.jpg\" /></p><p>Bit",
+      "title_es": "Bitcoin puede caer por debajo de los 58.000 dólares si una de sus métricas \"más limpias\" copia la historia: Análisis"
+    },
+    {
+      "id": "2bd063976009",
+      "title": "Galaxy delivers 133 MW of critical IT load to CoreWeave as Helios bitcoin mine turns AI hub",
+      "link": "https://www.theblock.co/post/407396/galaxy-delivers-133-mw-of-critical-it-load-to-coreweave-as-helios-bitcoin-mine-turns-ai-hub?utm_source=rss&utm_medium=rss",
+      "source": "theblock",
+      "published": "2026-07-07T09:45:09+00:00",
+      "summary": "<p>Galaxy delivered 133 MW of critical IT load to CoreWeave at its Helios campus, completing Phase I of the West Texas site's AI conversion.</p>",
+      "title_es": "Galaxy entrega 133 MW de carga de TI crítica a CoreWeave mientras la mina de bitcoins Helios se convierte en centro de inteligencia artificial"
+    },
+    {
+      "id": "8f6ecca4ff2c",
+      "title": "Digital Chamber amicus brief urges dismissal of NY lawsuit over 39,069 Bitcoin wallets",
+      "link": "https://cointelegraph.com/news/digital-chamber-files-ny-lawsuit-39069-bitcoin-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-07T09:23:39+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Digital Chamber amicus brief urges dismissal of NY lawsuit over 39,069 Bitcoin wallets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-crypto-man-court.jpg\" /></p><p>The Digital Chamb",
+      "title_es": "El informe amicus de la Cámara Digital insta a que se desestime la demanda de Nueva York sobre 39.069 carteras de Bitcoin"
+    },
+    {
+      "id": "3b78472d6415",
+      "title": "Tether’s former CIO seeks buyers for part of his stake in the firm: Bloomberg",
+      "link": "https://www.theblock.co/post/407394/tethers-former-cio-seeks-buyers-for-part-of-his-stake-in-the-firm-bloomberg?utm_source=rss&utm_medium=rss",
+      "source": "theblock",
+      "published": "2026-07-07T09:22:26+00:00",
+      "summary": "<p>Former Tether CIO Richard Heathcote is seeking buyers for part of his 1.26% stake in the firm, according to Bloomberg. </p>",
+      "title_es": "El ex CIO de Tether busca compradores para parte de su participación en la firma: Bloomberg"
+    },
+    {
+      "id": "3d5d7bca3be3",
+      "title": "Upbit, Naver stock-swap deal faces second delay amid proposed crypto law debate",
+      "link": "https://www.theblock.co/post/407389/upbit-naver-stock-swap-deal-delay?utm_source=rss&utm_medium=rss",
+      "source": "theblock",
+      "published": "2026-07-07T09:10:51+00:00",
+      "summary": "<p>The companies said that the development of the country's landmark crypto legislation could affect the deal's progress or outcome.</p>",
+      "title_es": "El acuerdo de intercambio de acciones de Upbit y Naver enfrenta un segundo retraso en medio del debate sobre la propuesta de ley criptográfica"
+    },
+    {
+      "id": "59cf3454c18c",
+      "title": "MiCA-compliant euro stablecoins grew 128% before MiCA transition ended, says Decta",
+      "link": "https://cointelegraph.com/news/mica-euro-stablecoins-growth-casp-deadline-decta-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-07T09:08:45+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MiCA-compliant euro stablecoins grew 128% before MiCA transition ended, says Decta\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/euro.jpg\" /></p><p>Decta's report said the market cap of eight ",
+      "title_es": "Las monedas estables en euros compatibles con MiCA crecieron un 128% antes de que finalizara la transición de MiCA, dice Decta"
+    },
+    {
+      "id": "3b7519ac482d",
+      "title": "Battle of the Bitcoin Reserve: Treasury-Commerce Department Infighting Delays Trump Crypto Plan",
+      "link": "https://cryptonews.com/news/strategic-bitcoin-reserve-treasury-commerce-delay/",
+      "source": "cryptonews",
+      "published": "2026-07-07T08:59:48+00:00",
+      "summary": "<p>A turf war between Treasury and Commerce over 328,372 BTC has frozen Trump's Strategic Bitcoin Reserve, with the DOJ now mediating the disputed oversight.</p>\n<p>The post <a href=\"https://cryptonews.com/news/strategic-bitcoin-reserve-treasury-commerce-delay/\">Battle of the Bitcoin Reserve: Treasu",
+      "title_es": "Batalla de la reserva de Bitcoin: las luchas internas entre el Departamento del Tesoro y el Comercio retrasan el plan criptográfico de Trump"
+    },
+    {
+      "id": "896165da3e76",
+      "title": "Two traders sue Polymarket over disputed resolution of Strategy bitcoin sale market",
+      "link": "https://www.theblock.co/post/407368/two-traders-sue-polymarket-strategy-bitcoin-sale?utm_source=rss&utm_medium=rss",
+      "source": "theblock",
+      "published": "2026-07-07T08:34:34+00:00",
+      "summary": "<p>Plaintiffs allege Polymarket wrongly resolved the market as \"No\" despite Strategy's SEC filing disclosing it sold 32 BTC between May 26 and May 31.</p>",
+      "title_es": "Dos comerciantes demandan a Polymarket por la disputada resolución del mercado de venta de bitcoins de estrategia"
+    },
+    {
+      "id": "e9e110545aa1",
+      "title": "Binance taps into Bitcoin holders’ hunger for yield with new covered call yield play",
+      "link": "https://www.coindesk.com/markets/2026/07/07/binance-taps-into-bitcoin-holders-hunger-for-yield-with-new-covered-call-yield-play",
+      "source": "coindesk",
+      "published": "2026-07-07T08:20:00+00:00",
+      "summary": "",
+      "title_es": "Binance aprovecha el hambre de rendimiento de los poseedores de Bitcoin con un nuevo juego de rendimiento de llamada cubierto"
+    },
+    {
+      "id": "6a1326cc3dce",
+      "title": "Bitcoin's recent macro relief faces a challenge from Japanese interest rates",
+      "link": "https://www.coindesk.com/markets/2026/07/07/btc-s-recent-macro-relief-faces-a-challenge-from-japanese-interest-rates",
+      "source": "coindesk",
+      "published": "2026-07-07T07:50:57+00:00",
+      "summary": "",
+      "title_es": "El reciente alivio macro de Bitcoin enfrenta el desafío de las tasas de interés japonesas"
+    },
+    {
+      "id": "1581eda4b060",
+      "title": "Live markets: Bitcoin and ether ETFs drew inflows on Monday",
+      "link": "https://www.coindesk.com/tech/2026/07/07/live-markets-bitcoin-and-ether-etfs-drew-inflows-on-monday",
+      "source": "coindesk",
+      "published": "2026-07-07T06:51:28+00:00",
+      "summary": "",
+      "title_es": "Mercados en vivo: los ETF de Bitcoin y Ethereum atrajeron entradas el lunes"
+    },
+    {
+      "id": "552e43ae5e35",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-07T06:02:08+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
+      "title_es": "Esto es lo que sucedió hoy en las criptomonedas"
+    },
+    {
+      "id": "2a010c6811e6",
+      "title": "Trader loses $2M in ‘same-block backrun extraction’ exploit",
+      "link": "https://cointelegraph.com/news/trader-loses-2m-in-same-block-backrun-extraction-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-07T05:58:11+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trader loses $2M in ‘same-block backrun extraction’ exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/magazine-bi-weekly-cybersecurity1.jpg\" /></p><p>One crypto trader noted the $2 million",
+      "title_es": "Un comerciante pierde 2 millones de dólares en un exploit de \"extracción de retroceso del mismo bloque\""
+    },
+    {
+      "id": "3a58d1daca55",
+      "title": "Yield Guild Games cuts 35 staff, shuts game publisher to focus on AI",
+      "link": "https://cointelegraph.com/news/yield-guild-games-cuts-35-staff-shuts-game-publisher-to-focus-on-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-07T05:56:54+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Yield Guild Games cuts 35 staff, shuts game publisher to focus on AI\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/layoffs-go-home.jpg\" /></p><p>Yield Guild Games said tough crypto and video g",
+      "title_es": "Yield Guild Games recorta 35 empleados y cierra editor de juegos para centrarse en la IA"
+    },
+    {
+      "id": "be9b678a32e7",
+      "title": "Strategy’s Bitcoin sale may give BTC a ‘durable bottom,’ Grayscale says",
+      "link": "https://cointelegraph.com/news/strategys-bitcoin-sale-may-give-btc-a-durable-bottom-says-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-07T05:45:59+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy’s Bitcoin sale may give BTC a ‘durable bottom,’ Grayscale says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-a-simple-breakdown-of-strategys-bitcoin-plan-and-what-could-shape-futur",
+      "title_es": "La venta de Bitcoin de Strategy puede darle a BTC un \"fondo duradero\", dice Grayscale"
+    },
+    {
+      "id": "bacfa2118c72",
+      "title": "BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal",
+      "link": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal",
+      "source": "coindesk",
+      "published": "2026-07-07T05:40:58+00:00",
+      "summary": "",
+      "title_es": "BONK se enfrenta a una pérdida de tesorería de 20 millones de dólares después de que un atacante gastara 4 millones de dólares para aprobar una propuesta maliciosa"
+    },
+    {
+      "id": "837a430fc213",
+      "title": "What Is the U.S. Strategic Bitcoin Reserve?",
+      "link": "https://www.theblock.co/learn/407371/what-is-the-u-s-strategic-bitcoin-reserve?utm_source=rss&utm_medium=rss",
+      "source": "theblock",
+      "published": "2026-07-07T05:27:23+00:00",
+      "summary": "<p>The U.S. Strategic Bitcoin Reserve is a government-held stockpile of bitcoin, established by executive order in March 2025. The order treats Bitcoin as a long-term reserve asset, comparable to how the country holds gold, and directs that the coins placed in the reserve are not to be sold. Almost ",
+      "title_es": "¿Qué es la reserva estratégica de Bitcoin de EE. UU.?"
+    },
+    {
+      "id": "289d6418230e",
+      "title": "XRP stalls near $1.14 as breakout attempt struggles for volume",
+      "link": "https://www.coindesk.com/markets/2026/07/07/xrp-stalls-near-usd1-14-as-breakout-attempt-struggles-for-volume",
+      "source": "coindesk",
+      "published": "2026-07-07T04:46:30+00:00",
+      "summary": "",
+      "title_es": "XRP se detiene cerca de $1,14 mientras el intento de ruptura lucha por el volumen"
+    },
+    {
+      "id": "22fa21a357a4",
+      "title": "Bitcoin drops after a run at $64,000, shrugging off Strategy's $213 million BTC sale",
+      "link": "https://www.coindesk.com/markets/2026/07/07/bitcoin-drops-after-a-run-at-usd64-000-shrugging-off-strategy-s-usd213-million-btc-sale",
+      "source": "coindesk",
+      "published": "2026-07-07T04:33:15+00:00",
+      "summary": "",
+      "title_es": "Bitcoin cae después de una carrera de $64,000, haciendo caso omiso de la venta de BTC de $213 millones de Strategy"
+    },
+    {
+      "id": "13857d116781",
+      "title": "Trump says he became ‘a big crypto guy’ partly for politics",
+      "link": "https://cointelegraph.com/news/trump-says-he-became-a-big-crypto-guy-for-the-politics?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-07T04:10:07+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump says he became ‘a big crypto guy’ partly for politics\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/trump-and-c-man-coming-through.jpg\" /></p><p>US President Donald Trump once called Bit",
+      "title_es": "Trump dice que se convirtió en \"un gran criptohombre\" en parte por la política"
+    },
+    {
+      "id": "b841ff701b75",
+      "title": "L1s face decentralization 'tug-of-war' as adoption grows: Injective CEO",
+      "link": "https://cointelegraph.com/news/injective-ceo-warns-layer-1-chains-risk-sacrificing-decentralization-for-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-07T03:28:23+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"L1s face decentralization 'tug-of-war' as adoption grows: Injective CEO\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-blockchain-paradox-decentralization-through-the-centralized-institu",
+      "title_es": "Las L1 enfrentan un 'tira y afloja' de descentralización a medida que crece la adopción: CEO de Injective"
+    },
+    {
+      "id": "f544b698c150",
+      "title": "US Bitcoin reserve hits snag as federal agencies debate for control: Bloomberg",
+      "link": "https://cointelegraph.com/news/trumps-bitcoin-reserve-stalled-by-interagency-dispute-over-control-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-07T02:17:58+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Bitcoin reserve hits snag as federal agencies debate for control: Bloomberg\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crypto-bitcoin-storage-us.jpg\" /></p><p>The report follows comments",
+      "title_es": "La reserva de Bitcoin de EE. UU. se ve obstaculizada mientras las agencias federales debaten por el control: Bloomberg"
+    },
+    {
+      "id": "389bcb0983c5",
+      "title": "Bitcoin bulls shake off Strategy's $216M BTC sale as price overtakes $64K",
+      "link": "https://cointelegraph.com/markets/bitcoin-bulls-shake-off-strategys-216m-btc-sale-as-price-overtakes-64k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-07T01:55:34+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin bulls shake off Strategy's $216M BTC sale as price overtakes $64K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-246676-bitcoin-price-rebounds-65k-who-is-buying-the-dip.j",
+      "title_es": "Los alcistas de Bitcoin se deshacen de la venta de BTC de 216 millones de dólares de Strategy mientras el precio supera los 64 mil dólares"
+    },
+    {
+      "id": "d231d298589c",
+      "title": "Strategy sells $216M Bitcoin, Bollinger bullish on BTC: Hodler's Digest, June 29-July 6, 2026",
+      "link": "https://cointelegraph.com/features/bollinger-is-bullish-on-bitcoin-trumps-ludicrous-crypto-profits-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-07T00:03:30+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy sells $216M Bitcoin, Bollinger bullish on BTC: Hodler's Digest, June 29-July 6, 2026\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/5-july.jpg\" /></p><p>Bollinger Bands creator John Bo",
+      "title_es": "Strategy vende Bitcoin por valor de 216 millones de dólares, Bollinger se muestra optimista sobre BTC: Hodler's Digest, del 29 de junio al 6 de julio de 2026"
+    },
+    {
+      "id": "d02276430ff0",
+      "title": "Grayscale says Strategy’s recent bitcoin sales should restore confidence in its financing structure",
+      "link": "https://www.theblock.co/post/407360/grayscale-strategy-bitcoin-sales-comments?utm_source=rss&utm_medium=rss",
+      "source": "theblock",
+      "published": "2026-07-06T22:10:15+00:00",
+      "summary": "<p>\"Strategy is selling more bitcoin. But this will restore confidence in its financing structure and help bitcoin find a more durable bottom.\"</p>",
+      "title_es": "Grayscale dice que las recientes ventas de bitcoins de Strategy deberían restaurar la confianza en su estructura financiera"
+    },
     {
       "id": "ba316e818e0c",
       "title": "Former Tether CIO seeks to sell stake in stablecoin issuer, Bloomberg reports",
@@ -72,15 +360,6 @@
       "published": "2026-07-06T20:55:11+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BonkDAO reports $20M theft from ‘malicious governance proposal’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/news-crypto-studio-bonk.jpg\" /></p><p>The developers behind the memecoin project s",
       "title_es": "BonkDAO denuncia un robo de 20 millones de dólares procedente de una \"propuesta de gobernanza maliciosa\""
-    },
-    {
-      "id": "552e43ae5e35",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-06T20:03:50+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
-      "title_es": "Esto es lo que sucedió hoy en las criptomonedas"
     },
     {
       "id": "82d1c9abcfcb",
@@ -155,15 +434,6 @@
       "title_es": "Juez revive demanda de fraude contra Barry Silbert, DCG en demanda de Genesis Yield"
     },
     {
-      "id": "f5bbfbc11891",
-      "title": "Trump-Backed American Bitcoin (ABTC) Pushes Treasury Past 8,000 BTC",
-      "link": "https://bitcoinmagazine.com/news/trump-backed-american-bitcoin-abtc",
-      "source": "bitcoinmagazine",
-      "published": "2026-07-06T18:54:29+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/03/Trump-Linked-American-Bitcoin-ABTC-Surpasses-7000-BTC-as-Treasury-Growth-Accelerates-Mining-Peer-Slides.jpg\" style=\"display: block; margin: 1em auto;\" /",
-      "title_es": "El Bitcoin estadounidense (ABTC), respaldado por Trump, impulsa al Tesoro a superar los 8.000 BTC"
-    },
-    {
       "id": "419385c1d75c",
       "title": "Coinbase's AI System Hallucinated a World Cup Result Before the Match Even Started",
       "link": "https://decrypt.co/372824/coinbase-ai-hallucinated-world-cup-result-before-match",
@@ -189,15 +459,6 @@
       "published": "2026-07-06T17:27:21+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine announces $74M Ether buys as chair says ‘greater chances of Clarity Act passage’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-7-largest-ethereum-treasury-companies-right-now-ra",
       "title_es": "Bitmine anuncia compras de Ether por 74 millones de dólares mientras el presidente dice \"mayores posibilidades de aprobación de la Ley de Claridad\""
-    },
-    {
-      "id": "769e1355c7e3",
-      "title": "USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements",
-      "link": "https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements",
-      "source": "bitcoinmagazine",
-      "published": "2026-07-06T17:17:03+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tdn.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-",
-      "title_es": "USDT regresa a Bitcoin: RGB y UTEXO permiten acuerdos privados Lightning"
     },
     {
       "id": "3737c116be09",
@@ -243,15 +504,6 @@
       "published": "2026-07-06T16:00:15+00:00",
       "summary": "",
       "title_es": "El USDC de Circle está dejando atrás a Tether en la carrera por el volumen de las monedas estables, según muestran nuevos datos de Visa"
-    },
-    {
-      "id": "af7a946acfcf",
-      "title": "President Trump Signals Openness to Bitcoin in Trump Accounts, Calls Himself ‘a Big Fan of Crypto’",
-      "link": "https://bitcoinmagazine.com/news/president-trump-signals-openness-bitcoin",
-      "source": "bitcoinmagazine",
-      "published": "2026-07-06T15:54:09+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/President-Trump-Signals-Openness-to-Bitcoin-in-Trump-Accounts-Calls-Himself-a-Big-Fan-of-Crypto-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />",
-      "title_es": "El presidente Trump da señales de apertura a Bitcoin en las cuentas de Trump y se autodenomina \"un gran admirador de las criptomonedas\""
     },
     {
       "id": "4a91fa152d11",
@@ -317,15 +569,6 @@
       "title_es": "BitMine de Tom Lee agrega $73 millones en Ethereum mientras la estrategia se deshace de Bitcoin"
     },
     {
-      "id": "d22211683550",
-      "title": "Russian-Sberbank Plans Crypto Wallet and Digital Depository by December",
-      "link": "https://bitcoinmagazine.com/news/russian-sberbank-plans-crypto-wallet",
-      "source": "bitcoinmagazine",
-      "published": "2026-07-06T14:40:59+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Russian-Sberbank-Plans-Crypto-Wallet-and-Digital-Depository-by-December.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoin",
-      "title_es": "Russian-Sberbank planea una billetera criptográfica y un depósito digital para diciembre"
-    },
-    {
       "id": "7a38b52ae3c2",
       "title": "Securitize eyes acquisitions with $400 million war chest after going public, CEO says",
       "link": "https://www.coindesk.com/business/2026/07/06/securitize-eyes-acquisitions-with-usd400-million-war-chest-after-going-public-ceo-says",
@@ -342,6 +585,15 @@
       "published": "2026-07-06T14:15:48+00:00",
       "summary": "<p>Bitmine acquired 42,197 ether worth an estimated $74 million last week, lifting its treasury to over 5.7 million ETH.</p>",
       "title_es": "Tom Lee de Bitmine vincula la fuerza del éter con las probabilidades de la Ley de Claridad a medida que la tesorería se acerca al 5% del suministro total de Ethereum"
+    },
+    {
+      "id": "61c2bb901ccd",
+      "title": "Bitcoin miner TeraWulf soars on a $19 billion AI data-center lease with Anthropic",
+      "link": "https://www.coindesk.com/markets/2026/07/06/bitcoin-miner-terawulf-soars-on-a-usd19-billion-ai-data-center-lease-with-anthropic",
+      "source": "coindesk",
+      "published": "2026-07-06T14:12:15+00:00",
+      "summary": "",
+      "title_es": "El minero de Bitcoin TeraWulf se dispara con un arrendamiento de centro de datos de IA de 19 mil millones de dólares con Anthropic"
     },
     {
       "id": "4513142f55f8",
@@ -434,15 +686,6 @@
       "title_es": "Ethereum se 'reinventa' con la mayor revisión desde la fusión: Vitalik Buterin"
     },
     {
-      "id": "781e6fd50991",
-      "title": "Strive (ASST) Adds 17.76 Bitcoin as Falling Prices Boost Its Quarterly Yield",
-      "link": "https://bitcoinmagazine.com/news/strive-asst-adds-17-76-bitcoin",
-      "source": "bitcoinmagazine",
-      "published": "2026-07-06T12:48:58+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Strive-ASST-Adds-17.76-Bitcoin-as-Falling-Prices-Boost-Its-Quarterly-Yield.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitc",
-      "title_es": "Strive (ASST) agrega 17,76 Bitcoin a medida que la caída de los precios aumenta su rendimiento trimestral"
-    },
-    {
       "id": "abfc201ee14f",
       "title": "Strategy Sells $216M in Bitcoin for Dividends Under 'BTC Monetization Program'",
       "link": "https://decrypt.co/372797/strategy-sells-216m-in-bitcoin-for-dividends-under-btc-monetization-program",
@@ -450,15 +693,6 @@
       "published": "2026-07-06T12:28:00+00:00",
       "summary": "The Bitcoin treasury giant sold $216 million worth of Bitcoin to cover preferred payouts, as an $8.3 billion quarterly loss piled up.",
       "title_es": "Strategy vende 216 millones de dólares en Bitcoin para dividendos en el marco del 'Programa de monetización de BTC'"
-    },
-    {
-      "id": "812d08f08910",
-      "title": "Strategy (MSTR) Sells 3,588 Bitcoin to Cover Preferred Dividends",
-      "link": "https://bitcoinmagazine.com/news/strategy-mstr-sells-3588-bitcoin",
-      "source": "bitcoinmagazine",
-      "published": "2026-07-06T12:27:23+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/01/Michael-Saylors-Strategy-MSTR-Spends-2.13-Billion-to-Buy-22305-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinm",
-      "title_es": "Strategy (MSTR) vende 3.588 Bitcoin para cubrir dividendos preferentes"
     },
     {
       "id": "bd82ab54b437",
@@ -477,15 +711,6 @@
       "published": "2026-07-06T12:16:28+00:00",
       "summary": "",
       "title_es": "La estrategia de Michael Saylor aumenta drásticamente el ritmo de las ventas de bitcoins, recaudando 216 millones de dólares"
-    },
-    {
-      "id": "725033ce626c",
-      "title": "Belgian regulator flags 6 unauthorized crypto providers after MiCA deadline",
-      "link": "https://cointelegraph.com/news/belgium-unauthorized-crypto-firms-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-06T12:15:20+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Belgian regulator flags 6 unauthorized crypto providers after MiCA deadline \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/european-union-eu-european-parliament-brussels-1.jpg\" /></p><p>Belgiu",
-      "title_es": "El regulador belga señala a 6 proveedores de cifrado no autorizados después de la fecha límite de MiCA"
     },
     {
       "id": "adf30dd8fa78",
@@ -560,15 +785,6 @@
       "title_es": "Las criptomonedas se recuperan del abismo a medida que regresa el optimismo de las altcoins a pesar de los focos de debilidad"
     },
     {
-      "id": "1ec05ae79c21",
-      "title": "$60.4K Becomes 'most important area': Five things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/markets/604k-becomes-most-important-area-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-06T10:25:20+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"$60.4K Becomes 'most important area': Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/analysis-psychoanalyst2.jpg\" /></p><p>Bitcoin saw its highest level",
-      "title_es": "$60.4K se convierte en el 'área más importante': cinco cosas que debes saber sobre Bitcoin esta semana"
-    },
-    {
       "id": "1f6a80114b5f",
       "title": "Bitcoin's Sharpe Ratio slides to lowest since 2022. Here's what it means.",
       "link": "https://www.coindesk.com/markets/2026/07/06/bitcoin-s-sharpe-ratio-slides-to-lowest-since-2022-here-s-what-it-means",
@@ -596,24 +812,6 @@
       "title_es": "Las nuevas reglas de financiación electoral del Reino Unido podrían afectar a los criptodonantes multimillonarios de la reforma"
     },
     {
-      "id": "1f627313bde5",
-      "title": "South Korea weighs action against Polymarket over gambling concerns",
-      "link": "https://cointelegraph.com/news/south-korea-polymarket-gambling-review-corrective-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-06T09:53:34+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea weighs action against Polymarket over gambling concerns \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/courtroomcourtjudgesemen3.jpg\" /></p><p>South Korea’s media and communication",
-      "title_es": "Corea del Sur evalúa tomar medidas contra Polymarket por preocupaciones sobre el juego"
-    },
-    {
-      "id": "d849d4fdf8e3",
-      "title": "Coinbase AI draws backlash after erroneously publishing World Cup result before kickoff",
-      "link": "https://www.coindesk.com/business/2026/07/06/coinbase-ai-draws-backlash-after-pushing-world-cup-result-before-kickoff",
-      "source": "coindesk",
-      "published": "2026-07-06T09:39:52+00:00",
-      "summary": "",
-      "title_es": "Coinbase AI genera reacciones violentas después de publicar erróneamente el resultado de la Copa del Mundo antes del inicio"
-    },
-    {
       "id": "77866cacdc18",
       "title": "Ripple secures full MiCA CASP authorization for crypto services across 30 EEA countries",
       "link": "https://www.theblock.co/post/407207/ripple-secures-full-mica-casp-authorization-for-crypto-services-across-30-eea-countries?utm_source=rss&utm_medium=rss",
@@ -630,15 +828,6 @@
       "published": "2026-07-06T09:24:15+00:00",
       "summary": "<p>Barstool Sports founder Dave Portnoy reveals millions in Bitcoin losses after buying at $100K and vows to hold to zero rather than sell again.</p>\n<p>The post <a href=\"https://cryptonews.com/news/bitcoin-news-dave-portnoy-hold-to-zero/\">Bitcoin News: Dave Portnoy Vows to Hold Bitcoin to Zero Afte",
       "title_es": "Bitcoin News: Dave Portnoy promete mantener Bitcoin a cero después de comprarlo a $ 100,000"
-    },
-    {
-      "id": "f67841f94a5b",
-      "title": "Dormant $1.9M Bitcoin tied to New York lawsuit moves after nearly 15 years",
-      "link": "https://cointelegraph.com/news/dormant-bitcoin-new-york-lawsuit-moved-15-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-06T09:20:14+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dormant $1.9M Bitcoin tied to New York lawsuit moves after nearly 15 years\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-happened-in-crypto-legal-news-breaking-news.jpg\" /></p><p>A Bit",
-      "title_es": "Bitcoin inactivo de 1,9 millones de dólares vinculado a demandas en Nueva York después de casi 15 años"
     },
     {
       "id": "5df5fff5398d",
@@ -668,177 +857,6 @@
       "title_es": "Predicción del precio de Ethereum: Vitalik insinúa una reconstrucción de ETH de 3 a 4 años"
     },
     {
-      "id": "dc85c907fcd5",
-      "title": "DeFi protocol Summer Finance exploited for $6 million; analysts point to flash loan attack",
-      "link": "https://www.theblock.co/post/407198/summer-finance-exploited?utm_source=rss&utm_medium=rss",
-      "source": "theblock",
-      "published": "2026-07-06T08:49:56+00:00",
-      "summary": "<p>The attacker reportedly used a $65.4 million flash loan to obtain a $70.9 million redemption on Summer.fi's Lazy Summer Protocol.</p>",
-      "title_es": "Protocolo DeFi Summer Finance explotado por 6 millones de dólares; Los analistas señalan un ataque de préstamos urgentes."
-    },
-    {
-      "id": "81fe38a595ad",
-      "title": "South Korea develops crypto-specific procedures for asset seizures and liquidation: report",
-      "link": "https://www.theblock.co/post/407183/south-korea-crypto-specific-procedure?utm_source=rss&utm_medium=rss",
-      "source": "theblock",
-      "published": "2026-07-06T08:35:54+00:00",
-      "summary": "<p>The amendments aim to formalize how courts handle the forced execution of civil judgments against cryptocurrency holdings.</p>",
-      "title_es": "Corea del Sur desarrolla procedimientos cripto-específicos para la incautación y liquidación de activos: informe"
-    },
-    {
-      "id": "74325b797cdd",
-      "title": "FOMC minutes, SpaceX joins Nasdaq 100: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/07/06/fomc-minutes-spacex-joins-nasdaq-100-crypto-week-ahead",
-      "source": "coindesk",
-      "published": "2026-07-06T08:18:05+00:00",
-      "summary": "",
-      "title_es": "Actas del FOMC, SpaceX se une al Nasdaq 100: Crypto Week Ahead"
-    },
-    {
-      "id": "3848e1a1ce37",
-      "title": "Vitalik Buterin says Ethereum is preparing its 'biggest rebuild' since the Merge",
-      "link": "https://www.coindesk.com/tech/2026/07/06/vitalik-buterin-says-ethereum-is-preparing-its-biggest-rebuild-since-the-merge",
-      "source": "coindesk",
-      "published": "2026-07-06T07:44:58+00:00",
-      "summary": "",
-      "title_es": "Vitalik Buterin dice que Ethereum está preparando su \"mayor reconstrucción\" desde la fusión"
-    },
-    {
-      "id": "6323ccd5fe0d",
-      "title": "Live markets: Bitcoin recoups early decline, rising back above $63,000",
-      "link": "https://www.coindesk.com/tech/2026/07/06/live-markets-bitcoin-pops-to-usd63-900-then-reverses-as-week-begins",
-      "source": "coindesk",
-      "published": "2026-07-06T07:43:21+00:00",
-      "summary": "",
-      "title_es": "Mercados en vivo: Bitcoin se recupera de la caída inicial y vuelve a superar los $63,000"
-    },
-    {
-      "id": "74e762a27b78",
-      "title": "How Sovereign Wealth Funds Invest in Digital Assets",
-      "link": "https://www.theblock.co/learn/407186/how-sovereign-wealth-funds-invest-in-digital-assets?utm_source=rss&utm_medium=rss",
-      "source": "theblock",
-      "published": "2026-07-06T06:14:32+00:00",
-      "summary": "<p>Sovereign wealth funds invest in digital assets mainly through regulated vehicles: spot bitcoin exchange-traded funds (ETFs), publicly traded companies with crypto exposure, blockchain infrastructure firms, and venture capital funds. Direct ownership of bitcoin or other tokens remains uncommon, h",
-      "title_es": "Cómo invierten los fondos soberanos en activos digitales"
-    },
-    {
-      "id": "0f9b63dd9d9b",
-      "title": "I am contemplating selling some of my bitcoin for gold, veteran trader Peter Brandt says",
-      "link": "https://www.coindesk.com/markets/2026/07/06/i-am-contemplating-selling-some-of-my-bitcoin-for-gold-veteran-trader-peter-brandt-says",
-      "source": "coindesk",
-      "published": "2026-07-06T06:03:29+00:00",
-      "summary": "",
-      "title_es": "Estoy pensando en vender parte de mis bitcoins por oro, dice el comerciante veterano Peter Brandt"
-    },
-    {
-      "id": "ef10430484b8",
-      "title": "Nigel Farage accepted gifts from crypto-linked fraudster: Report",
-      "link": "https://cointelegraph.com/news/nigel-farage-accepted-gifts-from-crypto-linked-fraudster-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-06T06:02:55+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nigel Farage accepted gifts from crypto-linked fraudster: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-uk-tightens-aml-laws-and-mentions-crypto-as-suspicious.jpg\" /></p><p>Before he",
-      "title_es": "Nigel Farage aceptó obsequios de un estafador vinculado a criptomonedas: informe"
-    },
-    {
-      "id": "e62997e48a06",
-      "title": "Stablecoin transaction volume hits record $1.79T in June",
-      "link": "https://cointelegraph.com/news/stablecoin-transaction-volume-hits-record-179-trillion-in-june-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-06T05:44:54+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin transaction volume hits record $1.79T in June\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/analitycs2021-up.jpg\" /></p><p>Stablecoins are maturing and are positioned for even great",
-      "title_es": "El volumen de transacciones de Stablecoin alcanza un récord de 1,79 billones de dólares en junio"
-    },
-    {
-      "id": "e5ed68687322",
-      "title": "Thousands of crypto wallets at risk from ‘Ill Bloom’ vulnerability: Coinspect",
-      "link": "https://cointelegraph.com/news/thousands-of-crypto-wallets-at-risk-from-ill-bloom-vulnerability-coinspect?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-06T05:35:58+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thousands of crypto wallets at risk from ‘Ill Bloom’ vulnerability: Coinspect\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crypto-wallet.jpg\" /></p><p>Thousands of crypto wallets across multi",
-      "title_es": "Miles de billeteras criptográficas en riesgo por la vulnerabilidad 'Ill Bloom': Coinspect"
-    },
-    {
-      "id": "7bd1f0b68765",
-      "title": "XRP rises 3% as $1.14 breakout turns into support test",
-      "link": "https://www.coindesk.com/markets/2026/07/06/xrp-rises-3-as-usd1-14-breakout-turns-into-support-test",
-      "source": "coindesk",
-      "published": "2026-07-06T05:15:01+00:00",
-      "summary": "",
-      "title_es": "XRP sube un 3% mientras la ruptura de USD 1,14 se convierte en una prueba de soporte"
-    },
-    {
-      "id": "9e19672c977f",
-      "title": "Ether leads crypto's hold above key levels as bitcoin steadies over $63,000",
-      "link": "https://www.coindesk.com/markets/2026/07/06/ether-leads-crypto-s-hold-above-key-levels-as-bitcoin-steadies-over-usd63-000",
-      "source": "coindesk",
-      "published": "2026-07-06T05:09:07+00:00",
-      "summary": "",
-      "title_es": "Ether lidera el mantenimiento de las criptomonedas por encima de niveles clave mientras bitcoin se estabiliza por encima de los 63.000 dólares"
-    },
-    {
-      "id": "d1c40384a813",
-      "title": "Central bankers sound alarms over agentic AI finance risks",
-      "link": "https://cointelegraph.com/news/central-bankers-sound-alarms-over-agentic-ai-finance-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-06T03:30:19+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Central bankers sound alarms over agentic AI finance risks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-trading-bots-vs-ai-agents-everything-you-need-to-know.jpg\" /></p><p>“We need to thin",
-      "title_es": "Los banqueros centrales hacen sonar las alarmas sobre los riesgos financieros de la IA agente"
-    },
-    {
-      "id": "60c8c8079142",
-      "title": "Trump’s memecoin holders have lost over $3.8B: Report",
-      "link": "https://cointelegraph.com/news/trumps-memecoin-loses-38b-for-nearly-1m-holders-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-06T03:12:14+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump’s memecoin holders have lost over $3.8B: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-trump-china-tariffs.png\" /></p><p>Nansen analysis shows that just under half a million wa",
-      "title_es": "Los poseedores de memecoins de Trump han perdido más de 3.800 millones de dólares: informe"
-    },
-    {
-      "id": "08819c28d5eb",
-      "title": "Dubai tops Asian crypto hubs, Taiwan passes crypto laws: Asia Express",
-      "link": "https://cointelegraph.com/features/asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-05T23:35:03+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dubai tops Asian crypto hubs, Taiwan passes crypto laws: Asia Express \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/asia-express-3.jpg\" /></p><p>Japan's SBI Crypto shuts down 12th largest Bit",
-      "title_es": "Dubai encabeza los centros criptográficos asiáticos, Taiwán aprueba leyes criptográficas: Asia Express"
-    },
-    {
-      "id": "cf6698c51b5f",
-      "title": "Nigel Farage failed to declare funding from crypto gambling figure convicted of fraud: Sunday Times",
-      "link": "https://www.theblock.co/post/407178/nigel-farage-failed-to-declare-funding-from-crypto-gambling-figure-convicted-of-fraud-sunday-times?utm_source=rss&utm_medium=rss",
-      "source": "theblock",
-      "published": "2026-07-05T22:53:05+00:00",
-      "summary": "<p>Farage already faces a parliamentary standards investigation over an undisclosed £5 million gift from Tether stakeholder Christopher Harborne.</p>",
-      "title_es": "Nigel Farage no declaró la financiación de la figura del juego criptográfico condenada por fraude: Sunday Times"
-    },
-    {
-      "id": "a89b226d5dc6",
-      "title": "Vitalik Buterin says Ethereum’s next rebuild will rival the Merge, and take three to four years",
-      "link": "https://www.theblock.co/post/407176/vitalik-buterin-says-ethereums-next-rebuild-will-rival-the-merge-and-take-three-to-four-years?utm_source=rss&utm_medium=rss",
-      "source": "theblock",
-      "published": "2026-07-05T19:56:39+00:00",
-      "summary": "<p>He said quantum safety has \"shifted up a LOT in priority\" and that Hegota, slated for later this year, will likely be Ethereum's last \"pre-Lean\" hard fork.</p>",
-      "title_es": "Vitalik Buterin dice que la próxima reconstrucción de Ethereum rivalizará con la fusión y tardará de tres a cuatro años"
-    },
-    {
-      "id": "b5c15c4e18d5",
-      "title": "Clarity and Congress's summer break: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto",
-      "source": "coindesk",
-      "published": "2026-07-05T18:30:00+00:00",
-      "summary": "",
-      "title_es": "Claridad y vacaciones de verano del Congreso: estado de las criptomonedas"
-    },
-    {
-      "id": "7af81f83cca0",
-      "title": "Bitcoin nears $63.5K into weekly close as trader warns of 'terrible' Monday",
-      "link": "https://cointelegraph.com/markets/bitcoin-nears-635k-into-weekly-close-as-trader-warns-of-terrible-monday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-05T16:06:20+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin nears $63.5K into weekly close as trader warns of 'terrible' Monday\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-transactions-stopped-danger.jpg\" /></p><p>Bitcoin reached its highe",
-      "title_es": "Bitcoin se acerca a los $ 63,5 mil en el cierre semanal mientras un comerciante advierte sobre un lunes \"terrible\""
-    },
-    {
       "id": "dbcb084e453e",
       "title": "Fake Mac Clipboard App Delivers New Password-Stealing Malware",
       "link": "https://decrypt.co/372743/fake-mac-clipboard-app-delivers-password-stealing-malware",
@@ -846,33 +864,6 @@
       "published": "2026-07-05T15:46:01+00:00",
       "summary": "A new Mac infostealer dubbed PamStealer impersonates the open-source Maccy clipboard manager to steal passwords and more.",
       "title_es": "La aplicación falsa Portapapeles de Mac ofrece un nuevo malware para robar contraseñas"
-    },
-    {
-      "id": "a2ce09a21796",
-      "title": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
-      "link": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban",
-      "source": "coindesk",
-      "published": "2026-07-05T15:00:00+00:00",
-      "summary": "",
-      "title_es": "Los estadounidenses negociaron 571 millones de dólares en apuestas políticas de Polymarket a pesar de la prohibición de EE. UU."
-    },
-    {
-      "id": "e1e38ea7b0a5",
-      "title": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
-      "link": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
-      "source": "coindesk",
-      "published": "2026-07-05T14:00:00+00:00",
-      "summary": "",
-      "title_es": "Los bancos han dejado de preguntarse si las monedas estables pertenecen al sector financiero y ahora están considerando cómo"
-    },
-    {
-      "id": "c47d9e7f464a",
-      "title": "South Africa proposes crypto tax guidance under existing framework",
-      "link": "https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-05T11:52:47+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Africa proposes crypto tax guidance under existing framework\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/booksouth-africa.png\" /></p><p>South Africa’s tax authority proposed draft guid",
-      "title_es": "Sudáfrica propone orientación sobre impuestos criptográficos bajo el marco existente"
     },
     {
       "id": "ba5d92db938a",
@@ -891,24 +882,6 @@
       "published": "2026-07-05T09:14:19+00:00",
       "summary": "<p>JPMorgan warns Strategy's leveraged Bitcoin accumulation could flip Saylor's firm from buyer to seller. Here's what that means for BTC price targets at $60K, $170K, and beyond.</p>\n<p>The post <a href=\"https://cryptonews.com/news/bitcoin-price-prediction-saylor-strategy-jpmorgan-risk/\">Bitcoin Pr",
       "title_es": "Predicción del precio de Bitcoin: la estrategia de Saylor es un riesgo para Bitcoin, según JP Morgan"
-    },
-    {
-      "id": "0bd4e3a613c2",
-      "title": "Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high",
-      "link": "https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-05T08:33:39+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-to-assess-the-value-of-binance.jpg\" /></p><p>Binance recorded $1.23 bil",
-      "title_es": "Las salidas de Binance se triplican a 1.200 millones de dólares mientras los retiros de ETH alcanzan el máximo de 3 años"
-    },
-    {
-      "id": "b6ceab234a84",
-      "title": "Bitcoin ETFs log record eighth straight negative week despite large Thursday inflow",
-      "link": "https://www.theblock.co/post/407173/bitcoin-etfs-log-record-eighth-straight-negative-week-despite-large-thursday-inflow?utm_source=rss&utm_medium=rss",
-      "source": "theblock",
-      "published": "2026-07-04T23:56:20+00:00",
-      "summary": "<p>Hyperliquid ETFs took in $4.3 million, their smallest week since launching in May, down from a record $111 million the week before.</p>",
-      "title_es": "Los ETF de Bitcoin registran un récord por octava semana negativa consecutiva a pesar de la gran afluencia del jueves"
     },
     {
       "id": "cd4321e86b0c",
@@ -1001,15 +974,6 @@
       "title_es": "¿Qué es el día Q? Explicación de la amenaza cuántica a Bitcoin"
     },
     {
-      "id": "57790f0d42ca",
-      "title": "American Charged in Israel With Spying for Iran in Exchange for Crypto",
-      "link": "https://decrypt.co/372729/american-charged-israel-spying-iran-exchange-crypto",
-      "source": "decrypt",
-      "published": "2026-07-03T14:36:39+00:00",
-      "summary": "Israeli prosecutors charged a 21-year-old American man with spying for Iran while studying at a seminary in Jerusalem.",
-      "title_es": "Estadounidense acusado en Israel de espiar para Irán a cambio de criptomonedas"
-    },
-    {
       "id": "2358256c726b",
       "title": "Mark Zuckerberg’s Meta AI Predicts Unbelievable Bitcoin Price by the End of 2026",
       "link": "https://cryptonews.com/news/mark-zuckerberg-meta-ai-predicts-unbelievable-bitcoin-price-by-end-of-2026/",
@@ -1026,15 +990,6 @@
       "published": "2026-07-03T13:29:00+00:00",
       "summary": "<p>Spot Bitcoin ETFs snapped a 10-day outflow streak with $221.7M in inflows, but BlackRock's IBIT posted outflows, raising doubts about institutional conviction.</p>\n<p>The post <a href=\"https://cryptonews.com/news/bitcoin-etf-inflows-fbtc-arkb-ibit-reversal/\">Bitcoin ETF News: FBTC and ARKB Drive ",
       "title_es": "Noticias de ETF de Bitcoin: FBTC y ARKB impulsan una reversión de ETF de Bitcoin de $ 221,7 millones a medida que IBIT sangra"
-    },
-    {
-      "id": "2394092b6fca",
-      "title": "Farage Reported to UK Standards Watchdog Over Alleged Crypto Lobbying",
-      "link": "https://decrypt.co/372726/farage-reported-to-uk-standards-watchdog-over-alleged-crypto-lobbying",
-      "source": "decrypt",
-      "published": "2026-07-03T13:06:56+00:00",
-      "summary": "A Labour MP says the Reform leader pressed the Bank of England on policy that could enrich his biggest donor, a major Tether investor.",
-      "title_es": "Farage informó al organismo de control de estándares del Reino Unido sobre presunto lobby criptográfico"
     },
     {
       "id": "b5c4ce26adf2",
@@ -1082,15 +1037,6 @@
       "title_es": "Bitcoin News: un informe de empleo débil simplemente redujo a la mitad las probabilidades de aumento de las tasas de la Fed, y Bitcoin rebotó en $57,750 para recuperar $61,000"
     },
     {
-      "id": "97f9bd8d924b",
-      "title": "Bitcoin Exchange Inflows Spike to 49,000 BTC in a Day, Signaling More Volatility is Coming: Report",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-exchange-inflows-spike-to-49000",
-      "source": "bitcoinmagazine",
-      "published": "2026-07-02T19:56:52+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Exchange-Inflows-Spike-to-49000-BTC-in-a-Day-Signaling-Volatility-is-Coming-Report.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a hr",
-      "title_es": "Las entradas de intercambios de Bitcoin aumentan a 49.000 BTC en un día, lo que indica que se avecina más volatilidad: informe"
-    },
-    {
       "id": "74e37840add8",
       "title": "BTC USD Recovering: Why is The Crypto Market Going Up Today, July 2nd?",
       "link": "https://cryptonews.com/news/crypto-market-up-july-2-btc-usd/",
@@ -1098,42 +1044,6 @@
       "published": "2026-07-02T19:20:00+00:00",
       "summary": "<p>After a rough June, the crypto market finally found its footing today. BTC USD climbed back above $60,000 after a bad June. Here's why.</p>\n<p>The post <a href=\"https://cryptonews.com/news/crypto-market-up-july-2-btc-usd/\">BTC USD Recovering: Why is The Crypto Market Going Up Today, July 2nd?</a>",
       "title_es": "BTC USD se recupera: ¿Por qué el mercado de criptomonedas está subiendo hoy, 2 de julio?"
-    },
-    {
-      "id": "fbe0419e2695",
-      "title": "Wavespace Launches MiCA-Compliant Self-Custodial Bitcoin Debit Card Powered by Lightning and NWC",
-      "link": "https://bitcoinmagazine.com/business/wavespace-launches-mica-compliant-self-custodial-bitcoin-debit-card-powered-by-lightning-and-nwc",
-      "source": "bitcoinmagazine",
-      "published": "2026-07-02T19:11:07+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tn.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/wavespace-launches-mica-compliant-self-custodi",
-      "title_es": "Wavespace lanza una tarjeta de débito Bitcoin con autocustodia compatible con MiCA impulsada por Lightning y NWC"
-    },
-    {
-      "id": "0d3d919d02d4",
-      "title": "Bitget Bolsters Stock+ Platform With U.S. Stock Options Trading",
-      "link": "https://bitcoinmagazine.com/news/bitget-bolsters-stock-options-trading",
-      "source": "bitcoinmagazine",
-      "published": "2026-07-02T17:08:49+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitget-Bolsters-Stock-Platform-With-U.S.-Stock-Options-Trading.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.",
-      "title_es": "Bitget refuerza la plataforma Stock+ con el comercio de opciones sobre acciones en EE. UU."
-    },
-    {
-      "id": "d7f1e4302d17",
-      "title": "FBI Director Kash Patel Did Not Disclose Six-Figure Strategy (MSTR) Stake: Report",
-      "link": "https://bitcoinmagazine.com/news/fbi-director-kash-patel-did-not-disclose",
-      "source": "bitcoinmagazine",
-      "published": "2026-07-02T14:49:36+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/FBI-Director-Kash-Patel-Did-Not-Disclose-Six-Figure-Strategy-MSTR-Stake-Report.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://",
-      "title_es": "El director del FBI, Kash Patel, no reveló lo que está en juego en la estrategia de seis cifras (MSTR): informe"
-    },
-    {
-      "id": "656c59d5f769",
-      "title": "XRP Ledger Lending Amendments Face 80% Validator Hurdle as Institutional Credit Layer Takes Shape",
-      "link": "https://cryptonews.com/news/xrpl-lending-protocol-xls-65-xls-66-validator-vote-xrp/",
-      "source": "cryptonews",
-      "published": "2026-07-02T14:34:19+00:00",
-      "summary": "<p>Ripple's XLS-65 and XLS-66 amendments would bring institutional credit vaults to XRPL, but validator support sits well below the 80% threshold needed for activation.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrpl-lending-protocol-xls-65-xls-66-validator-vote-xrp/\">XRP Ledger Lending Am",
-      "title_es": "Las modificaciones de préstamos del libro mayor de XRP enfrentan un obstáculo del validador del 80% a medida que la capa de crédito institucional toma forma"
     }
   ]
 }
