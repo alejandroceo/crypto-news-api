@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T10:20:43.615935+00:00",
+  "updated_at": "2026-07-12T21:41:53.114497+00:00",
   "count": 115,
   "sources": [
     "coindesk",
@@ -11,11 +11,92 @@
   ],
   "items": [
     {
+      "id": "987527f8efe2",
+      "title": "Crypto fatwa sparks debate over Pakistan’s digital asset framework",
+      "link": "https://www.theblock.co/post/407969/crypto-fatwa-sparks-debate-over-pakistans-digital-asset-framework?utm_source=rss&utm_medium=rss",
+      "source": "theblock",
+      "published": "2026-07-12T21:23:57+00:00",
+      "summary": "<p>Pakistan’s crypto regulator held talks with prominent Islamic scholar Mufti Taqi Usmani after a fatwa declared crypto purchases impermissible under Islam.</p>",
+      "title_es": "La cripto fatwa genera un debate sobre el marco de activos digitales de Pakistán"
+    },
+    {
+      "id": "b80683db0ccd",
+      "title": "Michael Saylor posts cryptic Strategy chart after $216 million bitcoin sale: ‘Orange dots tell only part of the story’",
+      "link": "https://www.theblock.co/post/407965/michael-saylor-posts-cryptic-strategy-chart-after-216-million-bitcoin-sale-orange-dots-tell-only-part-of-the-story?utm_source=rss&utm_medium=rss",
+      "source": "theblock",
+      "published": "2026-07-12T18:43:15+00:00",
+      "summary": "<p>Strategy holds 843,775 BTC at an average cost of $75,476, leaving the position roughly $9.7 billion underwater with bitcoin trading near $64,000.</p>",
+      "title_es": "Michael Saylor publica un críptico gráfico de estrategia después de la venta de bitcoins por 216 millones de dólares: \"Los puntos naranjas cuentan sólo una parte de la historia\""
+    },
+    {
+      "id": "d6264252838c",
+      "title": "Signs of life?: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/07/12/signs-of-life-state-of-crypto",
+      "source": "coindesk",
+      "published": "2026-07-12T18:30:00+00:00",
+      "summary": "",
+      "title_es": "¿Señales de vida?: Estado de las criptomonedas"
+    },
+    {
+      "id": "f013aeafcc00",
+      "title": "Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart",
+      "link": "https://cointelegraph.com/news/strategys-saylor-needs-clarity-in-btc-pivot-message-to-convince-investors-stanchart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-12T18:16:45+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/michael-saylors-big-bet-institutional-investments-role-in-bi",
+      "title_es": "Saylor de Strategy necesita claridad en el mensaje pivote de BTC para convencer a los inversores: StanChart"
+    },
+    {
+      "id": "0ca9cf76046d",
+      "title": "Top Democrats Slam Trump Over Crypto Engagement",
+      "link": "https://cryptonews.com/news/bitcoin-price-trump-crypto-legislation/",
+      "source": "cryptonews",
+      "published": "2026-07-12T16:37:00+00:00",
+      "summary": "<p>Bitcoin price remains constructive while Trump and crypto legislation continue to shape market expectations. </p>\n<p>The post <a href=\"https://cryptonews.com/news/bitcoin-price-trump-crypto-legislation/\">Top Democrats Slam Trump Over Crypto Engagement</a> appeared first on <a href=\"https://crypto",
+      "title_es": "Principales demócratas critican a Trump por su compromiso con las criptomonedas"
+    },
+    {
+      "id": "314a817635c3",
+      "title": "How to Make Product Ads With AI for TikTok and YouTube—For (Almost) Free",
+      "link": "https://decrypt.co/373290/how-to-make-ai-ads-tiktok-youtube-free",
+      "source": "decrypt",
+      "published": "2026-07-12T14:01:03+00:00",
+      "summary": "One product photo, three AI tools, and about 20 minutes: Here's the full workflow for generating a sales video without a camera, a model, or a studio.",
+      "title_es": "Cómo crear anuncios de productos con IA para TikTok y YouTube, (casi) gratis"
+    },
+    {
+      "id": "40db26263447",
+      "title": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
+      "link": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic",
+      "source": "coindesk",
+      "published": "2026-07-12T13:00:00+00:00",
+      "summary": "",
+      "title_es": "La capitalización de mercado de las stablecoins se ha reducido en 10.000 millones de dólares desde mayo, pero los analistas no ven motivos para entrar en pánico"
+    },
+    {
+      "id": "7b0d15571da9",
+      "title": "Pakistan crypto chief seeks dialogue after scholar rules against crypto payments",
+      "link": "https://cointelegraph.com/news/pakistan-crypto-chief-dialogue-islamic-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-12T12:26:09+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pakistan crypto chief seeks dialogue after scholar rules against crypto payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-role-of-cryptocurrency-in-islamic-banking-and-finance.jpg\"",
+      "title_es": "El jefe de criptomonedas de Pakistán busca el diálogo después de que los académicos dictaminen contra los pagos con criptomonedas"
+    },
+    {
+      "id": "0763174ac853",
+      "title": "Bitcoin is nearing a power law support line Fidelity has tracked since 2015",
+      "link": "https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015",
+      "source": "coindesk",
+      "published": "2026-07-12T11:30:00+00:00",
+      "summary": "",
+      "title_es": "Bitcoin se acerca a una línea de soporte de ley de potencia que Fidelity ha seguido desde 2015"
+    },
+    {
       "id": "fddf91d58a73",
       "title": "Cambridge study puts Ethereum near the lower end of PoS energy intensity",
       "link": "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph",
-      "published": "2026-07-12T09:18:17+00:00",
+      "published": "2026-07-12T09:29:00+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cambridge study puts Ethereum near the lower end of PoS energy intensity\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-germanys-blockchain-solution-hopes-to-remedy-energy-sector-limitations",
       "title_es": "Un estudio de Cambridge sitúa a Ethereum cerca del extremo inferior de la intensidad energética de PoS"
     },
@@ -47,6 +128,15 @@
       "title_es": "La fecha límite de la bifurcación BIP 110 de Bitcoin se acerca con el soporte de los mineros en cero"
     },
     {
+      "id": "07813b4d48ab",
+      "title": "Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal",
+      "link": "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-12T04:28:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-are-bitcoin-ordinals.jpg\" /></p><p>The ongoing debate over a propos",
+      "title_es": "Los alcistas de Bitcoin, Michael Saylor y Adam Back, critican la propuesta de los ordinales BIP-110"
+    },
+    {
       "id": "552e43ae5e35",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -56,22 +146,13 @@
       "title_es": "Esto es lo que sucedió hoy en las criptomonedas"
     },
     {
-      "id": "07813b4d48ab",
-      "title": "Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal",
-      "link": "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-12T04:24:36+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-are-bitcoin-ordinals.jpg\" /></p><p>The ongoing debate comes despite",
-      "title_es": "Los alcistas de Bitcoin, Michael Saylor y Adam Back, critican la propuesta de los ordinales BIP-110"
-    },
-    {
       "id": "fb63a09f4b2a",
-      "title": "Empery Digital shares rise after selling Bitcoin to fund AI data center project",
+      "title": "Empery Digital shares rise after selling BTC to fund AI data center project",
       "link": "https://cointelegraph.com/news/empery-digital-shares-rise-after-selling-bitcoin-treasury-to-fund-ai-data-center-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph",
-      "published": "2026-07-12T01:00:54+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Empery Digital shares rise after selling Bitcoin to fund AI data center project\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-vaneck-warns-why-bitcoin-treasury-companies-could-face-capital-",
-      "title_es": "Las acciones de Empery Digital suben después de vender Bitcoin para financiar un proyecto de centro de datos de IA"
+      "published": "2026-07-12T01:05:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Empery Digital shares rise after selling BTC to fund AI data center project\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-vaneck-warns-why-bitcoin-treasury-companies-could-face-capital-eros",
+      "title_es": "Las acciones de Empery Digital suben después de vender BTC para financiar el proyecto del centro de datos de IA"
     },
     {
       "id": "3f0f9aed5f19",
@@ -195,7 +276,7 @@
       "title": "Bonzo Lend loses $9M in oracle exploit on Hedera",
       "link": "https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph",
-      "published": "2026-07-11T11:56:54+00:00",
+      "published": "2026-07-11T11:59:00+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bonzo Lend loses $9M in oracle exploit on Hedera\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-image-for-evergreenguide-about-iota-price-prediction-1.jpg\" /></p><p>An attacker inflated the ",
       "title_es": "Bonzo Lend pierde 9 millones de dólares por exploit de Oracle en Hedera"
     },
@@ -228,12 +309,12 @@
     },
     {
       "id": "8757a8ac35dc",
-      "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper",
+      "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF",
       "link": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph",
-      "published": "2026-07-11T09:14:12+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dollar stablecoins could improve FX access but amplify currency runs: IMF paper\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-governments-and-central-banks-pay-very-close-attention-to-stabl",
-      "title_es": "Las monedas estables en dólares podrían mejorar el acceso a las divisas pero amplificar las corridas de divisas: documento del FMI"
+      "published": "2026-07-11T09:25:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dollar stablecoins could improve FX access but amplify currency runs: IMF\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-governments-and-central-banks-pay-very-close-attention-to-stablecoins",
+      "title_es": "Las monedas estables en dólares podrían mejorar el acceso a las divisas pero amplificar las corridas cambiarias: FMI"
     },
     {
       "id": "91b2ffbde064",
@@ -350,7 +431,7 @@
       "source": "theblock",
       "published": "2026-07-10T20:12:46+00:00",
       "summary": "<p>A former contestant on 'The Apprentice' is one of the persons urging the DOJ to drop the charges, the report said.</p>",
-      "title_es": "El Departamento de Justicia retirará los cargos contra el hombre acusado de participar en el esquema Ponzi criptográfico BitClub de 722 millones de dólares: Bloomberg"
+      "title_es": "El Departamento de Justicia retirará los cargos contra un hombre acusado de participar en el esquema Ponzi criptográfico BitClub de 722 millones de dólares: Bloomberg"
     },
     {
       "id": "3568eb948f44",
@@ -366,8 +447,8 @@
       "title": "US CBDC ban to go into effect without Trump signoff on housing bill",
       "link": "https://cointelegraph.com/news/us-cbdc-ban-donald-trump-housing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph",
-      "published": "2026-07-10T19:33:03+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US CBDC ban to go into effect without Trump signoff on housing bill\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/top-10-congresspeople-involved-in-crypto-cbdc.png\" /></p><p>Donald Trump confi",
+      "published": "2026-07-10T19:41:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US CBDC ban to go into effect without Trump signoff on housing bill\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/top-10-congresspeople-involved-in-crypto-cbdc-2.webp\" /></p><p>Donald Trump co",
       "title_es": "La prohibición de las CBDC de EE. UU. entrará en vigor sin la aprobación de Trump del proyecto de ley de vivienda"
     },
     {
@@ -605,15 +686,6 @@
       "title_es": "El plan japonés de 'invertir localmente' probablemente estimulará la demanda de activos como bitcoin y oro"
     },
     {
-      "id": "eb48d5893746",
-      "title": "USDC issuer Circle wins final approval for US national trust bank charter",
-      "link": "https://cointelegraph.com/news/circle-final-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-10T11:37:25+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"USDC issuer Circle wins final approval for US national trust bank charter\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-circle-wants-to-launch-americas-first-digital-currency-bank-heres-wha",
-      "title_es": "El emisor del USDC, Circle, obtiene la aprobación final para el estatuto del banco fiduciario nacional de EE. UU."
-    },
-    {
       "id": "ef6a0881ab7e",
       "title": "Jailed Fraudster Charged With Moving $290K in Forfeited Crypto From Prison",
       "link": "https://decrypt.co/373212/jailed-fraudster-charged-with-moving-290k-in-forfeited-crypto-from-prison",
@@ -639,15 +711,6 @@
       "published": "2026-07-10T11:25:14+00:00",
       "summary": "<p>Circle wins final OCC approval for First National Digital Currency Bank, with USDC reserve management planned for a later phase.</p>",
       "title_es": "La firma de stablecoin Circle obtiene la aprobación final de la OCC para abrir un banco fiduciario nacional"
-    },
-    {
-      "id": "6c2c1a2aff3b",
-      "title": "Japanese lender launches Bitcoin-backed loans of up to $6.2M",
-      "link": "https://cointelegraph.com/news/japan-cryl-bitcoin-backed-loans-6-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-10T11:24:06+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Japanese lender launches Bitcoin-backed loans of up to $6.2M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/loan-cash-bitcoin-yen.jpg\" /></p><p>CRYL is offering Bitcoin-backed loans to individu",
-      "title_es": "Prestamista japonés lanza préstamos respaldados por Bitcoin de hasta 6,2 millones de dólares"
     },
     {
       "id": "0ab43964a322",
@@ -830,15 +893,6 @@
       "title_es": "Actualizaciones en vivo: Bitcoin sube a $64,000 cuando SK Hynix abre para el comercio después de $26,5 mil millones de IPO"
     },
     {
-      "id": "5aa2ac070a39",
-      "title": "North Carolina passes bill recognizing CFTC preemption over prediction markets",
-      "link": "https://www.theblock.co/post/407830/north-carolina-cftc-preemption-prediction-markets?utm_source=rss&utm_medium=rss",
-      "source": "theblock",
-      "published": "2026-07-10T05:51:59+00:00",
-      "summary": "<p>North Carolina's new law taxes prediction market platforms at 6% of their net trading fee revenue that is attributable to North Carolina residents.</p>",
-      "title_es": "Carolina del Norte aprueba un proyecto de ley que reconoce la preferencia de la CFTC sobre los mercados de predicción"
-    },
-    {
       "id": "f9ef40c3e073",
       "title": "XRP up 2% as buyers push through $1.10 resistance",
       "link": "https://www.coindesk.com/markets/2026/07/10/xrp-up-2-as-buyers-push-through-usd1-10-resistance",
@@ -846,42 +900,6 @@
       "published": "2026-07-10T05:13:48+00:00",
       "summary": "",
       "title_es": "XRP sube un 2% a medida que los compradores superan la resistencia de 1,10 dólares"
-    },
-    {
-      "id": "bbcd8eb33cf7",
-      "title": "Bitcoin's quiet split: Strong in USD, lagging in JPY as Yen rises on intervention fears",
-      "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-s-quiet-split-strong-in-usd-lagging-in-jpy-as-yen-rises-on-intervention-fears",
-      "source": "coindesk",
-      "published": "2026-07-10T04:34:06+00:00",
-      "summary": "",
-      "title_es": "La silenciosa división de Bitcoin: fuerte en USD, rezagado en JPY mientras el yen sube por temores de intervención"
-    },
-    {
-      "id": "6c1c1406fef9",
-      "title": "Polymarket files applications to offer regulated margin trading in US",
-      "link": "https://www.theblock.co/post/407820/polymarket-margin-trading?utm_source=rss&utm_medium=rss",
-      "source": "theblock",
-      "published": "2026-07-10T04:10:25+00:00",
-      "summary": "<p>Polymarket's rival platform, Kalshi, already received US regulatory approval to provide margin trading back in March.</p>",
-      "title_es": "Polymarket presenta solicitudes para ofrecer operaciones de margen reguladas en EE. UU."
-    },
-    {
-      "id": "8cd00a0ec4c7",
-      "title": "Bitcoin zips higher to nearly $64,000 as chip rally and yen strength drive gains",
-      "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains",
-      "source": "coindesk",
-      "published": "2026-07-10T03:57:58+00:00",
-      "summary": "",
-      "title_es": "Bitcoin sube a casi $ 64,000 a medida que el repunte de los chips y la fortaleza del yen impulsan las ganancias"
-    },
-    {
-      "id": "c892cdfe0fc6",
-      "title": "New Hampshire snuffs out trailblazing state-government bitcoin bond effort",
-      "link": "https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort",
-      "source": "coindesk",
-      "published": "2026-07-09T22:19:54+00:00",
-      "summary": "",
-      "title_es": "New Hampshire apaga el innovador esfuerzo de bonos bitcoin del gobierno estatal"
     },
     {
       "id": "a02168b59d1a",
@@ -1026,24 +1044,6 @@
       "published": "2026-07-09T11:45:29+00:00",
       "summary": "<p>CashCat turned $86 into $2 million on Robinhood Chain — but a $105M market cap against $6.6M liquidity raises serious exit risk. Full price analysis plus early-stage alternatives.</p>\n<p>The post <a href=\"https://cryptonews.com/news/cashcat-price-analysis-robinhood-chain/\">CASHCAT Turns $86 to $2",
       "title_es": "CASHCAT convierte $86 en $2 millones: ¿la mejor criptomoneda que cambia la vida para comprar?"
-    },
-    {
-      "id": "30dc23e7b095",
-      "title": "XRP Price Prediction: Going Mainstream as Kansas Athletics Announces Strategic Jersey Patch",
-      "link": "https://cryptonews.com/news/xrp-price-prediction-kansas-ripple-partnership/",
-      "source": "cryptonews",
-      "published": "2026-07-09T11:25:40+00:00",
-      "summary": "<p>XRP trades at $1.08–$1.09 as Ripple lands a multi-year Kansas Athletics jersey patch deal. Here's what the technical setup and mainstream momentum mean for XRP price targets.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrp-price-prediction-kansas-ripple-partnership/\">XRP Price Prediction",
-      "title_es": "Predicción del precio de XRP: se generaliza mientras Kansas Athletics anuncia un parche estratégico para su camiseta"
-    },
-    {
-      "id": "499e05031f1d",
-      "title": "Sony Bank Clears OCC Hurdle for Dollar Stablecoin",
-      "link": "https://decrypt.co/373109/sony-bank-clears-occ-hurdle-for-dollar-stablecoin",
-      "source": "decrypt",
-      "published": "2026-07-09T11:03:08+00:00",
-      "summary": "The lender's new US subsidiary, Connectia Trust, would issue a dollar-pegged stablecoin once it clears the regulator's final conditions.",
-      "title_es": "Sony Bank supera el obstáculo de la OCC para la moneda estable en dólares"
     }
   ]
 }
