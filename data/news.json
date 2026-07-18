@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T10:12:51.971713+00:00",
+  "updated_at": "2026-07-18T21:42:52.343766+00:00",
   "count": 115,
   "sources": [
     "coindesk",
@@ -10,6 +10,114 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "fbbdc63649ee",
+      "title": "Bitcoin Japan, which holds no bitcoin, taps EVO Fund in planned $60 million raise to finally buy some",
+      "link": "https://www.theblock.co/post/408838/bitcoin-japan-which-holds-no-bitcoin-taps-evo-fund-in-planned-60-million-raise-to-finally-buy-some?utm_source=rss&utm_medium=rss",
+      "source": "theblock",
+      "published": "2026-07-18T18:47:49+00:00",
+      "summary": "<p>A prior December raise instead funded stakes tied to SpaceX and Figure AI, which the company says are its two AI infrastructure investments to date.</p>",
+      "title_es": "Bitcoin Japón, que no posee bitcoins, recurre al Fondo EVO en un aumento planificado de 60 millones de dólares para finalmente comprar algunos"
+    },
+    {
+      "id": "78e2355c27d5",
+      "title": "Crypto executives say digital native generations may never need a bank account",
+      "link": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
+      "source": "coindesk",
+      "published": "2026-07-18T18:30:00+00:00",
+      "summary": "",
+      "title_es": "Los ejecutivos de criptomonedas dicen que es posible que las generaciones nativas digitales nunca necesiten una cuenta bancaria"
+    },
+    {
+      "id": "384cd96d1a1e",
+      "title": "DOG Mode explains Bitcoin's next governance fight",
+      "link": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
+      "source": "coindesk",
+      "published": "2026-07-18T17:00:00+00:00",
+      "summary": "",
+      "title_es": "DOG Mode explica la próxima lucha por la gobernanza de Bitcoin"
+    },
+    {
+      "id": "a952a3e78c9c",
+      "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
+      "link": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
+      "source": "coindesk",
+      "published": "2026-07-18T16:09:59+00:00",
+      "summary": "",
+      "title_es": "Trump apunta al sistema de pagos de Brasil, mientras que las monedas estables en dólares están superando silenciosamente los pagos del país."
+    },
+    {
+      "id": "99fb9815834c",
+      "title": "Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away",
+      "link": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
+      "source": "coindesk",
+      "published": "2026-07-18T15:50:31+00:00",
+      "summary": "",
+      "title_es": "He aquí por qué una enorme liquidez criptográfica de 1.600 millones de dólares está inactiva y consumida"
+    },
+    {
+      "id": "8643a1a860e5",
+      "title": "GPT-5.6 vs Fable 5 Review: Which One You Pick Depends on These Factors",
+      "link": "https://decrypt.co/373770/openai-gpt-5-6-vs-anthropic-fable-5-review",
+      "source": "decrypt",
+      "published": "2026-07-18T15:21:03+00:00",
+      "summary": "OpenAI's GPT-5.6 Sol or Anthropic's Claude Fable 5: Which one is right for you? The answer depends on your needs. Here's our review.",
+      "title_es": "Revisión de GPT-5.6 vs Fable 5: cuál elija depende de estos factores"
+    },
+    {
+      "id": "5c654a52f182",
+      "title": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
+      "link": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
+      "source": "coindesk",
+      "published": "2026-07-18T14:15:15+00:00",
+      "summary": "",
+      "title_es": "Los diferenciales masivos de llamadas de bitcoin apuntan a $ 72,000 para fin de mes, justo cuando se reúne la Reserva Federal"
+    },
+    {
+      "id": "1bc3f5958179",
+      "title": "UNI burn poised to grow as Uniswap governance votes on v4 fees and Robinhood Chain expansion",
+      "link": "https://www.theblock.co/post/408836/uni-burn-poised-to-grow-as-uniswap-governance-votes-on-v4-fees-and-robinhood-chain-expansion?utm_source=rss&utm_medium=rss",
+      "source": "theblock",
+      "published": "2026-07-18T14:04:54+00:00",
+      "summary": "<p>Both proposals route new fees into the UNI burn system created under December's \"UNIfication\" overhaul, with voting open from July 19 through July 26.</p>",
+      "title_es": "UNI está lista para crecer a medida que la gobernanza de Uniswap vota sobre las tarifas v4 y la expansión de Robinhood Chain"
+    },
+    {
+      "id": "54793e275258",
+      "title": "Tokenization has become a strategic priority for 84% of financial firms",
+      "link": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
+      "source": "coindesk",
+      "published": "2026-07-18T14:00:00+00:00",
+      "summary": "",
+      "title_es": "La tokenización se ha convertido en una prioridad estratégica para el 84% de las empresas financieras."
+    },
+    {
+      "id": "552e43ae5e35",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-18T11:42:51+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
+      "title_es": "Esto es lo que sucedió hoy en las criptomonedas"
+    },
+    {
+      "id": "ef8dfc092896",
+      "title": "Kaspersky identifies malware framework targeting crypto investors",
+      "link": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-18T11:40:48+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kaspersky identifies malware framework targeting crypto investors\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-blackcat-ransomware-in-crypto.jpg\" /></p><p>Cybersecurity company Kas",
+      "title_es": "Kaspersky identifica un marco de malware dirigido a inversores en criptomonedas"
+    },
+    {
+      "id": "82e1ceeeeafc",
+      "title": "ChatGPT AI Predicts This Exact Bitcoin Price by the End of 2026, and It’s Insane",
+      "link": "https://cryptonews.com/news/chatgpt-ai-predicts-this-exact-bitcoin-price-by-end-of-2026-and-its-insane/",
+      "source": "cryptonews",
+      "published": "2026-07-18T10:16:00+00:00",
+      "summary": "<p>ChatGPT AI predicts Bitcoin price surge as regulatory clarity emerges under political support. Explore the implications today.</p>\n<p>The post <a href=\"https://cryptonews.com/news/chatgpt-ai-predicts-this-exact-bitcoin-price-by-end-of-2026-and-its-insane/\">ChatGPT AI Predicts This Exact Bitcoin P",
+      "title_es": "ChatGPT AI predice este precio exacto de Bitcoin para finales de 2026, y es una locura"
+    },
     {
       "id": "d34d16ef8026",
       "title": "French gambling regulator orders ISPs to block Polymarket",
@@ -317,15 +425,6 @@
       "title_es": "Bitcoin enfrenta nuevos obstáculos cuando Kimi de China supera a Claude y GPT en el punto de referencia de codificación"
     },
     {
-      "id": "552e43ae5e35",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-17T12:30:36+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
-      "title_es": "Esto es lo que sucedió hoy en las criptomonedas"
-    },
-    {
       "id": "626e1d2c17a2",
       "title": "Dutch court declares crypto platform Knaken bankrupt over missing funds",
       "link": "https://cointelegraph.com/news/dutch-court-knaken-crypto-platform-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -512,7 +611,7 @@
       "source": "theblock",
       "published": "2026-07-17T08:28:00+00:00",
       "summary": "<p>The gang impersonated police officers and used convincing fake police websites to steal more than £4M in cryptocurrency from eight victims.</p>",
-      "title_es": "Pandilla británica encarcelada por estafa criptográfica de 5,4 millones de dólares haciéndose pasar por policía"
+      "title_es": "Una banda británica encarcelada por una estafa criptográfica de 5,4 millones de dólares haciéndose pasar por policía"
     },
     {
       "id": "a389e2c32086",
@@ -612,15 +711,6 @@
       "published": "2026-07-17T01:54:00+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Balaji seeks Malaysia deal, threatens exit after Network School probe\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-to-buy-bitcoin-in-malaysia.jpg\" /></p><p>“If we are not welcome, ther",
       "title_es": "Balaji busca un acuerdo con Malasia y amenaza con salir después de la investigación de Network School"
-    },
-    {
-      "id": "b48096df62d0",
-      "title": "Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price",
-      "link": "https://cointelegraph.com/markets/bitcoin-liquidity-clusters-determine-btcs-price-direction-as-futures-flow-fuels-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-17T00:12:40+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-76176-bitcoin-stages-picture-perfect-rebound",
-      "title_es": "Los grupos de liquidez de Bitcoin determinan la dirección del precio de BTC a medida que el flujo de futuros impulsa el precio"
     },
     {
       "id": "60be20e14668",
@@ -767,24 +857,6 @@
       "title_es": "Visa respalda Open USD con una nueva plataforma de moneda estable mientras Circle enfrenta una nueva competencia"
     },
     {
-      "id": "fa4747ee808b",
-      "title": "$1.9 trillion asset manager T. Rowe Price launches first actively managed multi-token crypto ETF",
-      "link": "https://www.theblock.co/post/408667/t-rowe-price-launches-first-actively-managed-multi-token-crypto-etf?utm_source=rss&utm_medium=rss",
-      "source": "theblock",
-      "published": "2026-07-16T16:09:15+00:00",
-      "summary": "<p>T. Rowe Price's TKNZ Active Crypto ETF began trading Thursday after the firm filed for the product in October.</p>",
-      "title_es": "El gestor de activos de 1,9 billones de dólares T. Rowe Price lanza el primer ETF criptográfico multitoken gestionado activamente"
-    },
-    {
-      "id": "24e4b18addb9",
-      "title": "Multicoin Capital makes first Hyperliquid ecosystem investment in Trasia, an Asia-focused trading platform",
-      "link": "https://www.theblock.co/post/408670/multicoin-capital-hyperliquid-ecosystem-investment-trasia?utm_source=rss&utm_medium=rss",
-      "source": "theblock",
-      "published": "2026-07-16T16:00:02+00:00",
-      "summary": "<p>Built on Hyperliquid, Trasia was co-founded by former Multicoin Capital partner Mable Jiang and aims to serve Asian traders.</p>",
-      "title_es": "Multicoin Capital realiza la primera inversión en el ecosistema Hyperliquid en Trasia, una plataforma comercial centrada en Asia"
-    },
-    {
       "id": "e51057e453e6",
       "title": "Dormant Bitcoin Whale Moves $383 Million After More Than 8 Years",
       "link": "https://decrypt.co/373646/bitcoin-whale-moves-383-million-after-eight-years",
@@ -803,24 +875,6 @@
       "title_es": "Keyrock adquiere los activos comerciales de BlockFills para expandir el negocio criptográfico institucional"
     },
     {
-      "id": "8d28b6f51fad",
-      "title": "The Clarity Act is the most important consumer protection effort in years",
-      "link": "https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years",
-      "source": "coindesk",
-      "published": "2026-07-16T15:07:30+00:00",
-      "summary": "",
-      "title_es": "La Ley de Claridad es el esfuerzo de protección al consumidor más importante en años"
-    },
-    {
-      "id": "48cc20203d15",
-      "title": "Crypto for Advisors: Strengthening defenses against AI fraud",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/07/16/crypto-for-advisors-strengthening-defenses-against-ai-fraud",
-      "source": "coindesk",
-      "published": "2026-07-16T14:54:11+00:00",
-      "summary": "",
-      "title_es": "Cripto para asesores: fortalecimiento de las defensas contra el fraude de IA"
-    },
-    {
       "id": "dd43e1e92956",
       "title": "Elon Musk Grok AI Predicts Incredible Netflix Stock Price by Next 30 Days",
       "link": "https://cryptonews.com/news/elon-musk-grok-ai-predicts-explosive-netflix-stock-price-by-next-30-days/",
@@ -830,15 +884,6 @@
       "title_es": "La IA de Elon Musk Grok predice un increíble precio de las acciones de Netflix en los próximos 30 días"
     },
     {
-      "id": "ff667365b628",
-      "title": "Crypto brokerage firm Alpaca raises $135 million for tokenized stock infrastructure",
-      "link": "https://www.coindesk.com/business/2026/07/16/crypto-brokerage-firm-alpaca-raises-usd135-million-for-tokenized-stock-infrastructure",
-      "source": "coindesk",
-      "published": "2026-07-16T14:19:32+00:00",
-      "summary": "",
-      "title_es": "La firma de corretaje de criptomonedas Alpaca recauda $135 millones para infraestructura de acciones tokenizadas"
-    },
-    {
       "id": "d78a285d529b",
       "title": "Google Gemini AI Predicts XRP Price Will Surprise Everyone in the Next 60 Days",
       "link": "https://cryptonews.com/news/google-gemini-ai-predicts-xrp-price-will-surprise-everyone-by-next-60-days/",
@@ -846,15 +891,6 @@
       "published": "2026-07-16T13:04:08+00:00",
       "summary": "<p>Google Gemini AI is watching the same XRP that everyone else price prediction is dead money, and it sees a trendline break instead. At $1.11, the model predicts a $1.50 to $1.80 move is sitting 60 days out.</p>\n<p>The post <a href=\"https://cryptonews.com/news/google-gemini-ai-predicts-xrp-price-w",
       "title_es": "Google Gemini AI predice que el precio de XRP sorprenderá a todos en los próximos 60 días"
-    },
-    {
-      "id": "4cf8c21a4dab",
-      "title": "Ledger wants AI agents to manage crypto without holding your keys",
-      "link": "https://www.coindesk.com/tech/2026/07/15/ledger-wants-ai-agents-to-manage-crypto-without-holding-your-keys",
-      "source": "coindesk",
-      "published": "2026-07-16T13:00:00+00:00",
-      "summary": "",
-      "title_es": "Ledger quiere que los agentes de inteligencia artificial administren criptomonedas sin tener que tener sus claves"
     },
     {
       "id": "1549f5cdecbf",
@@ -873,24 +909,6 @@
       "published": "2026-07-16T12:00:11+00:00",
       "summary": "<p>Bitcoin price pulled back after touching an intraday high near $65,500 despites its continuing bullish prediction. Why?</p>\n<p>The post <a href=\"https://cryptonews.com/news/bitcoin-price-prediction-iran-retrace/\">Bitcoin Price Prediction: BTC Retraces as Iran Attacks America</a> appeared first on",
       "title_es": "Predicción del precio de Bitcoin: BTC retrocede mientras Irán ataca a Estados Unidos"
-    },
-    {
-      "id": "904e062f5578",
-      "title": "Galaxy targets institutional stablecoin yield with new DeFi vaults",
-      "link": "https://www.coindesk.com/tech/2026/07/16/galaxy-targets-institutional-stablecoin-yield-with-new-defi-vaults",
-      "source": "coindesk",
-      "published": "2026-07-16T12:00:00+00:00",
-      "summary": "",
-      "title_es": "Galaxy apunta al rendimiento de las monedas estables institucionales con nuevas bóvedas DeFi"
-    },
-    {
-      "id": "4fdec9cbc449",
-      "title": "The most popular bitcoin call option has slipped by $10,000",
-      "link": "https://www.coindesk.com/daybook-us/2026/07/16/the-most-popular-bitcoin-call-option-has-slipped-by-usd10-000",
-      "source": "coindesk",
-      "published": "2026-07-16T11:27:53+00:00",
-      "summary": "",
-      "title_es": "La opción de compra de bitcoin más popular ha caído 10.000 dólares"
     },
     {
       "id": "ede4eee909f8",
@@ -1019,15 +1037,6 @@
       "title_es": "El modelo de IA de Claude más potente predice un repunte explosivo del precio de Solana"
     },
     {
-      "id": "47c074b57008",
-      "title": "BlackRock, Goldman, and JP Morgan Will Give Tokenized Stocks a Try",
-      "link": "https://decrypt.co/373571/blackrock-goldman-sachs-jp-morgan-dtcc-tokenized-stocks",
-      "source": "decrypt",
-      "published": "2026-07-15T18:02:06+00:00",
-      "summary": "The Depository Trust &#038; Clearing Corporation is working with nearly 40 financial firms in a pilot to test tokenized stocks and U.S. treasuries.",
-      "title_es": "BlackRock, Goldman y JP Morgan darán una oportunidad a las acciones tokenizadas"
-    },
-    {
       "id": "f0419f86c3f2",
       "title": "XRP Price Prediction: Binance Reserve Hits 6 Months Low",
       "link": "https://cryptonews.com/news/xrp-price-prediction-binance-reserve-low/",
@@ -1035,15 +1044,6 @@
       "published": "2026-07-15T17:42:00+00:00",
       "summary": "<p>Binance's XRP reserve just hit its lowest level since February as its price prediction turns slightly bullish.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrp-price-prediction-binance-reserve-low/\">XRP Price Prediction: Binance Reserve Hits 6 Months Low</a> appeared first on <a href=\"htt",
       "title_es": "Predicción del precio de XRP: la reserva de Binance alcanza el mínimo de 6 meses"
-    },
-    {
-      "id": "b615262a45bc",
-      "title": "June PPI Misses Forecast by 0.7 Points, Boosting Rate Cut Expectations",
-      "link": "https://cryptonews.com/news/fed-rate-cut-timeline-june-ppi-disinflation/",
-      "source": "cryptonews",
-      "published": "2026-07-15T13:16:01+00:00",
-      "summary": "<p>June PPI fell -0.3% MoM and 5.5% YoY, both below forecasts, as disinflation across PPI and CPI reshapes the Fed rate cut timeline and Bitcoin positioning.</p>\n<p>The post <a href=\"https://cryptonews.com/news/fed-rate-cut-timeline-june-ppi-disinflation/\">June PPI Misses Forecast by 0.7 Points, Boo",
-      "title_es": "El IPP de junio incumple las previsiones por 0,7 puntos, lo que aumenta las expectativas de recorte de tipos"
     }
   ]
 }
