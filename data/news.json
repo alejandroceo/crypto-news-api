@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T21:42:52.343766+00:00",
+  "updated_at": "2026-07-19T10:20:56.068768+00:00",
   "count": 115,
   "sources": [
     "coindesk",
@@ -10,6 +10,51 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "75a527768098",
+      "title": "Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins",
+      "link": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin",
+      "source": "coindesk",
+      "published": "2026-07-19T10:00:00+00:00",
+      "summary": "",
+      "title_es": "El problema cuántico de Bitcoin obtiene una herramienta de recuperación, pero no para los 1,1 millones de monedas de Satoshi"
+    },
+    {
+      "id": "f17115932fe4",
+      "title": "Electronic Transactions Association CEO Expecting More Partnerships with Bitcoin Startups",
+      "link": "https://cointelegraph.com/news/electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-19T09:16:42+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Electronic Transactions Association CEO Expecting More Partnerships with Bitcoin Startups\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-2345-electronic-transactions-association-",
+      "title_es": "El director ejecutivo de la Asociación de Transacciones Electrónicas espera más asociaciones con empresas emergentes de Bitcoin"
+    },
+    {
+      "id": "5b53ea663bd9",
+      "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
+      "link": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
+      "source": "coindesk",
+      "published": "2026-07-19T05:37:34+00:00",
+      "summary": "",
+      "title_es": "Dentro del nuevo nodo de Zcash que apunta a la privacidad a escala de Visa con 50.000 transacciones por segundo"
+    },
+    {
+      "id": "63c7cbbf03e1",
+      "title": "US regulators miss GENIUS Act’s one-year deadline for final stablecoin rules",
+      "link": "https://www.theblock.co/post/408843/us-regulators-miss-genius-acts-one-year-deadline-for-final-stablecoin-rules?utm_source=rss&utm_medium=rss",
+      "source": "theblock",
+      "published": "2026-07-18T22:04:40+00:00",
+      "summary": "<p>The delay does not postpone the law’s Jan. 18, 2027 effective date, leaving regulators and stablecoin issuers with a compressed implementation window.</p>",
+      "title_es": "Los reguladores estadounidenses no cumplen con el plazo de un año de la Ley GENIUS para las reglas finales de las monedas estables"
+    },
+    {
+      "id": "0af9663ddf32",
+      "title": "France orders country's internet service providers to block Polymarket",
+      "link": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
+      "source": "coindesk",
+      "published": "2026-07-18T21:52:18+00:00",
+      "summary": "",
+      "title_es": "Francia ordena a los proveedores de servicios de Internet del país bloquear Polymarket"
+    },
     {
       "id": "fbbdc63649ee",
       "title": "Bitcoin Japan, which holds no bitcoin, taps EVO Fund in planned $60 million raise to finally buy some",
@@ -548,7 +593,7 @@
       "source": "cointelegraph",
       "published": "2026-07-17T09:25:33+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US indicts crypto investor over alleged $20M fraud scheme\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/man-hacker-breaking-blockchain.jpg\" /></p><p>Federal prosecutors allege the South Dakota",
-      "title_es": "Estados Unidos acusa a un inversor criptográfico por un supuesto plan de fraude de 20 millones de dólares"
+      "title_es": "Estados Unidos acusa a un inversor criptográfico por un presunto plan de fraude de 20 millones de dólares"
     },
     {
       "id": "8aa88b627fc8",
@@ -704,15 +749,6 @@
       "title_es": "Trump Media vende a Wall Street acceso de baja latencia a las publicaciones de Trump"
     },
     {
-      "id": "1d3db35a716f",
-      "title": "Balaji seeks Malaysia deal, threatens exit after Network School probe",
-      "link": "https://cointelegraph.com/news/balaji-seeks-malaysia-deal-threatens-exit-after-network-school-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-17T01:54:00+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Balaji seeks Malaysia deal, threatens exit after Network School probe\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-to-buy-bitcoin-in-malaysia.jpg\" /></p><p>“If we are not welcome, ther",
-      "title_es": "Balaji busca un acuerdo con Malasia y amenaza con salir después de la investigación de Network School"
-    },
-    {
       "id": "60be20e14668",
       "title": "Leaks Reveal Suno Fed Thousands of Hours of Deezer, YouTube and Pond5 Data Into Its AI",
       "link": "https://decrypt.co/373682/leaks-reveal-suno-fed-thousands-hours-deezer-youtube-pond5-data-ai",
@@ -821,15 +857,6 @@
       "title_es": "Visa presenta plataforma Stablecoin para bancos y empresas de tecnología financiera"
     },
     {
-      "id": "eb3a1b81c169",
-      "title": "Trump’s longtime teleprompter operator accused of using insider knowledge to place bets on Kalshi: ABC News",
-      "link": "https://www.theblock.co/post/408692/trump-longtime-teleprompter-operator-accused-insider-knowledge-place-bets-kalshi-abc-news?utm_source=rss&utm_medium=rss",
-      "source": "theblock",
-      "published": "2026-07-16T17:24:49+00:00",
-      "summary": "<p>President Trump's teleprompter is under scrutiny following a report alleging that he used insider knowledge to place bets on Kalshi.</p>",
-      "title_es": "El antiguo operador de teleprompter de Trump acusado de utilizar conocimiento interno para hacer apuestas en Kalshi: ABC News"
-    },
-    {
       "id": "66c09606cf71",
       "title": "XRP Can't Keep Up as Bitcoin Takes a Breather: Analysis",
       "link": "https://decrypt.co/373649/xrp-price-cant-keep-up-bitcoin-takes-breather",
@@ -839,24 +866,6 @@
       "title_es": "XRP no puede seguir el ritmo mientras Bitcoin se toma un respiro: análisis"
     },
     {
-      "id": "af00560f74c8",
-      "title": "Stripe’s $53 billion PayPal bid is a high-stakes play to own the future of digital payments",
-      "link": "https://www.coindesk.com/business/2026/07/16/stripe-s-usd53-billion-paypal-bid-is-a-high-stakes-play-to-own-the-future-of-digital-payments",
-      "source": "coindesk",
-      "published": "2026-07-16T16:37:16+00:00",
-      "summary": "",
-      "title_es": "La oferta de PayPal de 53.000 millones de dólares de Stripe es una apuesta de alto riesgo para adueñarse del futuro de los pagos digitales"
-    },
-    {
-      "id": "5167134e17ef",
-      "title": "Visa backs Open USD with new stablecoin platform as Circle faces fresh competition",
-      "link": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
-      "source": "coindesk",
-      "published": "2026-07-16T16:14:30+00:00",
-      "summary": "",
-      "title_es": "Visa respalda Open USD con una nueva plataforma de moneda estable mientras Circle enfrenta una nueva competencia"
-    },
-    {
       "id": "e51057e453e6",
       "title": "Dormant Bitcoin Whale Moves $383 Million After More Than 8 Years",
       "link": "https://decrypt.co/373646/bitcoin-whale-moves-383-million-after-eight-years",
@@ -864,15 +873,6 @@
       "published": "2026-07-16T15:43:43+00:00",
       "summary": "The wallet holding nearly 5,908 BTC since 2017 transferred its entire balance to a new address.",
       "title_es": "Ballena Bitcoin inactiva mueve $383 millones después de más de 8 años"
-    },
-    {
-      "id": "fd086643d817",
-      "title": "Keyrock acquires BlockFills trading assets to expand institutional crypto business",
-      "link": "https://www.coindesk.com/business/2026/07/16/keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-business",
-      "source": "coindesk",
-      "published": "2026-07-16T15:26:15+00:00",
-      "summary": "",
-      "title_es": "Keyrock adquiere los activos comerciales de BlockFills para expandir el negocio criptográfico institucional"
     },
     {
       "id": "dd43e1e92956",
