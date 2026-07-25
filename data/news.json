@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T10:22:02.583485+00:00",
-  "count": 115,
+  "updated_at": "2026-07-25T21:46:29.041425+00:00",
+  "count": 125,
   "sources": [
     "coindesk",
     "cointelegraph",
@@ -10,6 +10,123 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "a9ed408f6b73",
+      "title": "EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23",
+      "link": "https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&utm_medium=rss",
+      "source": "theblock",
+      "published": "2026-07-25T21:23:27+00:00",
+      "summary": "<p>Other crypto platforms listed alongside HTX include EXMO, Rapira, BitPapa, Aifory Pro, WhiteBird, NoOnecrypto and Exnode.</p>",
+      "title_es": "La UE añade HTX a la lista de sanciones a Rusia, prohibiendo transacciones a partir del 23 de agosto"
+    },
+    {
+      "id": "8914d10a93fe",
+      "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
+      "link": "https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-25T21:01:44+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood in talks with Crypto.com over prediction markets: WSJ\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-when-prediction-markets-go-wrong-who-decides-what-counts-as-the-truth.jpg\" /></",
+      "title_es": "Robinhood en conversaciones con Crypto.com sobre mercados de predicción: WSJ"
+    },
+    {
+      "id": "0bb72dedd862",
+      "title": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program",
+      "link": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-25T18:15:44+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bitcoin-state-department.png\" /></p><p>The Bitcoin Policy Institute",
+      "title_es": "Grupo de defensa de Bitcoin se unirá al programa de \"libertad digital\" del Departamento de Estado de EE. UU."
+    },
+    {
+      "id": "c6eeae397edd",
+      "title": "Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ",
+      "link": "https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj?utm_source=rss&utm_medium=rss",
+      "source": "theblock",
+      "published": "2026-07-25T17:27:20+00:00",
+      "summary": "<p>A deal would let Robinhood customers trade yes-or-no contracts offered through Crypto.com’s derivatives business, though no deal has yet been reached.</p>",
+      "title_es": "Robinhood en conversaciones para agregar mercados de predicción de Crypto.com a medida que crece la rivalidad con Kalshi: WSJ"
+    },
+    {
+      "id": "34df1ed69acd",
+      "title": "Russia’s largest bank Sberbank plans crypto trading infrastructure by December",
+      "link": "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december",
+      "source": "coindesk",
+      "published": "2026-07-25T16:59:36+00:00",
+      "summary": "",
+      "title_es": "El banco más grande de Rusia, Sberbank, planea una infraestructura de comercio de criptomonedas para diciembre"
+    },
+    {
+      "id": "2efdbe5230cc",
+      "title": "Wise to resubmit US charter application under GENIUS Act",
+      "link": "https://cointelegraph.com/news/wise-resubmit-occ-charter-application-genius-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-25T16:05:31+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" Wise to resubmit US charter application under GENIUS Act\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-occ-application.png\" /></p><p>The OCC denied the UK company’s application this week c",
+      "title_es": "Es prudente volver a presentar la solicitud de estatuto de EE. UU. según la Ley GENIUS"
+    },
+    {
+      "id": "063ce7419e53",
+      "title": "North Korea arrests hackers accused of laundering stolen funds from country's bank via crypto",
+      "link": "https://www.coindesk.com/business/2026/07/25/north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-country-s-bank-via-crypto",
+      "source": "coindesk",
+      "published": "2026-07-25T15:46:05+00:00",
+      "summary": "",
+      "title_es": "Corea del Norte arresta a piratas informáticos acusados ​​de lavar fondos robados del banco del país a través de criptomonedas"
+    },
+    {
+      "id": "4e4ce8a9afa3",
+      "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
+      "link": "https://decrypt.co/374332/what-is-ai-kill-switch-openai-hack-hugging-face",
+      "source": "decrypt",
+      "published": "2026-07-25T14:01:03+00:00",
+      "summary": "The AI Kill Switch Act would let Homeland Security order frontier AI throttled or shut down, with fines up to $20 million a day for defying it.",
+      "title_es": "¿Qué es un Kill Switch de IA y por qué los legisladores estadounidenses quieren uno?"
+    },
+    {
+      "id": "84f7ec8cefe0",
+      "title": "Bitcoin ETF weekly trading volume falls to lowest since October 2024 as ether funds lead inflows again",
+      "link": "https://www.theblock.co/post/409660/bitcoin-etf-weekly-trading-volume-falls-to-lowest-since-october-2024-as-ether-funds-lead-inflows-again?utm_source=rss&utm_medium=rss",
+      "source": "theblock",
+      "published": "2026-07-25T13:59:06+00:00",
+      "summary": "<p>Ether funds have drawn nearly as much capital as bitcoin ETFs over the past three weeks despite holding about one-eighth as much in net assets.</p>",
+      "title_es": "El volumen de operaciones semanales de ETF de Bitcoin cae al nivel más bajo desde octubre de 2024 a medida que los fondos de ether lideran las entradas nuevamente"
+    },
+    {
+      "id": "f2d4b23a562e",
+      "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
+      "link": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-25T13:14:18+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"North Korea arrests bank hacking ring tied to crypto laundering: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-north-korea-crypto-relationship2.jpg\" /></p><p>Daily NK reported that N",
+      "title_es": "Corea del Norte arresta una red de piratería bancaria vinculada al lavado de criptomonedas: informe"
+    },
+    {
+      "id": "0ee5c6f113d1",
+      "title": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
+      "link": "https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case",
+      "source": "coindesk",
+      "published": "2026-07-25T13:00:00+00:00",
+      "summary": "",
+      "title_es": "democratizar los derivados climáticos a través de la tokenización podría ser el caso de uso más importante de las criptomonedas en el mundo real"
+    },
+    {
+      "id": "552e43ae5e35",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-25T12:06:01+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
+      "title_es": "Esto es lo que sucedió hoy en las criptomonedas"
+    },
+    {
+      "id": "d8082fa70822",
+      "title": "Fidelity joins push for Senate passage of CLARITY Act",
+      "link": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-07-25T11:30:15+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fidelity joins push for Senate passage of CLARITY Act\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/regulation-lot-of-papers-clarity-act.jpg\" /></p><p>Fidelity called on the US Senate to pass ",
+      "title_es": "Fidelity se une a la iniciativa para que el Senado apruebe la Ley CLARITY"
+    },
     {
       "id": "d3323ec515c4",
       "title": "Dango’s perp DEX taps out nearly 4 months after launch",
@@ -56,6 +173,15 @@
       "title_es": "Bitcoin Policy Institute, Palantir y Anduril se unen al Programa de Excelencia Tecnológica Freedom del Departamento de Estado de EE. UU."
     },
     {
+      "id": "42281a4c76cc",
+      "title": "Morgan Stanley Bitcoin ETF Nearly Notches $400M in Assets",
+      "link": "https://bitcoinmagazine.com/news/morgan-stanley-bitcoin-etf-400-million",
+      "source": "bitcoinmagazine",
+      "published": "2026-07-24T22:16:22+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Morgan-Stanley-Becomes-Official-First-US-Bank-To-Launch-A-Spot-Bitcoin-ETF.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitc",
+      "title_es": "El ETF de Bitcoin de Morgan Stanley casi alcanza los 400 millones de dólares en activos"
+    },
+    {
       "id": "57cd480f1494",
       "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
       "link": "https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest",
@@ -83,6 +209,24 @@
       "title_es": "SATA de Strive recupera la mayor parte de la caída de junio y cotiza dentro del 3% del par"
     },
     {
+      "id": "b932bf10672f",
+      "title": "$7 Trillion Investment Giant Fidelity Backs New Crypto Clarity Act",
+      "link": "https://bitcoinmagazine.com/news/fidelity-backs-crypto-clarity-act",
+      "source": "bitcoinmagazine",
+      "published": "2026-07-24T20:36:04+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Fidelity-Clarity-Act.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/fidelity-backs-crypto-clarity-act",
+      "title_es": "El gigante de inversiones de 7 billones de dólares Fidelity respalda la nueva Ley de Claridad de Criptomonedas"
+    },
+    {
+      "id": "2360d02be018",
+      "title": "State Department to Debut Freedom Tech Program with Bitcoin Policy Institute, Palantir as Founding Partners",
+      "link": "https://bitcoinmagazine.com/news/state-department-tech-program-with-bitcoin",
+      "source": "bitcoinmagazine",
+      "published": "2026-07-24T20:20:05+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Pics-4.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/state-department-tech-program-with-bitcoin\" rel",
+      "title_es": "El Departamento de Estado estrenará el programa Freedom Tech con Bitcoin Policy Institute y Palantir como socios fundadores"
+    },
+    {
       "id": "b0812cc54069",
       "title": "House passes bill on lawmakers using insider information for stock trading",
       "link": "https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -99,15 +243,6 @@
       "published": "2026-07-24T19:30:01+00:00",
       "summary": "Samsung showed a wallet mockup holding Circle's USDC at Galaxy Unpacked. But details are scarce.",
       "title_es": "Samsung Wallet agregará soporte para Stablecoin, incluido USDC"
-    },
-    {
-      "id": "552e43ae5e35",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-24T19:03:45+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
-      "title_es": "Esto es lo que sucedió hoy en las criptomonedas"
     },
     {
       "id": "8188f3b36e65",
@@ -155,6 +290,15 @@
       "title_es": "Wise planea volver a presentar la solicitud de banco fiduciario nacional en el marco de la Ley GENIUS"
     },
     {
+      "id": "40fef642efcb",
+      "title": "National Fraternal Order of Police Gives Green Light to Clarity Act in Latest Support for Crypto Bill",
+      "link": "https://bitcoinmagazine.com/news/fraternal-order-police-support-clarity-act",
+      "source": "bitcoinmagazine",
+      "published": "2026-07-24T17:07:18+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Pics-3.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/fraternal-order-police-support-clarity-act\" rel",
+      "title_es": "La Orden Fraternal Nacional de Policía da luz verde a la Ley de Claridad en el último apoyo al proyecto de ley sobre criptomonedas"
+    },
+    {
       "id": "c388358e4983",
       "title": "Crypto advocacy groups support CLARITY passage as ethics rules face pushback",
       "link": "https://cointelegraph.com/news/crypto-advocacy-groups-support-clarity-act-pushback-ethics-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -182,6 +326,15 @@
       "title_es": "La estrategia revisa las métricas de Bitcoin y presenta el 'Bitcoin neto por acción'"
     },
     {
+      "id": "94109ff92ddb",
+      "title": "Sealed in Foil: BMAG’s New Focus on Trading Cards",
+      "link": "https://bitcoinmagazine.com/culture/sealed-in-foil-bmags-new-focus-on-trading-cards",
+      "source": "bitcoinmagazine",
+      "published": "2026-07-24T16:20:25+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/BMAGs-New-Focus-on-Trading-Cards.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/culture/sealed-in-foil-bma",
+      "title_es": "Sellado en papel de aluminio: el nuevo enfoque de BMAG en las tarjetas coleccionables"
+    },
+    {
       "id": "0df37d74a56b",
       "title": "Bitcoin ETFs Shed $225M, Snapping Seven-Day Inflow Streak as Iran Tensions Spook Markets",
       "link": "https://decrypt.co/374260/bitcoin-etfs-shed-225m-snapping-inflow-streak-iran-tensions",
@@ -189,6 +342,15 @@
       "published": "2026-07-24T16:17:37+00:00",
       "summary": "BlackRock's IBIT led the exit as Bitcoin briefly dipped under $65,000 and stocks fell on renewed US-Iran hostilities—though the week still closed in the green.",
       "title_es": "Los ETF de Bitcoin pierden 225 millones de dólares y rompen una racha de entradas de siete días mientras las tensiones en Irán asustan a los mercados"
+    },
+    {
+      "id": "4eb5f80bba52",
+      "title": "Top Crypto Industry Groups Pen Letter to Senate Leaders Urging Them To Support the Clarity Act",
+      "link": "https://bitcoinmagazine.com/news/crypto-industry-groups-support-the-clarity",
+      "source": "bitcoinmagazine",
+      "published": "2026-07-24T16:05:35+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Top-Crypto-Industry-Groups-Pen-Letter-to-Senate-Leaders-U.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/n",
+      "title_es": "Los principales grupos de la industria criptográfica escriben una carta a los líderes del Senado instándolos a apoyar la Ley de Claridad"
     },
     {
       "id": "9ee105e4e4d7",
@@ -290,6 +452,15 @@
       "title_es": "La UE nombra el HTX de Justin Sun en las sanciones a Rusia, dos meses después del Reino Unido"
     },
     {
+      "id": "2c9350c8b030",
+      "title": "Democrats Push Back on GOP Ethics Text as Thune Doubts a Pre-Recess Clarity Vote",
+      "link": "https://bitcoinmagazine.com/news/democrats-push-back-on-clarity-ethics-text",
+      "source": "bitcoinmagazine",
+      "published": "2026-07-24T13:34:09+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Democrats-Push-Back-on-GOP-Ethics-Text-as-Thune-Doubts-a-Pre-Recess-Clarity-Vote.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https:",
+      "title_es": "Los demócratas rechazan el texto de ética del Partido Republicano mientras Thune duda de una votación de claridad previa al receso"
+    },
+    {
       "id": "fd8ada76560f",
       "title": "A quantum roadmap would push Bitcoin much higher: Charles Edwards",
       "link": "https://cointelegraph.com/magazine/bitcoins-biggest-bull-catalyst-may-come-from-fixing-its-biggest-risk-edwards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -377,7 +548,7 @@
       "source": "coindesk",
       "published": "2026-07-24T11:58:06+00:00",
       "summary": "",
-      "title_es": "La UE golpea a Rusia con un enorme paquete de sanciones número 21 dirigido a una red criptográfica de 120.000 millones de dólares"
+      "title_es": "La UE golpea a Rusia con un masivo paquete de sanciones número 21 dirigido a una red criptográfica de 120 mil millones de dólares"
     },
     {
       "id": "7f5a43aa0de1",
@@ -485,7 +656,7 @@
       "source": "coindesk",
       "published": "2026-07-24T10:10:42+00:00",
       "summary": "",
-      "title_es": "India ordena el desmantelamiento de Bitchat, la aplicación de mensajería vinculada a bitcoins de Jack Dorsey"
+      "title_es": "India ordena el desmantelamiento de Bitchat, la aplicación de mensajería vinculada a bitcoin de Jack Dorsey"
     },
     {
       "id": "d458022906e0",
@@ -560,24 +731,6 @@
       "title_es": "Korbit de Corea del Sur cambiará su nombre a Digital X bajo Mirae: Informe"
     },
     {
-      "id": "8e387788018b",
-      "title": "Ripple launches Mint to expand institutional access to RLUSD",
-      "link": "https://cointelegraph.com/news/ripple-mint-expand-institutional-access-rlusd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-24T08:47:01+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ripple launches Mint to expand institutional access to RLUSD\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ripple-labs-rlusd-stablecoin-everything-you-need-to-know.jpg\" /></p><p>Ripple laun",
-      "title_es": "Ripple lanza Mint para ampliar el acceso institucional a RLUSD"
-    },
-    {
-      "id": "033815945e73",
-      "title": "Bitcoin mining pool Poolin files for Chapter 11 bankruptcy",
-      "link": "https://cointelegraph.com/news/bitcoin-mining-poolin-chapter-11-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-24T08:38:49+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin mining pool Poolin files for Chapter 11 bankruptcy\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-update-proof-of-stake-vs-proof-of-work-pros-cons-and-differences-explained.jpg\" /></",
-      "title_es": "Poolin, grupo minero de Bitcoin, se declara en bancarrota según el Capítulo 11"
-    },
-    {
       "id": "1a2e02055e47",
       "title": "Cardano Price Prediction: ADA Reclaimed Top 15 Crypto by Market Cap as Whale Accumulates",
       "link": "https://cryptonews.com/news/cardano-price-prediction-whale-accumulation-2/",
@@ -587,15 +740,6 @@
       "title_es": "Predicción del precio de Cardano: ADA recuperó las 15 principales criptomonedas por capitalización de mercado a medida que se acumula la ballena"
     },
     {
-      "id": "fc04abfb62cb",
-      "title": "EU widens Belarus ownership ban to all crypto service providers",
-      "link": "https://cointelegraph.com/news/eu-belarus-crypto-ownership-ban-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-24T08:06:15+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU widens Belarus ownership ban to all crypto service providers \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crypto-conference-eu2.jpg\" /></p><p>The EU will bar Belarusian nationals and resi",
-      "title_es": "La UE amplía la prohibición de propiedad de Bielorrusia a todos los proveedores de servicios criptográficos"
-    },
-    {
       "id": "ca80b47d254e",
       "title": "Live updates: Bitcoin gives up gains, falls below $64,000 as stocks retreat",
       "link": "https://www.coindesk.com/tech/2026/07/24/live-updates-dogecoin-and-ether-lead-pullback-as-investors-digest-tech-earnings",
@@ -603,15 +747,6 @@
       "published": "2026-07-24T07:22:26+00:00",
       "summary": "",
       "title_es": "Actualizaciones en vivo: Bitcoin cede ganancias y cae por debajo de $ 64,000 a medida que las acciones retroceden"
-    },
-    {
-      "id": "c95e1dbb4481",
-      "title": "Bitcoin ETFs snap 7-day inflow streak with $225M in outflows",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-225-million-outflow-end-7-day-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-24T07:17:57+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs snap 7-day inflow streak with $225M in outflows\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/analytics-red-market-falling-drop-bitcoin.png\" /></p><p>After attracting nearly $1 bi",
-      "title_es": "Los ETF de Bitcoin rompen una racha de entradas de 7 días con 225 millones de dólares en salidas"
     },
     {
       "id": "05009135dadf",
@@ -650,15 +785,6 @@
       "title_es": "¿Cómo mantienen las monedas estables su vinculación?"
     },
     {
-      "id": "0209927ffd89",
-      "title": "BitMEX hit with 623 BTC lawsuit on day it announces shutdown",
-      "link": "https://cointelegraph.com/news/bitmex-liquidation-fraud-lawsuit-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-24T05:20:11+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMEX hit with 623 BTC lawsuit on day it announces shutdown \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-1.png\" /></p><p>The propo",
-      "title_es": "BitMEX recibe una demanda de 623 BTC el día que anuncia su cierre"
-    },
-    {
       "id": "adddb89e37c5",
       "title": "Bitcoin holds near $65,000 as $800 billion AI selloff leaves crypto largely untouched",
       "link": "https://www.coindesk.com/markets/2026/07/24/bitcoin-holds-near-usd65-000-as-usd800-billion-ai-selloff-leaves-crypto-largely-untouched",
@@ -677,6 +803,15 @@
       "title_es": "Black Forest Labs presenta FLUX 3 AI: abandona las imágenes fijas por vídeo y manos robóticas"
     },
     {
+      "id": "ab19e1e09cdc",
+      "title": "Bitcoinist.App Brings Private Mining Pools to iOS",
+      "link": "https://bitcoinmagazine.com/press-releases/bitcoinist-app-brings-private-mining-pools-to-ios",
+      "source": "bitcoinmagazine",
+      "published": "2026-07-23T21:28:11+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/bitcoinist-app-press-release.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/press-releases/bitcoinist-app-",
+      "title_es": "Bitcoinist.App lleva grupos de minería privados a iOS"
+    },
+    {
       "id": "e38e4517ac35",
       "title": "Goldman Sachs CEO Breaks With Wall Street to Back Crypto Clarity Act",
       "link": "https://decrypt.co/374186/goldman-sachs-ceo-breaks-wall-street-crypto-clarity-act",
@@ -684,6 +819,15 @@
       "published": "2026-07-23T20:44:09+00:00",
       "summary": "Solomon's endorsement splits with JP Morgan's Jamie Dimon and banking trade groups, who warn the bill's stablecoin-yield provisions could pull deposits away from traditional lenders.",
       "title_es": "El CEO de Goldman Sachs rompe con Wall Street para respaldar la Ley de Claridad de Criptomonedas"
+    },
+    {
+      "id": "37971ac9ad41",
+      "title": "Elizabeth Warren Claims Clarity Act Would Help Trump — And ‘Criminals and Cartels’",
+      "link": "https://bitcoinmagazine.com/news/elizabeth-warren-slams-clarity-act",
+      "source": "bitcoinmagazine",
+      "published": "2026-07-23T20:44:09+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Elizabeth-Warren-Claims-Clarity-Act-Would-Help-Trump.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/e",
+      "title_es": "Elizabeth Warren afirma que la Ley de Claridad ayudaría a Trump... y a los \"criminales y cárteles\""
     },
     {
       "id": "2646b679afa2",
@@ -702,6 +846,15 @@
       "published": "2026-07-23T20:12:19+00:00",
       "summary": "A Shanghai-based insurance-tech company trading below $1 wants to build a bitcoin treasury by taking BTC directly as payment for new shares.",
       "title_es": "Zhibao, que cotiza en Nasdaq, quiere un tesoro de Bitcoin y planea vender 220 millones de dólares en acciones para BTC"
+    },
+    {
+      "id": "071c4e560afe",
+      "title": "Smarter Web Company Sells Bitcoin to Clear $11.7 Million Debt Facility",
+      "link": "https://bitcoinmagazine.com/news/smarter-web-company-sells-bitcoin",
+      "source": "bitcoinmagazine",
+      "published": "2026-07-23T19:50:36+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/02/Bitcoin-Treasury-The-Smarter-Web-Company-Listed-on-London-Stock-Exchange.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoi",
+      "title_es": "Smarter Web Company vende Bitcoin para liquidar un servicio de deuda de 11,7 millones de dólares"
     },
     {
       "id": "076009190a7b",
@@ -767,15 +920,6 @@
       "title_es": "MoonPay ahora acepta tarjetas Discover Network para compras y ventas de criptomonedas en EE. UU."
     },
     {
-      "id": "017e85ef88ac",
-      "title": "Coinbase's corporate customers can now accept payments from AI agents",
-      "link": "https://www.coindesk.com/business/2026/07/23/coinbase-closes-the-gaps-in-ai-agent-economy-for-businesses-users-and-developers",
-      "source": "coindesk",
-      "published": "2026-07-23T16:54:12+00:00",
-      "summary": "",
-      "title_es": "Los clientes corporativos de Coinbase ahora pueden aceptar pagos de agentes de IA"
-    },
-    {
       "id": "3c21d05dc5cd",
       "title": "$981M Bitcoin ETF Streak Signals Institutional Re-Entry, $70K in Sight",
       "link": "https://cryptonews.com/news/bitcoin-etf-inflows-981m-70k-target/",
@@ -803,31 +947,13 @@
       "title_es": "Coinbase considera que los pagos con IA son su \"apuesta de mayor convicción\" a medida que las empresas comienzan a aceptar pagos de agentes"
     },
     {
-      "id": "3f675e61a928",
-      "title": "The SEC settles with Coinbase over its missing Gary Gensler texts",
-      "link": "https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees",
-      "source": "coindesk",
-      "published": "2026-07-23T15:36:39+00:00",
-      "summary": "",
-      "title_es": "La SEC llega a un acuerdo con Coinbase por los textos faltantes de Gary Gensler"
-    },
-    {
       "id": "7f65deea7025",
       "title": "BlackRock, Coinbase and Strategy Pledge $15M to Quantum-Proof Bitcoin",
       "link": "https://decrypt.co/374145/blackrock-coinbase-strategy-15m-quantum-proof-bitcoin",
       "source": "decrypt",
       "published": "2026-07-23T15:17:38+00:00",
       "summary": "Nine of the biggest institutional names in Bitcoin formed a consortium to fund the developers working to keep the network secure—including from future quantum computers.",
-      "title_es": "BlackRock, Coinbase y Strategy prometen 15 millones de dólares para Bitcoin a prueba de cuántica"
-    },
-    {
-      "id": "96e889519438",
-      "title": "Crypto for Advisors: It’s time for tokenization to get to work",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/07/23/crypto-for-advisors-it-s-time-for-tokenization-to-get-to-work",
-      "source": "coindesk",
-      "published": "2026-07-23T14:53:34+00:00",
-      "summary": "",
-      "title_es": "Cripto para asesores: es hora de que la tokenización se ponga a trabajar"
+      "title_es": "BlackRock, Coinbase y Strategy prometen 15 millones de dólares para Bitcoin a prueba de tecnología cuántica"
     },
     {
       "id": "9b306cf6e8d4",
@@ -890,7 +1016,7 @@
       "source": "decrypt",
       "published": "2026-07-23T12:34:20+00:00",
       "summary": "Once-fragmented syndicates have fused into a single, tech-driven criminal economy that increasingly runs on crypto, the UNODC warns.",
-      "title_es": "Las redes de estafa del sudeste asiático cuestan a las víctimas hasta 114.000 millones de dólares en un año: ONU"
+      "title_es": "Las redes de estafa del Sudeste Asiático cuestan a las víctimas hasta 114.000 millones de dólares en un año: ONU"
     },
     {
       "id": "d6593d047827",
@@ -929,15 +1055,6 @@
       "title_es": "Dogecoin muestra fuertes señales de compra, el precio aún no se ha movido"
     },
     {
-      "id": "f6237bfc8e46",
-      "title": "‘Not currently the right capital solution’: Smarter Web sells 178 bitcoin to repay $11.7M convertible instrument",
-      "link": "https://www.theblock.co/post/409506/not-currently-the-right-capital-solution-smarter-web-sells-178-bitcoin-to-repay-11-7m-convertible-instrument?utm_source=rss&utm_medium=rss",
-      "source": "theblock",
-      "published": "2026-07-23T10:38:13+00:00",
-      "summary": "<p>The Smarter Web Company sold 177.89 BTC at $65,762 to repay $11.7 million to TOBAM early, cancelling 7.7 million in potential share issuance.</p>",
-      "title_es": "“Actualmente no es la solución de capital adecuada”: Smarter Web vende 178 bitcoins para reembolsar un instrumento convertible de 11,7 millones de dólares"
-    },
-    {
       "id": "8c683f5c429f",
       "title": "Arbitrum Perp DEX AFX Trade Drained of $24M, Offers Hacker 30% to Return It",
       "link": "https://decrypt.co/374133/arbitrum-perp-dex-afx-trade-drained-of-24m-offers-hacker-30-to-return-it",
@@ -963,33 +1080,6 @@
       "published": "2026-07-23T09:50:58+00:00",
       "summary": "<p>XRP breaks $1.45 resistance on 140% volume surge and tests $1.50, but ETF inflows decelerating to $12M signal weakening institutional conviction. Key levels, scenarios, and what to watch next.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrp-price-resistance-breakout-etf-flows/\">XRP Price",
       "title_es": "El precio de XRP rompe la resistencia, pero los flujos de ETF advierten a los alcistas"
-    },
-    {
-      "id": "02fe22a6c2a1",
-      "title": "Circle partners with Kakao, Toss Bank to explore stablecoin payment rails in South Korea",
-      "link": "https://www.theblock.co/post/409497/circle-partners-with-kakao-toss?utm_source=rss&utm_medium=rss",
-      "source": "theblock",
-      "published": "2026-07-23T09:09:42+00:00",
-      "summary": "<p>Circle plans to explore blockchain-based payment infrastructure in South Korea through partnerships with Kakao and Toss.</p>",
-      "title_es": "Circle se asocia con Kakao y Toss Bank para explorar vías de pago de monedas estables en Corea del Sur"
-    },
-    {
-      "id": "6a9fb450c6a6",
-      "title": "BitMEX to shut down permanently 11 years after Arthur Hayes co-founded crypto exchange",
-      "link": "https://www.theblock.co/post/409495/bitmex-to-shut-down-permanently?utm_source=rss&utm_medium=rss",
-      "source": "theblock",
-      "published": "2026-07-23T09:00:36+00:00",
-      "summary": "<p>BitMEX, co-founded by Arthur Hayes, will shut down on Sept. 23, 2026, at 04:00 UTC after owner HDR Global Trading's strategic review. </p>",
-      "title_es": "BitMEX cerrará permanentemente 11 años después de que Arthur Hayes cofundara el intercambio de cifrado"
-    },
-    {
-      "id": "057f6f4f8ebf",
-      "title": "BitMEX to Close on September 23, Halts New Sign-Ups",
-      "link": "https://decrypt.co/374125/bitmex-to-close-on-september-23-halts-new-sign-ups",
-      "source": "decrypt",
-      "published": "2026-07-23T08:46:51+00:00",
-      "summary": "The crypto derivatives pioneer told users to close positions and withdraw funds before it goes dark on September 23.",
-      "title_es": "BitMEX cerrará el 23 de septiembre y detendrá nuevos registros"
     },
     {
       "id": "d067d1fd46a9",
