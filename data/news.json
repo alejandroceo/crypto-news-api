@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T10:28:01.442730+00:00",
-  "count": 125,
+  "updated_at": "2026-08-02T21:47:47.037092+00:00",
+  "count": 115,
   "sources": [
     "coindesk",
     "cointelegraph",
@@ -11,11 +11,137 @@
   ],
   "items": [
     {
+      "id": "3b0993def753",
+      "title": "SEC keeps Nasdaq bitcoin options on hold after granting CME review",
+      "link": "https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&utm_medium=rss",
+      "source": "theblock",
+      "published": "2026-08-02T21:25:36+00:00",
+      "summary": "<p>CME is arguing that the contracts are commodity option swaps subject exclusively to the CFTC's oversight rather than the SEC's. </p>",
+      "title_es": "La SEC mantiene en suspenso las opciones de bitcoin del Nasdaq después de conceder la revisión de CME"
+    },
+    {
+      "id": "552e43ae5e35",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-08-02T20:00:35+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
+      "title_es": "Esto es lo que sucedió hoy en las criptomonedas"
+    },
+    {
+      "id": "28ee30b249cd",
+      "title": "Counting down the days: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
+      "source": "coindesk",
+      "published": "2026-08-02T18:30:00+00:00",
+      "summary": "",
+      "title_es": "Contando los días: estado de las criptomonedas"
+    },
+    {
+      "id": "4415e8a512ae",
+      "title": "Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: ‘Bitcoin Drive engaged’",
+      "link": "https://www.theblock.co/post/410370/saylor-hints-at-strategy-bitcoin-buy-after-five-week-pause-as-strc-rate-stays-at-12-bitcoin-drive-engaged?utm_source=rss&utm_medium=rss",
+      "source": "theblock",
+      "published": "2026-08-02T18:10:43+00:00",
+      "summary": "<p>Strategy has gone five consecutive weeks without a disclosed bitcoin purchase; the firm last reported holding 843,775 BTC acquired for $63.69 billion.</p>",
+      "title_es": "Saylor insinúa una estrategia de compra de bitcoins después de una pausa de cinco semanas mientras la tasa STRC se mantiene en el 12%: \"Bitcoin Drive comprometido\""
+    },
+    {
+      "id": "5f824f7c7dbb",
+      "title": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
+      "link": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
+      "source": "decrypt",
+      "published": "2026-08-02T17:18:51+00:00",
+      "summary": "Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly 1,367 BTC across 4,585 addresses.",
+      "title_es": "La explotación de Coldcard Bitcoin se dispara a $ 88 millones mientras los atacantes siguen agotando las billeteras"
+    },
+    {
+      "id": "a01f265b829f",
+      "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+      "link": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+      "source": "coindesk",
+      "published": "2026-08-02T17:00:00+00:00",
+      "summary": "",
+      "title_es": "Por qué una plataforma DeFi abandonó su aplicación de consumo para convertirse en el backend secreto de los gigantes tecnológicos"
+    },
+    {
+      "id": "38f80db16064",
+      "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
+      "link": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
+      "source": "coindesk",
+      "published": "2026-08-02T16:00:00+00:00",
+      "summary": "",
+      "title_es": "El futuro de los pagos criptográficos no incluirá rampas de acceso ni puentes, dice el CEO de Fun"
+    },
+    {
+      "id": "56da143bbd88",
+      "title": "Strategy leaves preferred STRC dividend at 12% as price still below par",
+      "link": "https://cointelegraph.com/news/strategy-leaves-preferred-strc-dividend-at-12-price-still-below-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-08-02T15:24:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy leaves preferred STRC dividend at 12% as price still below par\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-michael-saylor-got-wrecked-but-bitcoin-investors-neednt-panic.png\" /></",
+      "title_es": "La estrategia deja el dividendo preferente de STRC en el 12% ya que el precio aún está por debajo del par"
+    },
+    {
+      "id": "fa1d5442543b",
+      "title": "Trump Media says $165 million bitcoin transfer to Crypto.com wasn’t a sale",
+      "link": "https://www.theblock.co/post/410360/trump-media-linked-wallets-move-165-million-in-bitcoin-to-crypto-com-leaving-4261-btc-in-tracked-wallets?utm_source=rss&utm_medium=rss",
+      "source": "theblock",
+      "published": "2026-08-02T15:16:08+00:00",
+      "summary": "<p>The company said a similar transfer to Crypto.com in May was part of a broader trading strategy and did not represent a sale.</p>",
+      "title_es": "Trump Media dice que la transferencia de bitcoins de 165 millones de dólares a Crypto.com no fue una venta"
+    },
+    {
+      "id": "6ccbc9e04716",
+      "title": "What’s the Deal With Meta’s ‘Pervert Glasses’?",
+      "link": "https://decrypt.co/374808/whats-the-deal-with-meta-pervert-glasses",
+      "source": "decrypt",
+      "published": "2026-08-02T15:01:03+00:00",
+      "summary": "Lawsuits, privacy complaints, secret recordings, and government investigations have put Meta’s AI glasses under scrutiny.",
+      "title_es": "¿Cuál es el problema con las 'gafas pervertidas' de Meta?"
+    },
+    {
+      "id": "8555ae454cd7",
+      "title": "The reverse bridge: Crypto meets Wall Street using perps",
+      "link": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
+      "source": "coindesk",
+      "published": "2026-08-02T13:00:00+00:00",
+      "summary": "",
+      "title_es": "El puente inverso: Crypto se encuentra con Wall Street usando delincuentes"
+    },
+    {
+      "id": "c77e9c426a2c",
+      "title": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
+      "link": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
+      "source": "coindesk",
+      "published": "2026-08-02T12:03:51+00:00",
+      "summary": "",
+      "title_es": "A diferencia del colapso de FTX, el exploit de Coldcard de 89 millones de dólares hace que los inversores envíen bitcoins de vuelta a las bolsas."
+    },
+    {
+      "id": "f5d619904c44",
+      "title": "BNB Chain pursues legal action after ex-employee’s memecoin launch",
+      "link": "https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-08-02T11:24:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BNB Chain pursues legal action after ex-employee’s memecoin launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-social-engineering-attack-bnb-chain.jpg\" /></p><p>BNB Chain said a",
+      "title_es": "BNB Chain emprende acciones legales después del lanzamiento de memecoin de un ex empleado"
+    },
+    {
+      "id": "3b445f2004d1",
+      "title": "XRP Price Prediction: Japan Just Made It Insanely Easy to Get Free XRP with a Credit Card",
+      "link": "https://cryptonews.com/news/xrp-price-prediction-japan-credit-card/",
+      "source": "cryptonews",
+      "published": "2026-08-02T10:50:28+00:00",
+      "summary": "<p>XRP trades at $1.07 as SBI VC Trade and Orico launch Japan's first credit card loyalty-to-crypto conversion for XRP, BTC, and ETH. Here's what it means for price.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrp-price-prediction-japan-credit-card/\">XRP Price Prediction: Japan Just Made It",
+      "title_es": "Predicción del precio de XRP: Japón acaba de hacer increíblemente fácil obtener XRP gratis con una tarjeta de crédito"
+    },
+    {
       "id": "fc919dbad7ec",
       "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
       "link": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph",
-      "published": "2026-08-02T09:29:15+00:00",
+      "published": "2026-08-02T09:31:00+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-trump-on-bitcoin.jpg\" /></p><p>Trump Media transferred another 2,628 Bitcoin to",
       "title_es": "Trump Media vende otros 2.628 BTC, las tenencias caen a 4.261 BTC"
     },
@@ -24,7 +150,7 @@
       "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
       "link": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph",
-      "published": "2026-08-02T08:04:56+00:00",
+      "published": "2026-08-02T08:07:00+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-segwit-explained2-1.jpg\" /></p><p>Bitcoin users moved 39,600 BTC in ",
       "title_es": "El hackeo de Coldcard provoca el mayor movimiento de BTC por debajo de 1 desde FTX: CryptoQuant"
     },
@@ -38,22 +164,22 @@
       "title_es": "La estrategia mantiene el dividendo de STRC en un 12%"
     },
     {
-      "id": "f55f5c5988e4",
-      "title": "Iran-linked exchange sent $676 million to Binance in alleged sanctions-evasion operation: Reuters",
-      "link": "https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters?utm_source=rss&utm_medium=rss",
-      "source": "theblock",
-      "published": "2026-08-01T21:18:45+00:00",
-      "summary": "<p>Dubai-based Shelbit processed over $4 billion since May 2024 through a network tied to Iranian gambling sites, the central bank, and the IRGC, per Reuters.</p>",
-      "title_es": "Exchange vinculado a Irán envió 676 millones de dólares a Binance en una supuesta operación de evasión de sanciones: Reuters"
-    },
-    {
       "id": "9cfe4836e6af",
       "title": "Onchain, in court: What happened in crypto legal news this week",
       "link": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph",
-      "published": "2026-08-01T21:14:39+00:00",
+      "published": "2026-08-01T21:19:00+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Onchain, in court: What happened in crypto legal news this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-5-key-highlights-of-the-secs-lawsuit-against-binance.jpg\" /></p><p>A case tied ",
       "title_es": "Onchain, en la corte: lo que sucedió en las noticias criptolegales esta semana"
+    },
+    {
+      "id": "f55f5c5988e4",
+      "title": "Iran-linked exchange sent $676 million to Binance wallets in alleged sanctions-evasion operation: Reuters",
+      "link": "https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters?utm_source=rss&utm_medium=rss",
+      "source": "theblock",
+      "published": "2026-08-01T21:18:45+00:00",
+      "summary": "<p>Dubai-based Shelbit processed over $4 billion since May 2024 through a network tied to Iranian gambling sites, the central bank, and the IRGC, per Reuters.</p>",
+      "title_es": "Exchange vinculado a Irán envió 676 millones de dólares a billeteras de Binance en una supuesta operación de evasión de sanciones: Reuters"
     },
     {
       "id": "08b1daf103f9",
@@ -78,7 +204,7 @@
       "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
       "link": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph",
-      "published": "2026-08-01T18:07:17+00:00",
+      "published": "2026-08-01T18:09:00+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Minnesota crypto ATM ban goes into effect after reported $1M losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-atm-ban.png\" /></p><p>State officials reported that Minnesota reside",
       "title_es": "La prohibición de los cajeros automáticos criptográficos en Minnesota entra en vigor después de que se informaran pérdidas de 1 millón de dólares"
     },
@@ -128,6 +254,15 @@
       "title_es": "La dificultad de la minería de Bitcoin se reduce un 14% desde el máximo de este año a medida que la caída de los ingresos obliga a los operadores a girar"
     },
     {
+      "id": "263aa59f9e9b",
+      "title": "Crypto PAC pours another $1M into Michigan House race",
+      "link": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-08-01T15:49:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC pours another $1M into Michigan House race\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-votes-us.png\" /></p><p>Michigan incumbent Shri Thanedar’s re-election bid",
+      "title_es": "Crypto PAC invierte otro millón de dólares en la carrera por la Cámara de Representantes de Michigan"
+    },
+    {
       "id": "200fb443f8d4",
       "title": "SEC to review Nasdaq bitcoin options approval after CME challenge",
       "link": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
@@ -135,15 +270,6 @@
       "published": "2026-08-01T15:48:27+00:00",
       "summary": "",
       "title_es": "La SEC revisará la aprobación de las opciones de bitcoin del Nasdaq después del desafío de CME"
-    },
-    {
-      "id": "263aa59f9e9b",
-      "title": "Crypto PAC pours another $1M into Michigan House race",
-      "link": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-08-01T15:44:02+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC pours another $1M into Michigan House race\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-votes-us.png\" /></p><p>Michigan incumbent Shri Thanedar’s re-election bid",
-      "title_es": "Crypto PAC invierte otro millón de dólares en la carrera por la Cámara de Representantes de Michigan"
     },
     {
       "id": "c556391045a8",
@@ -204,7 +330,7 @@
       "title": "Russia expands crypto mining ban to Moscow through 2032",
       "link": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph",
-      "published": "2026-08-01T10:23:41+00:00",
+      "published": "2026-08-01T10:30:00+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia expands crypto mining ban to Moscow through 2032\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-china-mining-ban.jpg\" /></p><p>Russia has added Moscow, the Moscow Region and parts of ",
       "title_es": "Rusia amplía la prohibición de la criptominería a Moscú hasta 2032"
     },
@@ -240,7 +366,7 @@
       "title": "Bitcoin ETFs end July in the green despite late-month selling",
       "link": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph",
-      "published": "2026-08-01T07:23:07+00:00",
+      "published": "2026-08-01T07:25:00+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs end July in the green despite late-month selling\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-cmc-verified-info-deadline-1.png\" /></p><p>Spot Bitcoin ETFs attracted $172.4 mil",
       "title_es": "Los ETF de Bitcoin finalizan julio en verde a pesar de las ventas de finales de mes"
     },
@@ -261,15 +387,6 @@
       "published": "2026-08-01T05:55:46+00:00",
       "summary": "",
       "title_es": "Cómo las billeteras frías de bitcoin perdieron $70 millones en un ataque que nunca tocó los dispositivos"
-    },
-    {
-      "id": "10719e3de75d",
-      "title": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report",
-      "link": "https://bitcoinmagazine.com/news/coldcard-thief-used-blockchain-service",
-      "source": "bitcoinmagazine",
-      "published": "2026-07-31T21:01:14+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Coldcard-Bitcoin-Thief-Likely-Used-Top-Blockchain-Services-Provider.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmaga",
-      "title_es": "El ladrón de Bitcoin de Coldcard probablemente utilizó el principal proveedor de servicios Blockchain: informe"
     },
     {
       "id": "dc0e0a9d504e",
@@ -353,15 +470,6 @@
       "title_es": "Pump.fun despidió a trabajadores antes de que recibieran millones en tokens PUMP: Informe"
     },
     {
-      "id": "a1c8a679fc03",
-      "title": "Younger Democrats Understand Clarity Act And Bill Should Pass, Says Coinbase’s Chief Policy Officer",
-      "link": "https://bitcoinmagazine.com/news/clarity-act-should-pass-says-coinbase",
-      "source": "bitcoinmagazine",
-      "published": "2026-07-31T19:12:37+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Younger-Democrats-Understand-Clarity-Act.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/clarity-act-s",
-      "title_es": "Los demócratas más jóvenes entienden la Ley de Claridad y el proyecto de ley debería aprobarse, dice el director de políticas de Coinbase"
-    },
-    {
       "id": "008b26263c4c",
       "title": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
       "link": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
@@ -371,15 +479,6 @@
       "title_es": "Tether registra una ganancia operativa de 1.500 millones de dólares en el segundo trimestre mientras el colchón de reservas se reduce a la mitad"
     },
     {
-      "id": "552e43ae5e35",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-31T18:09:51+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
-      "title_es": "Esto es lo que sucedió hoy en las criptomonedas"
-    },
-    {
       "id": "f48068fe8447",
       "title": "Tether’s excess reserves fall by more than $4 billion amid weaker Q2 financial results",
       "link": "https://www.theblock.co/post/410305/tethers-excess-reserves-fall-by-more-than-4-billion-amid-weaker-q2-financial-results?utm_source=rss&utm_medium=rss",
@@ -387,15 +486,6 @@
       "published": "2026-07-31T17:58:47+00:00",
       "summary": "<p>Tether swung from $4.9 billion in net profit for Q2 2025 to $1.5 in net operating profit during the second quarter of this year.</p>",
       "title_es": "El exceso de reservas de Tether cae en más de $4 mil millones de dólares en medio de resultados financieros más débiles del segundo trimestre"
-    },
-    {
-      "id": "894b34253f14",
-      "title": "Coinkite Releases Fixed Firmware After Coldcard Bug; AI Likely Involved In The Breach",
-      "link": "https://bitcoinmagazine.com/business/coinkite-releases-fixed-firmware-after-coldcard-bug-ai-likely-involved-in-the-hack",
-      "source": "bitcoinmagazine",
-      "published": "2026-07-31T17:57:02+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tn2-3.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/coinkite-releases-fixed-firmware-after-cold",
-      "title_es": "Coinkite lanza firmware reparado después del error de Coldcard; Es probable que la IA esté involucrada en la infracción"
     },
     {
       "id": "26282105c336",
@@ -470,15 +560,6 @@
       "title_es": "Bybit agrega acciones tokenizadas de Nvidia, Apple y Tesla como garantía de préstamo"
     },
     {
-      "id": "a41cacfd1020",
-      "title": "US Closes in on Iran’s Strait of Hormuz Bitcoin Insurance Policy, Sanctions Companies",
-      "link": "https://bitcoinmagazine.com/news/us-sanctions-iran-companies-using-bitcoin",
-      "source": "bitcoinmagazine",
-      "published": "2026-07-31T16:20:58+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/US-Closes-In-of-Irans-Bitcoin-Insurance-Policy-in-strait-of-hormuz.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagaz",
-      "title_es": "Estados Unidos se acerca al Estrecho de Ormuz en Irán Política de seguros de Bitcoin y sanciones a empresas"
-    },
-    {
       "id": "49be397543a9",
       "title": "US Treasury yields rise as TIPS challenge the inflation narrative",
       "link": "https://cointelegraph.com/markets/us-treasury-yields-rise-as-tips-challenge-the-inflation-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -522,24 +603,6 @@
       "published": "2026-07-31T15:27:00+00:00",
       "summary": "<p>Treasury Secretary Scott Bessent quoted Bitcoin's creator to pressure Senate Democrats into an immediate vote on the Clarity Act crypto regulation bill.</p>\n<p>The post <a href=\"https://cryptonews.com/news/clarity-act-senate-vote-bessent-satoshi/\">Bessent Invokes Satoshi to Force Senate Vote on C",
       "title_es": "Bessent invoca a Satoshi para forzar la votación del Senado sobre la Ley de Claridad de Criptomonedas"
-    },
-    {
-      "id": "02497e80a044",
-      "title": "COLDCARD SECURITY RISK: IMMEDIATE ACTION REQUIRED",
-      "link": "https://bitcoinmagazine.com/news/coldcard-security-risk-immediate-action-required",
-      "source": "bitcoinmagazine",
-      "published": "2026-07-31T15:22:26+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2024/11/coldcard12-scaled.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coldcard-security-risk-immediate-act",
-      "title_es": "RIESGO DE SEGURIDAD DE TARJETA COLADA: SE REQUIERE ACCIÓN INMEDIATA"
-    },
-    {
-      "id": "e1955b06db04",
-      "title": "Coldcard Wallet Flaw Exposes Years of Bitcoin Seeds After $70M in BTC Stolen",
-      "link": "https://bitcoinmagazine.com/news/coldcard-wallet-exposed-after-bitcoin-hack",
-      "source": "bitcoinmagazine",
-      "published": "2026-07-31T15:22:11+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Coldcard-Wallet-Flaw-Exposes-Years-of-Bitcoin-Seeds.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/co",
-      "title_es": "Falla en la billetera Coldcard expone años de semillas de Bitcoin después del robo de $70 millones en BTC"
     },
     {
       "id": "f0d9d6c63106",
@@ -686,15 +749,6 @@
       "title_es": "Circle obtiene el estatuto fiduciario del NYDFS y agrega una capa estatal a la supervisión federal del USDC"
     },
     {
-      "id": "209ed90f5e7a",
-      "title": "Dubai-based crypto exchange tied to $4 billion Iran sanctioned-evasion network",
-      "link": "https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters",
-      "source": "coindesk",
-      "published": "2026-07-31T12:28:02+00:00",
-      "summary": "",
-      "title_es": "Intercambio de criptomonedas con sede en Dubái vinculado a una red de evasión sancionada por Irán de 4.000 millones de dólares"
-    },
-    {
       "id": "c149e7474af8",
       "title": "Morning Minute: Coinbase Posts Surprise Loss as Crypto Trading Dries Up",
       "link": "https://decrypt.co/374781/morning-minute-coinbase-posts-surprise-loss-as-crypto-trading-dries-up",
@@ -702,33 +756,6 @@
       "published": "2026-07-31T12:11:17+00:00",
       "summary": "Plus, BTC is red this morning despite $233M in ETF inflows yesterday; and NY State is trying to shut down Kalshi and seeking $36B in damages",
       "title_es": "Minuto de la mañana: Coinbase publica una pérdida sorpresa a medida que se agota el comercio de criptomonedas"
-    },
-    {
-      "id": "826e00a57bcf",
-      "title": "World Cup bets smash records as prediction markets hit $20 billion in volume",
-      "link": "https://www.coindesk.com/markets/2026/07/31/world-cup-bets-smash-records-as-prediction-markets-hit-usd20-billion-in-volume",
-      "source": "coindesk",
-      "published": "2026-07-31T12:00:26+00:00",
-      "summary": "",
-      "title_es": "Las apuestas de la Copa del Mundo baten récords mientras los mercados de predicción alcanzan un volumen de 20 mil millones de dólares"
-    },
-    {
-      "id": "f2bb901f6183",
-      "title": "U.S. sanctions Iran-linked bitcoin insurance scheme for Strait of Hormuz ships",
-      "link": "https://www.coindesk.com/policy/2026/07/31/u-s-sanctions-iran-linked-bitcoin-insurance-scheme-for-strait-of-hormuz-ships",
-      "source": "coindesk",
-      "published": "2026-07-31T11:58:33+00:00",
-      "summary": "",
-      "title_es": "Estados Unidos sanciona un plan de seguro de bitcoins vinculado a Irán para barcos del Estrecho de Ormuz"
-    },
-    {
-      "id": "0352f1980049",
-      "title": "​Traders brace for an August crypto pull-back as protection against $60,000 bitcoin dip becomes top trade",
-      "link": "https://www.coindesk.com/daybook-us/2026/07/31/bitcoin-usd60-000-put-leads-the-pack-as-mood-swings-bearish-for-august",
-      "source": "coindesk",
-      "published": "2026-07-31T11:36:45+00:00",
-      "summary": "",
-      "title_es": "​Los traders se preparan para un retroceso de las criptomonedas en agosto a medida que la protección contra la caída de $60,000 del bitcoin se convierta en la principal operación"
     },
     {
       "id": "58ff13d82ede",
@@ -765,15 +792,6 @@
       "published": "2026-07-31T11:11:56+00:00",
       "summary": "<p>XRP trades at $1.0792, capped below $1.10 resistance as the Fed holds rates and MiCA approval fuels EU expansion hopes. Here's what the technicals and on-chain data say next.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrp-price-resistance-breakout-analysis/\">Ripple Just Got Full MiCA Au",
       "title_es": "Ripple acaba de obtener la autorización total de MiCA en Europa, pero el tono agresivo de la Fed mantiene el XRP limitado a 1,10 dólares"
-    },
-    {
-      "id": "b8b14bea0242",
-      "title": "Bitcoin, ether fall, equities rally with broader crypto market on track for best month in a year",
-      "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-ether-fall-equities-rally-with-broader-crypto-market-on-track-for-best-month-in-a-year",
-      "source": "coindesk",
-      "published": "2026-07-31T11:07:52+00:00",
-      "summary": "",
-      "title_es": "Bitcoin, caída del éter y repunte de las acciones con un mercado criptográfico más amplio en camino al mejor mes en un año"
     },
     {
       "id": "69b3cfc42a22",
@@ -866,15 +884,6 @@
       "title_es": "$ 38 millones en Bitcoin drenados por falla clave de Coldcard que su creador cree que se encontró con IA"
     },
     {
-      "id": "d39e05dfc638",
-      "title": "Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves",
-      "link": "https://cointelegraph.com/news/aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-31T08:57:53+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-aave-survived-845b-in-withdrawals-but-the-risk-debate-is-not-over.",
-      "title_es": "Aave evalúa cerrar 6 mercados blockchain V3 y eliminar 50 reservas de bajo uso"
-    },
-    {
       "id": "3966b725f299",
       "title": "Crypto News, July 31: July Round Up, Kospi Coming Back, Bitcoin Price Ignores Political Noise as Market Splits",
       "link": "https://cryptonews.com/news/crypto-news-round-up-kospi-back-bitcoin-price-ignores-politics/",
@@ -882,15 +891,6 @@
       "published": "2026-07-31T08:34:08+00:00",
       "summary": "<p>The Kospi ended July with a powerful rebound, while the Bitcoin price stayed remarkably steady despite several major headlines. We watched the Kospi recover sharply as the Bitcoin hovered near $64,300, showing little interest in politics, stock market swings, or a major crypto security breach.Jul",
       "title_es": "Crypto News, 31 de julio: Resumen de julio, Kospi regresa, el precio de Bitcoin ignora el ruido político a medida que el mercado se divide"
-    },
-    {
-      "id": "570557403862",
-      "title": "RWA perpetual futures volume nears Bitcoin on Hyperliquid, Binance",
-      "link": "https://cointelegraph.com/markets/rwa-perpetual-futures-bitcoin-hyperliquid-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-31T08:29:51+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"RWA perpetual futures volume nears Bitcoin on Hyperliquid, Binance\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-to-tokenize-real-world-assets-on-bitcoin-1.jpg\" /></p><p>RWA perpetual f",
-      "title_es": "El volumen de futuros perpetuos de RWA se acerca a Bitcoin en Hyperliquid y Binance"
     },
     {
       "id": "93e76da9d501",
@@ -909,24 +909,6 @@
       "published": "2026-07-31T02:56:53+00:00",
       "summary": "<p>Coinkite recommends that Mk3 users create a strong, unique BIP-39 passphrase on the device and move funds to the resulting wallet.</p>",
       "title_es": "\"Los fondos pueden estar en riesgo\": Coinkite emite una advertencia para los usuarios de Coldcard Mk3 en medio de informes de robo de 594 BTC"
-    },
-    {
-      "id": "63ee5e79f365",
-      "title": "Stablecoin Reserve Requirements Explained",
-      "link": "https://www.theblock.co/learn/410234/stablecoin-reserve-requirements-explained?utm_source=rss&utm_medium=rss",
-      "source": "theblock",
-      "published": "2026-07-31T02:31:26+00:00",
-      "summary": "<p>A stablecoin is a digital asset designed to maintain a steady value by pegging its price to another asset, most commonly a fiat currency like the U.S. dollar. Stablecoin reserve requirements are the rules determining the assets an issuer must hold to back up every stablecoin it puts into circulat",
-      "title_es": "Explicación de los requisitos de reserva de Stablecoin"
-    },
-    {
-      "id": "cbce06235aa4",
-      "title": "Stablecoins and Cross-Border Payments: How Digital Dollars Move Across Borders",
-      "link": "https://www.theblock.co/learn/410227/stablecoins-and-cross-border-payments?utm_source=rss&utm_medium=rss",
-      "source": "theblock",
-      "published": "2026-07-31T01:53:33+00:00",
-      "summary": "<p>Stablecoins are a type of cryptocurrency designed to hold a fixed value against a reference currency, most commonly one U.S. dollar. Transferring stablecoins across countries is unlike transferring money through a bank: A sender converts their local currency into a stablecoin, sends it to the rec",
-      "title_es": "Stablecoins y pagos transfronterizos: cómo los dólares digitales cruzan las fronteras"
     },
     {
       "id": "c9e635553f9d",
@@ -956,24 +938,6 @@
       "title_es": "La IA de Elon Musk Grok predice que Ethereum alcanzará este precio a finales de 2026"
     },
     {
-      "id": "f67d5b2a77b8",
-      "title": "Strategy posts $8.2 billion loss as bitcoin holdings increase 11% during Q2",
-      "link": "https://www.theblock.co/post/410212/strategy-posts-8-2-billion-loss-as-bitcoin-holdings-increase-11-during-q2?utm_source=rss&utm_medium=rss",
-      "source": "theblock",
-      "published": "2026-07-30T21:38:40+00:00",
-      "summary": "<p>The price of bitcoin was more than 40% lower at the end of this year's second quarter when compared to Q2 2025.</p>",
-      "title_es": "La estrategia registra una pérdida de 8.200 millones de dólares a medida que las tenencias de bitcoins aumentan un 11% durante el segundo trimestre"
-    },
-    {
-      "id": "984b835bc32e",
-      "title": "‘Bitcoin Senator’ Cynthia Lummis Blasts Democrats For Stalling Crypto Clarity Act",
-      "link": "https://bitcoinmagazine.com/news/cynthia-lummis-blasts-democrats-on-clarity",
-      "source": "bitcoinmagazine",
-      "published": "2026-07-30T21:37:45+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/05/President-Trump-Supports-Strategic-Bitcoin-Reserve-Bill-Senator-Lummis-Says.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bit",
-      "title_es": "La 'senadora de Bitcoin' Cynthia Lummis critica a los demócratas por detener la Ley de Claridad de Criptomonedas"
-    },
-    {
       "id": "7d2e91c9d2b7",
       "title": "Coinbase Misses on Q2 Earnings as Crypto Trading Activity Slows",
       "link": "https://decrypt.co/374761/coinbase-misses-q2-earnings-crypto-trading-activity-slows",
@@ -981,24 +945,6 @@
       "published": "2026-07-30T21:19:12+00:00",
       "summary": "The exchange reported lower quarterly revenue and a net loss as crypto trading activity declined, while subscription, stablecoin, and lending businesses continued to grow.",
       "title_es": "Coinbase pierde las ganancias del segundo trimestre a medida que se desacelera la actividad comercial de criptomonedas"
-    },
-    {
-      "id": "e729b4b27869",
-      "title": "Bitcoin Treasury Strategy Posts $8.2B Loss As BTC Price Suffered",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-treasury-strategy-posts-loss",
-      "source": "bitcoinmagazine",
-      "published": "2026-07-30T21:00:08+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bi",
-      "title_es": "La estrategia del Tesoro de Bitcoin registra una pérdida de 8.200 millones de dólares a medida que el precio de BTC sufrió"
-    },
-    {
-      "id": "cc1843075c45",
-      "title": "Legendary Investor Ray Dalio Still Holds Bitcoin — But Only 1% of His Portfolio",
-      "link": "https://bitcoinmagazine.com/news/ray-dalio-prefers-gold-over-bitcoin",
-      "source": "bitcoinmagazine",
-      "published": "2026-07-30T19:57:05+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/11/Ray-Dalio-Reaffirms-Bitcoin-Skepticism-Says-He-Still-Holds-Just-1-Allocation.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bi",
-      "title_es": "El legendario inversor Ray Dalio todavía posee Bitcoin, pero solo el 1% de su cartera"
     },
     {
       "id": "1f40a2bfe14a",
@@ -1017,15 +963,6 @@
       "published": "2026-07-30T19:13:46+00:00",
       "summary": "A multi-institution study found that today's frontier AI agents could handle the mechanics of research but failed to produce original work worthy of acceptance at a top AI conference.",
       "title_es": "Los investigadores intentaron dejar que la IA hiciera ciencia. falló"
-    },
-    {
-      "id": "7874324ce1de",
-      "title": "Treasury Secretary Scott Bessent Urges Lawmakers to Vote on Clarity Act, Quotes Satoshi Nakamoto",
-      "link": "https://bitcoinmagazine.com/news/scott-bessent-urges-vote-on-clarity-act",
-      "source": "bitcoinmagazine",
-      "published": "2026-07-30T18:07:56+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/04/Scott-Bessent-Bond-Strategy.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/scott-bessent-urges-vote-o",
-      "title_es": "El secretario del Tesoro, Scott Bessent, insta a los legisladores a votar sobre la Ley de Claridad, cita a Satoshi Nakamoto"
     },
     {
       "id": "8be343902f5b",
@@ -1073,15 +1010,6 @@
       "title_es": "Australia demanda a Telegram por 38 millones de dólares por vídeos “proterroristas”"
     },
     {
-      "id": "75277093cb6d",
-      "title": "'Completely Legal': GrapheneOS Pushes Back as Duress Password Case Proceeds",
-      "link": "https://decrypt.co/374705/completely-legal-grapheneos-pushes-back-as-duress-password-case-proceeds",
-      "source": "decrypt",
-      "published": "2026-07-30T13:25:27+00:00",
-      "summary": "Activist Samuel Tunick said his prosecution is meant to set a precedent against privacy and \"intimidate people.\"",
-      "title_es": "'Completamente legal': GrapheneOS retrocede a medida que avanza el caso de contraseña de coacción"
-    },
-    {
       "id": "4f7364fed1ca",
       "title": "BNB Price Prediction: Binance Chain Dominates Weekly DEX Volume Amid Memecoin Revival",
       "link": "https://cryptonews.com/news/bnb-price-prediction-dex-volume/",
@@ -1089,15 +1017,6 @@
       "published": "2026-07-30T12:20:40+00:00",
       "summary": "<p>BNB is trading at $588.87 as Binance Chain posts $19B in weekly DEX volume. Here's what key resistance at $646 means for the next price move, plus analyst targets.</p>\n<p>The post <a href=\"https://cryptonews.com/news/bnb-price-prediction-dex-volume/\">BNB Price Prediction: Binance Chain Dominates ",
       "title_es": "Predicción del precio de BNB: Binance Chain domina el volumen semanal de DEX en medio del resurgimiento de Memecoin"
-    },
-    {
-      "id": "3fd95688c5b6",
-      "title": "Morning Minute: Robinhood Posts Its Best Quarter Ever",
-      "link": "https://decrypt.co/374702/morning-minute-robinhood-posts-its-best-quarter-ever",
-      "source": "decrypt",
-      "published": "2026-07-30T12:01:11+00:00",
-      "summary": "Plus markets are rebounding after a slightly hawkish FOMC, BTC ETFs flip to inflows and MoonPay launches a new AI product + airdrop",
-      "title_es": "Minuto de la mañana: Robinhood registra el mejor trimestre de su historia"
     },
     {
       "id": "a4d9c72553ca",
@@ -1125,15 +1044,6 @@
       "published": "2026-07-30T10:58:35+00:00",
       "summary": "<p>Dogecoin's long/short ratio hits 3.3:1 with 78–79% of futures accounts net long. DOGE trades at $0.0700 — here's what the derivatives data means for price this week.</p>\n<p>The post <a href=\"https://cryptonews.com/news/dogecoin-long-short-ratio-bullish/\">Dogecoin Long Short Ratio Goes Too Bullish",
       "title_es": "La relación larga y corta de Dogecoin se vuelve demasiado alcista en 3,3:1"
-    },
-    {
-      "id": "ce73637da60e",
-      "title": "Ethereum Price Prediction: Foundation Adds Pascal Caversaccio to Its Board",
-      "link": "https://cryptonews.com/news/ethereum-price-prediction-caversaccio-board/",
-      "source": "cryptonews",
-      "published": "2026-07-30T10:16:00+00:00",
-      "summary": "<p>Ethereum trades at $1,914.35 as the Foundation appoints SEAL 911 co-founder Pascal Caversaccio to its board. Here's what it means for ETH price and where the key levels sit.</p>\n<p>The post <a href=\"https://cryptonews.com/news/ethereum-price-prediction-caversaccio-board/\">Ethereum Price Predictio",
-      "title_es": "Predicción del precio de Ethereum: la Fundación agrega a Pascal Caversaccio a su junta directiva"
     }
   ]
 }
