@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T21:47:18.287924+00:00",
-  "count": 115,
+  "updated_at": "2026-08-02T10:28:01.442730+00:00",
+  "count": 125,
   "sources": [
     "coindesk",
     "cointelegraph",
@@ -10,6 +10,33 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "fc919dbad7ec",
+      "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
+      "link": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-08-02T09:29:15+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-trump-on-bitcoin.jpg\" /></p><p>Trump Media transferred another 2,628 Bitcoin to",
+      "title_es": "Trump Media vende otros 2.628 BTC, las tenencias caen a 4.261 BTC"
+    },
+    {
+      "id": "76ab1044b69c",
+      "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
+      "link": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-08-02T08:04:56+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-segwit-explained2-1.jpg\" /></p><p>Bitcoin users moved 39,600 BTC in ",
+      "title_es": "El hackeo de Coldcard provoca el mayor movimiento de BTC por debajo de 1 desde FTX: CryptoQuant"
+    },
+    {
+      "id": "3b00b8e0b45f",
+      "title": "Strategy holds STRC dividend at 12%",
+      "link": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
+      "source": "coindesk",
+      "published": "2026-08-01T22:01:57+00:00",
+      "summary": "",
+      "title_es": "La estrategia mantiene el dividendo de STRC en un 12%"
+    },
     {
       "id": "f55f5c5988e4",
       "title": "Iran-linked exchange sent $676 million to Binance in alleged sanctions-evasion operation: Reuters",
@@ -236,6 +263,15 @@
       "title_es": "Cómo las billeteras frías de bitcoin perdieron $70 millones en un ataque que nunca tocó los dispositivos"
     },
     {
+      "id": "10719e3de75d",
+      "title": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report",
+      "link": "https://bitcoinmagazine.com/news/coldcard-thief-used-blockchain-service",
+      "source": "bitcoinmagazine",
+      "published": "2026-07-31T21:01:14+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Coldcard-Bitcoin-Thief-Likely-Used-Top-Blockchain-Services-Provider.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmaga",
+      "title_es": "El ladrón de Bitcoin de Coldcard probablemente utilizó el principal proveedor de servicios Blockchain: informe"
+    },
+    {
       "id": "dc0e0a9d504e",
       "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
       "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
@@ -317,6 +353,15 @@
       "title_es": "Pump.fun despidió a trabajadores antes de que recibieran millones en tokens PUMP: Informe"
     },
     {
+      "id": "a1c8a679fc03",
+      "title": "Younger Democrats Understand Clarity Act And Bill Should Pass, Says Coinbase’s Chief Policy Officer",
+      "link": "https://bitcoinmagazine.com/news/clarity-act-should-pass-says-coinbase",
+      "source": "bitcoinmagazine",
+      "published": "2026-07-31T19:12:37+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Younger-Democrats-Understand-Clarity-Act.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/clarity-act-s",
+      "title_es": "Los demócratas más jóvenes entienden la Ley de Claridad y el proyecto de ley debería aprobarse, dice el director de políticas de Coinbase"
+    },
+    {
       "id": "008b26263c4c",
       "title": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
       "link": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
@@ -342,6 +387,15 @@
       "published": "2026-07-31T17:58:47+00:00",
       "summary": "<p>Tether swung from $4.9 billion in net profit for Q2 2025 to $1.5 in net operating profit during the second quarter of this year.</p>",
       "title_es": "El exceso de reservas de Tether cae en más de $4 mil millones de dólares en medio de resultados financieros más débiles del segundo trimestre"
+    },
+    {
+      "id": "894b34253f14",
+      "title": "Coinkite Releases Fixed Firmware After Coldcard Bug; AI Likely Involved In The Breach",
+      "link": "https://bitcoinmagazine.com/business/coinkite-releases-fixed-firmware-after-coldcard-bug-ai-likely-involved-in-the-hack",
+      "source": "bitcoinmagazine",
+      "published": "2026-07-31T17:57:02+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tn2-3.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/coinkite-releases-fixed-firmware-after-cold",
+      "title_es": "Coinkite lanza firmware reparado después del error de Coldcard; Es probable que la IA esté involucrada en la infracción"
     },
     {
       "id": "26282105c336",
@@ -416,6 +470,15 @@
       "title_es": "Bybit agrega acciones tokenizadas de Nvidia, Apple y Tesla como garantía de préstamo"
     },
     {
+      "id": "a41cacfd1020",
+      "title": "US Closes in on Iran’s Strait of Hormuz Bitcoin Insurance Policy, Sanctions Companies",
+      "link": "https://bitcoinmagazine.com/news/us-sanctions-iran-companies-using-bitcoin",
+      "source": "bitcoinmagazine",
+      "published": "2026-07-31T16:20:58+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/US-Closes-In-of-Irans-Bitcoin-Insurance-Policy-in-strait-of-hormuz.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagaz",
+      "title_es": "Estados Unidos se acerca al Estrecho de Ormuz en Irán Política de seguros de Bitcoin y sanciones a empresas"
+    },
+    {
       "id": "49be397543a9",
       "title": "US Treasury yields rise as TIPS challenge the inflation narrative",
       "link": "https://cointelegraph.com/markets/us-treasury-yields-rise-as-tips-challenge-the-inflation-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -459,6 +522,24 @@
       "published": "2026-07-31T15:27:00+00:00",
       "summary": "<p>Treasury Secretary Scott Bessent quoted Bitcoin's creator to pressure Senate Democrats into an immediate vote on the Clarity Act crypto regulation bill.</p>\n<p>The post <a href=\"https://cryptonews.com/news/clarity-act-senate-vote-bessent-satoshi/\">Bessent Invokes Satoshi to Force Senate Vote on C",
       "title_es": "Bessent invoca a Satoshi para forzar la votación del Senado sobre la Ley de Claridad de Criptomonedas"
+    },
+    {
+      "id": "02497e80a044",
+      "title": "COLDCARD SECURITY RISK: IMMEDIATE ACTION REQUIRED",
+      "link": "https://bitcoinmagazine.com/news/coldcard-security-risk-immediate-action-required",
+      "source": "bitcoinmagazine",
+      "published": "2026-07-31T15:22:26+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2024/11/coldcard12-scaled.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coldcard-security-risk-immediate-act",
+      "title_es": "RIESGO DE SEGURIDAD DE TARJETA COLADA: SE REQUIERE ACCIÓN INMEDIATA"
+    },
+    {
+      "id": "e1955b06db04",
+      "title": "Coldcard Wallet Flaw Exposes Years of Bitcoin Seeds After $70M in BTC Stolen",
+      "link": "https://bitcoinmagazine.com/news/coldcard-wallet-exposed-after-bitcoin-hack",
+      "source": "bitcoinmagazine",
+      "published": "2026-07-31T15:22:11+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Coldcard-Wallet-Flaw-Exposes-Years-of-Bitcoin-Seeds.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/co",
+      "title_es": "Falla en la billetera Coldcard expone años de semillas de Bitcoin después del robo de $70 millones en BTC"
     },
     {
       "id": "f0d9d6c63106",
@@ -749,15 +830,6 @@
       "title_es": "Nueva York demanda a Kalshi por supuesta operación de juego ilegal"
     },
     {
-      "id": "2b47c4734282",
-      "title": "New York sues Kalshi, alleges it offers a gambling platform 'plain and simple'",
-      "link": "https://www.coindesk.com/policy/2026/07/31/new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple",
-      "source": "coindesk",
-      "published": "2026-07-31T09:55:47+00:00",
-      "summary": "",
-      "title_es": "Nueva York demanda a Kalshi, alega que ofrece una plataforma de juegos de azar \"simple y llanamente\""
-    },
-    {
       "id": "4cc4ac164e8b",
       "title": "Ethereum Price Prediction: Blackrock Backed Stablecoin to Launch on ETH",
       "link": "https://cryptonews.com/news/ethereum-price-prediction-blackrock-stablecoin/",
@@ -830,24 +902,6 @@
       "title_es": "Nueva York demanda a Kalshi por reclamaciones de juegos de azar ilegales y pide 36.000 millones de dólares en daños y perjuicios"
     },
     {
-      "id": "7c5838cd4056",
-      "title": "Bitcoin ETFs post $233M inflows, pushing week back into the green",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-inflows-week-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-31T06:46:23+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs post $233M inflows, pushing week back into the green\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/btc-etf-waiting-2.png\" /></p><p>BlackRock’s IBIT led $233.1 million in daily inf",
-      "title_es": "Los ETF de Bitcoin registran entradas de 233 millones de dólares, lo que hace que la semana vuelva al verde"
-    },
-    {
-      "id": "d45789a79167",
-      "title": "Crypto’s next altseason may have fewer winners: Wintermute",
-      "link": "https://cointelegraph.com/news/crypto-next-altseason-fewer-winners-wintermute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-07-31T04:46:14+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto’s next altseason may have fewer winners: Wintermute\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-has-the-new-altseason-begun-1.jpg\" /></p><p>Institutional investors accounted for 72",
-      "title_es": "La próxima temporada alternativa de Crypto puede tener menos ganadores: Wintermute"
-    },
-    {
       "id": "6c96fca102f7",
       "title": "‘Funds may be at risk’: Coinkite issues warning for Coldcard Mk3 users amid 594 BTC theft reports",
       "link": "https://www.theblock.co/post/410235/coinkite-coldcard-mk3-warning?utm_source=rss&utm_medium=rss",
@@ -911,6 +965,15 @@
       "title_es": "La estrategia registra una pérdida de 8.200 millones de dólares a medida que las tenencias de bitcoins aumentan un 11% durante el segundo trimestre"
     },
     {
+      "id": "984b835bc32e",
+      "title": "‘Bitcoin Senator’ Cynthia Lummis Blasts Democrats For Stalling Crypto Clarity Act",
+      "link": "https://bitcoinmagazine.com/news/cynthia-lummis-blasts-democrats-on-clarity",
+      "source": "bitcoinmagazine",
+      "published": "2026-07-30T21:37:45+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/05/President-Trump-Supports-Strategic-Bitcoin-Reserve-Bill-Senator-Lummis-Says.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bit",
+      "title_es": "La 'senadora de Bitcoin' Cynthia Lummis critica a los demócratas por detener la Ley de Claridad de Criptomonedas"
+    },
+    {
       "id": "7d2e91c9d2b7",
       "title": "Coinbase Misses on Q2 Earnings as Crypto Trading Activity Slows",
       "link": "https://decrypt.co/374761/coinbase-misses-q2-earnings-crypto-trading-activity-slows",
@@ -918,6 +981,24 @@
       "published": "2026-07-30T21:19:12+00:00",
       "summary": "The exchange reported lower quarterly revenue and a net loss as crypto trading activity declined, while subscription, stablecoin, and lending businesses continued to grow.",
       "title_es": "Coinbase pierde las ganancias del segundo trimestre a medida que se desacelera la actividad comercial de criptomonedas"
+    },
+    {
+      "id": "e729b4b27869",
+      "title": "Bitcoin Treasury Strategy Posts $8.2B Loss As BTC Price Suffered",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-treasury-strategy-posts-loss",
+      "source": "bitcoinmagazine",
+      "published": "2026-07-30T21:00:08+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bi",
+      "title_es": "La estrategia del Tesoro de Bitcoin registra una pérdida de 8.200 millones de dólares a medida que el precio de BTC sufrió"
+    },
+    {
+      "id": "cc1843075c45",
+      "title": "Legendary Investor Ray Dalio Still Holds Bitcoin — But Only 1% of His Portfolio",
+      "link": "https://bitcoinmagazine.com/news/ray-dalio-prefers-gold-over-bitcoin",
+      "source": "bitcoinmagazine",
+      "published": "2026-07-30T19:57:05+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/11/Ray-Dalio-Reaffirms-Bitcoin-Skepticism-Says-He-Still-Holds-Just-1-Allocation.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bi",
+      "title_es": "El legendario inversor Ray Dalio todavía posee Bitcoin, pero solo el 1% de su cartera"
     },
     {
       "id": "1f40a2bfe14a",
@@ -936,6 +1017,15 @@
       "published": "2026-07-30T19:13:46+00:00",
       "summary": "A multi-institution study found that today's frontier AI agents could handle the mechanics of research but failed to produce original work worthy of acceptance at a top AI conference.",
       "title_es": "Los investigadores intentaron dejar que la IA hiciera ciencia. falló"
+    },
+    {
+      "id": "7874324ce1de",
+      "title": "Treasury Secretary Scott Bessent Urges Lawmakers to Vote on Clarity Act, Quotes Satoshi Nakamoto",
+      "link": "https://bitcoinmagazine.com/news/scott-bessent-urges-vote-on-clarity-act",
+      "source": "bitcoinmagazine",
+      "published": "2026-07-30T18:07:56+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/04/Scott-Bessent-Bond-Strategy.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/scott-bessent-urges-vote-o",
+      "title_es": "El secretario del Tesoro, Scott Bessent, insta a los legisladores a votar sobre la Ley de Claridad, cita a Satoshi Nakamoto"
     },
     {
       "id": "8be343902f5b",
