@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T21:22:10.002056+00:00",
+  "updated_at": "2026-08-09T09:31:41.969526+00:00",
   "count": 115,
   "sources": [
     "coindesk",
@@ -10,6 +10,51 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "dda2662a6af0",
+      "title": "Brazil targets crypto fraud with up to 24-hour transfer hold",
+      "link": "https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-08-09T09:10:39+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Brazil targets crypto fraud with up to 24-hour transfer hold \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-latin-america-and-blockchain-2.jpg\" /></p><p>The rules, effective Jan. 1, 2027, c",
+      "title_es": "Brasil apunta al fraude criptográfico con retención de transferencias de hasta 24 horas"
+    },
+    {
+      "id": "47f2a856b3ad",
+      "title": "BTCPay restricts remote Lightning access after attackers steal funds",
+      "link": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-08-09T05:46:07+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTCPay restricts remote Lightning access after attackers steal funds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/thief-bitcoin.png\" /></p><p>Foundation and Citadel21 reported drained Lightni",
+      "title_es": "BTCPay restringe el acceso remoto a Lightning después de que los atacantes robaran fondos"
+    },
+    {
+      "id": "6f6f6b675de9",
+      "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
+      "link": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
+      "source": "coindesk",
+      "published": "2026-08-09T05:08:20+00:00",
+      "summary": "",
+      "title_es": "La controvertida bifurcación de Bitcoin BIP-110 extrae dos bloques y luego se detiene"
+    },
+    {
+      "id": "2deeb9990739",
+      "title": "Bitcoin’s BIP-110 supporters split onto minority chain as main network pulls ahead",
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213?utm_source=rss&utm_medium=rss",
+      "source": "theblock",
+      "published": "2026-08-08T22:05:44+00:00",
+      "summary": "<p>BIP-110 is a proposed one-year change that limits non-financial data on Bitcoin and has sparked a debate over how Bitcoin's block space should be used.</p>",
+      "title_es": "Los partidarios de BIP-110 de Bitcoin se dividen en una cadena minoritaria a medida que la red principal avanza"
+    },
+    {
+      "id": "63ede67b6111",
+      "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
+      "link": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-08-08T21:17:08+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/the-bitcoin-and-bitcoin-cash-wars.png\" /></p><p>The deployment milestone ",
+      "title_es": "El BIP-110 de Bitcoin ingresa a la señalización obligatoria con un soporte de minero inferior al 3%"
+    },
     {
       "id": "2988806074ad",
       "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
@@ -722,15 +767,6 @@
       "title_es": "El retraso de la Ley CLARITY brinda una oportunidad a los centros financieros asiáticos: primer director ejecutivo digital"
     },
     {
-      "id": "334267b79fdd",
-      "title": "Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks",
-      "link": "https://www.coindesk.com/business/2026/08/07/wintermute-gains-u-s-broker-dealer-status-in-wall-street-push",
-      "source": "coindesk",
-      "published": "2026-08-07T08:46:17+00:00",
-      "summary": "",
-      "title_es": "El creador de mercados criptográficos Wintermute obtiene la aprobación de la SEC para negociar acciones y bloques de ETF"
-    },
-    {
       "id": "3fe140e5914e",
       "title": "Coldcard exploit pushes July losses to $247M as second-worst month of 2026",
       "link": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -749,15 +785,6 @@
       "title_es": "La FSA de Japón pide a los intercambios de cifrado que impongan retrasos en los retiros para combatir las estafas"
     },
     {
-      "id": "f44582c6177d",
-      "title": "Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg",
-      "link": "https://cointelegraph.com/news/proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-08-07T05:04:22+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-trump.jpg\" /",
-      "title_es": "El acuerdo de ética propuesto por CLARITY podría ahorrarle a Trump millones en impuestos: Bloomberg"
-    },
-    {
       "id": "c5c1f5f0c1e2",
       "title": "Cathie Wood’s Ark Invest buys $21 million in Block as stock drops 6%",
       "link": "https://www.theblock.co/news/business/2026-08-07-cathie-wood-ark-invest-buys-21-million-block-411075?utm_source=rss&utm_medium=rss",
@@ -767,15 +794,6 @@
       "title_es": "Ark Invest de Cathie Wood compra 21 millones de dólares en Block mientras las acciones caen un 6%"
     },
     {
-      "id": "5b98847263ca",
-      "title": "Bitget explores licensed crypto presence in Bhutan",
-      "link": "https://cointelegraph.com/news/bitget-explores-licensed-crypto-presence-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-08-07T03:22:26+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget explores licensed crypto presence in Bhutan\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/building-bitcoin-investment-bhutan.jpg\" /></p><p>Crypto exchange Bitget has signed an agreement",
-      "title_es": "Bitget explora la presencia de criptomonedas con licencia en Bután"
-    },
-    {
       "id": "8502458fec87",
       "title": "Senate delays Clarity Act vote until after August recess, Thune confirms",
       "link": "https://www.theblock.co/news/regulation/2026-08-06-senate-delays-clarity-act-vote-411083?utm_source=rss&utm_medium=rss",
@@ -783,15 +801,6 @@
       "published": "2026-08-07T02:55:45+00:00",
       "summary": "<p>Senate Majority Leader John Thune confirmed with The Block, saying: 'We're getting that queued up first thing when we come back.'</p>",
       "title_es": "El Senado retrasa la votación de la Ley de Claridad hasta después del receso de agosto, confirma Thune"
-    },
-    {
-      "id": "12fba5549741",
-      "title": "US Senate pushes CLARITY Act vote to September",
-      "link": "https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-08-07T02:49:53+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senate pushes CLARITY Act vote to September\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-civil-war.jpg\" /></p><p>Senate Majority Leader John Thune confirmed that the cha",
-      "title_es": "El Senado de Estados Unidos aplaza la votación de la Ley CLARITY hasta septiembre"
     },
     {
       "id": "5a675e8dd3e0",
@@ -863,7 +872,7 @@
       "source": "decrypt",
       "published": "2026-08-06T21:01:03+00:00",
       "summary": "Tokyo has asked Washington to stop meme-posting Mario, Pokémon, and Naruto without permission in a clash between meme-heavy statecraft and strict IP norms.",
-      "title_es": "Tokio le dice a Trump que deje de hacer memes de Mario"
+      "title_es": "Tokio le dice a Trump que deje de hacer memes sobre Mario"
     },
     {
       "id": "0b7d5f7344ab",
@@ -927,15 +936,6 @@
       "published": "2026-08-06T18:13:40+00:00",
       "summary": "On-chain data shows big holders quietly buying XRP near $1, yet the daily chart is still trapped below a death cross.",
       "title_es": "XRP y las ballenas Bitcoin se están acumulando: ¿está casi terminando el mercado bajista?"
-    },
-    {
-      "id": "8ce8dd2b47a5",
-      "title": "DePIN project Vangrid raises $9 million in token round to build spatial data network for physical AI",
-      "link": "https://www.theblock.co/news/deals/2026-08-06-depin-project-vangrid-funding-token-round-spatial-data-physical-ai-411022?utm_source=rss&utm_medium=rss",
-      "source": "theblock",
-      "published": "2026-08-06T18:03:58+00:00",
-      "summary": "<p>Vangrid contributors are currently paid bounties, Brighton said, noting that a token is planned for later this year.</p>",
-      "title_es": "El proyecto DePIN Vangrid recauda 9 millones de dólares en una ronda simbólica para construir una red de datos espaciales para la IA física"
     },
     {
       "id": "47ab8daad98b",
