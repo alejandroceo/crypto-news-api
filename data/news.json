@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T09:20:24.174204+00:00",
-  "count": 125,
+  "updated_at": "2026-08-16T21:12:57.671155+00:00",
+  "count": 115,
   "sources": [
     "coindesk",
     "cointelegraph",
@@ -10,6 +10,114 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "1ae4433732c5",
+      "title": "The SEC meeting that wasn't: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
+      "source": "coindesk",
+      "published": "2026-08-16T18:30:00+00:00",
+      "summary": "",
+      "title_es": "La reunión de la SEC que no fue: Estado de las criptomonedas"
+    },
+    {
+      "id": "5af63634c279",
+      "title": "Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers",
+      "link": "https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934",
+      "source": "theblock",
+      "published": "2026-08-16T17:18:38+00:00",
+      "summary": "SafePal said it found the root cause of the breach recently, though customers had posted online about being targeted by phishing attempts as early as July.",
+      "title_es": "El proveedor de billetera SafePal dice que la violación de datos expuso información personal de casi 40.000 clientes"
+    },
+    {
+      "id": "a90876008ce9",
+      "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore",
+      "link": "https://decrypt.co/375730/gemini-3-7-flash-review-google-cheap-model",
+      "source": "decrypt",
+      "published": "2026-08-16T16:00:05+00:00",
+      "summary": "Three weeks after a Flash release that couldn't produce a working file, Google's budget tier zero-shots a playable game. It still can't reason, and a free 27B model still writes better.",
+      "title_es": "Revisión flash de Gemini 3.7: el modelo barato de Google ya no es tonto"
+    },
+    {
+      "id": "2db8474cbcf5",
+      "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
+      "link": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
+      "source": "coindesk",
+      "published": "2026-08-16T16:00:00+00:00",
+      "summary": "",
+      "title_es": "Los inversores en criptomonedas están mirando más allá de las clasificaciones de capitalización de mercado y volviendo a los fundamentos"
+    },
+    {
+      "id": "01f80166df3f",
+      "title": "Hackers exploited macOS Screen Sharing flaw to install Monero miners, Dutch cyber agency says",
+      "link": "https://www.theblock.co/news/defi/2026-08-16-hackers-exploited-macos-screen-sharing-flaw-to-install-monero-miners-dutch-cyber-agency-says-411932",
+      "source": "theblock",
+      "published": "2026-08-16T15:07:00+00:00",
+      "summary": "U.S. officials rated the severity of the vulnerability a critical 9.8/10 on the CVSS scale, and experts are warning users to update their devices.",
+      "title_es": "Los piratas informáticos explotaron la falla de macOS Screen Sharing para instalar mineros de Monero, dice la agencia cibernética holandesa"
+    },
+    {
+      "id": "645cb2881b47",
+      "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
+      "link": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
+      "source": "coindesk",
+      "published": "2026-08-16T14:02:32+00:00",
+      "summary": "",
+      "title_es": "La billetera criptográfica SafePal revela una violación de datos que expone la información de los pedidos de casi 40.000 clientes"
+    },
+    {
+      "id": "611ff4c86c43",
+      "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
+      "link": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
+      "source": "decrypt",
+      "published": "2026-08-16T14:01:03+00:00",
+      "summary": "A California bill is awaiting an Assembly vote to \"place guardrails\" around AI chatbots and prevent them from acting as therapists.",
+      "title_es": "La gente está recurriendo a la IA para la salud mental, California quiere que se prohíba"
+    },
+    {
+      "id": "eeda11a715d2",
+      "title": "MiCA's cleanup is creating a new scam wave across the European Union",
+      "link": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
+      "source": "coindesk",
+      "published": "2026-08-16T14:00:00+00:00",
+      "summary": "",
+      "title_es": "La limpieza de MiCA está creando una nueva ola de estafas en toda la Unión Europea"
+    },
+    {
+      "id": "07f26fba6018",
+      "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
+      "link": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
+      "source": "coindesk",
+      "published": "2026-08-16T13:00:00+00:00",
+      "summary": "",
+      "title_es": "El choque de rendimiento de las monedas estables que no desaparecerá tiene a los bancos y a las criptomonedas luchando por la tradición"
+    },
+    {
+      "id": "dfa61178ed39",
+      "title": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
+      "link": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-08-16T12:48:09+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-hackers-fishing.jpg\" /></p><p>DefiLlama’s founder said Apple re",
+      "title_es": "DefiLlama retrasó el lanzamiento móvil debido a aplicaciones de phishing en Apple Store, dice su fundador"
+    },
+    {
+      "id": "dffe81810c25",
+      "title": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
+      "link": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
+      "source": "coindesk",
+      "published": "2026-08-16T12:00:00+00:00",
+      "summary": "",
+      "title_es": "La era del 'bitcoin largo, corto de los banqueros' ha terminado oficialmente cuando los gigantes de TradFi adoptan los activos digitales"
+    },
+    {
+      "id": "377809ee417e",
+      "title": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
+      "link": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-08-16T11:12:51+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum devs to narrow 66 proposals tied to Hegotá upgrade\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-ethereum-encryption.jpg\" /></p><p>The Hegotá upgrade aims to introduce more",
+      "title_es": "Los desarrolladores de Ethereum reducirán 66 propuestas vinculadas a la actualización de Hegotá"
+    },
     {
       "id": "9f6e77779e01",
       "title": "JPMorgan cut Polymarket’s banking ties in October but still wants a role in a potential IPO: FT",
@@ -200,15 +308,6 @@
       "title_es": "Se espera que Trump asista a la reunión de la Casa Blanca con los directores ejecutivos de criptomonedas, dicen las fuentes"
     },
     {
-      "id": "80dac1db6e74",
-      "title": "Edelman Financial, Tudor Investment Reveal Significant Bitcoin Holdings",
-      "link": "https://bitcoinmagazine.com/news/edelman-financial-reveals-bitcoin-positio",
-      "source": "bitcoinmagazine",
-      "published": "2026-08-14T22:18:16+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Edelman-Financial-Tudor-Investment-Reveal-Significant-Bitcoin-Holdings.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinm",
-      "title_es": "Edelman Financial y Tudor Investment revelan importantes tenencias de Bitcoin"
-    },
-    {
       "id": "2922878f2b92",
       "title": "Gen Z favors ETFs and trades less than older cohorts: Binance",
       "link": "https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -225,15 +324,6 @@
       "published": "2026-08-14T21:19:39+00:00",
       "summary": "President Donald Trump-backed World Liberty Financial secured preliminary approval to become a national trust bank on Friday.",
       "title_es": "La OCC otorga aprobación condicional al banco World Liberty National Trust respaldado por Trump"
-    },
-    {
-      "id": "bd06cbebf30b",
-      "title": "Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions",
-      "link": "https://bitcoinmagazine.com/news/abu-dhabi-funds-keep-big-bitcoin-positions",
-      "source": "bitcoinmagazine",
-      "published": "2026-08-14T21:17:12+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Abu-Dhabis-Mubadala-Raises-Bitcoin-ETF-Stake-16-to-566-Million-in-Q1-2026.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitco",
-      "title_es": "Los fondos soberanos de Abu Dhabi mantienen grandes posiciones en Bitcoin"
     },
     {
       "id": "6dfe6a296ab6",
@@ -261,24 +351,6 @@
       "published": "2026-08-14T21:03:35+00:00",
       "summary": "A hacker is reportedly selling personal and financial records tied to more than 678,000 taxpayers and businesses in France.",
       "title_es": "La filtración de datos fiscales en Francia podría alimentar estafas y ataques dirigidos a titulares de Bitcoin"
-    },
-    {
-      "id": "a0241fe9ab01",
-      "title": "Bitcoiners Warned After French Tax Authority Confirms Data Breach Affecting Hundreds of Thousands",
-      "link": "https://bitcoinmagazine.com/news/bitcoiners-warned-of-wrench-attacks",
-      "source": "bitcoinmagazine",
-      "published": "2026-08-14T20:42:48+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoiners-Warned-After-French-Tax-Authority-Confirms-Data-Breach-Affecting-Hundreds-of-Thousands.jpg\" style=\"display: block; margin: 1em auto;\" /><br /",
-      "title_es": "Se advierte a los bitcoiners después de que la autoridad tributaria francesa confirmara una violación de datos que afecta a cientos de miles"
-    },
-    {
-      "id": "58d8de73a8d4",
-      "title": "Citi CEO Wants ‘Good’ Crypto Clarity Act To Get Passed",
-      "link": "https://bitcoinmagazine.com/news/citi-ceo-wants-clarity-act-passed",
-      "source": "bitcoinmagazine",
-      "published": "2026-08-14T20:03:41+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Banking-Lobby-CEO-Talks-Crypto-Clarity-Act-as-Senators-Race-To-Pass-Bill.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoi",
-      "title_es": "El director ejecutivo de Citi quiere que se apruebe la \"buena\" ley de claridad criptográfica"
     },
     {
       "id": "cc638a115641",
@@ -368,7 +440,7 @@
       "source": "coindesk",
       "published": "2026-08-14T17:48:04+00:00",
       "summary": "",
-      "title_es": "Las acciones de tokenización caen a medida que el retraso de la SEC pone un \"bajón de velocidad\" en el impulso de las criptomonedas en Wall Street"
+      "title_es": "Las acciones de tokenización caen a medida que el retraso de la SEC pone un 'bajón de velocidad' en el impulso de las criptomonedas en Wall Street"
     },
     {
       "id": "b134609ac3b2",
@@ -378,15 +450,6 @@
       "published": "2026-08-14T17:46:06+00:00",
       "summary": "Galaxy Research says the lull likely means vulnerable holders migrated, or were already emptied.",
       "title_es": "Los robos de Bitcoin con tarjeta fría disminuyen, pero las pérdidas podrían superar los $ 150 millones: Galaxy"
-    },
-    {
-      "id": "ffdbb8fffb18",
-      "title": "Bitcoin Treasury Strategy Bites Back After MSCI Announces Possible Index Removal",
-      "link": "https://bitcoinmagazine.com/news/strategy-slams-msci-possible-index-removal",
-      "source": "bitcoinmagazine",
-      "published": "2026-08-14T17:24:58+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/01/Strategy-MSTR-Stock-Soars-10-Above-189-as-Bitcoin-Nears-100000-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazin",
-      "title_es": "La estrategia del Tesoro de Bitcoin contraataca después de que MSCI anunciara una posible eliminación del índice"
     },
     {
       "id": "93aa364b5331",
@@ -461,15 +524,6 @@
       "title_es": "Las acciones de la tesorería de Ethena, StablecoinX, suben un 12% después de revelar una participación del 20% en el suministro de ENA"
     },
     {
-      "id": "8099190d3754",
-      "title": "Israeli Bank Leumi to Debut Bitcoin Trading With Galaxy Digital",
-      "link": "https://bitcoinmagazine.com/news/israel-bank-leumi-to-debut-bitcoin-trading",
-      "source": "bitcoinmagazine",
-      "published": "2026-08-14T15:03:41+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Israeli-Bank-Leumi-to-Debut-Bitcoin-Trading.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/israel-ban",
-      "title_es": "El banco israelí Leumi debutará en el comercio de Bitcoin con Galaxy Digital"
-    },
-    {
       "id": "36e6ec3ded70",
       "title": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
       "link": "https://decrypt.co/375653/fake-linkedin-crypto-job-scams-have-cost-11-8m-singapore",
@@ -513,15 +567,6 @@
       "published": "2026-08-14T14:12:34+00:00",
       "summary": "",
       "title_es": "La estrategia dice que MSCI debería medir los mercados, no dictar los activos corporativos"
-    },
-    {
-      "id": "07c535343a08",
-      "title": "What the CLARITY Act Actually Does for Bitcoin",
-      "link": "https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin",
-      "source": "bitcoinmagazine",
-      "published": "2026-08-14T14:09:26+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/What-the-CLARITY-Act-Actually-Does-for-Bitcoin.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/takes/what-t",
-      "title_es": "Lo que realmente hace la Ley CLARITY por Bitcoin"
     },
     {
       "id": "26fc7a758978",
@@ -749,15 +794,6 @@
       "title_es": "Google Gemini AI predice el precio de Bitcoin para finales de 2026"
     },
     {
-      "id": "408c0dffb1d1",
-      "title": "JPMorgan cuts Polymarket banking ties over regulatory concerns: Report",
-      "link": "https://cointelegraph.com/news/jpmorgan-debanked-polymarket-regulatory-concerns-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-08-14T08:53:42+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"JPMorgan cuts Polymarket banking ties over regulatory concerns: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-jp-morgan-chase-and-crypto-recap.jpg\" /></p><p>JPMorgan Chase reportedly",
-      "title_es": "JPMorgan corta vínculos bancarios con Polymarket por preocupaciones regulatorias: informe"
-    },
-    {
       "id": "12431f7dd1a9",
       "title": "Live updates: Bitcoin slips back to $63,000; MSCI threatens to exclude Strategy from indices",
       "link": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
@@ -765,15 +801,6 @@
       "published": "2026-08-14T08:51:48+00:00",
       "summary": "",
       "title_es": "Actualizaciones en vivo: Bitcoin vuelve a caer a $63,000; MSCI amenaza con excluir Strategy de los índices"
-    },
-    {
-      "id": "62817f614650",
-      "title": "Crypto payments barely register among euro area merchants, ECB finds",
-      "link": "https://cointelegraph.com/news/ecb-survey-0-2-euro-area-companies-accept-crypto-online?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-08-14T08:22:54+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto payments barely register among euro area merchants, ECB finds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-digitized-europe-the-shift-to-a-cashless-world-crypto.jpg\" /></p><p>Crypto",
-      "title_es": "Los pagos con criptomonedas apenas se registran entre los comerciantes de la zona del euro, según el BCE"
     },
     {
       "id": "5e2ad17631fe",
@@ -794,15 +821,6 @@
       "title_es": "Los titulares de Bitcoin Strategy y Metaplanet se enfrentan a la exclusión del índice bursátil según la nueva propuesta de MSCI"
     },
     {
-      "id": "2b03bdb06b38",
-      "title": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
-      "link": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
-      "source": "coindesk",
-      "published": "2026-08-14T05:04:52+00:00",
-      "summary": "",
-      "title_es": "JPMorgan cerró su relación bancaria con la plataforma de predicciones Polymarket: FT"
-    },
-    {
       "id": "5b2e0bf4cc0f",
       "title": "Bitwise mulls tokenizing its Solana staking ETF via Superstate partnership",
       "link": "https://www.theblock.co/news/defi/2026-08-14-bitwise-tokenize-sol-staking-etf-411790",
@@ -821,15 +839,6 @@
       "title_es": "Un tribunal de Washington ordena a Kalshi que detenga la mayoría de las ofertas del mercado de predicción en el estado"
     },
     {
-      "id": "20e0b664ae8c",
-      "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
-      "link": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
-      "source": "coindesk",
-      "published": "2026-08-13T23:09:14+00:00",
-      "summary": "",
-      "title_es": "La SEC de EE. UU. retrasará nuevamente la 'exención de innovación' para la tokenización en medio de preocupaciones de Wall Street y la Casa Blanca"
-    },
-    {
       "id": "7bb241ba30d7",
       "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
       "link": "https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi",
@@ -839,15 +848,6 @@
       "title_es": "'Bitcoin está ardiendo': el equipo rojo recurre a la IA china para encontrar fallas"
     },
     {
-      "id": "b5f9e9d9dcc6",
-      "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
-      "link": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
-      "source": "coindesk",
-      "published": "2026-08-13T22:18:07+00:00",
-      "summary": "",
-      "title_es": "La SEC cancela la tan esperada propuesta de Reg Crypto y pospone la reunión sin nueva fecha"
-    },
-    {
       "id": "ff3723bb2592",
       "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
       "link": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
@@ -855,15 +855,6 @@
       "published": "2026-08-13T21:45:04+00:00",
       "summary": "In a new red-team study, Claude models deployed self-replicating malware against each other—and the transcripts explain why.",
       "title_es": "Los agentes de IA de Anthropic iniciaron una guerra virtual. Los registros de chat están desquiciados"
-    },
-    {
-      "id": "c3968e828ac2",
-      "title": "Bitcoin’s Bear Cycle Looks Familiar — And That Might Be the Bullish Case",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-bear-cycle-looks-looks-bullish",
-      "source": "bitcoinmagazine",
-      "published": "2026-08-13T21:19:32+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoins-Bear-Cycle-Looks-Familiar-—-And-That-Might-Be-the-Bullish-Case.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoin",
-      "title_es": "El ciclo bajista de Bitcoin parece familiar, y ese podría ser el caso alcista"
     },
     {
       "id": "34cb263a5c2c",
@@ -884,15 +875,6 @@
       "title_es": "Las acciones de Gemini caen después de una pérdida de 108 millones de dólares mientras Winklevoss dice \"todavía tenemos trabajo por hacer\""
     },
     {
-      "id": "9d01bcd5b6f4",
-      "title": "White House to Host Crypto Industry Execs Next Week: Report",
-      "link": "https://bitcoinmagazine.com/news/white-house-to-host-crypto-execs",
-      "source": "bitcoinmagazine",
-      "published": "2026-08-13T20:33:37+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/White-House-to-Host-Crypto-Industry-Execs-Next-Week.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/wh",
-      "title_es": "La Casa Blanca recibirá a ejecutivos de la industria criptográfica la próxima semana: informe"
-    },
-    {
       "id": "2ec307fe4f73",
       "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
       "link": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
@@ -900,15 +882,6 @@
       "published": "2026-08-13T20:30:24+00:00",
       "summary": "Anthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write—and it hasn't said how.",
       "title_es": "Anthropic está marcando silenciosamente cada salida de Claude AI. Los constructores ya están intentando romperlo"
-    },
-    {
-      "id": "9a41e82e3886",
-      "title": "Tether Finally Completes Independent Audit of Reserves With KPMG",
-      "link": "https://bitcoinmagazine.com/news/tether-completes-audit-with-kpmg",
-      "source": "bitcoinmagazine",
-      "published": "2026-08-13T20:01:40+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Tether-Takes-Control-of-Twenty-One-Capital-After-Buying-Out-SoftBank.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmag",
-      "title_es": "Tether finalmente completa una auditoría independiente de reservas con KPMG"
     },
     {
       "id": "bdef887272b8",
@@ -920,24 +893,6 @@
       "title_es": "Google y OpenAI presentan modelos de IA súper rápidos: Gemini 3.7 Flash ya está disponible, pero GPT-5.6 Sol Ultrafast solo está disponible por invitación"
     },
     {
-      "id": "5b0aad854ec5",
-      "title": "Tether says KPMG issued ‘clean’ opinion in first full audit of USDT issuer’s financials",
-      "link": "https://www.theblock.co/news/business/2026-08-13-tether-kpmg-first-full-audit-usdt-clean-opinion-411760",
-      "source": "theblock",
-      "published": "2026-08-13T19:04:50+00:00",
-      "summary": "KPMG U.S. issued an \"unqualified audit opinion\" on Tether International’s full 2025 financial statements, Tether said Thursday.",
-      "title_es": "Tether dice que KPMG emitió una opinión \"limpia\" en la primera auditoría completa de las finanzas del emisor del USDT"
-    },
-    {
-      "id": "dfd157e5c9ea",
-      "title": "Baltimore sues Kalshi and Polymarket, roping Coinbase, Robinhood and Webull into the fight",
-      "link": "https://www.theblock.co/news/business/2026-08-13-baltimore-sues-kalshi-polymarket-roping-coinbase-robinhood-webull-into-fight-411746",
-      "source": "theblock",
-      "published": "2026-08-13T18:51:45+00:00",
-      "summary": "Mayor Brandon Scott and the Baltimore City Council sued Kalshi, Polymarket and major trading platforms over alleged illegal sports betting.",
-      "title_es": "Baltimore demanda a Kalshi y Polymarket, involucrando a Coinbase, Robinhood y Webull en la pelea"
-    },
-    {
       "id": "061696259d10",
       "title": "Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements",
       "link": "https://decrypt.co/375577/tether-inaugural-financial-audit-kpmg",
@@ -945,15 +900,6 @@
       "published": "2026-08-13T18:39:11+00:00",
       "summary": "Tether said KPMG gave its 2025 financial statements a clean opinion, a milestone for the company after years of questions about the reserves backing USDT.",
       "title_es": "Tether afirma la 'auditoría financiera inaugural más grande' mientras KPMG aprueba las declaraciones de 2025"
-    },
-    {
-      "id": "4ef9434737ee",
-      "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
-      "link": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
-      "source": "coindesk",
-      "published": "2026-08-13T18:26:21+00:00",
-      "summary": "",
-      "title_es": "Tether dice que completó la auditoría de las finanzas de los 'Cuatro Grandes' prometida hace mucho tiempo detrás de la moneda estable de USDT de 180 mil millones de dólares"
     },
     {
       "id": "8dc018509239",
@@ -972,42 +918,6 @@
       "published": "2026-08-13T17:47:12+00:00",
       "summary": "The Blockchain Association is urging the Supreme Court to take up Custodia’s case, saying that broad Fed power over “master accounts” could be used to push crypto firms out of the banking system.",
       "title_es": "Crypto Group advierte que la Fed podría utilizar el acceso bancario para exprimir a las empresas de activos digitales"
-    },
-    {
-      "id": "d721fcf78105",
-      "title": "Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests",
-      "link": "https://www.coindesk.com/markets/2026/08/13/forecasts-for-usd1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-suggests",
-      "source": "coindesk",
-      "published": "2026-08-13T17:43:25+00:00",
-      "summary": "",
-      "title_es": "Los pronósticos para un precio de bitcoin de $1 millón probablemente parezcan demasiado ambiciosos, sugiere un índice clave"
-    },
-    {
-      "id": "39e95d89d59a",
-      "title": "Bitcoin Companies Want Help From AI Labs to Guard Against Hackers",
-      "link": "https://decrypt.co/375564/bitcoin-firms-want-ai-hacking-tools",
-      "source": "decrypt",
-      "published": "2026-08-13T17:11:04+00:00",
-      "summary": "More than 40 bitcoin and crypto firms asked the biggest AI labs this week to let independent security researchers use their strongest models before public release.",
-      "title_es": "Las empresas de Bitcoin quieren ayuda de los laboratorios de inteligencia artificial para protegerse contra los piratas informáticos"
-    },
-    {
-      "id": "7e27702c9543",
-      "title": "Trezor warns 14,000 customers after fulfilment partner suffers data breach",
-      "link": "https://www.coindesk.com/tech/2026/08/13/trezor-warns-14-000-users-after-fulfilment-partner-suffers-data-breach",
-      "source": "coindesk",
-      "published": "2026-08-13T17:10:57+00:00",
-      "summary": "",
-      "title_es": "Trezor advierte a 14.000 clientes después de que un socio de cumplimiento sufriera una violación de datos"
-    },
-    {
-      "id": "9d301997e618",
-      "title": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds",
-      "link": "https://decrypt.co/375562/metaplanet-denies-bitcoin-sale-launches-bitbonds",
-      "source": "decrypt",
-      "published": "2026-08-13T16:40:49+00:00",
-      "summary": "The company's CEO said a 5,014 BTC transfer was a custody move, not a sale, as the Tokyo-listed Bitcoin treasury company rolls out a fixed-rate debt program.",
-      "title_es": "Metaplanet niega haber vendido 320 millones de dólares en Bitcoin mientras la empresa lanza BitBonds"
     },
     {
       "id": "97e8bce8387d",
