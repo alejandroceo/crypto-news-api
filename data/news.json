@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T21:13:35.991907+00:00",
+  "updated_at": "2026-08-16T09:20:24.174204+00:00",
   "count": 125,
   "sources": [
     "coindesk",
@@ -10,6 +10,15 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "9f6e77779e01",
+      "title": "JPMorgan cut Polymarket’s banking ties in October but still wants a role in a potential IPO: FT",
+      "link": "https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929",
+      "source": "theblock",
+      "published": "2026-08-15T21:51:41+00:00",
+      "summary": "Polymarket has moved its accounts to a lender the report could not identify but says it still maintains a \"close, active relationship\" with JPMorgan.",
+      "title_es": "JPMorgan cortó los vínculos bancarios de Polymarket en octubre, pero aún quiere participar en una posible IPO: FT"
+    },
     {
       "id": "1ec76e2abb8c",
       "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
@@ -927,15 +936,6 @@
       "published": "2026-08-13T18:51:45+00:00",
       "summary": "Mayor Brandon Scott and the Baltimore City Council sued Kalshi, Polymarket and major trading platforms over alleged illegal sports betting.",
       "title_es": "Baltimore demanda a Kalshi y Polymarket, involucrando a Coinbase, Robinhood y Webull en la pelea"
-    },
-    {
-      "id": "78e025984918",
-      "title": "Google ad phishing scam drains $550,000 from Hyperliquid user, security specialist says",
-      "link": "https://www.theblock.co/news/regulation/2026-08-13-google-ad-phishing-scam-drains-550000-from-hyperliquid-user-security-specialist-says-411755",
-      "source": "theblock",
-      "published": "2026-08-13T18:45:33+00:00",
-      "summary": "In April, crypto security nonprofit Security Alliance (SEAL) said it had blocked 356 malicious Google ad URLs over a period of several weeks.",
-      "title_es": "La estafa de phishing de anuncios de Google le quita 550.000 dólares al usuario de Hyperliquid, dice un especialista en seguridad"
     },
     {
       "id": "061696259d10",
