@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T21:12:57.671155+00:00",
+  "updated_at": "2026-08-17T09:33:32.119478+00:00",
   "count": 115,
   "sources": [
     "coindesk",
@@ -10,6 +10,114 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "f42ba299f2b4",
+      "title": "SafePal Bitcoin Wallet Data Breach Stokes Fears of Physical Attacks",
+      "link": "https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach",
+      "source": "decrypt",
+      "published": "2026-08-17T09:31:04+00:00",
+      "summary": "A flaw in an order-tracking plug-in of bitcoin wallet provider SafePal exposed names, addresses and phone numbers of nearly 40,000 customers.",
+      "title_es": "La filtración de datos de SafePal Bitcoin Wallet aviva el temor a ataques físicos"
+    },
+    {
+      "id": "be66e4b2da4a",
+      "title": "Binance handed user data to Russia that led to a Ukrainian donor's arrest",
+      "link": "https://www.coindesk.com/policy/2026/08/17/binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donor-s-arrest",
+      "source": "coindesk",
+      "published": "2026-08-17T09:16:14+00:00",
+      "summary": "",
+      "title_es": "Binance entregó datos de usuarios a Rusia que llevaron al arresto de un donante ucraniano"
+    },
+    {
+      "id": "7fcf91278679",
+      "title": "Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/08/17/coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead",
+      "source": "coindesk",
+      "published": "2026-08-17T09:13:02+00:00",
+      "summary": "",
+      "title_es": "Colaboración Coinbase-Circle USDC, actas del FOMC, precio del petróleo: Crypto Week Ahead"
+    },
+    {
+      "id": "31f8af542b1e",
+      "title": "Live updates: Bitcoin flat near $63,500, but the flows have quietly turned",
+      "link": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
+      "source": "coindesk",
+      "published": "2026-08-17T08:38:26+00:00",
+      "summary": "",
+      "title_es": "Actualizaciones en vivo: Bitcoin se mantiene estable cerca de $63,500, pero los flujos han cambiado silenciosamente"
+    },
+    {
+      "id": "47aa15389fdd",
+      "title": "September Fed interest-rate increase is 'very unlikely,' Goldman Sachs says",
+      "link": "https://www.coindesk.com/markets/2026/08/17/september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says",
+      "source": "coindesk",
+      "published": "2026-08-17T08:16:11+00:00",
+      "summary": "",
+      "title_es": "El aumento de las tasas de interés de la Fed en septiembre es \"muy improbable\", dice Goldman Sachs"
+    },
+    {
+      "id": "a4bcdfc6755c",
+      "title": "Greenlane’s $70M BERA treasury ends Q2 valued at $16M",
+      "link": "https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-08-17T05:52:55+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Greenlane’s $70M BERA treasury ends Q2 valued at $16M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/red-falling-elevator-markets-down.jpg\" /></p><p>Greenlane recorded a $19.1 million noncash v",
+      "title_es": "La tesorería BERA de 70 millones de dólares de Greenlane finaliza el segundo trimestre valorada en 16 millones de dólares"
+    },
+    {
+      "id": "ff64f636f3c7",
+      "title": "The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain",
+      "link": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain",
+      "source": "coindesk",
+      "published": "2026-08-17T05:51:18+00:00",
+      "summary": "",
+      "title_es": "El mercado de futuros de bitcoin parece un club abarrotado con una salida pequeña, y podría causar dolor"
+    },
+    {
+      "id": "192061f7ddfa",
+      "title": "XRP traders bet on a rebound as price slips to $1 and bearish chatter surges",
+      "link": "https://www.coindesk.com/markets/2026/08/17/xrp-traders-bet-on-a-rebound-as-price-slips-to-usd1-and-bearish-chatter-surges",
+      "source": "coindesk",
+      "published": "2026-08-17T04:43:03+00:00",
+      "summary": "",
+      "title_es": "Los operadores de XRP apuestan por un rebote a medida que el precio cae a 1 dólar y aumentan los comentarios bajistas"
+    },
+    {
+      "id": "5c94fc61be99",
+      "title": "Bitcoin nears $64,000 in Asia morning hours as HYPE jumps 8% on the week",
+      "link": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week",
+      "source": "coindesk",
+      "published": "2026-08-17T04:14:00+00:00",
+      "summary": "",
+      "title_es": "Bitcoin se acerca a los $64,000 en las horas de la mañana en Asia mientras HYPE aumenta un 8% en la semana"
+    },
+    {
+      "id": "9b8f8ad14760",
+      "title": "Chainalysis sues US over $95M ICE contract with TRM Labs",
+      "link": "https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-08-17T03:42:48+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chainalysis sues US over $95M ICE contract with TRM Labs\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/court-crypto-lawsuit-us.png\" /></p><p>The sealed complaint leaves Chainalysis’ specific o",
+      "title_es": "Chainalysis demanda a EE. UU. por un contrato ICE de 95 millones de dólares con TRM Labs"
+    },
+    {
+      "id": "06870410d0f9",
+      "title": "Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-08-16T23:54:50+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hodlers-15-aug.jpg\" /></p><p>Owners of Trezor and SafePal crypto wallet",
+      "title_es": "Se filtraron datos de 54.000 usuarios de billeteras, las probabilidades de CLARIDAD son solo del 10%: Hodler's Digest"
+    },
+    {
+      "id": "8bcfeb3288a8",
+      "title": "Prediction market Novig sues Wisconsin AG in latest spat over sports contracts",
+      "link": "https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938",
+      "source": "theblock",
+      "published": "2026-08-16T21:40:20+00:00",
+      "summary": "Novig, which recently announced a partnership with the New York Mets, has sued officials in five states including Wisconsin since Aug. 4.",
+      "title_es": "El mercado de predicciones Novig demanda a Wisconsin AG en su última disputa sobre contratos deportivos"
+    },
     {
       "id": "1ae4433732c5",
       "title": "The SEC meeting that wasn't: State of Crypto",
@@ -89,7 +197,7 @@
       "source": "coindesk",
       "published": "2026-08-16T13:00:00+00:00",
       "summary": "",
-      "title_es": "El choque de rendimiento de las monedas estables que no desaparecerá tiene a los bancos y a las criptomonedas luchando por la tradición"
+      "title_es": "El choque de rendimiento de las monedas estables que no desaparecerá tiene a los bancos y las criptomonedas luchando por la tradición"
     },
     {
       "id": "dfa61178ed39",
@@ -285,7 +393,7 @@
       "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
       "link": "https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph",
-      "published": "2026-08-15T10:44:52+00:00",
+      "published": "2026-08-15T11:00:00+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi ordered to stop broad range of prediction markets in Washington\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-paying-the-price-kalshi-banned-politician-for-insider-trading-2.jpg\" /><",
       "title_es": "Kalshi ordenó detener una amplia gama de mercados de predicción en Washington"
     },
@@ -440,7 +548,7 @@
       "source": "coindesk",
       "published": "2026-08-14T17:48:04+00:00",
       "summary": "",
-      "title_es": "Las acciones de tokenización caen a medida que el retraso de la SEC pone un 'bajón de velocidad' en el impulso de las criptomonedas en Wall Street"
+      "title_es": "Las acciones de tokenización caen a medida que el retraso de la SEC pone un \"bajón de velocidad\" en el impulso de las criptomonedas en Wall Street"
     },
     {
       "id": "b134609ac3b2",
@@ -659,24 +767,6 @@
       "title_es": "Minuto de la mañana: Tether finalmente obtiene una auditoría"
     },
     {
-      "id": "a45e04354027",
-      "title": "Fear is fading across markets, be it bitcoin, stocks, gold or bonds",
-      "link": "https://www.coindesk.com/daybook-us/2026/08/14/volatility-exits-crypto-tradfi-markets-even-as-u-s-iran-risks-linger-sovereign-debt-rises",
-      "source": "coindesk",
-      "published": "2026-08-14T11:33:50+00:00",
-      "summary": "",
-      "title_es": "El miedo se está desvaneciendo en los mercados, ya sea bitcoin, acciones, oro o bonos"
-    },
-    {
-      "id": "0c8dfe8d0418",
-      "title": "Shinhan Asset Management partners with Plume on tokenized fund pilot",
-      "link": "https://cointelegraph.com/news/shinhan-partners-plume-tokenized-fund-experiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-08-14T11:23:28+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Shinhan Asset Management partners with Plume on tokenized fund pilot\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/south-korea-crypto-1.jpg\" /></p><p>Shinhan Asset Management and Plume will te",
-      "title_es": "Shinhan Asset Management se asocia con Plume en un programa piloto de fondos tokenizados"
-    },
-    {
       "id": "18265a1a9368",
       "title": "SEC Delays Vote on Exemptions for Crypto Fundraising",
       "link": "https://cryptonews.com/news/sec-crypto-meeting-delayed/",
@@ -693,24 +783,6 @@
       "published": "2026-08-14T11:09:30+00:00",
       "summary": "<p>Trump Media drops its native Truth Predict exchange plan, steering users to Crypto.com's OG.com as regulatory risks remain unresolved.</p>\n<p>The post <a href=\"https://cryptonews.com/news/trump-prediction-market-truth-predict-killed/\">&#8220;World&#8217;s First&#8221; Trump Prediction Market Prod",
       "title_es": "El “primer” producto del mercado de predicciones de Trump del mundo fue asesinado, ¿qué pasó con la predicción de la verdad?"
-    },
-    {
-      "id": "ca8a92c34a73",
-      "title": "Trump family's World Liberty Financial delay plans to sell Maldives resort token",
-      "link": "https://www.coindesk.com/business/2026/08/14/trump-family-s-world-liberty-financial-delay-plans-to-sell-maldives-resort-token",
-      "source": "coindesk",
-      "published": "2026-08-14T11:07:49+00:00",
-      "summary": "",
-      "title_es": "El retraso financiero de World Liberty de la familia Trump planea vender el token del resort de Maldivas"
-    },
-    {
-      "id": "2eb7c6e027ff",
-      "title": "Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown",
-      "link": "https://www.coindesk.com/markets/2026/08/14/bitcoin-slips-as-u-s-inflation-fails-to-spark-gains-etfs-see-august-s-first-two-day-drawdown",
-      "source": "coindesk",
-      "published": "2026-08-14T11:06:12+00:00",
-      "summary": "",
-      "title_es": "Bitcoin cae mientras la inflación de EE. UU. no logra generar ganancias, los ETF ven la primera reducción de dos días de agosto"
     },
     {
       "id": "5bce4237afc8",
@@ -731,15 +803,6 @@
       "title_es": "Estrategia, Metaplanet podría enfrentar la eliminación del índice MSCI bajo una nueva propuesta"
     },
     {
-      "id": "aed1db950e43",
-      "title": "Bitcoin eyes new August lows as Binance longs face ‘cleanout’",
-      "link": "https://cointelegraph.com/markets/bitcoin-liquidation-cleanout-open-interest-falls-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-08-14T10:43:57+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin eyes new August lows as Binance longs face ‘cleanout’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/analys-analytics-building-window-glass-red-1.jpg\" /></p><p>Bitcoin futures open inte",
-      "title_es": "Bitcoin apunta a nuevos mínimos de agosto mientras Binance longs se enfrenta a una \"limpieza\""
-    },
-    {
       "id": "310c3b152fcf",
       "title": "SEC Shelves Crypto Rule Meeting Days After Senate Punted Clarity Act",
       "link": "https://decrypt.co/375622/sec-shelves-crypto-rule-meeting-days-after-senate-punted-clarity-act",
@@ -747,24 +810,6 @@
       "published": "2026-08-14T10:39:39+00:00",
       "summary": "No replacement date has been set for the meeting, which was cancelled due to an “unforeseen scheduling issue.”",
       "title_es": "La SEC deja de lado la reunión sobre la regla criptográfica días después de que el Senado rechazara la Ley de Claridad"
-    },
-    {
-      "id": "3c66add27d8f",
-      "title": "RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg",
-      "link": "https://www.coindesk.com/business/2026/08/14/redotpay-said-to-put-usd1-billion-u-s-ipo-plan-on-hold-bloomberg",
-      "source": "coindesk",
-      "published": "2026-08-14T10:35:40+00:00",
-      "summary": "",
-      "title_es": "RedotPay dice que suspenderá su plan de salida a bolsa de 1.000 millones de dólares en EE. UU.: Bloomberg"
-    },
-    {
-      "id": "a05828f1c21c",
-      "title": "RedotPay US IPO delayed amid regulatory, legal hurdles: Report",
-      "link": "https://cointelegraph.com/news/redotpay-us-license-ipo-delay-binance-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-08-14T09:53:50+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"RedotPay US IPO delayed amid regulatory, legal hurdles: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-will-ripple-launch-an-ipo-bid-can-it-succeed0-1.jpg\" /></p><p>RedotPay’s US IPO ",
-      "title_es": "La OPI de RedotPay en EE. UU. se retrasa en medio de obstáculos regulatorios y legales: informe"
     },
     {
       "id": "640b5e51299c",
@@ -792,33 +837,6 @@
       "published": "2026-08-14T09:34:36+00:00",
       "summary": "<p>An accounting rule change might be the most underrated catalyst on this list. Google Gemini AI predicts it will help carry Bitcoin to $85,000 to $105,000 by the end of 2026, and the price prediction settles on a $92,000 base case, with $95,000 as the most likely outcome.Corporate accumulation sit",
       "title_es": "Google Gemini AI predice el precio de Bitcoin para finales de 2026"
-    },
-    {
-      "id": "12431f7dd1a9",
-      "title": "Live updates: Bitcoin slips back to $63,000; MSCI threatens to exclude Strategy from indices",
-      "link": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
-      "source": "coindesk",
-      "published": "2026-08-14T08:51:48+00:00",
-      "summary": "",
-      "title_es": "Actualizaciones en vivo: Bitcoin vuelve a caer a $63,000; MSCI amenaza con excluir Strategy de los índices"
-    },
-    {
-      "id": "5e2ad17631fe",
-      "title": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
-      "link": "https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1",
-      "source": "coindesk",
-      "published": "2026-08-14T07:14:37+00:00",
-      "summary": "",
-      "title_es": "Un grupo de vientos en contra pesan sobre bitcoin. XRP se tambalea cerca de $ 1"
-    },
-    {
-      "id": "d5351cacbdbb",
-      "title": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
-      "link": "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal",
-      "source": "coindesk",
-      "published": "2026-08-14T06:20:54+00:00",
-      "summary": "",
-      "title_es": "Los titulares de Bitcoin Strategy y Metaplanet se enfrentan a la exclusión del índice bursátil según la nueva propuesta de MSCI"
     },
     {
       "id": "5b2e0bf4cc0f",
@@ -866,15 +884,6 @@
       "title_es": "Solana puede ser la 'cadena de todo' a medida que las aplicaciones criptográficas se generalizan: cofundador de 6th Man Ventures"
     },
     {
-      "id": "52de97079d00",
-      "title": "Gemini shares slide after $108 million loss as Winklevoss says ‘we still have work to do’",
-      "link": "https://www.theblock.co/news/business/2026-08-13-gemini-shares-slide-108-million-loss-winklevoss-says-we-still-have-work-to-do-411775",
-      "source": "theblock",
-      "published": "2026-08-13T21:15:23+00:00",
-      "summary": "Gemini’s prediction market volume nearly doubled as the exchange continued expanding beyond crypto trading.",
-      "title_es": "Las acciones de Gemini caen después de una pérdida de 108 millones de dólares mientras Winklevoss dice \"todavía tenemos trabajo por hacer\""
-    },
-    {
       "id": "2ec307fe4f73",
       "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
       "link": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
@@ -909,15 +918,6 @@
       "published": "2026-08-13T18:26:04+00:00",
       "summary": "President Donald Trump signed a memorandum Tuesday that lets vetted U.S. companies carry out offensive cyber operations against foreign criminal networks. Here's what the program actually authorizes.",
       "title_es": "La Casa Blanca permite que empresas privadas pirateen a los ciberdelincuentes, bajo su propio riesgo legal"
-    },
-    {
-      "id": "a04deb154978",
-      "title": "Crypto Group Warns Fed Could Use Banking Access to Squeeze Digital Asset Firms",
-      "link": "https://decrypt.co/375567/crypto-group-fed-banking-access-squeeze-firms",
-      "source": "decrypt",
-      "published": "2026-08-13T17:47:12+00:00",
-      "summary": "The Blockchain Association is urging the Supreme Court to take up Custodia’s case, saying that broad Fed power over “master accounts” could be used to push crypto firms out of the banking system.",
-      "title_es": "Crypto Group advierte que la Fed podría utilizar el acceso bancario para exprimir a las empresas de activos digitales"
     },
     {
       "id": "97e8bce8387d",
