@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T19:21:48.829868+00:00",
+  "updated_at": "2026-08-28T05:02:29.196214+00:00",
   "count": 114,
   "sources": [
     "coindesk",
@@ -10,6 +10,132 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "d2357c4fba5d",
+      "title": "Bitcoin under $80,000, solana leads majors higher before Warsh's Jackson Hole debut",
+      "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-holds-usd80-000-solana-leads-majors-higher-before-warsh-s-jackson-hole-debut",
+      "source": "coindesk",
+      "published": "2026-08-28T04:40:52+00:00",
+      "summary": "",
+      "title_es": "Bitcoin por debajo de $ 80,000, solana lidera las mayores antes del debut de Warsh en Jackson Hole"
+    },
+    {
+      "id": "c244dbacb7d8",
+      "title": "An XRP treasury company backed by Ripple is a shareholder vote away from Nasdaq",
+      "link": "https://www.coindesk.com/markets/2026/08/28/an-xrp-treasury-company-backed-by-ripple-is-a-shareholder-vote-away-from-nasdaq",
+      "source": "coindesk",
+      "published": "2026-08-28T04:21:22+00:00",
+      "summary": "",
+      "title_es": "Una empresa de tesorería XRP respaldada por Ripple está a un voto de los accionistas del Nasdaq"
+    },
+    {
+      "id": "68f2a0389c4c",
+      "title": "Abu Dhabi royal backs 49% stake in Trump-linked crypto bank venture: WSJ",
+      "link": "https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-08-28T04:17:09+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Abu Dhabi royal backs 49% stake in Trump-linked crypto bank venture: WSJ\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-donald-trump-and-wlfi-crypto.jpg\" /></p><p>Sheikh Tahnoon’s group repo",
+      "title_es": "La realeza de Abu Dhabi respalda una participación del 49% en una empresa de criptobanco vinculada a Trump: WSJ"
+    },
+    {
+      "id": "663404fbbe44",
+      "title": "XRP treasury firm Evernorth says SEC registration now effective, clearing way for Nasdaq listing",
+      "link": "https://www.theblock.co/news/deals/2026-08-27-evernorth-xrp-sec-effective-412981",
+      "source": "theblock",
+      "published": "2026-08-28T02:30:34+00:00",
+      "summary": "The S-4 registration statement is for Evernorth's merger with SPAC firm Armada, through which it seeks a Nasdaq listing.",
+      "title_es": "La firma de tesorería XRP Evernorth dice que el registro en la SEC ya es efectivo, despejando el camino para cotizar en Nasdaq"
+    },
+    {
+      "id": "e27d5b5a39f8",
+      "title": "BitGo buys NYDIG’s institutional trading business, expanding derivatives offering",
+      "link": "https://www.theblock.co/news/business/2026-08-27-bitgo-buys-nydig-institutional-trading-412975",
+      "source": "theblock",
+      "published": "2026-08-28T01:11:37+00:00",
+      "summary": "With the transaction, around 30 NYDIG employees have joined BitGo, along with their institutional trading relationships.",
+      "title_es": "BitGo compra el negocio comercial institucional de NYDIG, ampliando la oferta de derivados"
+    },
+    {
+      "id": "f9a6a0afb9be",
+      "title": "UAE ‘spy sheikh’ takes 49% stake in Trump family’s bank venture: WSJ",
+      "link": "https://www.theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971",
+      "source": "theblock",
+      "published": "2026-08-27T23:02:03+00:00",
+      "summary": "The UAE's national security advisor is playing a major investment role in President Trump's family's bank venture, the WSJ reported.",
+      "title_es": "El 'jeque espía' de los Emiratos Árabes Unidos adquiere una participación del 49% en la empresa bancaria de la familia Trump: WSJ"
+    },
+    {
+      "id": "7a9efdf090ca",
+      "title": "Bitcoin Completes First Experimental Quantum-Safe Transaction, Starkware Says",
+      "link": "https://decrypt.co/376767/bitcoin-quantum-safe-transaction-starkware",
+      "source": "decrypt",
+      "published": "2026-08-27T22:36:04+00:00",
+      "summary": "The transaction used Bitcoin’s existing rules to protect funds from a future quantum attack without requiring a network upgrade.",
+      "title_es": "Bitcoin completa la primera transacción experimental cuántica segura, dice Starkware"
+    },
+    {
+      "id": "1cfcfbc82f54",
+      "title": "Google’s Android 17 Turns On New Privacy Feature—But Your Browsing Isn’t Fully Hidden",
+      "link": "https://decrypt.co/376760/google-android-17-privacy-encrypted-client-hello",
+      "source": "decrypt",
+      "published": "2026-08-27T22:06:05+00:00",
+      "summary": "Google's new privacy standard scrambles the one field of a web request that still travels in the clear: the name of the site being opened.",
+      "title_es": "Android 17 de Google activa una nueva función de privacidad, pero su navegación no está completamente oculta"
+    },
+    {
+      "id": "ebb1de3ca714",
+      "title": "Bitcoin Privacy Wallet Sparrow Issues Update After AI Flags Fixes",
+      "link": "https://decrypt.co/376755/bitcoin-sparrow-wallet-update-ai-fixes",
+      "source": "decrypt",
+      "published": "2026-08-27T21:36:05+00:00",
+      "summary": "Developer Craig Raw said an AI-assisted review produced most of the fixes in version 2.5.4, though none appeared likely to put users’ funds at risk.",
+      "title_es": "Actualización de problemas de Sparrow de Bitcoin Privacy Wallet después de que se corrigieran las banderas de AI"
+    },
+    {
+      "id": "20c258be1c19",
+      "title": "Red Flag? OpenAI's Agentic ChatGPT Work Signs Into Your Accounts Without You",
+      "link": "https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you",
+      "source": "decrypt",
+      "published": "2026-08-27T21:00:57+00:00",
+      "summary": "OpenAI says the model never sees your password—but a signed-in session can persist across tasks, and you can step away while it works.",
+      "title_es": "¿Bandera roja? El trabajo Agentic ChatGPT de OpenAI inicia sesión en sus cuentas sin usted"
+    },
+    {
+      "id": "7822ca26a6bc",
+      "title": "Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond",
+      "link": "https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-08-27T20:39:40+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bond-follow-up-bybit-2.png\" /></p><p>The transaction used the Marshal",
+      "title_es": "Virtu y Tradeweb completan el repositorio en cadena utilizando el bono digital de las Islas Marshall"
+    },
+    {
+      "id": "ffc9c7d3a2c9",
+      "title": "$6.4 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
+      "link": "https://decrypt.co/376752/billion-bitcoin-options-expire-what-it-means",
+      "source": "decrypt",
+      "published": "2026-08-27T19:47:21+00:00",
+      "summary": "Deribit's Friday settlement covers nearly a fifth of the exchange's Bitcoin open interest, and max pain sits well below where BTC is trading right now.",
+      "title_es": "$6.4 mil millones en opciones de Bitcoin vencen mañana: esto es lo que significa"
+    },
+    {
+      "id": "552e43ae5e35",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-08-27T19:27:53+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
+      "title_es": "Esto es lo que sucedió hoy en las criptomonedas"
+    },
+    {
+      "id": "7a0aefa9d46e",
+      "title": "Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen",
+      "link": "https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-08-27T19:22:14+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/analytics-red-trump.jpg\" /></p><p>While investors in World Liberty Financial‘s",
+      "title_es": "Trump costó a los inversores 4.700 millones de dólares a través de 'esquemas' criptográficos: Public Citizen"
+    },
     {
       "id": "d72a2bd418c3",
       "title": "Ripple Gets Mastercard Boost as XRP ETF Makes Major Changes",
@@ -488,15 +614,6 @@
       "title_es": "Agentes deshonestos de OpenAI sacrificaron sus propias carreras para hackear Hugging Face, según un informe"
     },
     {
-      "id": "552e43ae5e35",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-08-27T09:40:34+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
-      "title_es": "Esto es lo que sucedió hoy en las criptomonedas"
-    },
-    {
       "id": "40c52083d69f",
       "title": "Bithumb wins lawsuit over proceeds from 620,000 BTC fat-finger error: report",
       "link": "https://www.theblock.co/news/regulation/2026-08-27-bithumb-wins-lawsuit-btc-412893",
@@ -512,7 +629,7 @@
       "source": "cointelegraph",
       "published": "2026-08-27T09:26:17+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bithumb wins 2 suits over mistaken Bitcoin credits: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bithumb-lawsuit-1.jpg\" /></p><p>Bithumb reportedly won first-instance rulings in two su",
-      "title_es": "Bithumb gana 2 demandas por créditos de Bitcoin erróneos: Informe"
+      "title_es": "Bithumb gana 2 demandas por créditos de Bitcoin equivocados: Informe"
     },
     {
       "id": "fe8dad8c4d19",
@@ -552,12 +669,12 @@
     },
     {
       "id": "17dc170969b9",
-      "title": "Live updates: Bitcoin reclaims $80,000 as software stocks lead market rally",
+      "title": "Live updates: Bitcoin trades near $80,000 as stocks close with gains",
       "link": "https://www.coindesk.com/business/2026/08/27/live-updates-bitcoin-etf-inflows-hit-eight-straight-days-as-august-tops-usd3-billion",
       "source": "coindesk",
       "published": "2026-08-27T08:51:37+00:00",
       "summary": "",
-      "title_es": "Actualizaciones en vivo: Bitcoin recupera $80,000 mientras las acciones de software lideran el repunte del mercado"
+      "title_es": "Actualizaciones en vivo: Bitcoin cotiza cerca de $ 80,000 mientras las acciones cierran con ganancias"
     },
     {
       "id": "26935a99b794",
@@ -650,15 +767,6 @@
       "title_es": "Los cofundadores de Binance, CZ y Yi He, adoptaron los alias de dibujos animados de Los Simpson, \"Homero\" y \"Marge\", en reuniones de empresa."
     },
     {
-      "id": "73715fb91ce5",
-      "title": "Bitcoin below $79,000, XRP leads losses as traders start betting on a Fed hike",
-      "link": "https://www.coindesk.com/markets/2026/08/27/bitcoin-below-usd79-000-xrp-leads-losses-as-traders-start-betting-on-a-fed-hike",
-      "source": "coindesk",
-      "published": "2026-08-27T04:35:18+00:00",
-      "summary": "",
-      "title_es": "Bitcoin por debajo de $79,000, XRP lidera las pérdidas mientras los traders comienzan a apostar por un aumento de la Fed"
-    },
-    {
       "id": "59cd440e1717",
       "title": "StarkWare tests quantum-resistant Bitcoin transaction on mainnet",
       "link": "https://cointelegraph.com/news/starkware-quantum-resistant-bitcoin-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -666,15 +774,6 @@
       "published": "2026-08-27T04:14:48+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"StarkWare tests quantum-resistant Bitcoin transaction on mainnet\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/quantum-transaction\" /></p><p>StarkWare said the experimental transaction demonst",
       "title_es": "StarkWare prueba transacciones de Bitcoin resistentes a los cuánticos en la red principal"
-    },
-    {
-      "id": "6d026fcec9e9",
-      "title": "Lesser-tracked bitcoin market dynamic lends credibility to August surge to $80,000",
-      "link": "https://www.coindesk.com/markets/2026/08/27/lesser-tracked-bitcoin-market-dynamic-lends-credibility-to-august-surge-to-usd80-000",
-      "source": "coindesk",
-      "published": "2026-08-27T04:02:57+00:00",
-      "summary": "",
-      "title_es": "La dinámica del mercado de bitcoins, menos seguida, da credibilidad al aumento de agosto a $ 80,000"
     },
     {
       "id": "1961ca76e707",
@@ -803,15 +902,6 @@
       "title_es": "'El gobierno no es dueño de nuestros datos': usuario de GrapheneOS procesado"
     },
     {
-      "id": "265006779258",
-      "title": "Crypto CEO Faces US Extradition Over Alleged $20 Million Token Scheme",
-      "link": "https://decrypt.co/376617/crypto-ceo-extradition-20-million-scheme",
-      "source": "decrypt",
-      "published": "2026-08-26T17:15:33+00:00",
-      "summary": "Manpreet Kohli, accused of making $20 million from an alleged scheme to manipulate the Saitama token, is a step closer to facing trial in Boston.",
-      "title_es": "El CEO de Crypto se enfrenta a la extradición de EE. UU. por un presunto plan de tokens de 20 millones de dólares"
-    },
-    {
       "id": "cd263178802b",
       "title": "SEC sends crypto custody rule overhaul to White House for review",
       "link": "https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -821,22 +911,13 @@
       "title_es": "La SEC envía la revisión de las reglas de custodia de criptomonedas a la Casa Blanca para su revisión"
     },
     {
-      "id": "e8f1ffc89916",
-      "title": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
-      "link": "https://decrypt.co/376609/tokenized-deposits-bank-lending-dallas-fed",
-      "source": "decrypt",
-      "published": "2026-08-26T16:18:24+00:00",
-      "summary": "A shift toward faster, more rate-sensitive deposits could push banks into safer assets, constrain lending, and raise borrowing costs, Dallas Fed researchers said.",
-      "title_es": "Los depósitos tokenizados podrían drenar 700 mil millones de dólares de los préstamos bancarios, advierte la Reserva Federal de Dallas"
-    },
-    {
       "id": "f2a4fab9e72f",
       "title": "77% of Americans see crypto in retirement plans as risky: Survey",
       "link": "https://cointelegraph.com/news/77-of-americans-see-crypto-in-retirement-plans-as-risky-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph",
       "published": "2026-08-26T16:10:56+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"77% of Americans see crypto in retirement plans as risky: Survey\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-trumps-9t-executive-order-could-let-you-add-bitcoin-to-your-retirement-pla",
-      "title_es": "El 77% de los estadounidenses consideran que las criptomonedas en los planes de jubilación son riesgosas: encuesta"
+      "title_es": "El 77% de los estadounidenses consideran riesgosas las criptomonedas en los planes de jubilación: encuesta"
     },
     {
       "id": "6a08c2a558f4",
@@ -866,51 +947,6 @@
       "title_es": "Bitcoin cae por debajo de los 78.000 dólares a medida que las acciones y el oro caen por los datos de inflación PCE más altos de EE. UU."
     },
     {
-      "id": "d13a8e9a7b9e",
-      "title": "XRP Leads Crypto Pullback as Leverage Unwind Tests Rally",
-      "link": "https://decrypt.co/376601/xrp-price-leverage-unwind-tests-rally",
-      "source": "decrypt",
-      "published": "2026-08-26T15:29:49+00:00",
-      "summary": "XRP led losses among the 10 biggest cryptocurrencies today. The charts show the real test for its rally is only getting started.",
-      "title_es": "XRP lidera el retroceso de las criptomonedas a medida que se recuperan las pruebas de reducción del apalancamiento"
-    },
-    {
-      "id": "b886233e6d99",
-      "title": "Ethereum Devs Propose Deposit Contract Overhaul to Quantum-Proof Staking",
-      "link": "https://decrypt.co/376599/ethereum-devs-propose-deposit-contract-overhaul-to-quantum-proof-staking",
-      "source": "decrypt",
-      "published": "2026-08-26T15:04:58+00:00",
-      "summary": "The proposal would let validator keys grow to 8,192 bytes and adds a switch that permanently retires today's BLS signatures.",
-      "title_es": "Los desarrolladores de Ethereum proponen una revisión del contrato de depósito para realizar apuestas a prueba de cuántica"
-    },
-    {
-      "id": "7ffa72d00c40",
-      "title": "Protocol upgrade decouples consensus from execution to solve scaling bottlenecks",
-      "link": "https://cointelegraph.com/ecosystem/protocol-upgrade-decouples-consensus-from-execution-to-solve-scaling-bottlenecks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-08-26T15:04:32+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Protocol upgrade decouples consensus from execution to solve scaling bottlenecks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/cover-multiversx-v1-1.jpg\" /></p><p>CTDG Dev Hub participant’s pr",
-      "title_es": "La actualización del protocolo desacopla el consenso de la ejecución para resolver los cuellos de botella de escala"
-    },
-    {
-      "id": "9d0130d520de",
-      "title": "Coinbase, Better make token-backed mortgages generally available",
-      "link": "https://www.theblock.co/news/business/2026-08-26-coinbase-better-make-token-backed-mortgages-generally-available-412810",
-      "source": "theblock",
-      "published": "2026-08-26T15:00:35+00:00",
-      "summary": "Coinbase and Better expand token-backed mortgage access to Coinbase One members, with a 1% closing-cost credit now available.",
-      "title_es": "Coinbase y mejor hacer que las hipotecas respaldadas por tokens estén disponibles de forma generalizada"
-    },
-    {
-      "id": "3396909bbee9",
-      "title": "SEC sends crypto custody rule changes to White House for review",
-      "link": "https://www.theblock.co/news/regulation/2026-08-26-sec-sends-crypto-custody-rule-changes-to-white-house-for-review-412811",
-      "source": "theblock",
-      "published": "2026-08-26T14:55:57+00:00",
-      "summary": "A proposal from the SEC to change its rules governing how investment advisers hold digital assets was sent this week to the White House.",
-      "title_es": "La SEC envía cambios en las reglas de custodia de criptomonedas a la Casa Blanca para su revisión"
-    },
-    {
       "id": "facef3619339",
       "title": "Polymarket CLARITY Act Odds: Senate Path Remains Uncertain After Cloture Step",
       "link": "https://cryptonews.com/news/polymarket-clarity-act-odds-senate-status/",
@@ -927,42 +963,6 @@
       "published": "2026-08-26T14:12:00+00:00",
       "summary": "<p>XRP surges 45% weekly on ETF inflows and network activity spikes. Full price analysis, key levels, and whether $10 is realistic this year.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrp-price-prediction-10-dollars/\">XRP Soars, But What&#8217;s Really Happening? Can Ripple Blast Past $10",
       "title_es": "XRP se dispara, pero ¿qué está pasando realmente? ¿Podrá Ripple superar los $10 este año?"
-    },
-    {
-      "id": "6e2d4a2d23b4",
-      "title": "SOL treasury firm DeFi Development launches real-time ‘State of Solana’ intelligence platform",
-      "link": "https://www.theblock.co/news/markets/2026-08-26-sol-treasury-firm-defi-development-launches-real-time-state-of-solana-intelligence-platform-412798",
-      "source": "theblock",
-      "published": "2026-08-26T14:07:21+00:00",
-      "summary": "The Nasdaq-listed company holds roughly 2.3 million SOL worth about $208 million, while its shares have fallen 16% year to date.",
-      "title_es": "La firma de tesorería SOL DeFi Development lanza la plataforma de inteligencia 'Estado de Solana' en tiempo real"
-    },
-    {
-      "id": "1fa03eade89f",
-      "title": "SEC’s proposed crypto rules probably won’t spark new ICO boom",
-      "link": "https://cointelegraph.com/magazine/the-sec-wants-to-bring-back-icos-theres-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-08-26T13:30:00+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC’s proposed crypto rules probably won’t spark new ICO boom\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/magazine-lambo-guy.jpg\" /></p><p>The SEC’s ‘regulation crypto assets’ proposals coul",
-      "title_es": "Las reglas criptográficas propuestas por la SEC probablemente no provocarán un nuevo auge de las ICO"
-    },
-    {
-      "id": "67cdb0f7fb39",
-      "title": "Students want crypto classes but learn on social media: OKX survey",
-      "link": "https://cointelegraph.com/news/students-crypto-classes-learn-social-media-okx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-08-26T13:00:00+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Students want crypto classes but learn on social media: OKX survey\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-education-key-in-driving-crypto-adoption-in-africa2.jpg\" /></p><p>A separate",
-      "title_es": "Los estudiantes quieren clases de criptografía pero aprenden en las redes sociales: encuesta OKX"
-    },
-    {
-      "id": "dde4c841c852",
-      "title": "Digital Euro Will Offer 'Maximum Level of Privacy,' ECB Board Member Says",
-      "link": "https://decrypt.co/376590/digital-euro-will-offer-maximum-level-of-privacy-ecb-board-member-says",
-      "source": "decrypt",
-      "published": "2026-08-26T12:51:03+00:00",
-      "summary": "Piero Cipollone said the Eurosystem would not be able to link individuals to transactions, though the banks handling them still could.",
-      "title_es": "El euro digital ofrecerá el \"nivel máximo de privacidad\", dice un miembro de la junta del BCE"
     },
     {
       "id": "d17dfd81bc27",
