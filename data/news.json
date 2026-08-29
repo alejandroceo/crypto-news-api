@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-28T20:33:37.073497+00:00",
-  "count": 115,
+  "updated_at": "2026-08-29T02:58:53.845754+00:00",
+  "count": 114,
   "sources": [
     "coindesk",
     "cointelegraph",
@@ -10,6 +10,42 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "8907c990e5c7",
+      "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
+      "link": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
+      "source": "coindesk",
+      "published": "2026-08-29T02:30:00+00:00",
+      "summary": "",
+      "title_es": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives"
+    },
+    {
+      "id": "250c9d6a2c61",
+      "title": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
+      "link": "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
+      "source": "coindesk",
+      "published": "2026-08-28T21:28:12+00:00",
+      "summary": "",
+      "title_es": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets"
+    },
+    {
+      "id": "24a9c686178c",
+      "title": "Bitcoin Rally Stalls, But Long-Term Sentiment Remains Bullish",
+      "link": "https://decrypt.co/376846/bitcoin-rally-stalls-sentiment-bullish",
+      "source": "decrypt",
+      "published": "2026-08-28T21:16:04+00:00",
+      "summary": "BTC gave back some of its gains after Fed Chair Kevin Warsh talked tough on inflation, but prediction market traders are still leaning bullish.",
+      "title_es": "Bitcoin Rally Stalls, But Long-Term Sentiment Remains Bullish"
+    },
+    {
+      "id": "552e43ae5e35",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-08-28T20:42:54+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
+      "title_es": "Here’s what happened in crypto today"
+    },
     {
       "id": "1ebd525da56d",
       "title": "Meta Tests Robots to Handle Data Center Work",
@@ -243,15 +279,6 @@
       "published": "2026-08-28T13:00:00+00:00",
       "summary": "",
       "title_es": "The Clarity Act slipped to September. Banks are building anyway"
-    },
-    {
-      "id": "552e43ae5e35",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-08-28T13:00:00+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
-      "title_es": "Here’s what happened in crypto today"
     },
     {
       "id": "f46829399dd2",
@@ -857,15 +884,6 @@
       "title_es": "UK government reports 240 crypto millionaires in 2025"
     },
     {
-      "id": "e70d5e6e83d1",
-      "title": "MoonPay’s newest integration lets AI agents handle crypto lending on Solana",
-      "link": "https://www.coindesk.com/business/2026/08/27/moonpay-s-newest-integration-lets-ai-agents-handle-crypto-lending-on-solana",
-      "source": "coindesk",
-      "published": "2026-08-27T15:52:21+00:00",
-      "summary": "",
-      "title_es": "MoonPay’s newest integration lets AI agents handle crypto lending on Solana"
-    },
-    {
       "id": "1ad5cd74d02d",
       "title": "AI Finds Critical Flaw in Bitcoin Lightning, Devs Issue Emergency Warning",
       "link": "https://decrypt.co/376714/ai-critical-flaw-bitcoin-lightning-warning",
@@ -873,15 +891,6 @@
       "published": "2026-08-27T15:45:28+00:00",
       "summary": "The Lightning software project said it is preparing fixes after confirming that several AI-generated vulnerability reports were accurate.",
       "title_es": "AI Finds Critical Flaw in Bitcoin Lightning, Devs Issue Emergency Warning"
-    },
-    {
-      "id": "7d31a46eda37",
-      "title": "240 UK taxpayers made more than $1.3 million each from crypto holdings in fiscal 2025",
-      "link": "https://www.coindesk.com/business/2026/08/27/240-uk-taxpayers-made-more-than-usd1-3-million-each-from-crypto-holdings-in-fiscal-2025",
-      "source": "coindesk",
-      "published": "2026-08-27T15:36:25+00:00",
-      "summary": "",
-      "title_es": "240 UK taxpayers made more than $1.3 million each from crypto holdings in fiscal 2025"
     },
     {
       "id": "c48317f6ce19",
@@ -900,15 +909,6 @@
       "published": "2026-08-27T15:29:01+00:00",
       "summary": "<p>Bitcoin trades near $79,500 after a breakout past key resistance. Full technical analysis, price targets, and what's next for BTC this week.</p>\n<p>The post <a href=\"https://cryptonews.com/news/bitcoin-price-prediction-83k/\">Bitcoin Price Prediction: Can BTC Reclaim $80K This Week?</a> appeared f",
       "title_es": "Bitcoin Price Prediction: Can BTC Reclaim $80K This Week?"
-    },
-    {
-      "id": "53fc4330d557",
-      "title": "Solana Is Having Its Best Month Since 2024—With a Historic Governance Vote on Deck",
-      "link": "https://decrypt.co/376706/solana-best-month-since-2024-historic-governance-vote",
-      "source": "decrypt",
-      "published": "2026-08-27T15:12:18+00:00",
-      "summary": "Solana is up more than 8% in 24 hours and 44% on the month. Coming changes to the network could add a supply squeeze to the mix.",
-      "title_es": "Solana Is Having Its Best Month Since 2024—With a Historic Governance Vote on Deck"
     },
     {
       "id": "95284d6b2591",
@@ -963,15 +963,6 @@
       "published": "2026-08-27T12:59:46+00:00",
       "summary": "Security firms CertiK and PeckShield estimate losses of around $8.7 million after an attacker manipulated the collateral price of MAMO.",
       "title_es": "Moonwell investigates lending market issue on Base as security firms flag multimillion-dollar exploit"
-    },
-    {
-      "id": "c2905aa99459",
-      "title": "BlackRock’s Mitchnick says bitcoin’s risk-off narrative is ‘the one to bet on’ long term as rally consolidates near $80,000",
-      "link": "https://www.theblock.co/news/markets/2026-08-27-blackrocks-mitchnick-says-bitcoins-risk-off-narrative-is-the-one-to-bet-on-long-term-as-rally-consolidates-near-80000-412897",
-      "source": "theblock",
-      "published": "2026-08-27T12:00:09+00:00",
-      "summary": "Renewed spot ETF inflows and bitcoin's declining correlation with equities are also constructive signs, according to analysts.",
-      "title_es": "BlackRock’s Mitchnick says bitcoin’s risk-off narrative is ‘the one to bet on’ long term as rally consolidates near $80,000"
     },
     {
       "id": "cc6c8a0d2ef7",
