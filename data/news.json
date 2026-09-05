@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T12:15:21.687438+00:00",
-  "count": 125,
+  "updated_at": "2026-09-05T22:32:33.575901+00:00",
+  "count": 115,
   "sources": [
     "coindesk",
     "cointelegraph",
@@ -10,6 +10,87 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "ea03ae05abc3",
+      "title": "UBS, Jane Street among firms with combined $75 million in Hyperliquid ETF holdings: Bloomberg",
+      "link": "https://www.theblock.co/news/defi/2026-09-05-ubs-jane-street-among-firms-with-combined-75-million-in-hyperliquid-etf-holdings-bloomberg-413616",
+      "source": "theblock",
+      "published": "2026-09-05T20:02:08+00:00",
+      "summary": "Brazil's Wealth High Governance Asset Management held about $24 million worth of 21Shares' HYPE fund as of the end of June, the top HYPE ETF holder.",
+      "title_es": "UBS, Jane Street among firms with combined $75 million in Hyperliquid ETF holdings: Bloomberg"
+    },
+    {
+      "id": "c2011a210c70",
+      "title": "Ripple CEO, Brad Garlinghouse, Calls CLARITY Act Within Reach as XRP Runs",
+      "link": "https://cryptonews.com/news/ripple-xrp-clarity-act-price-prediction/",
+      "source": "cryptonews",
+      "published": "2026-09-05T18:36:00+00:00",
+      "summary": "<p>XRP trades near $1.45 as Garlinghouse pushes CLARITY Act ahead of the Sept 15 Senate vote. Key support, resistance, and targets analyzed.</p>\n<p>The post <a href=\"https://cryptonews.com/news/ripple-xrp-clarity-act-price-prediction/\">Ripple CEO, Brad Garlinghouse, Calls CLARITY Act Within Reach as",
+      "title_es": "Ripple CEO, Brad Garlinghouse, Calls CLARITY Act Within Reach as XRP Runs"
+    },
+    {
+      "id": "064aa15c8de8",
+      "title": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
+      "link": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
+      "source": "coindesk",
+      "published": "2026-09-05T18:05:11+00:00",
+      "summary": "",
+      "title_es": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market"
+    },
+    {
+      "id": "9b767b3cd77d",
+      "title": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
+      "link": "https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up",
+      "source": "decrypt",
+      "published": "2026-09-05T17:01:04+00:00",
+      "summary": "At least four more decade-old wallets moved a combined $15.7 million between Aug. 29 and Sept. 4, with one batch of coins sent to Coinbase in a likely sign of a sale.",
+      "title_es": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up"
+    },
+    {
+      "id": "39b364003ed8",
+      "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
+      "link": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
+      "source": "coindesk",
+      "published": "2026-09-05T16:43:13+00:00",
+      "summary": "",
+      "title_es": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds"
+    },
+    {
+      "id": "e4a8815b3030",
+      "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
+      "link": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+      "source": "decrypt",
+      "published": "2026-09-05T16:06:41+00:00",
+      "summary": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
+      "title_es": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins"
+    },
+    {
+      "id": "963d3b848440",
+      "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
+      "link": "https://decrypt.co/377501/google-chrome-zero-day-exploited",
+      "source": "decrypt",
+      "published": "2026-09-05T15:01:04+00:00",
+      "summary": "The update fixes a high-severity flaw in Chrome’s V8 engine, but Google has not revealed who is using it or whom they targeted.",
+      "title_es": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using"
+    },
+    {
+      "id": "730c473068ad",
+      "title": "LeBron James teases Polymarket partnership in new social media video",
+      "link": "https://www.theblock.co/news/deals/2026-09-05-lebron-james-teases-polymarket-partnership-in-new-social-media-video-413608",
+      "source": "theblock",
+      "published": "2026-09-05T14:01:40+00:00",
+      "summary": "The announcement comes after James' free agency decision generated $273 million in prediction market volume across platforms.",
+      "title_es": "LeBron James teases Polymarket partnership in new social media video"
+    },
+    {
+      "id": "4dba60c1c761",
+      "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
+      "link": "https://decrypt.co/377491/ai-solved-350-year-old-math-problem",
+      "source": "decrypt",
+      "published": "2026-09-05T13:01:03+00:00",
+      "summary": "Anthropic says Claude spent 11 days turning Fermat's Last Theorem into 13 million lines of code a computer can check itself, no human trust required",
+      "title_es": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever"
+    },
     {
       "id": "0dadfa8b131f",
       "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
@@ -74,15 +155,6 @@
       "title_es": "TikTok's Parent Company Just Borrowed $30 Billion to Go All-In on AI"
     },
     {
-      "id": "da1686d0e225",
-      "title": "Hargreaves Lansdown Reverses Course, Rolls Out Bitcoin Trading",
-      "link": "https://bitcoinmagazine.com/news/hargreaves-lansdown-to-allow-bitcoin-etns",
-      "source": "bitcoinmagazine",
-      "published": "2026-09-04T21:16:39+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-8.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/hargreaves-lansdown-to-allow-bitcoin-etns\" rel=",
-      "title_es": "Hargreaves Lansdown Reverses Course, Rolls Out Bitcoin Trading"
-    },
-    {
       "id": "0d0d854644e9",
       "title": "G7 Warns Quantum Threat Demands Action as Crypto Industry Weighs Fixes",
       "link": "https://decrypt.co/377486/g7-warns-quantum-threat-crypto-fixes",
@@ -110,15 +182,6 @@
       "title_es": "Surprise nonfarm payrolls print sends Bitcoin back below 80K"
     },
     {
-      "id": "dc1a962fb66d",
-      "title": "Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed",
-      "link": "https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported",
-      "source": "bitcoinmagazine",
-      "published": "2026-09-04T20:30:14+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Trezor-Data-Breach-Worse-Than-Initially-Reported-67000-US-Customers-Data-Exposed.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https:",
-      "title_es": "Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed"
-    },
-    {
       "id": "c508faeb09cc",
       "title": "Pineapple Financial puts $1B in mortgage records on Injective",
       "link": "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -126,15 +189,6 @@
       "published": "2026-09-04T19:31:38+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pineapple Financial puts $1B in mortgage records on Injective\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PRJC4TJX7RTS99QE3AJN32/hi-tokenizing-real-estate-in-the-united-states-cr",
       "title_es": "Pineapple Financial puts $1B in mortgage records on Injective"
-    },
-    {
-      "id": "abc14da662fb",
-      "title": "El Salvador Isn’t Buying Bitcoin With Public Money, Says IMF",
-      "link": "https://bitcoinmagazine.com/news/el-salvador-isnt-buying-bitcoin-says-imf",
-      "source": "bitcoinmagazine",
-      "published": "2026-09-04T19:22:34+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Five-Years-On-El-Salvador-Is-Still-Buying-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/el-s",
-      "title_es": "El Salvador Isn’t Buying Bitcoin With Public Money, Says IMF"
     },
     {
       "id": "62c0b0a921e9",
@@ -191,15 +245,6 @@
       "title_es": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank"
     },
     {
-      "id": "a2b4c0ceda9e",
-      "title": "Bitcoin Dips Below $80,000 on Strong US Jobs Report",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report",
-      "source": "bitcoinmagazine",
-      "published": "2026-09-04T17:17:53+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-2.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report\" rel=\"n",
-      "title_es": "Bitcoin Dips Below $80,000 on Strong US Jobs Report"
-    },
-    {
       "id": "29cc450cba8b",
       "title": "QuFi launches post-quantum verification platform with Bitcoin testnet proof",
       "link": "https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -234,15 +279,6 @@
       "published": "2026-09-04T16:24:46+00:00",
       "summary": "The privacy coin's squeeze rode a Fed-driven crypto rally that reversed hours later, when a stronger-than-expected jobs report sent Bitcoin back under $80,000.",
       "title_es": "Zcash Hits Highest Price in Nearly a Decade, Crushing Short Bets"
-    },
-    {
-      "id": "a68a6326f5d2",
-      "title": "National Sheriffs’ Association Drops Opposition to Clarity Act",
-      "link": "https://bitcoinmagazine.com/news/national-sheriffs-association-clarity-act",
-      "source": "bitcoinmagazine",
-      "published": "2026-09-04T16:05:36+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-7.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/national-sheriffs-association-clarity-act\" rel=",
-      "title_es": "National Sheriffs’ Association Drops Opposition to Clarity Act"
     },
     {
       "id": "75d0900fdd78",
@@ -659,15 +695,6 @@
       "title_es": "Tether sued over $42M in frozen coins, 6,600 students get crypto loans: Asia Express"
     },
     {
-      "id": "2effeb8b0c2c",
-      "title": "Bitcoin Bear Market May Not Yet Be Over, Says Fidelity",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity",
-      "source": "bitcoinmagazine",
-      "published": "2026-09-03T22:19:41+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-6.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity\" rel",
-      "title_es": "Bitcoin Bear Market May Not Yet Be Over, Says Fidelity"
-    },
-    {
       "id": "252ce431662a",
       "title": "Utah Becomes First State to Target VPNs in Age-Verification Crackdown",
       "link": "https://decrypt.co/377370/utah-websites-check-vpn-age-verification",
@@ -675,15 +702,6 @@
       "published": "2026-09-03T22:16:04+00:00",
       "summary": "Privacy advocates say the law raises First Amendment questions the courts have yet to address.",
       "title_es": "Utah Becomes First State to Target VPNs in Age-Verification Crackdown"
-    },
-    {
-      "id": "063ff6bf9f97",
-      "title": "Bitcoin-Gold Correlation Hits Six-Year High as Debasement Fears Mount",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-gold-correlation-soars",
-      "source": "bitcoinmagazine",
-      "published": "2026-09-03T21:31:34+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-5.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-gold-correlation-soars\" rel=\"nofollow\">",
-      "title_es": "Bitcoin-Gold Correlation Hits Six-Year High as Debasement Fears Mount"
     },
     {
       "id": "0b767e86e7b1",
@@ -720,15 +738,6 @@
       "published": "2026-09-03T20:46:04+00:00",
       "summary": "PONS, the token behind Robinhood Chain's biggest meme coin factory, flipped CASHCAT to become the chain's largest cryptocurrency by market cap—and its chart looks like a hockey stick.",
       "title_es": "What Is Pons? The Robinhood Chain Meme Coin Factory Token Up 18,000% Since July"
-    },
-    {
-      "id": "51c0ce1bf22f",
-      "title": "French Hill Eyes Bipartisan Path for Clarity Act Ahead of September Vote",
-      "link": "https://bitcoinmagazine.com/news/hill-eyes-bipartisan-work-on-clarity-act",
-      "source": "bitcoinmagazine",
-      "published": "2026-09-03T20:41:30+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-4.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/hill-eyes-bipartisan-work-on-clarity-act\" rel=\"",
-      "title_es": "French Hill Eyes Bipartisan Path for Clarity Act Ahead of September Vote"
     },
     {
       "id": "c0d8b196d75e",
@@ -776,15 +785,6 @@
       "title_es": "Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms"
     },
     {
-      "id": "d88175cd62b2",
-      "title": "Kraken and SoFi Link Crypto Trading To Banking Rails",
-      "link": "https://bitcoinmagazine.com/news/kraken-sofi-partnership",
-      "source": "bitcoinmagazine",
-      "published": "2026-09-03T18:49:39+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/sofi.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/kraken-sofi-partnership\" rel=\"nofollow\">Kraken an",
-      "title_es": "Kraken and SoFi Link Crypto Trading To Banking Rails"
-    },
-    {
       "id": "719b80ccdc1f",
       "title": "Bitcoin reclaims $80K as DXY falls amid continuing suspected yen intervention",
       "link": "https://cointelegraph.com/markets/bitcoin-reclaims-810-dxy-falls-amid-continuing-suspected-yen-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -812,24 +812,6 @@
       "title_es": "Revolut takes ‘important’ step toward becoming a US bank with conditional OCC approval"
     },
     {
-      "id": "345d443f9046",
-      "title": "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks",
-      "link": "https://decrypt.co/377284/bitcoin-etfs-rebound-ethereum-xrp-end-streaks",
-      "source": "decrypt",
-      "published": "2026-09-03T18:15:07+00:00",
-      "summary": "Ethereum funds broke a 12-day winning run and XRP snapped an 11-session streak on Wednesday, while Bitcoin ETFs bounced back with $101.15 million in one day after their worst outflow since July.",
-      "title_es": "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks"
-    },
-    {
-      "id": "a3bbee73ca96",
-      "title": "CFTC Asks Judge to Dismiss CME Lawsuit Over Crypto Perpetual Futures",
-      "link": "https://decrypt.co/377315/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures",
-      "source": "decrypt",
-      "published": "2026-09-03T17:31:04+00:00",
-      "summary": "The regulator argues that CME cannot challenge its approval of Kalshi’s Bitcoin perpetual contract without showing concrete financial harm.",
-      "title_es": "CFTC Asks Judge to Dismiss CME Lawsuit Over Crypto Perpetual Futures"
-    },
-    {
       "id": "f793925cc75c",
       "title": "Bybit Pay integrates with Mesh to expand crypto payments",
       "link": "https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -846,33 +828,6 @@
       "published": "2026-09-03T17:06:28+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KWG2BF4FVCFASCKG2BAG5D/peace-and-friendship-uk-1.jpg\" /></p><p>T",
       "title_es": "BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026"
-    },
-    {
-      "id": "392c13c862f1",
-      "title": "Bitcoin Rallies Over $81,000 — And Brings BTC-Related Stocks With It",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-rallies-over-81000",
-      "source": "bitcoinmagazine",
-      "published": "2026-09-03T16:46:05+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-3.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-rallies-over-81000\" rel=\"nofollow\">B",
-      "title_es": "Bitcoin Rallies Over $81,000 — And Brings BTC-Related Stocks With It"
-    },
-    {
-      "id": "6e5838e157c7",
-      "title": "Bitcoin Pumps as Fed Signals Rate Pause, $415 Million in Shorts Get Rekt",
-      "link": "https://decrypt.co/377314/bitcoin-pump-fed-rate-pause-shorts-get-rekt",
-      "source": "decrypt",
-      "published": "2026-09-03T16:38:17+00:00",
-      "summary": "Stocks and crypto rallied together after Governor Christopher Waller said he could back holding rates steady, with short sellers absorbing the brunt of the squeeze.",
-      "title_es": "Bitcoin Pumps as Fed Signals Rate Pause, $415 Million in Shorts Get Rekt"
-    },
-    {
-      "id": "a3f6d12be635",
-      "title": "Sony Dismisses PS5 Buyers' $508M Tariff Refund Claim as 'Illogical'",
-      "link": "https://decrypt.co/377313/sony-dismisses-ps5-buyers-508m-tariff-refund-claim-as-illogical",
-      "source": "decrypt",
-      "published": "2026-09-03T16:28:27+00:00",
-      "summary": "The company raised PlayStation prices for a second time in March, five weeks after the tariffs were struck down.",
-      "title_es": "Sony Dismisses PS5 Buyers' $508M Tariff Refund Claim as 'Illogical'"
     },
     {
       "id": "9c0a070b8485",
@@ -983,24 +938,6 @@
       "title_es": "Ripple News: BIS Turns to XRP Ledger for 3–5 Second Data Verification"
     },
     {
-      "id": "a188bdb281f3",
-      "title": "FX has stopped reading bond yields the old way. Bitcoin should too.",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/03/fx-has-stopped-reading-bond-yields-the-old-way-bitcoin-should-too",
-      "source": "coindesk",
-      "published": "2026-09-03T11:26:00+00:00",
-      "summary": "",
-      "title_es": "FX has stopped reading bond yields the old way. Bitcoin should too."
-    },
-    {
-      "id": "6d39c853464c",
-      "title": "The yen is surging and it’s helping bitcoin, for now",
-      "link": "https://www.coindesk.com/markets/2026/09/03/the-yen-is-surging-and-it-s-helping-bitcoin-for-now",
-      "source": "coindesk",
-      "published": "2026-09-03T11:19:56+00:00",
-      "summary": "",
-      "title_es": "The yen is surging and it’s helping bitcoin, for now"
-    },
-    {
       "id": "585d2e8770cb",
       "title": "Bitcoin-gold correlation hits six-year high, but analysts question whether equity decoupling will last",
       "link": "https://www.theblock.co/news/markets/2026-09-03-bitcoin-gold-correlation-hits-six-year-high-but-analysts-question-whether-equity-decoupling-will-last-413437",
@@ -1064,24 +1001,6 @@
       "title_es": "Michigan court orders Kalshi to keep blocking sports prediction markets"
     },
     {
-      "id": "e1196e98aecf",
-      "title": "‘Much ado about nothing’: CFTC files to dismiss CME’s lawsuit over crypto perpetual futures",
-      "link": "https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416",
-      "source": "theblock",
-      "published": "2026-09-03T03:39:02+00:00",
-      "summary": "The CFTC said CME lacks standing on its competitive-injury claims, as the exchange is free to list perp futures as a DCM.",
-      "title_es": "‘Much ado about nothing’: CFTC files to dismiss CME’s lawsuit over crypto perpetual futures"
-    },
-    {
-      "id": "56e43559a387",
-      "title": "Anthony Armstrong, former CFO at Elon Musk’s xAI and X, joins Coinbase board",
-      "link": "https://www.theblock.co/news/business/2026-09-02-anthony-armstrong-former-cfo-elon-musk-xai-x-joins-coinbase-board-413405",
-      "source": "theblock",
-      "published": "2026-09-02T21:03:53+00:00",
-      "summary": "Anthony Armstrong — no relation to Coinbase CEO Brian Armstrong — most recently served as CFO across xAI, X.AI Corp., and X Corp.",
-      "title_es": "Anthony Armstrong, former CFO at Elon Musk’s xAI and X, joins Coinbase board"
-    },
-    {
       "id": "0e9ba76f08fa",
       "title": "Google Gemini AI Predicts a +300% XRP Price Surge by 2027",
       "link": "https://cryptonews.com/news/google-gemini-predicts-a-300-xrp-price-surge-by-2027/",
@@ -1125,15 +1044,6 @@
       "published": "2026-09-02T13:01:00+00:00",
       "summary": "<p>Ethereum controls 45% of the $38.69B tokenized RWA market, but ETH price trades near $2,367 amid consolidation. Key levels and a presale alternative inside.</p>\n<p>The post <a href=\"https://cryptonews.com/news/ethereum-cycle-high-news-price-prediction/\">ETH Leads the RWA Boom, But Can It Break It",
       "title_es": "ETH Leads the RWA Boom, But Can It Break Its Last Cycle High?"
-    },
-    {
-      "id": "cad5398938c5",
-      "title": "Ripple Sees XRP ETFs Pull In $170M as Institutions Build Their Positions",
-      "link": "https://cryptonews.com/news/ripple-xrp-etf-inflows-price-prediction/",
-      "source": "cryptonews",
-      "published": "2026-09-02T10:52:56+00:00",
-      "summary": "<p>XRP ETFs pull in fresh institutional inflows while price tests $1.33 support. Full technical breakdown plus an early-stage L3 presale alternative.</p>\n<p>The post <a href=\"https://cryptonews.com/news/ripple-xrp-etf-inflows-price-prediction/\">Ripple Sees XRP ETFs Pull In $170M as Institutions Buil",
-      "title_es": "Ripple Sees XRP ETFs Pull In $170M as Institutions Build Their Positions"
     }
   ]
 }
