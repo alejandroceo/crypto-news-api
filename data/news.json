@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-04T22:41:28.551833+00:00",
-  "count": 115,
+  "updated_at": "2026-09-05T12:15:21.687438+00:00",
+  "count": 125,
   "sources": [
     "coindesk",
     "cointelegraph",
@@ -11,6 +11,60 @@
   ],
   "items": [
     {
+      "id": "0dadfa8b131f",
+      "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
+      "link": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
+      "source": "coindesk",
+      "published": "2026-09-05T12:00:00+00:00",
+      "summary": "",
+      "title_es": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million"
+    },
+    {
+      "id": "552e43ae5e35",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-05T11:16:19+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
+      "title_es": "Here’s what happened in crypto today"
+    },
+    {
+      "id": "75e494bfea53",
+      "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
+      "link": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-05T10:44:29+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Poland upholds crypto bill veto as Zondacrypto scandal widens\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1RDG59G42A1KT2B2MD6EQRF/poland.png\" /></p><p>Polish lawmakers failed to o",
+      "title_es": "Poland upholds crypto bill veto as Zondacrypto scandal widens"
+    },
+    {
+      "id": "6245c336d55d",
+      "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-05T08:03:06+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1R63FX0B48YA7B473RBB8TA/hi-bitcoin-etf-infrastructure-investment-",
+      "title_es": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026"
+    },
+    {
+      "id": "8e6ee71f13c1",
+      "title": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
+      "link": "https://www.coindesk.com/markets/2026/09/05/xrp-ledger-has-fewer-active-accounts-but-bigger-trades-and-more-value",
+      "source": "coindesk",
+      "published": "2026-09-05T05:30:45+00:00",
+      "summary": "",
+      "title_es": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value"
+    },
+    {
+      "id": "164869ee2484",
+      "title": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
+      "link": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
+      "source": "coindesk",
+      "published": "2026-09-05T05:00:00+00:00",
+      "summary": "",
+      "title_es": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms"
+    },
+    {
       "id": "6c85e5198124",
       "title": "TikTok's Parent Company Just Borrowed $30 Billion to Go All-In on AI",
       "link": "https://decrypt.co/377489/tiktok-bytedance-loan-ai",
@@ -18,6 +72,15 @@
       "published": "2026-09-04T21:46:03+00:00",
       "summary": "Nearly 30 banks backed the rare unsecured facility as TikTok’s parent company spends heavily on AI chips, models, and overseas data centers.",
       "title_es": "TikTok's Parent Company Just Borrowed $30 Billion to Go All-In on AI"
+    },
+    {
+      "id": "da1686d0e225",
+      "title": "Hargreaves Lansdown Reverses Course, Rolls Out Bitcoin Trading",
+      "link": "https://bitcoinmagazine.com/news/hargreaves-lansdown-to-allow-bitcoin-etns",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-04T21:16:39+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-8.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/hargreaves-lansdown-to-allow-bitcoin-etns\" rel=",
+      "title_es": "Hargreaves Lansdown Reverses Course, Rolls Out Bitcoin Trading"
     },
     {
       "id": "0d0d854644e9",
@@ -47,6 +110,15 @@
       "title_es": "Surprise nonfarm payrolls print sends Bitcoin back below 80K"
     },
     {
+      "id": "dc1a962fb66d",
+      "title": "Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed",
+      "link": "https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-04T20:30:14+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Trezor-Data-Breach-Worse-Than-Initially-Reported-67000-US-Customers-Data-Exposed.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https:",
+      "title_es": "Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed"
+    },
+    {
       "id": "c508faeb09cc",
       "title": "Pineapple Financial puts $1B in mortgage records on Injective",
       "link": "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -54,6 +126,15 @@
       "published": "2026-09-04T19:31:38+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pineapple Financial puts $1B in mortgage records on Injective\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PRJC4TJX7RTS99QE3AJN32/hi-tokenizing-real-estate-in-the-united-states-cr",
       "title_es": "Pineapple Financial puts $1B in mortgage records on Injective"
+    },
+    {
+      "id": "abc14da662fb",
+      "title": "El Salvador Isn’t Buying Bitcoin With Public Money, Says IMF",
+      "link": "https://bitcoinmagazine.com/news/el-salvador-isnt-buying-bitcoin-says-imf",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-04T19:22:34+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Five-Years-On-El-Salvador-Is-Still-Buying-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/el-s",
+      "title_es": "El Salvador Isn’t Buying Bitcoin With Public Money, Says IMF"
     },
     {
       "id": "62c0b0a921e9",
@@ -92,15 +173,6 @@
       "title_es": "President Trump says he wants Hyperliquid to enter the US — here’s how it could happen"
     },
     {
-      "id": "552e43ae5e35",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-04T18:31:34+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
-      "title_es": "Here’s what happened in crypto today"
-    },
-    {
       "id": "df86d0327be4",
       "title": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
       "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -117,6 +189,15 @@
       "published": "2026-09-04T17:19:55+00:00",
       "summary": "The a16z-backed startup chose a full national charter over the trust-bank route most crypto firms have taken, clearing a path toward insured deposits and conventional lending alongside stablecoin issuance.",
       "title_es": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank"
+    },
+    {
+      "id": "a2b4c0ceda9e",
+      "title": "Bitcoin Dips Below $80,000 on Strong US Jobs Report",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-04T17:17:53+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-2.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report\" rel=\"n",
+      "title_es": "Bitcoin Dips Below $80,000 on Strong US Jobs Report"
     },
     {
       "id": "29cc450cba8b",
@@ -153,6 +234,15 @@
       "published": "2026-09-04T16:24:46+00:00",
       "summary": "The privacy coin's squeeze rode a Fed-driven crypto rally that reversed hours later, when a stronger-than-expected jobs report sent Bitcoin back under $80,000.",
       "title_es": "Zcash Hits Highest Price in Nearly a Decade, Crushing Short Bets"
+    },
+    {
+      "id": "a68a6326f5d2",
+      "title": "National Sheriffs’ Association Drops Opposition to Clarity Act",
+      "link": "https://bitcoinmagazine.com/news/national-sheriffs-association-clarity-act",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-04T16:05:36+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-7.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/national-sheriffs-association-clarity-act\" rel=",
+      "title_es": "National Sheriffs’ Association Drops Opposition to Clarity Act"
     },
     {
       "id": "75d0900fdd78",
@@ -569,6 +659,15 @@
       "title_es": "Tether sued over $42M in frozen coins, 6,600 students get crypto loans: Asia Express"
     },
     {
+      "id": "2effeb8b0c2c",
+      "title": "Bitcoin Bear Market May Not Yet Be Over, Says Fidelity",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-03T22:19:41+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-6.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity\" rel",
+      "title_es": "Bitcoin Bear Market May Not Yet Be Over, Says Fidelity"
+    },
+    {
       "id": "252ce431662a",
       "title": "Utah Becomes First State to Target VPNs in Age-Verification Crackdown",
       "link": "https://decrypt.co/377370/utah-websites-check-vpn-age-verification",
@@ -576,6 +675,15 @@
       "published": "2026-09-03T22:16:04+00:00",
       "summary": "Privacy advocates say the law raises First Amendment questions the courts have yet to address.",
       "title_es": "Utah Becomes First State to Target VPNs in Age-Verification Crackdown"
+    },
+    {
+      "id": "063ff6bf9f97",
+      "title": "Bitcoin-Gold Correlation Hits Six-Year High as Debasement Fears Mount",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-gold-correlation-soars",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-03T21:31:34+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-5.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-gold-correlation-soars\" rel=\"nofollow\">",
+      "title_es": "Bitcoin-Gold Correlation Hits Six-Year High as Debasement Fears Mount"
     },
     {
       "id": "0b767e86e7b1",
@@ -612,6 +720,15 @@
       "published": "2026-09-03T20:46:04+00:00",
       "summary": "PONS, the token behind Robinhood Chain's biggest meme coin factory, flipped CASHCAT to become the chain's largest cryptocurrency by market cap—and its chart looks like a hockey stick.",
       "title_es": "What Is Pons? The Robinhood Chain Meme Coin Factory Token Up 18,000% Since July"
+    },
+    {
+      "id": "51c0ce1bf22f",
+      "title": "French Hill Eyes Bipartisan Path for Clarity Act Ahead of September Vote",
+      "link": "https://bitcoinmagazine.com/news/hill-eyes-bipartisan-work-on-clarity-act",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-03T20:41:30+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-4.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/hill-eyes-bipartisan-work-on-clarity-act\" rel=\"",
+      "title_es": "French Hill Eyes Bipartisan Path for Clarity Act Ahead of September Vote"
     },
     {
       "id": "c0d8b196d75e",
@@ -657,6 +774,15 @@
       "published": "2026-09-03T19:11:46+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1M5NCSJSS1MAFGEDXXFPQN1/court-vs-kalshi-3.jpg\" /></p",
       "title_es": "Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms"
+    },
+    {
+      "id": "d88175cd62b2",
+      "title": "Kraken and SoFi Link Crypto Trading To Banking Rails",
+      "link": "https://bitcoinmagazine.com/news/kraken-sofi-partnership",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-03T18:49:39+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/sofi.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/kraken-sofi-partnership\" rel=\"nofollow\">Kraken an",
+      "title_es": "Kraken and SoFi Link Crypto Trading To Banking Rails"
     },
     {
       "id": "719b80ccdc1f",
@@ -722,6 +848,15 @@
       "title_es": "BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026"
     },
     {
+      "id": "392c13c862f1",
+      "title": "Bitcoin Rallies Over $81,000 — And Brings BTC-Related Stocks With It",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-rallies-over-81000",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-03T16:46:05+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-3.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-rallies-over-81000\" rel=\"nofollow\">B",
+      "title_es": "Bitcoin Rallies Over $81,000 — And Brings BTC-Related Stocks With It"
+    },
+    {
       "id": "6e5838e157c7",
       "title": "Bitcoin Pumps as Fed Signals Rate Pause, $415 Million in Shorts Get Rekt",
       "link": "https://decrypt.co/377314/bitcoin-pump-fed-rate-pause-shorts-get-rekt",
@@ -747,15 +882,6 @@
       "published": "2026-09-03T16:27:35+00:00",
       "summary": "Strive shares climbed to a year-to-date high of $26.84 on Thursday, placing the stock less than 1% below the warrants’ exercise price.",
       "title_es": "Strive CEO says company could end 2026 as second-largest public bitcoin holder as ASST climbs"
-    },
-    {
-      "id": "c86b13cd3e0b",
-      "title": "Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement",
-      "link": "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-03T16:04:11+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KYWSE94CPJJA8YZQS23VKP/hi-what-is-a-decentralized-money-market",
-      "title_es": "Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement"
     },
     {
       "id": "9e7f85bfcabb",
@@ -830,15 +956,6 @@
       "title_es": "EU Strategy Targets €10 Trillion in Deposits, No Bitcoin Yet"
     },
     {
-      "id": "2c686073bee3",
-      "title": "Recovery specialists crack $1B crypto wallet... but find just $10",
-      "link": "https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-03T13:30:00+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Recovery specialists crack $1B crypto wallet... but find just $10 \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1JCXG2R7DCZ2470D2Y6764D/magazine-crypto-sec-3.jpg\" /></p><p>Crypto r",
-      "title_es": "Recovery specialists crack $1B crypto wallet... but find just $10"
-    },
-    {
       "id": "f69e1ff29621",
       "title": "SoFi, Payward agree to link banking network with Kraken infrastructure",
       "link": "https://www.theblock.co/news/business/2026-09-03-sofi-payward-agree-to-link-banking-network-with-kraken-infrastructure-413432",
@@ -893,15 +1010,6 @@
       "title_es": "Bitcoin-gold correlation hits six-year high, but analysts question whether equity decoupling will last"
     },
     {
-      "id": "8826a3266325",
-      "title": "Live updates: Bitcoin jumps above $81,000 as rates fall, dollar weakens",
-      "link": "https://www.coindesk.com/business/2026/09/03/live-updates-crypto-majors-bounce-while-global-funds-run-their-lowest-dollar-hedges-since-2015",
-      "source": "coindesk",
-      "published": "2026-09-03T10:42:15+00:00",
-      "summary": "",
-      "title_es": "Live updates: Bitcoin jumps above $81,000 as rates fall, dollar weakens"
-    },
-    {
       "id": "6033c7aabf3b",
       "title": "Ethereum Price Suppressed as Selling Pressure Mounts",
       "link": "https://cryptonews.com/news/ethereum-price-selling-pressure/",
@@ -909,24 +1017,6 @@
       "published": "2026-09-03T10:39:35+00:00",
       "summary": "<p>Ethereum trades near $2,390 as selling pressure builds below key resistance. Analysis of support levels, ETF flows, and an early-stage Bitcoin L2 presale alternative.</p>\n<p>The post <a href=\"https://cryptonews.com/news/ethereum-price-selling-pressure/\">Ethereum Price Suppressed as Selling Pressu",
       "title_es": "Ethereum Price Suppressed as Selling Pressure Mounts"
-    },
-    {
-      "id": "68f925239b79",
-      "title": "Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally",
-      "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-recovers-toward-usd78-000-as-pons-and-arbitrum-extend-robinhood-chain-rally",
-      "source": "coindesk",
-      "published": "2026-09-03T10:29:52+00:00",
-      "summary": "",
-      "title_es": "Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally"
-    },
-    {
-      "id": "fca11af53ba6",
-      "title": "Australia is cracking down on crypto businesses as its strict new regulatory deadline nears",
-      "link": "https://www.coindesk.com/business/2026/09/03/australia-is-cracking-down-on-crypto-businesses-as-its-strict-new-regulatory-deadline-nears",
-      "source": "coindesk",
-      "published": "2026-09-03T10:09:31+00:00",
-      "summary": "",
-      "title_es": "Australia is cracking down on crypto businesses as its strict new regulatory deadline nears"
     },
     {
       "id": "7834501bce6b",
