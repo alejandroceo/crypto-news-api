@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T13:17:45.377029+00:00",
-  "count": 114,
+  "updated_at": "2026-09-09T22:51:12.494945+00:00",
+  "count": 123,
   "sources": [
     "coindesk",
     "cointelegraph",
@@ -10,6 +10,447 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "552e43ae5e35",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-09T21:30:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
+      "title_es": "Esto es lo que sucedió hoy en las criptomonedas"
+    },
+    {
+      "id": "6729166d72c9",
+      "title": "US Treasury Secretary Scott Bessent ‘Strongly Urges’ Senate To Pass Clarity Act",
+      "link": "https://bitcoinmagazine.com/news/scott-bessent-urges-clarity-act-action",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-09T21:20:51+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/04/Scott-Bessent-Bond-Strategy.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/scott-bessent-urges-clarit",
+      "title_es": "El Secretario del Tesoro de Estados Unidos, Scott Bessent, “insta enérgicamente” al Senado a aprobar la Ley de Claridad"
+    },
+    {
+      "id": "b850bd887792",
+      "title": "Jack Dorsey’s Block Becomes Latest Bitcoin-Focused Company To Apply for Banking Charter",
+      "link": "https://bitcoinmagazine.com/news/block-applies-for-banking-charter",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-09T20:35:41+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Maxi-Jack-Dorsey-Unveils-Chat-App.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/block-applie",
+      "title_es": "El bloque de Jack Dorsey se convierte en la última empresa centrada en Bitcoin en solicitar un estatuto bancario"
+    },
+    {
+      "id": "fe6526a40bce",
+      "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
+      "link": "https://decrypt.co/377818/ai-math-best-problems-terence-tao",
+      "source": "decrypt",
+      "published": "2026-09-09T20:31:29+00:00",
+      "summary": "The Fields medalist points to a real race between OpenAI and Anthropic as proof: AI can now flatten a hard problem the moment someone starts working on it.",
+      "title_es": "La IA está resolviendo los mejores problemas de matemáticas más rápido de lo que pueden reemplazarse, advierte Terence Tao"
+    },
+    {
+      "id": "168d765930e6",
+      "title": "DoubleZero adds Kalshi election market data ahead of US midterms",
+      "link": "https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-09T20:08:09+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DoubleZero adds Kalshi election market data ahead of US midterms \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23VG1E8VXF1CMN933GG7NC8/republicans-vs-democrats-crypto2-2.jpg\" /></p",
+      "title_es": "DoubleZero agrega datos del mercado electoral de Kalshi antes de las elecciones intermedias de EE. UU."
+    },
+    {
+      "id": "2ce000a819a2",
+      "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
+      "link": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
+      "source": "decrypt",
+      "published": "2026-09-09T18:56:58+00:00",
+      "summary": "Crypto advocates and community bankers are targeting lawmakers in their home states as the Senate prepares for a September 15 procedural vote.",
+      "title_es": "Las criptomonedas y los bancos llevan la lucha de lobby de la Ley de Claridad a los estados de origen de los senadores"
+    },
+    {
+      "id": "8ec949e3242a",
+      "title": "Consensys to split into MetaMask and institutional blockchain company",
+      "link": "https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-09T18:47:32+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Consensys to split into MetaMask and institutional blockchain company\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23QBD87GQQKWH5JQGT142KQ/hi-crypto-loan-platforms-how-they-work-an",
+      "title_es": "Consensys se dividirá en MetaMask y una empresa institucional de blockchain"
+    },
+    {
+      "id": "e13fadff8acf",
+      "title": "Steak ‘n Shake Says Sales Grew Double Digits Since Bitcoin Adoption",
+      "link": "https://bitcoinmagazine.com/news/steak-n-shake-says-sales-grew",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-09T18:37:31+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-14.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/steak-n-shake-says-sales-grew\" rel=\"nofollow\">",
+      "title_es": "Steak 'n Shake dice que las ventas aumentaron dos dígitos desde la adopción de Bitcoin"
+    },
+    {
+      "id": "104a18877948",
+      "title": "XRP Price Prediction: Whales and Retail Traders Are Taking Opposite Sides",
+      "link": "https://cryptonews.com/news/xrp-price-prediction-whales-retail/",
+      "source": "cryptonews",
+      "published": "2026-09-09T18:28:00+00:00",
+      "summary": "<p>XRP holds near $1.42 as whale accumulation diverges from retail activity. Key levels, ETF inflows, and CLARITY Act odds shape this week's price path.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrp-price-prediction-whales-retail/\">XRP Price Prediction: Whales and Retail Traders Are Takin",
+      "title_es": "Predicción del precio de XRP: las ballenas y los comerciantes minoristas están tomando lados opuestos"
+    },
+    {
+      "id": "911360fe6d72",
+      "title": "Iran Continues Using Bitcoin To Keep Economy Stable: Report",
+      "link": "https://bitcoinmagazine.com/news/iran-still-using-bitcoin-to-help-economy",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-09T18:23:22+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/US-Closes-In-of-Irans-Bitcoin-Insurance-Policy-in-strait-of-hormuz.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagaz",
+      "title_es": "Irán continúa usando Bitcoin para mantener estable la economía: informe"
+    },
+    {
+      "id": "9180c2a07f22",
+      "title": "DoubleZero adds Kalshi’s election markets ahead of November midterms",
+      "link": "https://www.theblock.co/news/regulation/2026-09-09-doublezero-adds-kalshis-election-markets-ahead-november-midterms-414075",
+      "source": "theblock",
+      "published": "2026-09-09T18:17:58+00:00",
+      "summary": "Kalshi's elections and politics markets went live on the market data delivery platform DoubleZero Edge on Wednesday.",
+      "title_es": "DoubleZero agrega los mercados electorales de Kalshi antes de las elecciones intermedias de noviembre"
+    },
+    {
+      "id": "7e0f09fec172",
+      "title": "Solana treasury firm SkyAI faces board challenge from would-be acquirer Forward Industries, shareholder group",
+      "link": "https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061",
+      "source": "theblock",
+      "published": "2026-09-09T17:56:26+00:00",
+      "summary": "SkyAI’s proposed equity plan would authorize 5.145 million shares for stock-based compensation, representing roughly 7.2% additional dilution.",
+      "title_es": "La firma de tesorería de Solana, SkyAI, enfrenta un desafío en la junta directiva del posible adquirente Forward Industries y el grupo de accionistas"
+    },
+    {
+      "id": "7c7b6d97bb2f",
+      "title": "Apple Unveils Redesigned Siri AI and A20 Pro Chip as CEO John Ternus Makes Debut",
+      "link": "https://decrypt.co/377807/apple-redesigned-siri-ai-a20-pro-chip",
+      "source": "decrypt",
+      "published": "2026-09-09T17:50:14+00:00",
+      "summary": "The company's first fall keynote under new leadership paired a Gemini-powered Siri overhaul with Apple's first 2-nanometer chip, plus a $1,999 foldable iPhone that won't ship until October.",
+      "title_es": "Apple presenta Siri AI rediseñado y el chip A20 Pro mientras el CEO John Ternus hace su debut"
+    },
+    {
+      "id": "3a377d8b3f8f",
+      "title": "Bitcoin miners are missing the crypto rally as exchanges, stablecoins surge",
+      "link": "https://www.theblock.co/news/markets/2026-09-09-bitcoin-miners-are-missing-the-crypto-rally-as-exchanges-stablecoins-surge-413848",
+      "source": "theblock",
+      "published": "2026-09-09T17:36:02+00:00",
+      "summary": "Among tracked companies, only one bitcoin mining company has outperformed the cryptocurrency: Canaan (ticker CAN).",
+      "title_es": "Los mineros de Bitcoin se están perdiendo el repunte de las criptomonedas a medida que aumentan los intercambios y las monedas estables"
+    },
+    {
+      "id": "e25fddd5417c",
+      "title": "TRM Labs doubles valuation to $2B in Series C expansion",
+      "link": "https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-09T17:30:06+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"TRM Labs doubles valuation to $2B in Series C expansion \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23JCY6CREQKFY9A4SRB13GG/hi-institutional-trading-and-cryptocurrency-industry-i",
+      "title_es": "TRM Labs duplica su valoración a 2.000 millones de dólares en la expansión de la Serie C"
+    },
+    {
+      "id": "21cff553023a",
+      "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
+      "link": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
+      "source": "decrypt",
+      "published": "2026-09-09T17:16:08+00:00",
+      "summary": "Blockchain sleuths at Elliptic traced the money, Treasury sanctioned the marketplace, and Xinbi—which ran $24 billion through a Telegram scam bazaar—called the freeze unfair.",
+      "title_es": "El servicio secreto congela 52,8 millones de dólares en criptomonedas vinculadas al bazar de Telegram detrás de estafas globales"
+    },
+    {
+      "id": "aabd58056a9a",
+      "title": "While Bitcoin Devs Debate Next Moves, IonQ Unveils Superion 256 Quantum Computer",
+      "link": "https://decrypt.co/377737/bitcoin-debate-ionq-quantum-computer",
+      "source": "decrypt",
+      "published": "2026-09-09T16:46:05+00:00",
+      "summary": "The company has built its first chips and begun testing prototypes as it seeks to manufacture quantum computers in larger quantities.",
+      "title_es": "Mientras los desarrolladores de Bitcoin debaten los próximos pasos, IonQ presenta la computadora cuántica Superion 256"
+    },
+    {
+      "id": "570fb0911163",
+      "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
+      "link": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
+      "source": "decrypt",
+      "published": "2026-09-09T16:40:50+00:00",
+      "summary": "The LAPTOP token launched on Base in September 2026, peaked two minutes later, and shed almost all of its value the same day.",
+      "title_es": "¿Qué es una computadora portátil? La moneda Meme de Hunter Biden dirigida a los poseedores de TRUMP"
+    },
+    {
+      "id": "0c0dc4e7a884",
+      "title": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
+      "link": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-09T16:37:08+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23ENPDH8G235APECM7VERGK/cross-border-transaction-stablecoin-",
+      "title_es": "El banco estadounidense prueba la moneda estable patentada en una transacción transfronteriza de Stellar"
+    },
+    {
+      "id": "d1523df87064",
+      "title": "Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar",
+      "link": "https://cointelegraph.com/markets/bitcoin-fails-to-reclaim-80k-as-bessent-fuels-yen-strength-around-153-per-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-09T16:28:19+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23FHFBTAY2SPS1GVVCH1XNK/hi-a-beginners-guide-on-centr",
+      "title_es": "Bitcoin no logra recuperar $ 80,000 mientras Bessent impulsa la fortaleza del yen alrededor de 153 por dólar"
+    },
+    {
+      "id": "7ea20f539c05",
+      "title": "Hyperliquid Policy Center backs CFTC in fight over perpetual futures, asks court to drop CME’s case",
+      "link": "https://www.theblock.co/news/regulation/2026-09-09-hyperliquid-policy-center-backs-cftc-fight-perpetual-futures-asks-court-drop-cme-case-414046",
+      "source": "theblock",
+      "published": "2026-09-09T16:17:59+00:00",
+      "summary": "The Hyperliquid Policy Center accused CME Group of stifling innovation and urged a court to dismiss the exchange’s lawsuit against the CFTC.",
+      "title_es": "Hyperliquid Policy Center respalda a la CFTC en la lucha por los futuros perpetuos y pide al tribunal que desestime el caso de CME"
+    },
+    {
+      "id": "f4e0266dc2e3",
+      "title": "Mexican Musician and Family Killed Over Bitcoin Cold Wallet Believed to Hold Millions",
+      "link": "https://decrypt.co/377795/mexican-family-killed-bitcoin-cold-wallet",
+      "source": "decrypt",
+      "published": "2026-09-09T16:16:04+00:00",
+      "summary": "Mexican prosecutors allege suspects targeted Camilo Séptimo keyboardist Jonathan Meléndez and his family while searching for a cold wallet they believed contained millions in Bitcoin.",
+      "title_es": "Músico mexicano y su familia asesinados por una billetera fría de Bitcoin que se cree que contiene millones"
+    },
+    {
+      "id": "258c501e3608",
+      "title": "Robinhood CEO Vlad Tenev fires back at AMC's Aron in escalating fight over stock tokens",
+      "link": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
+      "source": "coindesk",
+      "published": "2026-09-09T16:11:07+00:00",
+      "summary": "",
+      "title_es": "El director ejecutivo de Robinhood, Vlad Tenev, responde a Aron de AMC en una creciente pelea por los tokens de acciones"
+    },
+    {
+      "id": "3044307264a6",
+      "title": "Hunter Biden’s LAPTOP airdrops briefly worth over $1 million each before 99% crash",
+      "link": "https://www.theblock.co/news/markets/2026-09-09-hunter-biden-laptop-airdrops-briefly-worth-over-1-million-each-before-99-crash-414034",
+      "source": "theblock",
+      "published": "2026-09-09T16:05:45+00:00",
+      "summary": "Substack subscribers were reportedly able to claim 4,276 LAPTOP tokens each, with some quickly selling their allocations.",
+      "title_es": "Los lanzamientos aéreos de LAPTOP de Hunter Biden valen brevemente más de $ 1 millón cada uno antes de que se desplome el 99%"
+    },
+    {
+      "id": "3c475b8d5d7b",
+      "title": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee",
+      "link": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee",
+      "source": "coindesk",
+      "published": "2026-09-09T16:05:11+00:00",
+      "summary": "",
+      "title_es": "El Tesoro de Estados Unidos sanciona a otro centro generalizado de estafas cibernéticas, la Garantía Xinbi"
+    },
+    {
+      "id": "bbce118cba92",
+      "title": "Hunter Biden’s laptop controversy gets a memecoin afterlife",
+      "link": "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-09T15:58:39+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hunter Biden’s laptop controversy gets a memecoin afterlife\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M230B9QSF000WZ911VXTFNH1/hi-bidens-crypto-memecoin-laptop.png\" /></p><p>The ",
+      "title_es": "La controversia sobre la computadora portátil de Hunter Biden tiene una vida futura memecoin"
+    },
+    {
+      "id": "068b60a45791",
+      "title": "Trade groups seek to block Illinois crypto tax before January effective date",
+      "link": "https://cointelegraph.com/news/trade-groups-seek-block-illinois-crypto-tax-before-january-effective-date?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-09T15:57:07+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trade groups seek to block Illinois crypto tax before January effective date\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23CVCZMG85BQMYT0FDR7K9V/year-of-crypto-tax-legislation-960",
+      "title_es": "Grupos comerciales buscan bloquear el criptoimpuesto de Illinois antes de la fecha de entrada en vigor en enero"
+    },
+    {
+      "id": "c5192ae7b41b",
+      "title": "Ripple News Brad Garlinghouse Slams $11B Gold Transfer as XRP Price Eyes $2",
+      "link": "https://cryptonews.com/news/ripple-news-xrp-price-prediction-gold-transfer/",
+      "source": "cryptonews",
+      "published": "2026-09-09T15:53:00+00:00",
+      "summary": "<p>Garlinghouse slams slow gold settlement as XRP trades near $1.42. Full price analysis, key levels for $2, and an early-stage Bitcoin L2 presale to watch.</p>\n<p>The post <a href=\"https://cryptonews.com/news/ripple-news-xrp-price-prediction-gold-transfer/\">Ripple News Brad Garlinghouse Slams $11B ",
+      "title_es": "Ripple News Brad Garlinghouse critica la transferencia de oro de $ 11 mil millones mientras el precio de XRP apunta a $ 2"
+    },
+    {
+      "id": "0e107280d6ce",
+      "title": "Tether pushes into private credit with $400 million fund with Fasanara",
+      "link": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
+      "source": "coindesk",
+      "published": "2026-09-09T15:51:25+00:00",
+      "summary": "",
+      "title_es": "Tether apuesta por el crédito privado con un fondo de 400 millones de dólares con Fasanara"
+    },
+    {
+      "id": "b503f44e3b3f",
+      "title": "Hunter Biden's LAPTOP Meme Coin Crashes 99% on Debut",
+      "link": "https://decrypt.co/377783/hunter-biden-laptop-meme-coin-crashes",
+      "source": "decrypt",
+      "published": "2026-09-09T15:47:09+00:00",
+      "summary": "LAPTOP hit a $190.81 peak within minutes of launching on Base, then shed roughly 99% as thin liquidity met a wave of selling.",
+      "title_es": "La moneda Meme LAPTOP de Hunter Biden cae un 99% en su debut"
+    },
+    {
+      "id": "864b01372aad",
+      "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
+      "link": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
+      "source": "coindesk",
+      "published": "2026-09-09T15:30:00+00:00",
+      "summary": "",
+      "title_es": "Bitcoin y Ethereum compiten con el reloj cuántico mientras Estados Unidos respalda un impulso de hardware de 300 millones de dólares"
+    },
+    {
+      "id": "3b6fa830d021",
+      "title": "Consensys to split MetaMask into its own firm while staying silent on IPO",
+      "link": "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo",
+      "source": "coindesk",
+      "published": "2026-09-09T15:24:01+00:00",
+      "summary": "",
+      "title_es": "Consensys dividirá MetaMask en su propia empresa y guardará silencio sobre la OPI"
+    },
+    {
+      "id": "e58622b4cd74",
+      "title": "Tether, Fasanara launch $400M private credit fund targeting $3B",
+      "link": "https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-09T15:21:44+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether, Fasanara launch $400M private credit fund targeting $3B  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23AK6XN00P8QY2D9WJ8JAAW/hi-crypto-negotiation-2.png\" /></p><p>The eve",
+      "title_es": "Tether y Fasanara lanzan un fondo de crédito privado de 400 millones de dólares con un objetivo de 3 mil millones de dólares"
+    },
+    {
+      "id": "a7dd9153460d",
+      "title": "Prediction Markets Abandon Cheap Oil as Brent Passes $100",
+      "link": "https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100",
+      "source": "decrypt",
+      "published": "2026-09-09T15:15:01+00:00",
+      "summary": "Myriad's $120 side overtook $55 at the start of September, while Polymarket puts WTI reaching $100 this month at 59%.",
+      "title_es": "Predicción Los mercados abandonan el petróleo barato cuando el Brent supera los 100 dólares"
+    },
+    {
+      "id": "b092c5068f64",
+      "title": "Consensys Is Splitting in Two as MetaMask Goes Its Own Way",
+      "link": "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
+      "source": "decrypt",
+      "published": "2026-09-09T15:07:24+00:00",
+      "summary": "Consensys Software Inc. will become MetaMask, while a newly formed Consensys will take over the firm's Ethereum protocols and institutional blockchain infrastructure business.",
+      "title_es": "Consensys se está dividiendo en dos mientras MetaMask sigue su propio camino"
+    },
+    {
+      "id": "88e7cad92d63",
+      "title": "Crypto industry groups escalate fight against Illinois, asking court to block controversial crypto tax",
+      "link": "https://www.theblock.co/news/regulation/2026-09-09-crypto-industry-groups-escalate-fight-illinois-asking-court-block-crypto-tax-414036",
+      "source": "theblock",
+      "published": "2026-09-09T15:04:41+00:00",
+      "summary": "Crypto groups representing a slew of digital asset firms are escalating its legal fight in Illinois over its controversial crypto tax.",
+      "title_es": "Grupos de la industria criptográfica intensifican la lucha contra Illinois y piden a la corte que bloquee el controvertido impuesto criptográfico"
+    },
+    {
+      "id": "ea283c8bf46c",
+      "title": "Crypto Long & Short:  Inside the 300-to-1 onchain gap between the dollar and euro",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
+      "source": "coindesk",
+      "published": "2026-09-09T14:58:07+00:00",
+      "summary": "",
+      "title_es": "Cripto largo y corto: dentro de la brecha en cadena de 300 a 1 entre el dólar y el euro"
+    },
+    {
+      "id": "d56e3c6b4f50",
+      "title": "Consensys splits MetaMask from institutional and Ethereum infrastructure businesses",
+      "link": "https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022",
+      "source": "theblock",
+      "published": "2026-09-09T14:54:15+00:00",
+      "summary": "The separation is expected to be completed by the end of 2026, with the existing entity rebranding as MetaMask under CEO Joe Lubin.",
+      "title_es": "Consensys separa MetaMask de los negocios de infraestructura institucional y Ethereum"
+    },
+    {
+      "id": "2e273ef7ea76",
+      "title": "Ink Foundation, GSR and others open Charter Foundation to help cut token launch costs",
+      "link": "https://www.theblock.co/news/ecosystems/2026-09-09-ink-foundation-gsr-crypto-charter-foundation-token-launch-costs-414023",
+      "source": "theblock",
+      "published": "2026-09-09T14:49:03+00:00",
+      "summary": "A group of crypto firms has launched Charter Foundation to offer a new framework to help founders reduce the cost of launching tokens.",
+      "title_es": "Ink Foundation, GSR y otros abren Charter Foundation para ayudar a reducir los costos de lanzamiento de tokens"
+    },
+    {
+      "id": "de1f683f58a6",
+      "title": "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027",
+      "link": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
+      "source": "decrypt",
+      "published": "2026-09-09T14:37:18+00:00",
+      "summary": "Anything bought before 2027 keeps the twelve-month exemption, so the change lands only on Germany's future crypto buyers.",
+      "title_es": "El Ministerio de Finanzas alemán elabora un impuesto del 25% sobre las ganancias criptográficas a partir de 2027"
+    },
+    {
+      "id": "92bdcb6e99b0",
+      "title": "VerifiedX Launches $15 Million Financing Round to Deploy Institutional Bitcoin Infrastructure",
+      "link": "https://bitcoinmagazine.com/news/cantor-fitzgerald-working-with-verifiedx",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-09T14:36:50+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-3.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/cantor-fitzgerald-working-with-verifiedx\" rel",
+      "title_es": "VerifiedX lanza una ronda de financiación de 15 millones de dólares para implementar una infraestructura institucional de Bitcoin"
+    },
+    {
+      "id": "5d5aba6543e6",
+      "title": "Ben Gurion Stays Open as Israel Airspace Risk Rises",
+      "link": "https://cryptonews.com/news/israel-airspace-closure-odds-polymarket-signals/",
+      "source": "cryptonews",
+      "published": "2026-09-09T14:16:18+00:00",
+      "summary": "<p>Israel airspace faces heightened risk, but Polymarket signals do not confirm a closure as EASA caution remains in force through September 30.</p>\n<p>The post <a href=\"https://cryptonews.com/news/israel-airspace-closure-odds-polymarket-signals/\">Ben Gurion Stays Open as Israel Airspace Risk Rises<",
+      "title_es": "Ben Gurion permanece abierto mientras aumenta el riesgo del espacio aéreo de Israel"
+    },
+    {
+      "id": "607b09fab075",
+      "title": "Kalshi election data goes live on DoubleZero ahead of U.S. midterms",
+      "link": "https://www.coindesk.com/tech/2026/09/09/kalshi-election-data-goes-live-on-doublezero-ahead-of-u-s-midterms",
+      "source": "coindesk",
+      "published": "2026-09-09T14:00:00+00:00",
+      "summary": "",
+      "title_es": "Los datos electorales de Kalshi se publican en DoubleZero antes de las elecciones intermedias de EE. UU."
+    },
+    {
+      "id": "7f944a4a51b4",
+      "title": "PayPal expands stablecoin rails with custom token issuance platform",
+      "link": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
+      "source": "coindesk",
+      "published": "2026-09-09T14:00:00+00:00",
+      "summary": "",
+      "title_es": "PayPal amplía los rieles de las monedas estables con una plataforma de emisión de tokens personalizada"
+    },
+    {
+      "id": "cf91b2865c7f",
+      "title": "Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut",
+      "link": "https://www.coindesk.com/business/2026/09/09/hunter-biden-s-laptop-memecoin-debuts-at-usd1-6-billion-market-cap",
+      "source": "coindesk",
+      "published": "2026-09-09T13:57:57+00:00",
+      "summary": "",
+      "title_es": "El nuevo token LAPTOP de Hunter Biden perdió el 98% de su valor en menos de una hora después de su debut de 1.600 millones de dólares"
+    },
+    {
+      "id": "e2d75a68baeb",
+      "title": "Tether, Fasanara launch $400 million fund for stablecoin-enabled private credit",
+      "link": "https://www.theblock.co/news/deals/2026-09-09-tether-fasanara-launch-400-million-fund-for-stablecoin-enabled-private-credit-414011",
+      "source": "theblock",
+      "published": "2026-09-09T13:53:28+00:00",
+      "summary": "The firms seek up to $3 billion from institutional investors to deploy through Fasanara's global fintech lending network.",
+      "title_es": "Tether y Fasanara lanzan un fondo de 400 millones de dólares para crédito privado habilitado para stablecoins"
+    },
+    {
+      "id": "d8c02bc08d1f",
+      "title": "German finance ministry proposes 25% crypto tax starting 2028: Report",
+      "link": "https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-09T13:49:55+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"German finance ministry proposes 25% crypto tax starting 2028: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M236GTB6R3NKE0V3DBECZ26A/hi-here-is-why-germany-leads-the-crypto-f",
+      "title_es": "El Ministerio de Finanzas alemán propone un impuesto criptográfico del 25% a partir de 2028: informe"
+    },
+    {
+      "id": "f3da4f222eb0",
+      "title": "10 of the greatest unsolved crypto mysteries",
+      "link": "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-09T13:30:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"10 of the greatest unsolved crypto mysteries\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20R6KSTHFBMH9CFKJSGWB2N/hi-front-running-vs-backrunning-vs-sandwiching-in-crypto.jpg\" /></",
+      "title_es": "10 de los mayores misterios criptográficos sin resolver"
+    },
+    {
+      "id": "72e0cea315d4",
+      "title": "Morning Minute: Venice’s VVV Token Soars After OpenAI Dispute",
+      "link": "https://decrypt.co/377761/morning-minute-venices-vvv-token-soars-after-openai-dispute",
+      "source": "decrypt",
+      "published": "2026-09-09T13:28:52+00:00",
+      "summary": "Concerns over frontier AI labs stealing user data has driven demand for private inference (or at least tokens tied to private inference).",
+      "title_es": "Minuto de la mañana: el token VVV de Venecia se dispara después de la disputa de OpenAI"
+    },
     {
       "id": "9fe9c3a38588",
       "title": "BitMart misses roadmap deadline, appoints financial adviser",
@@ -45,15 +486,6 @@
       "published": "2026-09-09T13:00:00+00:00",
       "summary": "<p>XRP trades near $1.43 as analysts flag a key on-ledger metric standing between the token and $100. Here's what the data actually shows.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrp-price-prediction-100-target/\">XRP Price Analysis: Is $100 Target Too Much to Ask For?</a> appeared first",
       "title_es": "Análisis de precios de XRP: ¿Es el objetivo de $100 demasiado pedir?"
-    },
-    {
-      "id": "bbce118cba92",
-      "title": "Hunter Biden’s laptop controversy gets a memecoin afterlife",
-      "link": "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-09T12:36:00+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hunter Biden’s laptop controversy gets a memecoin afterlife\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M230B9QSF000WZ911VXTFNH1/hi-bidens-crypto-memecoin-laptop.png\" /></p><p>The ",
-      "title_es": "La controversia sobre la computadora portátil de Hunter Biden tiene una vida futura memecoin"
     },
     {
       "id": "23d176c30dca",
@@ -152,7 +584,7 @@
       "source": "theblock",
       "published": "2026-09-09T11:12:43+00:00",
       "summary": "India's FIU issued non-compliance notices to 15 crypto platforms and sought takedowns of their apps and URLs.",
-      "title_es": "India busca el desmantelamiento de 15 plataformas criptográficas por cumplimiento de AML"
+      "title_es": "India busca el desmantelamiento de 15 plataformas criptográficas por cumplimiento de ALD"
     },
     {
       "id": "c7adf6e6d46c",
@@ -309,12 +741,12 @@
     },
     {
       "id": "eee59ecd8ce1",
-      "title": "Live updates: Bitcoin climbs past $79,000 as Brent Crude tops $100 for first time since July",
+      "title": "Live updates: Bitcoin slips as yields head higher following Treasury buyback announcement",
       "link": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
       "source": "coindesk",
       "published": "2026-09-09T07:20:51+00:00",
       "summary": "",
-      "title_es": "Actualizaciones en vivo: Bitcoin supera los $79,000 mientras el crudo Brent supera los $100 por primera vez desde julio"
+      "title_es": "Actualizaciones en vivo: Bitcoin cae a medida que los rendimientos suben tras el anuncio de recompra del Tesoro"
     },
     {
       "id": "db5e5431ae58",
@@ -324,15 +756,6 @@
       "published": "2026-09-09T06:20:38+00:00",
       "summary": "",
       "title_es": "La IA podría matarnos, dice un investigador de Anthropic tras su dimisión"
-    },
-    {
-      "id": "552e43ae5e35",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-09T05:51:21+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
-      "title_es": "Esto es lo que sucedió hoy en las criptomonedas"
     },
     {
       "id": "ca369b90b2d3",
@@ -452,6 +875,15 @@
       "title_es": "El veterano de los activos digitales de Franklin Templeton toma el mando de StablecoinX"
     },
     {
+      "id": "22e5c68da133",
+      "title": "Lummis Blasts Democrats Ahead of Clarity Act Vote — But Adds Bill Can Get Passed",
+      "link": "https://bitcoinmagazine.com/news/lummis-blasts-democrats-on-clarity-act",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-08T20:56:30+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Senator-Lummis-at-Bitcoin-2025.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/lummis-blasts-democrat",
+      "title_es": "Lummis critica a los demócratas antes de la votación de la Ley de Claridad, pero agrega que el proyecto de ley puede ser aprobado"
+    },
+    {
       "id": "39f057ae58c9",
       "title": "$47M Still Missing After Liquid Hack as Blockstream Bargains With 'White Hats'",
       "link": "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat",
@@ -461,13 +893,22 @@
       "title_es": "Aún faltan $ 47 millones después del hackeo de Liquid mientras Blockstream negocia con 'sombreros blancos'"
     },
     {
+      "id": "12ce08fa328f",
+      "title": "CoinCorner Launches Lloyd’s-Insured Multisig Bitcoin Vault with AnchorWatch",
+      "link": "https://bitcoinmagazine.com/news/coincorner-debuts-multisig-vault",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-08T20:16:20+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-11.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coincorner-debuts-multisig-vault\" rel=\"nofollo",
+      "title_es": "CoinCorner lanza la bóveda de Bitcoin multifirma asegurada por Lloyd's con AnchorWatch"
+    },
+    {
       "id": "82b75faa73e8",
       "title": "FOMC September 2026 Odds for a Rate Hike Surpass 50%",
       "link": "https://cryptonews.com/news/cme-fedwatch-fomc-september-2026-odds-rate-hike-50/",
       "source": "cryptonews",
       "published": "2026-09-08T20:16:18+00:00",
       "summary": "<p>CME FedWatch puts September’s 25-basis-point Fed hike odds near 56% after Kevin Warsh’s Jackson Hole speech, while Bitcoin impact remains unconfirmed.</p>\n<p>The post <a href=\"https://cryptonews.com/news/cme-fedwatch-fomc-september-2026-odds-rate-hike-50/\">FOMC September 2026 Odds for a Rate Hike",
-      "title_es": "Las probabilidades del FOMC de septiembre de 2026 de un aumento de tipos superan el 50%"
+      "title_es": "Las probabilidades del FOMC de septiembre de 2026 de una subida de tipos superan el 50%"
     },
     {
       "id": "efd4a18e433c",
@@ -506,22 +947,22 @@
       "title_es": "Bybit lanza perpetuas 24 horas al día, 7 días a la semana para los principales pares de divisas"
     },
     {
-      "id": "f34332b7a738",
-      "title": "DeFi Development closes Strategy-style $11 million CHAD offering to grow Solana treasury",
-      "link": "https://www.theblock.co/news/markets/2026-09-08-defi-development-closes-strategy-style-11-million-chad-offering-grow-solana-treasury-413892",
-      "source": "theblock",
-      "published": "2026-09-08T18:33:27+00:00",
-      "summary": "DeFi Development Corp's CHAD is a Variable Rate Series C perpetual preferred stock, with an initial annual dividend rate of 13%.",
-      "title_es": "DeFi Development cierra una oferta CHAD de 11 millones de dólares estilo estrategia para hacer crecer la tesorería de Solana"
-    },
-    {
       "id": "050c151332e4",
       "title": "Visa Taps Onchain Lending to Finance Stablecoin Card Programs",
       "link": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
       "source": "decrypt",
       "published": "2026-09-08T18:16:04+00:00",
       "summary": "The payment processor giant is pairing payment settlement data with blockchain lending tools to help fintechs and stablecoin-linked card programs access working capital.",
-      "title_es": "Visa aprovecha los préstamos en cadena para financiar programas de tarjetas Stablecoin"
+      "title_es": "Visa recurre a los préstamos en cadena para financiar programas de tarjetas Stablecoin"
+    },
+    {
+      "id": "f74875a366f6",
+      "title": "Capital B Buys 376 Bitcoins in Its Biggest Purchase of 2026",
+      "link": "https://bitcoinmagazine.com/news/capital-b-makes-biggest-2026-buy",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-08T17:53:33+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-10.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/capital-b-makes-biggest-2026-buy\" rel=\"nofollo",
+      "title_es": "Capital B compra 376 Bitcoins en su mayor compra de 2026"
     },
     {
       "id": "33a78a5ac750",
@@ -551,15 +992,6 @@
       "title_es": "Robinhood adquiere participaciones en Crypto.com y OG.com en un acuerdo de mercados de predicción"
     },
     {
-      "id": "9f569ab93366",
-      "title": "Visa brings onchain credit to its growing stablecoin card business",
-      "link": "https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-08T16:11:53+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Visa brings onchain credit to its growing stablecoin card business\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20SBKPJPVDD6E1F2T89YK6W/hi-your-crypto-wallet-is-the-key-to-your-web",
-      "title_es": "Visa aporta crédito en cadena a su creciente negocio de tarjetas estables"
-    },
-    {
       "id": "82c1dc07db46",
       "title": "XRP Price Prediction: Analyst Makes Crazy $60 Ripple Prediction",
       "link": "https://cryptonews.com/news/xrp-price-prediction-60-target-2/",
@@ -569,22 +1001,22 @@
       "title_es": "Predicción del precio de XRP: el analista hace una loca predicción de ondulación de $ 60"
     },
     {
-      "id": "de960d2c8eb5",
-      "title": "Robinhood expands prediction markets with Crypto.com, OG partnerships ahead of NFL season",
-      "link": "https://www.theblock.co/news/markets/2026-09-08-robinhood-expands-prediction-markets-crypto-com-og-partnerships-nfl-season-413832",
-      "source": "theblock",
-      "published": "2026-09-08T15:54:17+00:00",
-      "summary": "Robinhood will also acquire equity stakes in Crypto.com and OG.com, which will be valued based on Crypto.com's recent $20 billion valuation.",
-      "title_es": "Robinhood amplía los mercados de predicción con Crypto.com y asociaciones con OG antes de la temporada de la NFL"
+      "id": "e576eab72ff3",
+      "title": "Castle Opens Its Bitcoin Savings Stack to Individuals",
+      "link": "https://bitcoinmagazine.com/news/castle-opens-savings-stack-individuals",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-08T15:38:33+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-9.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/castle-opens-savings-stack-individuals\" rel=\"no",
+      "title_es": "Castle abre su pila de ahorros de Bitcoin a particulares"
     },
     {
-      "id": "8f105c40fe68",
-      "title": "Bitcoin faces key support test at $78.3K as US crude oil hits three-month high",
-      "link": "https://cointelegraph.com/markets/bitcoin-faces-key-support-test-at-783k-as-us-crude-oil-hits-three-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-08T15:41:11+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin faces key support test at $78.3K as US crude oil hits three-month high\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20T148B6W28RQ4JBENHW4HR/hi-how-to-make-a-profit-when-bit",
-      "title_es": "Bitcoin se enfrenta a una prueba de soporte clave en 78.300 dólares mientras el petróleo crudo estadounidense alcanza su máximo de tres meses"
+      "id": "c3ce63168969",
+      "title": "Strategy Halted Its Bitcoin Buys Again Last Week",
+      "link": "https://bitcoinmagazine.com/news/strategy-halted-bitcoin-buys-last-week",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-08T15:38:26+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/03/Strategy-MSTR-Breaks-13-Week-Bitcoin-Buying-Streak-Holdings-Hold-at-762099-BTC.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://",
+      "title_es": "La estrategia detuvo nuevamente sus compras de Bitcoin la semana pasada"
     },
     {
       "id": "8e699dda40cb",
@@ -605,33 +1037,6 @@
       "title_es": "Robinhood adquiere participación accionaria en Crypto.com y aprovecha el intercambio para impulsar los mercados de predicción"
     },
     {
-      "id": "eba979364eaf",
-      "title": "Copper CEO Amar Kuchinad departs as search for a buyer enters a fourth month",
-      "link": "https://www.coindesk.com/business/2026/09/08/copper-ceo-amar-kuchinad-departs-as-search-for-a-buyer-enters-a-fourth-month",
-      "source": "coindesk",
-      "published": "2026-09-08T15:23:46+00:00",
-      "summary": "",
-      "title_es": "El director ejecutivo de Copper, Amar Kuchinad, se marcha mientras la búsqueda de un comprador entra en su cuarto mes"
-    },
-    {
-      "id": "4cb090d10a39",
-      "title": "Strive adds 1,375 bitcoin as SATA approaches ‘billion-dollar’ milestone",
-      "link": "https://www.theblock.co/news/markets/2026-09-08-strive-adds-1375-bitcoin-sata-approaches-billion-dollar-milestone-413800",
-      "source": "theblock",
-      "published": "2026-09-08T15:11:59+00:00",
-      "summary": "Strive CEO Matt Cole said 70% of the capital raised during the week came from sales of its SATA perpetual preferred stock.",
-      "title_es": "Strive agrega 1.375 bitcoins a medida que SATA se acerca al hito de los 'mil millones de dólares'"
-    },
-    {
-      "id": "d0315e0902bf",
-      "title": "ZKsync developer Matter Labs open-sources Prividium permissioning engine; Bundesbank tests platform",
-      "link": "https://www.theblock.co/news/ecosystems/2026-09-08-zksync-developer-matter-labs-open-sources-prividium-permissioning-engine-bundesbank-tests-platform-413814",
-      "source": "theblock",
-      "published": "2026-09-08T15:05:03+00:00",
-      "summary": "ZKsync developer Matter Labs has open-sourced the permissioning engine of Prividium, its DLT platform for financial institutions.",
-      "title_es": "El desarrollador de ZKsync, Matter Labs, motor de permisos Prividium de código abierto; Plataforma de pruebas del Bundesbank"
-    },
-    {
       "id": "dc430ab19e85",
       "title": "Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH",
       "link": "https://decrypt.co/377672/tom-lee-bitmine-adds-70-million-ethereum",
@@ -639,33 +1044,6 @@
       "published": "2026-09-08T15:04:44+00:00",
       "summary": "The company says it holds roughly 4.9% of Ethereum’s supply, with most of its tokens staked to earn rewards.",
       "title_es": "Bitmine de Tom Lee agrega $70 millones en Ethereum, las tenencias alcanzan los 5,93 millones de ETH"
-    },
-    {
-      "id": "6f4fcba08503",
-      "title": "Circle agrees to buy cross-border payments firm Tazapay for $400 million",
-      "link": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million",
-      "source": "coindesk",
-      "published": "2026-09-08T14:40:46+00:00",
-      "summary": "",
-      "title_es": "Circle acuerda comprar la empresa de pagos transfronterizos Tazapay por 400 millones de dólares"
-    },
-    {
-      "id": "94fa49950bba",
-      "title": "Strive’s SATA nears $1 billion market cap as Strategy’s STRC continues to underperform",
-      "link": "https://www.coindesk.com/markets/2026/09/08/strive-s-sata-nears-usd1-billion-market-cap-as-strategy-s-strc-continues-to-underperform",
-      "source": "coindesk",
-      "published": "2026-09-08T14:33:32+00:00",
-      "summary": "",
-      "title_es": "SATA de Strive se acerca a los mil millones de dólares de capitalización de mercado mientras STRC de Strategy continúa teniendo un rendimiento inferior"
-    },
-    {
-      "id": "7ae4e93e54ea",
-      "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
-      "link": "https://www.coindesk.com/business/2026/09/08/visa-opens-settlement-data-to-help-blockchain-lenders-finance-crypto-cards-as-volume-surges",
-      "source": "coindesk",
-      "published": "2026-09-08T14:29:14+00:00",
-      "summary": "",
-      "title_es": "Visa combina datos de VisaNet con préstamos en cadena para impulsar el capital de trabajo de las tarjetas stablecoin"
     },
     {
       "id": "1d4eb5c14640",
@@ -677,96 +1055,6 @@
       "title_es": "El regreso de la estrategia a la compra de Bitcoin duró exactamente una semana"
     },
     {
-      "id": "c3a6baab9970",
-      "title": "Bitmine nears 5% of Ethereum supply after buying 28,086 ETH",
-      "link": "https://www.theblock.co/news/business/2026-09-08-bitmine-nears-5-of-ethereum-supply-after-buying-28086-eth-413790",
-      "source": "theblock",
-      "published": "2026-09-08T13:51:54+00:00",
-      "summary": "Bitmine bought 28,086 ETH, boosting its treasury to 5.93 million tokens worth $14.8 billion and representing 4.9% of Ethereum’s total supply.",
-      "title_es": "Bitmine se acerca al 5% del suministro de Ethereum después de comprar 28.086 ETH"
-    },
-    {
-      "id": "ccccd8810ce4",
-      "title": "Bitmine buys 28k ETH, completes 97% of treasury accumulation goal",
-      "link": "https://cointelegraph.com/news/bitmine-buys-28k-eth-completes-97-treasury-goal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-08T13:51:04+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine buys 28k ETH, completes 97% of treasury accumulation goal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20KSZECABXAPAY6J96Y7ZX7/hi-the-7-largest-ethereum-treasury-companies-",
-      "title_es": "Bitmine compra 28k ETH y completa el 97% del objetivo de acumulación de tesorería"
-    },
-    {
-      "id": "7a764deb315c",
-      "title": "Is Bitcoin too volatile to risk your retirement on?",
-      "link": "https://cointelegraph.com/magazine/is-bitcoin-too-volatile-to-risk-your-retirement-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-08T13:30:00+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Is Bitcoin too volatile to risk your retirement on?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1ZBNEHJ54QYSM9PS5HZF0CH/magazine-retire-early-with-crypto.jpg\" /></p><p>Bitcoin bel",
-      "title_es": "¿Bitcoin es demasiado volátil para arriesgar su jubilación?"
-    },
-    {
-      "id": "cdc64487a4b5",
-      "title": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
-      "link": "https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline",
-      "source": "coindesk",
-      "published": "2026-09-08T13:18:24+00:00",
-      "summary": "",
-      "title_es": "Ethereum hace de la resistencia cuántica una máxima prioridad con fecha límite de 2029"
-    },
-    {
-      "id": "020783540d35",
-      "title": "Bitcoin rally has more room as volatility shorts unwind, Two Prime CEO says",
-      "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-rally-has-more-room-as-volatility-shorts-unwind-two-prime-ceo-says",
-      "source": "coindesk",
-      "published": "2026-09-08T13:18:21+00:00",
-      "summary": "",
-      "title_es": "El repunte de Bitcoin tiene más espacio a medida que disminuyen los cortos de volatilidad, dice el CEO de Two Prime"
-    },
-    {
-      "id": "c38304d12aad",
-      "title": "Bitmine purchased another $69 million of ETH, with Tom DeMark expecting price uptrend to soon resume",
-      "link": "https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume",
-      "source": "coindesk",
-      "published": "2026-09-08T13:06:34+00:00",
-      "summary": "",
-      "title_es": "Bitmine compró otros $69 millones de ETH, y Tom DeMark espera que la tendencia alcista de precios se reanude pronto"
-    },
-    {
-      "id": "a45f44fdee67",
-      "title": "Morning Minute: The Trenches Just Had Their Biggest Week Since TRUMP",
-      "link": "https://decrypt.co/377661/morning-minute-the-trenches-just-had-their-biggest-week-since-trump",
-      "source": "decrypt",
-      "published": "2026-09-08T13:06:33+00:00",
-      "summary": "Is it a warning sign for a local top? Or is the onchain party just getting started?",
-      "title_es": "Minuto de la mañana: Las trincheras acaban de tener su semana más importante desde TRUMP"
-    },
-    {
-      "id": "757e412b9834",
-      "title": "Strategy skips Bitcoin buy to repurchase $176M of STRC preferred shares",
-      "link": "https://cointelegraph.com/news/strategy-skips-bitcoin-buy-repurchase-176m-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-08T12:51:00+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy skips Bitcoin buy to repurchase $176M of STRC preferred shares\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20FPT8H132TZGKAJWQX1YBC/hi-michael-saylors-bitcoin-obsession-ho",
-      "title_es": "La estrategia omite la compra de Bitcoin para recomprar 176 millones de dólares en acciones preferentes de STRC"
-    },
-    {
-      "id": "66aa6160972a",
-      "title": "Mexico quadruple homicide tied to alleged Bitcoin robbery attempt",
-      "link": "https://cointelegraph.com/news/mexico-quadruple-homicide-alleged-bitcoin-robbery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-08T12:41:14+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Mexico quadruple homicide tied to alleged Bitcoin robbery attempt\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20CE9T36VRN8990HWRW8AJS/hi-ledger-is-in-deep-trouble-that-may-only-ju",
-      "title_es": "México cuádruple homicidio vinculado a presunto intento de robo de Bitcoin"
-    },
-    {
-      "id": "f10cfdc4a926",
-      "title": "Strategy repurchases $176 million of STRC shares, makes no bitcoin purchases or sales",
-      "link": "https://www.theblock.co/news/business/2026-09-08-strategy-bitcoin-strc-repurchase-program-413678",
-      "source": "theblock",
-      "published": "2026-09-08T12:20:03+00:00",
-      "summary": "Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $66 billion.",
-      "title_es": "La estrategia recompra 176 millones de dólares en acciones de STRC, no realiza compras ni ventas de bitcoins"
-    },
-    {
       "id": "e27f04a3a054",
       "title": "Ethereum News: Frame Transactions Join Ethereum’s 2027 Upgrade Roadmap",
       "link": "https://cryptonews.com/news/ethereum-news-eip-8141-frame-transactions/",
@@ -774,24 +1062,6 @@
       "published": "2026-09-08T12:09:34+00:00",
       "summary": "<p>EIP-8141 could let apps sponsor Ethereum gas payments in stablecoins, while network fees would still be paid in ETH under the draft.</p>\n<p>The post <a href=\"https://cryptonews.com/news/ethereum-news-eip-8141-frame-transactions/\">Ethereum News: Frame Transactions Join Ethereum’s 2027 Upgrade Road",
       "title_es": "Noticias de Ethereum: las transacciones marco se unen a la hoja de ruta de actualización de Ethereum para 2027"
-    },
-    {
-      "id": "83f41da2d236",
-      "title": "Bitcoin’s complexity paradox: How layer-2 scalers became AI's main target",
-      "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-security-risks-grow-as-ai-uncovers-hidden-vulnerabilities",
-      "source": "coindesk",
-      "published": "2026-09-08T12:09:26+00:00",
-      "summary": "",
-      "title_es": "La paradoja de la complejidad de Bitcoin: cómo los escaladores de capa 2 se convirtieron en el principal objetivo de la IA"
-    },
-    {
-      "id": "309325148f7c",
-      "title": "Bitcoin volatility remains subdued as supply in profit nears historical bear-to-bull transition level: analysts",
-      "link": "https://www.theblock.co/news/markets/2026-09-08-bitcoin-volatility-remains-subdued-as-supply-in-profit-nears-historical-bear-to-bull-transition-level-analysts-413754",
-      "source": "theblock",
-      "published": "2026-09-08T12:08:55+00:00",
-      "summary": "More than 71% of bitcoin supply is now in profit, approaching a level that has typically marked bear-to-bull transitions, Bitfinex said.",
-      "title_es": "La volatilidad de Bitcoin sigue siendo moderada a medida que la oferta de ganancias se acerca al nivel histórico de transición de bajista a alcista: analistas"
     },
     {
       "id": "2167ae25563b",
@@ -803,60 +1073,6 @@
       "title_es": "Bitcoin News: 61 BTC devueltos después de 12 años congelados en una cuenta de Intersango"
     },
     {
-      "id": "570fb0911163",
-      "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
-      "link": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
-      "source": "decrypt",
-      "published": "2026-09-08T11:33:50+00:00",
-      "summary": "The LAPTOP token launches in September on Base, with a fifth of the supply earmarked for traders who lost money on TRUMP.",
-      "title_es": "¿Qué es una computadora portátil? La moneda Meme de Hunter Biden dirigida a los poseedores de TRUMP"
-    },
-    {
-      "id": "600f69c40cfe",
-      "title": "Circle to acquire Tazapay to expand USDC cross-border payments",
-      "link": "https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-08T11:33:14+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle to acquire Tazapay to expand USDC cross-border payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20BVCME3MRSYGBFGFFS62XW/world-global-rating-circle.jpg\" /></p><p>Tazapay",
-      "title_es": "Circle adquirirá Tazapay para expandir los pagos transfronterizos del USDC"
-    },
-    {
-      "id": "4f97eac81f61",
-      "title": "Bitcoin ETFs are still $1 billion shy of breaking even in 2026",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/08/bitcoin-etfs-are-still-usd1-billion-shy-of-breaking-even-in-2026",
-      "source": "coindesk",
-      "published": "2026-09-08T11:26:27+00:00",
-      "summary": "",
-      "title_es": "A los ETF de Bitcoin todavía les faltan mil millones de dólares para alcanzar el punto de equilibrio en 2026"
-    },
-    {
-      "id": "d186c0a16d3e",
-      "title": "Visa stablecoin settlement tops $20 billion annualized run rate, up more than 15x year over year",
-      "link": "https://www.theblock.co/news/business/2026-09-08-visa-stablecoin-settlement-tops-20-billion-annualized-run-rate-up-more-than-15x-year-over-year-413749",
-      "source": "theblock",
-      "published": "2026-09-08T11:09:21+00:00",
-      "summary": "Visa’s stablecoin settlement volume tops a $20 billion annualized run rate as payment volume grows nearly 200% year over year.",
-      "title_es": "La liquidación de la moneda estable de Visa supera la tasa de ejecución anualizada de $ 20 mil millones, más de 15 veces año tras año"
-    },
-    {
-      "id": "b9c232ff656f",
-      "title": "Polish prosecutors charge fifth suspect in Zondacrypto probe involving around $100 million in estimated losses",
-      "link": "https://www.theblock.co/news/regulation/2026-09-08-polish-prosecutors-charge-fifth-suspect-in-zondacrypto-probe-involving-around-100-million-in-estimated-losses-413745",
-      "source": "theblock",
-      "published": "2026-09-08T10:38:15+00:00",
-      "summary": "Polish prosecutors charged Roman Ż. with two offenses following his arrest on Sept. 5 as part of an investigation into Zondacrypto.",
-      "title_es": "Los fiscales polacos acusan al quinto sospechoso en la investigación de Zondacrypto que involucra alrededor de $100 millones en pérdidas estimadas"
-    },
-    {
-      "id": "67628d4b31a9",
-      "title": "Uzbekistan begins government bond-backed stablecoin payment pilot",
-      "link": "https://cointelegraph.com/news/uzbekistan-humo-stablecoin-payment-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-08T10:07:10+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Uzbekistan begins government bond-backed stablecoin payment pilot\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M206SWCMNKXPJXWKTH0HCEYH/s.jpg\" /></p><p>Humo Digital will test HUMO p",
-      "title_es": "Uzbekistán inicia programa piloto de pagos con monedas estables respaldadas por bonos del gobierno"
-    },
-    {
       "id": "b2dbef1c24b6",
       "title": "ChatGPT AI Predicts XRP May Be in a Much Different Place by the End of 2026",
       "link": "https://cryptonews.com/news/chatgpt-ai-predicts-xrp-may-be-in-a-much-different-place-by-the-end-of-2026/",
@@ -864,42 +1080,6 @@
       "published": "2026-09-08T10:06:16+00:00",
       "summary": "<p>Institutional plumbing rarely makes headlines, but it moves targets. A new ChatGPT AI price prediction leans on exactly that, and the model predicts Ripple&#8217;s XRP price will reach $2.20 to $3.00 by the end of 2026, with $2.50 as the realistic base case.The strongest near-term catalyst arrive",
       "title_es": "ChatGPT AI predice que XRP puede estar en un lugar muy diferente para fines de 2026"
-    },
-    {
-      "id": "340ceca04e78",
-      "title": "Ledger CTO urges AI bug hunter responsibility, warns against ‘attention farming’",
-      "link": "https://cointelegraph.com/news/ledger-trezor-warn-ai-bug-hunters-attention-farming?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-08T10:03:30+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger CTO urges AI bug hunter responsibility, warns against ‘attention farming’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2037DZ5S9S3CCDQM2HBV9NY/crypto-card-online-payment-cas",
-      "title_es": "El CTO de Ledger insta a la responsabilidad del cazador de errores de IA y advierte contra el \"cultivo de atención\""
-    },
-    {
-      "id": "a0d12c681f05",
-      "title": "Polish Court Detains Fifth Suspect in Zondacrypto Exchange Probe",
-      "link": "https://decrypt.co/377650/polish-court-detains-fifth-suspect-in-zondacrypto-exchange-probe",
-      "source": "decrypt",
-      "published": "2026-09-08T09:54:59+00:00",
-      "summary": "Two chief executives of the exchange have now vanished, four years apart, leaving 1.3 million clients locked out.",
-      "title_es": "Tribunal polaco detiene al quinto sospechoso en la investigación del intercambio Zondacrypto"
-    },
-    {
-      "id": "03a10303ef39",
-      "title": "Metaplanet slides 17% this week as CEO’s public note fails to ease investor concerns",
-      "link": "https://www.theblock.co/news/markets/2026-09-08-metaplanet-slips-17-this-week-413738",
-      "source": "theblock",
-      "published": "2026-09-08T09:13:45+00:00",
-      "summary": "The drop comes amid controversies surrounding Metaplanet's expanded Series 10 executive option pool and CEO Simon Gerovich's ties to MMXX Ventures.",
-      "title_es": "Metaplanet cae un 17% esta semana porque la nota pública del director ejecutivo no logra aliviar las preocupaciones de los inversores"
-    },
-    {
-      "id": "ed9784274747",
-      "title": "Your LG TV Might Still Be Listening to You—Even When It Looks Like It’s Off",
-      "link": "https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off",
-      "source": "decrypt",
-      "published": "2026-09-07T21:46:04+00:00",
-      "summary": "A Gamers Nexus investigation found LG sets scanning every device on a home network and capturing microphone audio with the screen off, four months after LG promised Texas regulators it had cleaned up its tracking.",
-      "title_es": "Es posible que su televisor LG todavía lo esté escuchando, incluso cuando parece que está apagado"
     },
     {
       "id": "46684314301a",
@@ -911,33 +1091,6 @@
       "title_es": "Sam Altman ChatGPT AI predice un gran movimiento de Solana para finales de 2027"
     },
     {
-      "id": "2a094a0b168c",
-      "title": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
-      "link": "https://decrypt.co/377635/openai-chief-scientist-warns-ai-slow-down",
-      "source": "decrypt",
-      "published": "2026-09-07T21:16:03+00:00",
-      "summary": "Jakub Pachocki is calling for mandatory safety standards as OpenAI finds it harder to monitor advanced AI models’ reasoning.",
-      "title_es": "El científico jefe de OpenAI advierte que es posible que los laboratorios de IA deban reducir la velocidad"
-    },
-    {
-      "id": "845f305e8590",
-      "title": "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold",
-      "link": "https://decrypt.co/377621/brazilian-banks-expand-crypto-offerings",
-      "source": "decrypt",
-      "published": "2026-09-07T20:31:03+00:00",
-      "summary": "Itaú, Nubank, and Banco do Brasil now sell more than a dozen tokens each to retail clients, even as none of them touch crypto with their own balance sheet.",
-      "title_es": "Los bancos brasileños amplían sus ofertas de criptomonedas a medida que se afianza la regulación"
-    },
-    {
-      "id": "3e385d879b0e",
-      "title": "Will the Crypto Trenches Show Up for Hunter Biden's Meme Coin?",
-      "link": "https://decrypt.co/377613/will-crypto-traders-buy-hunter-biden-meme-coin",
-      "source": "decrypt",
-      "published": "2026-09-07T19:47:27+00:00",
-      "summary": "Biden's LAPTOP meme coin drops this week. Most crypto traders out there so far don't seem too enthused.",
-      "title_es": "¿Aparecerán las trincheras criptográficas para la moneda Meme de Hunter Biden?"
-    },
-    {
       "id": "e4013ad56eab",
       "title": "XRP Price Prediction: Analyst Calls $60 Ripple If it Breaks The Heavy Resistance",
       "link": "https://cryptonews.com/news/xrp-price-prediction-60-target/",
@@ -945,51 +1098,6 @@
       "published": "2026-09-07T19:17:00+00:00",
       "summary": "<p>XRP trades near $1.41 as analyst Ali Martinez eyes a $60 target on a decade-long triangle breakout above $3.66. Full price analysis inside.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrp-price-prediction-60-target/\">XRP Price Prediction: Analyst Calls $60 Ripple If it Breaks The Heavy R",
       "title_es": "Predicción del precio de XRP: el analista prevé una ondulación de $ 60 si rompe la fuerte resistencia"
-    },
-    {
-      "id": "395fae5f78a6",
-      "title": "Liquid Hackers Return $270M in Bitcoin After Swiping $320 Million",
-      "link": "https://decrypt.co/377600/liquid-hackers-return-270m-bitcoin",
-      "source": "decrypt",
-      "published": "2026-09-07T19:13:56+00:00",
-      "summary": "Nearly 600 BTC remains outstanding after Blockstream told the actors in an on-chain message that Liquid’s bridge nodes had been patched.",
-      "title_es": "Los hackers de Liquid devuelven 270 millones de dólares en Bitcoin después de robar 320 millones de dólares"
-    },
-    {
-      "id": "f47bf5fd63e7",
-      "title": "Middle East Crypto Activity Triples to $350 Billion Amid Ongoing Conflict, Report Finds",
-      "link": "https://decrypt.co/377597/middle-east-crypto-activity-350-billion",
-      "source": "decrypt",
-      "published": "2026-09-07T18:16:04+00:00",
-      "summary": "The Iran conflict has increased demand for digital assets to preserve and transfer wealth, while Gulf crypto businesses have kept operating through disruption, the Bitcoin Policy Institute says.",
-      "title_es": "La actividad criptográfica en Medio Oriente se triplica a $350 mil millones en medio del conflicto en curso, según un informe"
-    },
-    {
-      "id": "9c60014e0f37",
-      "title": "Malone Lam Faces Plea Hearing Over $245M Bitcoin Theft",
-      "link": "https://decrypt.co/377595/malone-lam-faces-plea-hearing-over-245m-bitcoin-theft",
-      "source": "decrypt",
-      "published": "2026-09-07T17:41:55+00:00",
-      "summary": "A plea agreement hearing in Lam's case is set for Tuesday in Washington, nearly two years after his arrest in Miami.",
-      "title_es": "Malone Lam se enfrenta a una audiencia de declaración de culpabilidad por robo de Bitcoin por valor de 245 millones de dólares"
-    },
-    {
-      "id": "b11d8e432a40",
-      "title": "Hunter Biden to Airdrop LAPTOP Meme Coin to TRUMP’s Biggest Losers",
-      "link": "https://decrypt.co/377581/hunter-biden-laptop-meme-coin-airdrop-trump",
-      "source": "decrypt",
-      "published": "2026-09-07T16:26:00+00:00",
-      "summary": "Hunter Biden is launching a meme coin called LAPTOP on Sept. 9 on Base, and airdropping traders who lost money on TRUMP.",
-      "title_es": "Hunter Biden lanzará por aire una moneda Meme de LAPTOP a los mayores perdedores de TRUMP"
-    },
-    {
-      "id": "3a897f847228",
-      "title": "Harmony Cites AI Threats in Proposed Blockchain Shutdown",
-      "link": "https://decrypt.co/377579/harmony-ai-threats-blockchain-shutdown",
-      "source": "decrypt",
-      "published": "2026-09-07T16:16:48+00:00",
-      "summary": "The team wants to move ONE to Ethereum and enter the AI-video business, urging users to exit smart contracts before September 10.",
-      "title_es": "Harmony cita amenazas de IA en el cierre propuesto de Blockchain"
     },
     {
       "id": "866c6143fe0d",
@@ -1008,33 +1116,6 @@
       "published": "2026-09-07T13:27:09+00:00",
       "summary": "<p>The August jobs report sent Bitcoin below $81,000 as traders raised rate-hike bets, while $730.8 million in Bitcoin ETF inflows continued.</p>\n<p>The post <a href=\"https://cryptonews.com/news/trump-crypto-news-august-jobs-report-bitcoin/\">Trump Crypto News: BTC $81,000 Rejection Puts September Fe",
       "title_es": "Trump Crypto News: El rechazo de BTC por $81,000 pone en el foco la reunión de la Fed de septiembre"
-    },
-    {
-      "id": "1ffb17ff735b",
-      "title": "Ethereum Price Holds as Another Layer-1 Moves to ETH",
-      "link": "https://cryptonews.com/news/ethereum-price-layer1-migration/",
-      "source": "cryptonews",
-      "published": "2026-09-07T13:09:44+00:00",
-      "summary": "<p>Ethereum holds near $2,490 as Harmony sunsets its Layer-1 and migrates ONE to ETH. Key resistance, support levels, and where capital is rotating.</p>\n<p>The post <a href=\"https://cryptonews.com/news/ethereum-price-layer1-migration/\">Ethereum Price Holds as Another Layer-1 Moves to ETH</a> appeare",
-      "title_es": "El precio de Ethereum se mantiene mientras otra capa 1 se mueve a ETH"
-    },
-    {
-      "id": "e33d6c4b3312",
-      "title": "Ripple Returns to Korea as Major XRP Company Awaits Nasdaq Listing",
-      "link": "https://cryptonews.com/news/xrp-ripple-price-korea-event/",
-      "source": "cryptonews",
-      "published": "2026-09-07T11:28:32+00:00",
-      "summary": "<p>XRP holds near $1.40 as Ripple's ecosystem expands into Korea and Evernorth eyes a Nasdaq listing. Key levels, scenarios, and an early-stage alternative inside.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrp-ripple-price-korea-event/\">Ripple Returns to Korea as Major XRP Company Awaits ",
-      "title_es": "Ripple regresa a Corea mientras una importante empresa de XRP espera cotizar en Nasdaq"
-    },
-    {
-      "id": "b55189e56aed",
-      "title": "Bitcoin Crash? 90% of Buterin’s Net Worth Opposes AI",
-      "link": "https://cryptonews.com/news/bitcoin-ai-crash-forecast/",
-      "source": "cryptonews",
-      "published": "2026-09-07T10:22:34+00:00",
-      "summary": "<p>Vitalik Buterin says crypto holdings worth 90% of his net worth put him against a forecast of an AI-driven Bitcoin crash within two years.</p>\n<p>The post <a href=\"https://cryptonews.com/news/bitcoin-ai-crash-forecast/\">Bitcoin Crash? 90% of Buterin’s Net Worth Opposes AI</a> appeared first on <a",
-      "title_es": "¿Choque de Bitcoin? El 90% del patrimonio neto de Buterin se opone a la IA"
     }
   ]
 }
