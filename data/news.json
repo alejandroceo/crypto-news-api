@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T22:54:52.958847+00:00",
+  "updated_at": "2026-09-12T12:32:44.488219+00:00",
   "count": 115,
   "sources": [
     "coindesk",
@@ -10,6 +10,33 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "e7b612ea7780",
+      "title": "FTX Founder Sam Bankman-Fried Takes Fraud Conviction to Supreme Court",
+      "link": "https://cryptonews.com/news/sam-bankman-fried-supreme-court-appeal/",
+      "source": "cryptonews",
+      "published": "2026-09-12T11:00:00+00:00",
+      "summary": "<p>Sam Bankman-Fried asks the Supreme Court to review his FTX fraud conviction, 25-year sentence and roughly $11 billion forfeiture in a petition.</p>\n<p>The post <a href=\"https://cryptonews.com/news/sam-bankman-fried-supreme-court-appeal/\">FTX Founder Sam Bankman-Fried Takes Fraud Conviction to Sup",
+      "title_es": "FTX Founder Sam Bankman-Fried Takes Fraud Conviction to Supreme Court"
+    },
+    {
+      "id": "9d01b6952f9f",
+      "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+      "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
+      "source": "coindesk",
+      "published": "2026-09-12T10:11:01+00:00",
+      "summary": "",
+      "title_es": "Bitcoin activity, passports exposed after Revolut falls for fake government request"
+    },
+    {
+      "id": "ec24345becf0",
+      "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
+      "link": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
+      "source": "coindesk",
+      "published": "2026-09-11T23:47:51+00:00",
+      "summary": "",
+      "title_es": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud"
+    },
     {
       "id": "444acec8a893",
       "title": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
@@ -839,15 +866,6 @@
       "title_es": "MoneyGram launches first stablecoin-backed Visa card in Colombia"
     },
     {
-      "id": "6debe374554e",
-      "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
-      "link": "https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial",
-      "source": "coindesk",
-      "published": "2026-09-10T13:56:54+00:00",
-      "summary": "",
-      "title_es": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial"
-    },
-    {
       "id": "77e957c096ae",
       "title": "Ripple Former CTO Says XRP Could Flip Bitcoin Through an 18x Surge",
       "link": "https://cryptonews.com/news/ripple-xrp-flip-bitcoin-18x-surge/",
@@ -873,15 +891,6 @@
       "published": "2026-09-10T13:04:27+00:00",
       "summary": "Brian Armstrong argues the bottom is in, a year into the downturn, with the next halving roughly 18 months out.",
       "title_es": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO"
-    },
-    {
-      "id": "c84b7c3ba40a",
-      "title": "Threatened with arrest online? Recognizing a law enforcement impersonation scam",
-      "link": "https://www.coindesk.com/opinion/2026/09/10/threatened-with-arrest-online-recognizing-a-law-enforcement-impersonation-scam",
-      "source": "coindesk",
-      "published": "2026-09-10T13:00:00+00:00",
-      "summary": "",
-      "title_es": "Threatened with arrest online? Recognizing a law enforcement impersonation scam"
     },
     {
       "id": "99cd6c073bf0",
@@ -999,15 +1008,6 @@
       "published": "2026-09-10T08:33:29+00:00",
       "summary": "<p>Solana trades near $101 amid World's prediction market expansion and the upcoming Alpenglow upgrade. Full price analysis and key levels inside.</p>\n<p>The post <a href=\"https://cryptonews.com/news/solana-news-price-alpenglow-upgrade/\">First Solana Came For Meme Coins: Now Solana is Coming For Pol",
       "title_es": "First Solana Came For Meme Coins: Now Solana is Coming For Polymarket and Kalshi"
-    },
-    {
-      "id": "9239577c20a5",
-      "title": "Coinbase Links CLARITY Act Passage to Institutional Capital",
-      "link": "https://cryptonews.com/news/clarity-act-coinbase-capital/",
-      "source": "cryptonews",
-      "published": "2026-09-10T08:25:24+00:00",
-      "summary": "<p>Coinbase CEO Brian Armstrong says the CLARITY Act could unlock institutional capital, while SEC and CFTC rules offer a fallback if it stalls.</p>\n<p>The post <a href=\"https://cryptonews.com/news/clarity-act-coinbase-capital/\">Coinbase Links CLARITY Act Passage to Institutional Capital</a> appeare",
-      "title_es": "Coinbase Links CLARITY Act Passage to Institutional Capital"
     },
     {
       "id": "87b4b85ef14f",
