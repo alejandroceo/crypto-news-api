@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-13T13:33:52.356419+00:00",
-  "count": 115,
+  "updated_at": "2026-09-13T22:44:46.354915+00:00",
+  "count": 125,
   "sources": [
     "coindesk",
     "cointelegraph",
@@ -10,6 +10,69 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "de1e81380eab",
+      "title": "Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty",
+      "link": "https://www.theblock.co/news/defi/2026-09-13-symbiosis-says-it-recovered-15-btc-after-bitcoin-bridge-exploit-offers-attacker-20-bounty-414568",
+      "source": "theblock",
+      "published": "2026-09-13T21:51:11+00:00",
+      "summary": "Blockchain security firm Blockaid said roughly 46.1 billion syBTC were minted but the attacker realized only about $336,000 in proceeds.",
+      "title_es": "Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty"
+    },
+    {
+      "id": "32bf263307cf",
+      "title": "XRP Price Prediction: Schwab Opens Wall Street Repo Market to ETFs",
+      "link": "https://cryptonews.com/news/xrp-price-prediction-repo-etf/",
+      "source": "cryptonews",
+      "published": "2026-09-13T19:15:00+00:00",
+      "summary": "<p>XRP trades near $1.32 as Schwab lists XRP ETFs as repo collateral. Key levels, technical setup, and an early-stage L3 alternative worth watching.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrp-price-prediction-repo-etf/\">XRP Price Prediction: Schwab Opens Wall Street Repo Market to ETFs",
+      "title_es": "XRP Price Prediction: Schwab Opens Wall Street Repo Market to ETFs"
+    },
+    {
+      "id": "6994d1b8c440",
+      "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
+      "source": "coindesk",
+      "published": "2026-09-13T18:45:08+00:00",
+      "summary": "",
+      "title_es": "Is Clarity dead? A vibes-based analysis: State of Crypto"
+    },
+    {
+      "id": "180fe185b60f",
+      "title": "Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering",
+      "link": "https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564",
+      "source": "theblock",
+      "published": "2026-09-13T18:29:23+00:00",
+      "summary": "Reuters reported that the site was the fourth crypto farm discovered in the area since early 2025, near a local hydroelectric dam.",
+      "title_es": "Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering"
+    },
+    {
+      "id": "05a4efd040a0",
+      "title": "Quantum-proof blockchain: why math, not machines, holds the key",
+      "link": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
+      "source": "coindesk",
+      "published": "2026-09-13T17:00:00+00:00",
+      "summary": "",
+      "title_es": "Quantum-proof blockchain: why math, not machines, holds the key"
+    },
+    {
+      "id": "552e43ae5e35",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-13T16:47:53+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
+      "title_es": "Here’s what happened in crypto today"
+    },
+    {
+      "id": "6122e65363fb",
+      "title": "CLARITY Act Odds Slashed to  60-Vote Senate Test Comes Into View",
+      "link": "https://cryptonews.com/news/clarity-act-odds-senate-vote-4/",
+      "source": "cryptonews",
+      "published": "2026-09-13T16:24:59+00:00",
+      "summary": "<p>The CLARITY Act faces a 60-vote Senate hurdle on September 15, while Polymarket gives enactment just 13% odds in 2026 after 82% in February.</p>\n<p>The post <a href=\"https://cryptonews.com/news/clarity-act-odds-senate-vote-4/\">CLARITY Act Odds Slashed to  60-Vote Senate Test Comes Into View</a> a",
+      "title_es": "CLARITY Act Odds Slashed to  60-Vote Senate Test Comes Into View"
+    },
     {
       "id": "3489de97ed95",
       "title": "AI Agents Spending Money Online? New Research Says Not Really",
@@ -144,15 +207,6 @@
       "published": "2026-09-12T16:18:05+00:00",
       "summary": "Meanwhile, the House of Lords is considering a bill which would halt crypto donations and cap overseas giving at £100,000 a year.",
       "title_es": "Crypto billionaires Ben Delo and Christopher Harborne each donate £36 million to Farage’s Reform UK"
-    },
-    {
-      "id": "552e43ae5e35",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-12T16:09:41+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
-      "title_es": "Here’s what happened in crypto today"
     },
     {
       "id": "d4e1221b84e7",
@@ -299,6 +353,24 @@
       "title_es": "Elon Musk’s Grok AI Predicts That Bitcoin Could Hit $200K by 2027"
     },
     {
+      "id": "858264a338ea",
+      "title": "Bitcoin’s ‘Unusual Mix’: Bearish Inflation Print, Bullish Buyback Failure",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-has-unusual-mix-says-coinshares",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-11T21:22:59+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-7.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-has-unusual-mix-says-coinshares\" rel=",
+      "title_es": "Bitcoin’s ‘Unusual Mix’: Bearish Inflation Print, Bullish Buyback Failure"
+    },
+    {
+      "id": "ae70ca7e890f",
+      "title": "Blockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft",
+      "link": "https://bitcoinmagazine.com/news/blockstream-tells-demands-bitcoin",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-11T21:13:48+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-19.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/blockstream-tells-demands-bitcoin\" rel=\"nofoll",
+      "title_es": "Blockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft"
+    },
+    {
       "id": "5137e5c93c7a",
       "title": "Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up",
       "link": "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off",
@@ -315,6 +387,15 @@
       "published": "2026-09-11T19:46:24+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin Suisse to shift up to half of Swiss jobs abroad\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28YVKDSD0D0GM8BAF7TVC45/hi-layoffs-might-be-a-sign-of-the-market-maturing.png\" ",
       "title_es": "Bitcoin Suisse to shift up to half of Swiss jobs abroad"
+    },
+    {
+      "id": "b8d833f619a1",
+      "title": "Italy’s Second Biggest Bank UniCredit Is Weighting up Crypto Custody: Report",
+      "link": "https://bitcoinmagazine.com/news/unicredit-working-on-crypto-custody",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-11T18:47:07+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-6.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/unicredit-working-on-crypto-custody\" rel=\"nof",
+      "title_es": "Italy’s Second Biggest Bank UniCredit Is Weighting up Crypto Custody: Report"
     },
     {
       "id": "d316ca18c749",
@@ -360,6 +441,15 @@
       "published": "2026-09-11T17:40:54+00:00",
       "summary": "Bitget analyst Lewis Huang noted the divergence between headline inflation accelerating on energy while core inflation continues to ease.",
       "title_es": "Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook"
+    },
+    {
+      "id": "3e4f5e9f364b",
+      "title": "Government Defeated as Lords Back UK Digital Assets Strategy",
+      "link": "https://bitcoinmagazine.com/news/house-of-lords-backs-uk-crypto-bill",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-11T17:28:32+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-18.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/house-of-lords-backs-uk-crypto-bill\" rel=\"nofo",
+      "title_es": "Government Defeated as Lords Back UK Digital Assets Strategy"
     },
     {
       "id": "5bf3b9ada23a",
@@ -414,6 +504,15 @@
       "published": "2026-09-11T16:03:37+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28K5RK67P7SEQ7376RK4TFB/hi-bitcoin-could-be-the-next",
       "title_es": "Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields"
+    },
+    {
+      "id": "9dd05c310a24",
+      "title": "Bitcoin Price Spikes, Shrugs off Hot US Inflation Data",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-spikes-on-hot-inflation-data",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-11T15:46:05+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-17.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-spikes-on-hot-inflation-data\"",
+      "title_es": "Bitcoin Price Spikes, Shrugs off Hot US Inflation Data"
     },
     {
       "id": "b6d53b7256d8",
@@ -776,24 +875,6 @@
       "title_es": "Revised CLARITY Act targets ‘non-decentralized’ DeFi operators"
     },
     {
-      "id": "56b24d253f5a",
-      "title": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
-      "link": "https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement",
-      "source": "coindesk",
-      "published": "2026-09-11T05:13:15+00:00",
-      "summary": "",
-      "title_es": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement"
-    },
-    {
-      "id": "70b3cdf6eaa0",
-      "title": "Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike",
-      "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-below-usd77-000-zcash-leads-losses-as-traders-bet-on-a-fed-rate-hike",
-      "source": "coindesk",
-      "published": "2026-09-11T04:46:15+00:00",
-      "summary": "",
-      "title_es": "Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike"
-    },
-    {
       "id": "478ef4036d9d",
       "title": "Brevo login flaw enabled phishing email targeting 347K Trezor subscribers",
       "link": "https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -819,6 +900,24 @@
       "published": "2026-09-10T23:21:26+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg\" /></p><p",
       "title_es": "Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express"
+    },
+    {
+      "id": "002c237cbd73",
+      "title": "Ringleader of $245M Crypto Theft Pleads Guilty",
+      "link": "https://bitcoinmagazine.com/news/ringleader-in-bitcoin-theft-guilty",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-10T22:24:40+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-5.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/ringleader-in-bitcoin-theft-guilty\" rel=\"nofo",
+      "title_es": "Ringleader of $245M Crypto Theft Pleads Guilty"
+    },
+    {
+      "id": "e5e2007aa2e4",
+      "title": "Trezor Reveals Another Data Breach After Scammers Target Marketing Platform",
+      "link": "https://bitcoinmagazine.com/news/trezor-reveals-another-data-breach",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-10T21:28:55+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-16.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/trezor-reveals-another-data-breach\" rel=\"nofol",
+      "title_es": "Trezor Reveals Another Data Breach After Scammers Target Marketing Platform"
     },
     {
       "id": "576359c76edb",
@@ -855,6 +954,15 @@
       "published": "2026-09-10T20:28:46+00:00",
       "summary": "BWOW generated about $3 million in trading volume when it launched in November 2025, but has failed to come anywhere close ever since.",
       "title_es": "Bitwise shuts down Dogecoin ETF less than a year after launch"
+    },
+    {
+      "id": "86383d3abc12",
+      "title": "Updated Crypto Clarity Act Starts Circulating Days Before Key Vote",
+      "link": "https://bitcoinmagazine.com/news/updated-clarity-act-starts-circulating",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-10T20:23:59+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Younger-Democrats-Understand-Clarity-Act.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/updated-clari",
+      "title_es": "Updated Crypto Clarity Act Starts Circulating Days Before Key Vote"
     },
     {
       "id": "a040bc82621e",
@@ -920,6 +1028,24 @@
       "title_es": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting"
     },
     {
+      "id": "29eef5eefab9",
+      "title": "Nasdaq Invests $100M in Kraken Parent Company: Report",
+      "link": "https://bitcoinmagazine.com/news/nasdaq-invests-in-kraken",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-10T17:05:28+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-4.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/nasdaq-invests-in-kraken\" rel=\"nofollow\">Nasd",
+      "title_es": "Nasdaq Invests $100M in Kraken Parent Company: Report"
+    },
+    {
+      "id": "41d24e0899b2",
+      "title": "Bitcoin Suffers On Renewed US-Iran Fighting",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-drops-on-us-iran-fighting",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-10T16:31:42+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-15.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-drops-on-us-iran-fighting\" re",
+      "title_es": "Bitcoin Suffers On Renewed US-Iran Fighting"
+    },
+    {
       "id": "4a93ff3017f6",
       "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
       "link": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
@@ -974,24 +1100,6 @@
       "title_es": "Citadel urges SEC to assert oversight of event contracts tied to public firms"
     },
     {
-      "id": "99cd6c073bf0",
-      "title": "Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack",
-      "link": "https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121",
-      "source": "theblock",
-      "published": "2026-09-10T13:00:00+00:00",
-      "summary": "The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods.",
-      "title_es": "Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack"
-    },
-    {
-      "id": "3dbfa0cdf234",
-      "title": "Nasdaq to invest $100 million in Kraken parent Payward as firms expand partnership",
-      "link": "https://www.theblock.co/news/deals/2026-09-10-nasdaq-to-invest-100-million-in-kraken-parent-payward-as-firms-expand-partnership-414120",
-      "source": "theblock",
-      "published": "2026-09-10T12:53:22+00:00",
-      "summary": "Nasdaq Ventures agreed to invest $100 million in Kraken parent Payward, expanding their tokenized equity infrastructure partnership.",
-      "title_es": "Nasdaq to invest $100 million in Kraken parent Payward as firms expand partnership"
-    },
-    {
       "id": "13f5b20a47d8",
       "title": "Bitcoin Price Prediction: Can BTC Reclaim $80K After Losing $78K Support?",
       "link": "https://cryptonews.com/news/bitcoin-price-prediction-key-levels-to-watch/",
@@ -1026,24 +1134,6 @@
       "published": "2026-09-10T09:48:14+00:00",
       "summary": "<p>Brian Armstrong says a $300,000-$400,000 Bitcoin price prediction by 2030 is likely, citing regulation, institutional demand and bond-market stress.</p>\n<p>The post <a href=\"https://cryptonews.com/news/bitcoin-price-prediction-armstrong/\">Bitcoin News: Bond Stress and Regulation Shape Armstrong&#",
       "title_es": "Bitcoin News: Bond Stress and Regulation Shape Armstrong’s $400K BTC Prediction"
-    },
-    {
-      "id": "25f10050c7a1",
-      "title": "Best Crypto to Buy Today as Bitcoin Tumbles to $78,000",
-      "link": "https://cryptonews.com/news/best-crypto-to-buy-bitcoin-drops-to-78k/",
-      "source": "cryptonews",
-      "published": "2026-09-10T08:42:00+00:00",
-      "summary": "<p>Bitcoin defends $78k support as LAPTOP memecoin crashes 99%. Full price analysis, key levels, and why Bitcoin Hyper's presale is drawing attention.</p>\n<p>The post <a href=\"https://cryptonews.com/news/best-crypto-to-buy-bitcoin-drops-to-78k/\">Best Crypto to Buy Today as Bitcoin Tumbles to $78,000",
-      "title_es": "Best Crypto to Buy Today as Bitcoin Tumbles to $78,000"
-    },
-    {
-      "id": "cd8b8d5d13f5",
-      "title": "XRP News: Trump $5,000 Midterm Dividend Could Benefit Ripple",
-      "link": "https://cryptonews.com/news/xrp-news-price-prediction-trump-dividend/",
-      "source": "cryptonews",
-      "published": "2026-09-10T08:40:21+00:00",
-      "summary": "<p>XRP trades near $1.38 as Trump's proposed $5,000 midterm dividend sparks debate over liquidity tailwinds for Bitcoin, Ethereum, and Ripple's XRP.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrp-news-price-prediction-trump-dividend/\">XRP News: Trump $5,000 Midterm Dividend Could Benefit R",
-      "title_es": "XRP News: Trump $5,000 Midterm Dividend Could Benefit Ripple"
     }
   ]
 }
