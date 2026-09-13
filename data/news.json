@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T22:44:04.211362+00:00",
+  "updated_at": "2026-09-13T13:33:52.356419+00:00",
   "count": 115,
   "sources": [
     "coindesk",
@@ -10,6 +10,60 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "3489de97ed95",
+      "title": "AI Agents Spending Money Online? New Research Says Not Really",
+      "link": "https://decrypt.co/378103/ai-agents-spending-money-research",
+      "source": "decrypt",
+      "published": "2026-09-13T13:01:03+00:00",
+      "summary": "TRM examined roughly $52.7 million across 198.9 million settlements using the x402 protocol. Most of it isn’t coming from AI agents, it says.",
+      "title_es": "AI Agents Spending Money Online? New Research Says Not Really"
+    },
+    {
+      "id": "df5b5ee46186",
+      "title": "Fed rate hike is about Wall Street, not inflation, says economist",
+      "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
+      "source": "coindesk",
+      "published": "2026-09-13T13:00:00+00:00",
+      "summary": "",
+      "title_es": "Fed rate hike is about Wall Street, not inflation, says economist"
+    },
+    {
+      "id": "74a9bfd2f854",
+      "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
+      "link": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
+      "source": "coindesk",
+      "published": "2026-09-13T13:00:00+00:00",
+      "summary": "",
+      "title_es": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’"
+    },
+    {
+      "id": "e7a1bdbc03e3",
+      "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
+      "source": "coindesk",
+      "published": "2026-09-13T12:00:00+00:00",
+      "summary": "",
+      "title_es": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns"
+    },
+    {
+      "id": "5bb9f0fdf9d5",
+      "title": "Anthropic chief urges slowdown in AI development to safer pace",
+      "link": "https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-13T11:09:54+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anthropic chief urges slowdown in AI development to safer pace\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2D73RC4KZ3H9HDSX589ZA4R/dario-amodei-ai-caution.png\" /></p><p>OpenAI CEO",
+      "title_es": "Anthropic chief urges slowdown in AI development to safer pace"
+    },
+    {
+      "id": "a7e5ee4e1d4b",
+      "title": "Revolut says customer data exposed through fake government email",
+      "link": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-13T09:27:21+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Revolut says customer data exposed through fake government email\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2D17VM4EG7ZBFYRBDRS7SSC/revolut-data-disclosure.png\" /></p><p>Passport",
+      "title_es": "Revolut says customer data exposed through fake government email"
+    },
     {
       "id": "0c79690a6b93",
       "title": "CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull market",
@@ -740,15 +794,6 @@
       "title_es": "Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike"
     },
     {
-      "id": "e4c23f40cc19",
-      "title": "Ripple puts AI agents inside its $1 billion corporate treasury bet",
-      "link": "https://www.coindesk.com/markets/2026/09/11/ripple-puts-ai-agents-inside-its-usd1-billion-corporate-treasury-bet",
-      "source": "coindesk",
-      "published": "2026-09-11T04:25:21+00:00",
-      "summary": "",
-      "title_es": "Ripple puts AI agents inside its $1 billion corporate treasury bet"
-    },
-    {
       "id": "478ef4036d9d",
       "title": "Brevo login flaw enabled phishing email targeting 347K Trezor subscribers",
       "link": "https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -812,24 +857,6 @@
       "title_es": "Bitwise shuts down Dogecoin ETF less than a year after launch"
     },
     {
-      "id": "ebf7351aadd2",
-      "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
-      "link": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
-      "source": "coindesk",
-      "published": "2026-09-10T20:21:57+00:00",
-      "summary": "",
-      "title_es": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky"
-    },
-    {
-      "id": "b6c3f33b0873",
-      "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
-      "link": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-10T20:10:29+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ESMA warns growing crypto ties could amplify risks to traditional finance\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26CZHVMKBYHAAV7EA21J68E/hi-what-is-mica-markets-in-crypto-ass",
-      "title_es": "ESMA warns growing crypto ties could amplify risks to traditional finance"
-    },
-    {
       "id": "a040bc82621e",
       "title": "Senate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week",
       "link": "https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180",
@@ -846,15 +873,6 @@
       "published": "2026-09-10T19:30:00+00:00",
       "summary": "<p>XRP slips to $1.38 as negative funding rates and a sub-1 long-short ratio raise doubts about its recovery. Key levels and scenarios inside.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrp-price-prediction-bearish-futures/\">XRP Price Prediction: Bearish Futures Data Casts Doubt on XRP&#82",
       "title_es": "XRP Price Prediction: Bearish Futures Data Casts Doubt on XRP’s Recovery"
-    },
-    {
-      "id": "104dcbee56f0",
-      "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
-      "link": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
-      "source": "coindesk",
-      "published": "2026-09-10T19:01:30+00:00",
-      "summary": "",
-      "title_es": "Why a new SEC plan could ease a legal headache for tokenized securities"
     },
     {
       "id": "a97ff147e4a1",
@@ -891,15 +909,6 @@
       "published": "2026-09-10T18:00:00+00:00",
       "summary": "The wallet now supports more than 10 networks, including Robinhood Chain and Monad, plus perps, prediction markets, and tokenized stocks.",
       "title_es": "Coinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short"
-    },
-    {
-      "id": "5325d0e3577c",
-      "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
-      "link": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-10T17:54:12+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK House of Lords backs mandatory digital asset strategy over Labour position\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M265GXQKJCP1QSNW42GTAMVF/hi-uk-and-crypto-new.png\" /></p><",
-      "title_es": "UK House of Lords backs mandatory digital asset strategy over Labour position"
     },
     {
       "id": "e7bcbe80ba0f",
@@ -963,15 +972,6 @@
       "published": "2026-09-10T13:43:09+00:00",
       "summary": "Citadel Securities urges SEC oversight of equity-linked event contracts, challenging CFTC self-certification.",
       "title_es": "Citadel urges SEC to assert oversight of event contracts tied to public firms"
-    },
-    {
-      "id": "62f464e7c593",
-      "title": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
-      "link": "https://decrypt.co/377875/bitcoin-at-400k-by-2030-still-reasonable-target-coinbase-ceo",
-      "source": "decrypt",
-      "published": "2026-09-10T13:04:27+00:00",
-      "summary": "Brian Armstrong argues the bottom is in, a year into the downturn, with the next halving roughly 18 months out.",
-      "title_es": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO"
     },
     {
       "id": "99cd6c073bf0",
