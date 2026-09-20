@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-20T13:22:46.779111+00:00",
-  "count": 115,
+  "updated_at": "2026-09-20T22:50:58.281306+00:00",
+  "count": 125,
   "sources": [
     "coindesk",
     "cointelegraph",
@@ -10,6 +10,105 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "b4ca27affe91",
+      "title": "ZetaChain votes to shut down Layer 1 network and move ZETA to Solana",
+      "link": "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878",
+      "source": "theblock",
+      "published": "2026-09-20T20:11:49+00:00",
+      "summary": "The team plans to focus instead on Anuma, its private AI app, though the migration will still take one more vote.",
+      "title_es": "ZetaChain votes to shut down Layer 1 network and move ZETA to Solana"
+    },
+    {
+      "id": "5fddb908fa3b",
+      "title": "Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ",
+      "link": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
+      "source": "theblock",
+      "published": "2026-09-20T16:07:19+00:00",
+      "summary": "In a separate attack, hackers compromised nearly 500 users' accounts using stolen personal information, according to the report.",
+      "title_es": "Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ"
+    },
+    {
+      "id": "391031018e8c",
+      "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
+      "link": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
+      "source": "decrypt",
+      "published": "2026-09-20T16:01:03+00:00",
+      "summary": "After banks lost their push for tighter stablecoin rules in the failed Clarity Act, JP Morgan scored a narrower win as Visa moves to stop meme coin purchases from being coded as ordinary \"digital media\" and earning card rewards.",
+      "title_es": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole"
+    },
+    {
+      "id": "afc840cc6d80",
+      "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
+      "link": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
+      "source": "coindesk",
+      "published": "2026-09-20T14:54:48+00:00",
+      "summary": "",
+      "title_es": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation"
+    },
+    {
+      "id": "d3360af9b9ca",
+      "title": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years",
+      "link": "https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet",
+      "source": "decrypt",
+      "published": "2026-09-20T14:01:03+00:00",
+      "summary": "A Glassnode and Bybit report frames the divergence as the defining feature of this cycle, with froth pooling in the market's riskiest corners even as Bitcoin does the heavy lifting.",
+      "title_es": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years"
+    },
+    {
+      "id": "7f0c8c4cb3f0",
+      "title": "Move Over Housing – Bitcoin is Gen Z’s New Wealth Building Asset",
+      "link": "https://bitcoinmagazine.com/videos/move-over-housing-bitcoin-is-gen-zs-new-wealth-building-asset",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-20T13:34:01+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Move-Over-Housing-Bitcoin-is-Gen-Zs-New-Wealth-Building-Asset-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.",
+      "title_es": "Move Over Housing – Bitcoin is Gen Z’s New Wealth Building Asset"
+    },
+    {
+      "id": "bde1ded9c930",
+      "title": "XRP News: AI Payments Integration With Stripe Driving Ripple Toward $1.50",
+      "link": "https://cryptonews.com/news/xrp-news-ai-payments-integration-with-stripe-driving-ripple-toward-1-50/",
+      "source": "cryptonews",
+      "published": "2026-09-20T13:30:00+00:00",
+      "summary": "<p>In XRP news, the asset is moving faster than it has since August. The token passed $1.38 on CoinGecko after a +2% gain over the past week. Ripple linked XRP to Stripe&#8217;s payment tools on September 17, and the coin still trades -54% below its 2021 peak.However, Ripple is down -3% over the pas",
+      "title_es": "XRP News: AI Payments Integration With Stripe Driving Ripple Toward $1.50"
+    },
+    {
+      "id": "73d54ff481d6",
+      "title": "T. Rowe Price’s Blue Macellari: Bitcoin is Now Core to the Debasement Conversation",
+      "link": "https://bitcoinmagazine.com/videos/t-rowe-prices-blue-macellari-bitcoin-is-now-core-to-the-debasement-conversation",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-20T13:24:37+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/T.-Rowe-Prices-Blue-Machellari-Bitcoin-is-Now-Core-to-the-Debasement-Conversation-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"http",
+      "title_es": "T. Rowe Price’s Blue Macellari: Bitcoin is Now Core to the Debasement Conversation"
+    },
+    {
+      "id": "cb777acaf0c2",
+      "title": "Coinbase Policy Chief: Strategic Bitcoin Reserve Bill Outlook",
+      "link": "https://bitcoinmagazine.com/videos/coinbase-policy-chief-strategic-bitcoin-reserve-bill-outlook",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-20T13:15:42+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Coinbase-Policy-Chief-Strategic-Bitcoin-Reserve-Bill-Outlook-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.c",
+      "title_es": "Coinbase Policy Chief: Strategic Bitcoin Reserve Bill Outlook"
+    },
+    {
+      "id": "f513811edc1c",
+      "title": "Strategy CEO Phong Le: We Want to Be the JPMorgan of Bitcoin",
+      "link": "https://bitcoinmagazine.com/videos/strategy-ceo-phong-le-jpmorgan-of-bitcoin",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-20T13:06:46+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Strategy-CEO-Phong-Le-We-Want-to-Be-the-JPMorgan-of-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com",
+      "title_es": "Strategy CEO Phong Le: We Want to Be the JPMorgan of Bitcoin"
+    },
+    {
+      "id": "83829cb547d6",
+      "title": "Why Legendary Investor Bill Miller IV has “Never Been More Bullish on Bitcoin”",
+      "link": "https://bitcoinmagazine.com/videos/bill-miller-iv-bullish-on-bitcoin",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-20T12:57:34+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Why-Legendary-Investor-Bill-Miller-IV-has-Never-Been-More-Bullish-on-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bi",
+      "title_es": "Why Legendary Investor Bill Miller IV has “Never Been More Bullish on Bitcoin”"
+    },
     {
       "id": "464d98d209d3",
       "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
@@ -66,12 +165,12 @@
     },
     {
       "id": "ef2a18b40894",
-      "title": "Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal",
+      "title": "Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal",
       "link": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph",
       "published": "2026-09-20T07:51:24+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2YW25DDE8NF21CYADDSPH7S/ai-machine-cyber-mind.png\" /",
-      "title_es": "Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal"
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2YW25DDE8NF21CYADDSPH7S/ai-machine-cyber-mind.png\" /",
+      "title_es": "Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal"
     },
     {
       "id": "e3ebc1bfa628",
@@ -236,6 +335,15 @@
       "title_es": "Hong Kong jails ex-banker over $1.6B false credit, cryptocurrency bribes: Report"
     },
     {
+      "id": "0effbafafd5d",
+      "title": "European Central Bank President Blocked Binance’s EU Entry: Report",
+      "link": "https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-binance",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-18T21:48:01+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/image14_1920x1080.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-bi",
+      "title_es": "European Central Bank President Blocked Binance’s EU Entry: Report"
+    },
+    {
       "id": "5e42e3b920eb",
       "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
       "link": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
@@ -252,6 +360,15 @@
       "published": "2026-09-18T21:00:00+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
       "title_es": "Here’s what happened in crypto today"
+    },
+    {
+      "id": "0bd998791ec3",
+      "title": "CFTC Sends Proposal To Regulate Crypto Transactions Following Clarity Act Fail",
+      "link": "https://bitcoinmagazine.com/news/cftc-proposes-rules-following-clarity-fail",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-18T20:00:13+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/image13_1920x1080.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/cftc-proposes-rules-following-clarit",
+      "title_es": "CFTC Sends Proposal To Regulate Crypto Transactions Following Clarity Act Fail"
     },
     {
       "id": "1e96b6e4a4de",
@@ -308,6 +425,15 @@
       "title_es": "Crypto stocks rebound after CLARITY Act selloff"
     },
     {
+      "id": "a528a372ef7d",
+      "title": "Bitcoin Price Surges Over $81,000 Despite Clarity Act Fail and Interest Rate Hike",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-jumps-over-81000",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-18T16:46:48+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-9.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-jumps-over-81000\" rel=\"nofol",
+      "title_es": "Bitcoin Price Surges Over $81,000 Despite Clarity Act Fail and Interest Rate Hike"
+    },
+    {
       "id": "a0048dea44b5",
       "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
       "link": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
@@ -342,6 +468,15 @@
       "published": "2026-09-18T16:04:22+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC submits crypto market regulation plan for White House review  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJB7047S01XKJY4FWVJGEK/judge-hammer-regulation-cftc-2.jpg\" /></p><",
       "title_es": "CFTC submits crypto market regulation plan for White House review"
+    },
+    {
+      "id": "47892e9a0510",
+      "title": "Bitcoin Community Recognizes Quantum Computing Risk: VanEck",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-community-recognizes-quantum-risk",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-18T15:55:52+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-26.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-community-recognizes-quantum-risk\" rel",
+      "title_es": "Bitcoin Community Recognizes Quantum Computing Risk: VanEck"
     },
     {
       "id": "023bf545f9a5",
@@ -405,6 +540,15 @@
       "published": "2026-09-18T15:06:31+00:00",
       "summary": "",
       "title_es": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost"
+    },
+    {
+      "id": "5b2b2b3f361d",
+      "title": "The Next 3-5 Years of Bitcoin Lending",
+      "link": "https://bitcoinmagazine.com/markets/the-next-3-5-years-of-bitcoin-lending",
+      "source": "bitcoinmagazine",
+      "published": "2026-09-18T14:37:47+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/salt-lending-article-thumbnail.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/the-next-3-5-years-o",
+      "title_es": "The Next 3-5 Years of Bitcoin Lending"
     },
     {
       "id": "570e79ee9d8f",
@@ -767,15 +911,6 @@
       "title_es": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them"
     },
     {
-      "id": "c96bcf5f70cf",
-      "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
-      "link": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
-      "source": "coindesk",
-      "published": "2026-09-17T21:47:22+00:00",
-      "summary": "",
-      "title_es": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work"
-    },
-    {
       "id": "8b9c8972cd31",
       "title": "Security Experts Want the US and China to Promise Never to Let AI Control Nukes",
       "link": "https://decrypt.co/378575/us-china-never-let-ai-control-nukes",
@@ -893,15 +1028,6 @@
       "title_es": "As RWA trading surges on Hyperliquid, Dragonfly’s Qureshi makes the case for a multichain future"
     },
     {
-      "id": "491355b0bfa3",
-      "title": "Bitcoin Bounces as Markets Brace for the Fed’s Next Move",
-      "link": "https://decrypt.co/378506/bitcoin-bounces-wall-street-fed-next-move",
-      "source": "decrypt",
-      "published": "2026-09-17T17:01:03+00:00",
-      "summary": "The Federal Reserve's first rate increase since 2023 barely dented crypto prices, but what comes next could change calculations on Wall Street.",
-      "title_es": "Bitcoin Bounces as Markets Brace for the Fed’s Next Move"
-    },
-    {
       "id": "22b228ae7dea",
       "title": "Regulators keep moving on crypto: CFTC follows SEC with developer-friendly no-action stance",
       "link": "https://www.theblock.co/news/regulation/2026-09-17-regulators-keep-moving-crypto-cftc-follows-sec-developer-friendly-no-action-stance-415425",
@@ -909,15 +1035,6 @@
       "published": "2026-09-17T16:50:22+00:00",
       "summary": "Software developers who build crypto trading tools just got some breathing room from the Commodity Futures Trading Commission.",
       "title_es": "Regulators keep moving on crypto: CFTC follows SEC with developer-friendly no-action stance"
-    },
-    {
-      "id": "e486599e3bf4",
-      "title": "Financial Data Giant S&#038;P Global Moves Deeper Into Crypto With OpenZeppelin Deal",
-      "link": "https://decrypt.co/378505/sp-global-acquire-crypto-openzeppelin",
-      "source": "decrypt",
-      "published": "2026-09-17T16:33:12+00:00",
-      "summary": "S&#038;P Global is expanding into the technology risks underpinning stablecoins, tokenized funds, and other onchain financial products.",
-      "title_es": "Financial Data Giant S&#038;P Global Moves Deeper Into Crypto With OpenZeppelin Deal"
     },
     {
       "id": "be23d878b4b6",
@@ -1017,33 +1134,6 @@
       "published": "2026-09-17T11:27:59+00:00",
       "summary": "<p>Zcash jumps ~18% as the CLARITY Act stalls and privacy demand rises. Key levels, scenarios, and where early-stage capital is rotating next.</p>\n<p>The post <a href=\"https://cryptonews.com/news/zcash-crypto-price-surge-clarity-act/\">Zcash Crypto Surges 15% as CLARITY Act Fails, Privacy Concerns Dr",
       "title_es": "Zcash Crypto Surges 15% as CLARITY Act Fails, Privacy Concerns Drive Demand"
-    },
-    {
-      "id": "174acdbf84ba",
-      "title": "Senate Setback Leaves CLARITY Act Facing Long-Shot Revival",
-      "link": "https://cryptonews.com/news/clarity-act-senate-revival/",
-      "source": "cryptonews",
-      "published": "2026-09-17T11:16:15+00:00",
-      "summary": "<p>The CLARITY Act missed the Senate’s 60-vote cloture threshold, but a motion to reconsider leaves a possible lame-duck revival ahead.</p>\n<p>The post <a href=\"https://cryptonews.com/news/clarity-act-senate-revival/\">Senate Setback Leaves CLARITY Act Facing Long-Shot Revival</a> appeared first on <",
-      "title_es": "Senate Setback Leaves CLARITY Act Facing Long-Shot Revival"
-    },
-    {
-      "id": "e0c74356ccb9",
-      "title": "Bitwise CIO Hougan revises Clarity Act outlook, says crypto bull market may continue without legislation",
-      "link": "https://www.theblock.co/news/markets/2026-09-17-bitwise-cio-hougan-revises-clarity-act-outlook-says-crypto-bull-market-may-continue-without-legislation-415339",
-      "source": "theblock",
-      "published": "2026-09-17T10:19:55+00:00",
-      "summary": "Bitcoin climbed above $80,000 in early September despite declining odds of the legislation passing this year, Hougan noted.",
-      "title_es": "Bitwise CIO Hougan revises Clarity Act outlook, says crypto bull market may continue without legislation"
-    },
-    {
-      "id": "d2f1fad268d8",
-      "title": "South Korean police charge 26 Polymarket users for illegal gambling: report",
-      "link": "https://www.theblock.co/news/regulation/2026-09-17-south-korean-police-charge-polymarket-users-415333",
-      "source": "theblock",
-      "published": "2026-09-17T06:12:50+00:00",
-      "summary": "The country blocked local access to Polymarket last month after its media regulator ruled that the platform offers illegal gambling.",
-      "title_es": "South Korean police charge 26 Polymarket users for illegal gambling: report"
     }
   ]
 }
