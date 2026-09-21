@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T15:32:05.462522+00:00",
+  "updated_at": "2026-09-21T23:44:48.679709+00:00",
   "count": 115,
   "sources": [
     "coindesk",
@@ -10,6 +10,222 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "20e6574193f5",
+      "title": "Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks",
+      "link": "https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent",
+      "source": "decrypt",
+      "published": "2026-09-21T22:46:03+00:00",
+      "summary": "Google learned in late July that Gemini had breached three real companies during a May security test, but said nothing publicly for seven weeks.",
+      "title_es": "Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks"
+    },
+    {
+      "id": "a8529668ed78",
+      "title": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million",
+      "link": "https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million",
+      "source": "decrypt",
+      "published": "2026-09-21T22:16:03+00:00",
+      "summary": "The Ohio spending comes days after the Senate blocked the crypto industry’s Clarity Act.",
+      "title_es": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million"
+    },
+    {
+      "id": "cf2dbc9eb928",
+      "title": "Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game",
+      "link": "https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
+      "source": "decrypt",
+      "published": "2026-09-21T21:46:03+00:00",
+      "summary": "Robinhood CEO Vlad Tenev says crypto event contracts are already outpacing sports bets, and could become the platform's dominant category within a few years.",
+      "title_es": "Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game"
+    },
+    {
+      "id": "c5149aa3bd76",
+      "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
+      "source": "coindesk",
+      "published": "2026-09-21T20:39:39+00:00",
+      "summary": "",
+      "title_es": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building"
+    },
+    {
+      "id": "a35a59c40fa4",
+      "title": "Saudi Arabia exits China-backed mBridge CBDC project: FT",
+      "link": "https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-21T20:37:15+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saudi Arabia exits China-backed mBridge CBDC project: FT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32QR8FM0NWT9YWDG9WEJZ7M/bank-building-hall-entrance-revolving-doorsthreetether",
+      "title_es": "Saudi Arabia exits China-backed mBridge CBDC project: FT"
+    },
+    {
+      "id": "3cf12d5e1630",
+      "title": "X Sues Two Bitcoin Influencers Over Bot Army That Milked Creator Payouts",
+      "link": "https://decrypt.co/378877/x-sues-bitcoin-influencers-bot-army-creator-payout",
+      "source": "decrypt",
+      "published": "2026-09-21T20:16:03+00:00",
+      "summary": "A lawsuit accuses UK users of running six coordinated accounts to pull at least $278,000 from X's now-defunct Creator Revenue Sharing Program.",
+      "title_es": "X Sues Two Bitcoin Influencers Over Bot Army That Milked Creator Payouts"
+    },
+    {
+      "id": "552e43ae5e35",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-21T19:53:04+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
+      "title_es": "Here’s what happened in crypto today"
+    },
+    {
+      "id": "6195e574cfd8",
+      "title": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
+      "link": "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura",
+      "source": "decrypt",
+      "published": "2026-09-21T19:26:49+00:00",
+      "summary": "Eligible customers can request shares at the offering price, but allocations are not guaranteed.",
+      "title_es": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First"
+    },
+    {
+      "id": "ce75a83b1951",
+      "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
+      "link": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
+      "source": "coindesk",
+      "published": "2026-09-21T19:08:40+00:00",
+      "summary": "",
+      "title_es": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules"
+    },
+    {
+      "id": "5a0849baf5cd",
+      "title": "Europe’s Central Bank Prepares to Invest Own Funds in Tokenized Securities",
+      "link": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities",
+      "source": "decrypt",
+      "published": "2026-09-21T19:00:04+00:00",
+      "summary": "The central bank plans to buy euro-denominated public-sector debt and settle the transactions through its new Pontes service.",
+      "title_es": "Europe’s Central Bank Prepares to Invest Own Funds in Tokenized Securities"
+    },
+    {
+      "id": "79fe74f095e4",
+      "title": "Ondo lets institutions convert stocks directly into tokenized shares",
+      "link": "https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-21T18:35:43+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ondo lets institutions convert stocks directly into tokenized shares\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32JXF7GPH4P1K65TA97BYB4/hi-how-ondo-finance-plans-to-bring-tokeniz",
+      "title_es": "Ondo lets institutions convert stocks directly into tokenized shares"
+    },
+    {
+      "id": "dd35ce5e989f",
+      "title": "What Is VVV? The Privacy-Obsessed AI Token That’s Up 3,000% in 2026",
+      "link": "https://decrypt.co/378840/what-is-vvv-privacy-ai-token-up-3000-percent-2026",
+      "source": "decrypt",
+      "published": "2026-09-21T18:31:03+00:00",
+      "summary": "Venice (VVV) has clawed back from under a dollar to a record $34, and the pitch behind it is simple: an AI chatbot that promises to forget you the moment you close the tab.",
+      "title_es": "What Is VVV? The Privacy-Obsessed AI Token That’s Up 3,000% in 2026"
+    },
+    {
+      "id": "228bde4076c1",
+      "title": "XRP News: Exchange Churn Surges, Binance Reserves Barely Move",
+      "link": "https://cryptonews.com/news/xrp-news-whale-activity-binance/",
+      "source": "cryptonews",
+      "published": "2026-09-21T18:28:00+00:00",
+      "summary": "<p>XRP whale activity surged as Binance inflows rose 663%, but reserve data point to market repositioning rather than confirmed selling.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrp-news-whale-activity-binance/\">XRP News: Exchange Churn Surges, Binance Reserves Barely Move</a> appeared f",
+      "title_es": "XRP News: Exchange Churn Surges, Binance Reserves Barely Move"
+    },
+    {
+      "id": "78bec530a6af",
+      "title": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again",
+      "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-21T18:15:22+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32DNKD3CR6WM1GWCHG5FQE8/hi-can-somebody-predict-the-next-us-elections-cr",
+      "title_es": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again"
+    },
+    {
+      "id": "523e5bd0a8de",
+      "title": "Can a Fruit Fly Brain Mine Bitcoin? These Companies Are Testing It",
+      "link": "https://decrypt.co/378836/fruit-fly-brain-mine-bitcoin-these-companies-testing",
+      "source": "decrypt",
+      "published": "2026-09-21T17:46:02+00:00",
+      "summary": "The HashFly browser experiment uses a digital neural model for Bitcoin hashing and projects greater efficiency from a hypothetical biological version.",
+      "title_es": "Can a Fruit Fly Brain Mine Bitcoin? These Companies Are Testing It"
+    },
+    {
+      "id": "743346a78c25",
+      "title": "xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party",
+      "link": "https://decrypt.co/378824/xai-launches-grok-4-7",
+      "source": "decrypt",
+      "published": "2026-09-21T17:16:03+00:00",
+      "summary": "xAI says the new model is a \"notable improvement\" over Grok 4.6 at the same price. The benchmarks say it's still in second place.",
+      "title_es": "xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party"
+    },
+    {
+      "id": "1adc3d99a0e7",
+      "title": "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
+      "link": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-21T16:56:53+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle launches Bitcoin-backed USDC borrowing for institutional clients\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22T4WSTAGZ7E6YW1EWZGJDW/dollar-fiat-money-bitcoin-1.jpg\" /></p>",
+      "title_es": "Circle launches Bitcoin-backed USDC borrowing for institutional clients"
+    },
+    {
+      "id": "bf2fe56bac9d",
+      "title": "Sony Says You Don't Own the Games You Bought. Crypto Says It Can Fix That",
+      "link": "https://decrypt.co/378745/sony-dont-own-games-you-bought-crypto-fix-that",
+      "source": "decrypt",
+      "published": "2026-09-21T16:46:03+00:00",
+      "summary": "Crypto advocates argue that NFTs can deliver real digital ownership, but privacy gaps and integration hurdles have held the tech back.",
+      "title_es": "Sony Says You Don't Own the Games You Bought. Crypto Says It Can Fix That"
+    },
+    {
+      "id": "d67ee6f89519",
+      "title": "Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-21T16:39:40+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32CF788SWBBCQ9G0KVD8FQK/article-covers-253627-bitcoin-bull-trap-be",
+      "title_es": "Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’"
+    },
+    {
+      "id": "5939335d8ae5",
+      "title": "Clarity Act fallout: crypto’s Fairshake PAC commits $30 million against Sherrod Brown",
+      "link": "https://www.theblock.co/news/regulation/2026-09-21-clarity-act-fallout-cryptos-fairshake-pac-commits-30-million-against-sherrod-brown-415962",
+      "source": "theblock",
+      "published": "2026-09-21T16:35:43+00:00",
+      "summary": "Crypto PAC Fairshake is throwing $30 million into an Ohio race against former Sen. Sherrod Brown, who has been skeptical of crypto.",
+      "title_es": "Clarity Act fallout: crypto’s Fairshake PAC commits $30 million against Sherrod Brown"
+    },
+    {
+      "id": "b3cd921252b3",
+      "title": "Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push",
+      "link": "https://decrypt.co/378811/apple-google-crypto-talent-stablecoin",
+      "source": "decrypt",
+      "published": "2026-09-21T16:16:03+00:00",
+      "summary": "The senior roles cover Apple’s consumer payment products and Google Cloud’s institutional blockchain business in Asia.",
+      "title_es": "Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push"
+    },
+    {
+      "id": "b275ca11f701",
+      "title": "Perplexity AI Predicts Weak XRP Price by 2027: Bull Run Canceled?",
+      "link": "https://cryptonews.com/news/perplexity-ai-predicts-weak-xrp-price-by-2027-bull-run-canceled/",
+      "source": "cryptonews",
+      "published": "2026-09-21T16:14:40+00:00",
+      "summary": "<p>The Silicon Valley-based Perplexity AI predicts XRP could have a tame Q4, saying it believes the token will only hit $3.25 by January 1, 2027. This prediction comes as other AI models and analysts call for XRP to trade $7-10 by the end of the year.XRP currently trades near $1.49 as of September 2",
+      "title_es": "Perplexity AI Predicts Weak XRP Price by 2027: Bull Run Canceled?"
+    },
+    {
+      "id": "f3d268c63a4c",
+      "title": "Crypto political group plans to spend $30 million against Sherrod Brown's Senate bid",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid",
+      "source": "coindesk",
+      "published": "2026-09-21T16:01:36+00:00",
+      "summary": "",
+      "title_es": "Crypto political group plans to spend $30 million against Sherrod Brown's Senate bid"
+    },
+    {
+      "id": "2ecfb03f6ee3",
+      "title": "Bitcoin Is Rallying Again—What Happens Next?",
+      "link": "https://decrypt.co/378767/bitcoin-rally-what-happens-next",
+      "source": "decrypt",
+      "published": "2026-09-21T15:45:35+00:00",
+      "summary": "The rally cleared an eight-month ceiling on a short squeeze and falling oil prices. The next three weeks will decide if it sticks.",
+      "title_es": "Bitcoin Is Rallying Again—What Happens Next?"
+    },
     {
       "id": "cc6c16c37c6d",
       "title": "Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight",
@@ -354,12 +570,12 @@
     },
     {
       "id": "59ce2142f280",
-      "title": "Live updates: Bitcoin tops $86,000, while Saylor returns to BTC buying",
+      "title": "Live updates: Bitcoin hits $87,000, while traders pile into leveraged bets",
       "link": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
       "source": "coindesk",
       "published": "2026-09-21T08:39:26+00:00",
       "summary": "",
-      "title_es": "Live updates: Bitcoin tops $86,000, while Saylor returns to BTC buying"
+      "title_es": "Live updates: Bitcoin hits $87,000, while traders pile into leveraged bets"
     },
     {
       "id": "deb984e2cbb8",
@@ -414,15 +630,6 @@
       "published": "2026-09-21T06:20:47+00:00",
       "summary": "",
       "title_es": "Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades"
-    },
-    {
-      "id": "552e43ae5e35",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-21T04:44:48+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
-      "title_es": "Here’s what happened in crypto today"
     },
     {
       "id": "d3e6a3ef164e",
@@ -498,12 +705,12 @@
     },
     {
       "id": "391031018e8c",
-      "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
+      "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole: Source",
       "link": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
       "source": "decrypt",
       "published": "2026-09-20T16:01:03+00:00",
       "summary": "After banks lost their push for tighter stablecoin rules in the failed Clarity Act, JP Morgan scored a narrower win as Visa moves to stop meme coin purchases from being coded as ordinary \"digital media\" and earning card rewards.",
-      "title_es": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole"
+      "title_es": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole: Source"
     },
     {
       "id": "afc840cc6d80",
@@ -695,15 +902,6 @@
       "title_es": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks"
     },
     {
-      "id": "e849ec76f6a1",
-      "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
-      "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
-      "source": "coindesk",
-      "published": "2026-09-19T13:39:15+00:00",
-      "summary": "",
-      "title_es": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade"
-    },
-    {
       "id": "e3da410eb2ca",
       "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
       "link": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
@@ -711,42 +909,6 @@
       "published": "2026-09-19T13:01:04+00:00",
       "summary": "The network's clock just sped up again, but the extra speed goes to freshness, not capacity.",
       "title_es": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade"
-    },
-    {
-      "id": "f0f0addce02a",
-      "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
-      "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
-      "source": "coindesk",
-      "published": "2026-09-19T12:13:57+00:00",
-      "summary": "",
-      "title_es": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary"
-    },
-    {
-      "id": "e532bd502b54",
-      "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
-      "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
-      "source": "coindesk",
-      "published": "2026-09-19T12:00:00+00:00",
-      "summary": "",
-      "title_es": "Robinhood Chain fees collapse 97% even as transactions stay near record highs"
-    },
-    {
-      "id": "76e2ac9f0516",
-      "title": "Bastion wins conditional OCC approval for national trust bank charter",
-      "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-19T11:51:00+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bastion wins conditional OCC approval for national trust bank charter\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2WQCDKA6YPC5SXBN3P1FPAN/hi-cryptocom-is-granted-conditional-appro",
-      "title_es": "Bastion wins conditional OCC approval for national trust bank charter"
-    },
-    {
-      "id": "e60bc70b3333",
-      "title": "Hong Kong jails ex-banker over $1.6B false credit, cryptocurrency bribes: Report",
-      "link": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-19T07:52:00+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hong Kong jails ex-banker over $1.6B false credit, cryptocurrency bribes: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2WA562VCY2PY1P3DW1N862B/hi-time-to-switch-license-hong",
-      "title_es": "Hong Kong jails ex-banker over $1.6B false credit, cryptocurrency bribes: Report"
     },
     {
       "id": "5e42e3b920eb",
@@ -758,15 +920,6 @@
       "title_es": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia"
     },
     {
-      "id": "1e96b6e4a4de",
-      "title": "Coinbase files to bring single-stock perpetual futures to US market",
-      "link": "https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-18T19:53:54+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase files to bring single-stock perpetual futures to US market\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2V02EPZ2W43H6167S8HZBPZ/hi-uk-compliance-deadline-is-upcoming-coinb",
-      "title_es": "Coinbase files to bring single-stock perpetual futures to US market"
-    },
-    {
       "id": "227954a39276",
       "title": "Zcash Is Running—Devs Want to Make It Faster",
       "link": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
@@ -774,15 +927,6 @@
       "published": "2026-09-18T19:16:03+00:00",
       "summary": "A new upgrade would cut Zcash block time from 75 seconds to 25, while quietly rewriting how the network pays for its own security after 2031.",
       "title_es": "Zcash Is Running—Devs Want to Make It Faster"
-    },
-    {
-      "id": "56e16646a339",
-      "title": "Binance launches 24/7 FX perps with weekend pricing system",
-      "link": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-18T19:06:30+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance launches 24/7 FX perps with weekend pricing system\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TWPXVTDCGSQ1MYSQ30VK2W/man-office-screen-computer02-2.png\" /></p><p>Binance",
-      "title_es": "Binance launches 24/7 FX perps with weekend pricing system"
     },
     {
       "id": "80825500cd20",
@@ -794,33 +938,6 @@
       "title_es": "XRP News: 16-Cross History Complicates the Golden Cross Signal"
     },
     {
-      "id": "b54a76ef1f82",
-      "title": "Bitcoin Will Hit $1 Million, Says Kevin O’Leary—But There’s a Quantum Catch",
-      "link": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch",
-      "source": "decrypt",
-      "published": "2026-09-18T18:35:54+00:00",
-      "summary": "Kevin O'Leary believes Bitcoin could hit $1 million if crypto beats its quantum computing problem, and explained why he's ditching Ethereum.",
-      "title_es": "Bitcoin Will Hit $1 Million, Says Kevin O’Leary—But There’s a Quantum Catch"
-    },
-    {
-      "id": "c487748c30a7",
-      "title": "Crypto stocks rebound after CLARITY Act selloff",
-      "link": "https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-18T17:55:57+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto stocks rebound after CLARITY Act selloff\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TRCGEVT9CNFA3RQBK4NDTE/hi-japan-ipo-stocks-explained2.png\" /></p><p>Coinbase, Strategy",
-      "title_es": "Crypto stocks rebound after CLARITY Act selloff"
-    },
-    {
-      "id": "a0048dea44b5",
-      "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
-      "link": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
-      "source": "decrypt",
-      "published": "2026-09-18T16:42:32+00:00",
-      "summary": "XRP is roaring back as Bitcoin claws its way above $800,000 again, but the charts continue to give traders mixed signals.",
-      "title_es": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross"
-    },
-    {
       "id": "17cf85115945",
       "title": "Bitcoin Could Reach 1%-3% of Institutional Alternative Portfolios",
       "link": "https://cryptonews.com/news/kevin-oleary-institutional-crypto-adoption/",
@@ -828,15 +945,6 @@
       "published": "2026-09-18T16:23:17+00:00",
       "summary": "<p>Institutional crypto adoption drives O’Leary’s thesis: 1%-3% allocations, exchange adoption and a conditional $1 million Bitcoin forecast.</p>\n<p>The post <a href=\"https://cryptonews.com/news/kevin-oleary-institutional-crypto-adoption/\">Bitcoin Could Reach 1%-3% of Institutional Alternative Portf",
       "title_es": "Bitcoin Could Reach 1%-3% of Institutional Alternative Portfolios"
-    },
-    {
-      "id": "27b31428c37b",
-      "title": "CFTC Kicks Off Crypto Rulemaking, Bypassing a Stalled Congress",
-      "link": "https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act",
-      "source": "decrypt",
-      "published": "2026-09-18T16:08:13+00:00",
-      "summary": "The agency submitted a prerule on crypto asset transactions and markets to the White House for review, signaling it will build a derivatives framework on its own authority after the Clarity Act's collapse.",
-      "title_es": "CFTC Kicks Off Crypto Rulemaking, Bypassing a Stalled Congress"
     },
     {
       "id": "55f0f7468ceb",
@@ -855,15 +963,6 @@
       "published": "2026-09-18T15:27:41+00:00",
       "summary": "The moves comes as the SEC and CFTC advance crypto-related rulemaking despite the Clarity Act stalling in the Senate.",
       "title_es": "Bitcoin reclaims $80,000, Solana and Hyperliquid rally as crypto markets shrug off Clarity setback"
-    },
-    {
-      "id": "df76be4a4328",
-      "title": "Bitcoin Blasts Past $80K and a Fresh Short Squeeze Is On",
-      "link": "https://decrypt.co/378630/bitcoin-blasts-short-squeeze-crypto-liquidations",
-      "source": "decrypt",
-      "published": "2026-09-18T15:22:49+00:00",
-      "summary": "Bitcoin just ripped 5.88% higher in a single session, tearing back toward its 2026 highs. The charts say the move is real, but they also say it's gotten ahead of itself.",
-      "title_es": "Bitcoin Blasts Past $80K and a Fresh Short Squeeze Is On"
     },
     {
       "id": "25f80d6f6661",
@@ -893,24 +992,6 @@
       "title_es": "CFTC files crypto asset rulemaking with White House, pressing ahead without Congress"
     },
     {
-      "id": "165caad8923a",
-      "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
-      "link": "https://decrypt.co/378622/microsoft-staff-asked-if-ai-scraping-was-largest-theft-of-labor-in-human-history",
-      "source": "decrypt",
-      "published": "2026-09-18T12:52:03+00:00",
-      "summary": "Internal memos warned of a \"doom loop\" threatening the quality of the very models it was building with OpenAI.",
-      "title_es": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'"
-    },
-    {
-      "id": "78456a75a426",
-      "title": "Morning Minute: SEC Approves ‘Innovation Exemption’ Moving Tokenized Stocks Forward",
-      "link": "https://decrypt.co/378619/morning-minute-sec-approves-innovation-exemption-moving-tokenized-stocks-forward",
-      "source": "decrypt",
-      "published": "2026-09-18T12:34:50+00:00",
-      "summary": "It came just hours after S&#038;P Global announced its acquisition of OpenZeppelin, as everything TradFi moves onchain.",
-      "title_es": "Morning Minute: SEC Approves ‘Innovation Exemption’ Moving Tokenized Stocks Forward"
-    },
-    {
       "id": "388b2fc17235",
       "title": "Grayscale Sees Limited Bitcoin Impact From 25-Basis-Point Hike",
       "link": "https://cryptonews.com/news/federal-reserve-bitcoin-price-impact/",
@@ -929,42 +1010,6 @@
       "title_es": "Kevin O’Leary is buying crypto again, says major stock exchange adoption is the ‘watershed moment’ to watch"
     },
     {
-      "id": "bfbec0642355",
-      "title": "UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Killings",
-      "link": "https://decrypt.co/378611/uae-sweden-arrest-seven-over-7-1m-crypto-laundering-ring-linked-to-contract-killings",
-      "source": "decrypt",
-      "published": "2026-09-18T09:57:33+00:00",
-      "summary": "Investigators say tracing the network's crypto transactions exposed links to organized crime and murder-for-hire.",
-      "title_es": "UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Killings"
-    },
-    {
-      "id": "c33833a1de81",
-      "title": "Ethereum Price Prediction: What to Expect From the Glamsterdam Upgrade?",
-      "link": "https://cryptonews.com/news/ethereum-price-prediction-glamsterdam/",
-      "source": "cryptonews",
-      "published": "2026-09-18T09:32:59+00:00",
-      "summary": "<p>Ethereum trades near $2,495 as Glamsterdam upgrade testing clears key hurdles. Full price analysis, key levels, and what the 200M gas limit means for ETH.</p>\n<p>The post <a href=\"https://cryptonews.com/news/ethereum-price-prediction-glamsterdam/\">Ethereum Price Prediction: What to Expect From th",
-      "title_es": "Ethereum Price Prediction: What to Expect From the Glamsterdam Upgrade?"
-    },
-    {
-      "id": "8f1e3e4ef4aa",
-      "title": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships",
-      "link": "https://decrypt.co/378604/treasury-sanctions-crypto-exchange-behind-irans-bitcoin-tolls-on-hormuz-ships",
-      "source": "decrypt",
-      "published": "2026-09-18T09:01:55+00:00",
-      "summary": "OFAC says hundreds of millions of dollars in Bitcoin moved through BitBank to the Revolutionary Guards in two months.",
-      "title_es": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships"
-    },
-    {
-      "id": "d4704d66823b",
-      "title": "Canada EU Odds: Prediction Markets Start Taking Bets, What Are They Saying?",
-      "link": "https://cryptonews.com/news/canada-eu-odds-prediction-markets-taking-bets/",
-      "source": "cryptonews",
-      "published": "2026-09-18T08:36:51+00:00",
-      "summary": "<p>Speculation that Canada could one day join the European Union has moved from an internet curiosity to a genuine geopolitical talking point in recent months. As a result, Canada EU odds across prediction market platforms such as Kalshi and Polymarket have begun gaining traction.The idea picked up ",
-      "title_es": "Canada EU Odds: Prediction Markets Start Taking Bets, What Are They Saying?"
-    },
-    {
       "id": "ed2a118d91ae",
       "title": "Stablecoin payments firm dtcpay closes $25 million Series A with SBI Group investment",
       "link": "https://www.theblock.co/news/business/2026-09-18-dtcpay-series-a-sbi-group-415483",
@@ -972,42 +1017,6 @@
       "published": "2026-09-18T05:29:10+00:00",
       "summary": "The fresh capital enables it to scale product suite and merchant network, including a revamped business portal for enterprise clients.",
       "title_es": "Stablecoin payments firm dtcpay closes $25 million Series A with SBI Group investment"
-    },
-    {
-      "id": "6768d8115462",
-      "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them",
-      "link": "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying",
-      "source": "decrypt",
-      "published": "2026-09-17T22:31:03+00:00",
-      "summary": "OpenAI's new transparency framework reveals AI models that invented fake \"breach alerts,\" coached themselves to hide mistakes, and smuggled a file onto the public internet to talk to each other.",
-      "title_es": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them"
-    },
-    {
-      "id": "8b9c8972cd31",
-      "title": "Security Experts Want the US and China to Promise Never to Let AI Control Nukes",
-      "link": "https://decrypt.co/378575/us-china-never-let-ai-control-nukes",
-      "source": "decrypt",
-      "published": "2026-09-17T21:46:03+00:00",
-      "summary": "Brookings researchers in the US and China are urging Washington and Beijing to agree to keep humans in control of nuclear weapons.",
-      "title_es": "Security Experts Want the US and China to Promise Never to Let AI Control Nukes"
-    },
-    {
-      "id": "2f8484923ff9",
-      "title": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left",
-      "link": "https://decrypt.co/378573/elon-musk-spacex-buy-startup-data-train-ai",
-      "source": "decrypt",
-      "published": "2026-09-17T21:16:03+00:00",
-      "summary": "SpaceX's AI division has held internal talks about buying customer records from dead startups—cheap fuel for Grok, no questions asked, because there's nobody left to ask them.",
-      "title_es": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left"
-    },
-    {
-      "id": "69b0c5104984",
-      "title": "Why Is Chipotle Now Working With the CIA-Funded Palantir?",
-      "link": "https://decrypt.co/378553/why-chipotle-working-with-palantir",
-      "source": "decrypt",
-      "published": "2026-09-17T20:46:03+00:00",
-      "summary": "Chipotle is piloting a Palantir-built food safety dashboard after a summer of outbreaks, putting employee data in the hands of a company seeded by the CIA's venture arm.",
-      "title_es": "Why Is Chipotle Now Working With the CIA-Funded Palantir?"
     },
     {
       "id": "aa40132e09d2",
@@ -1035,15 +1044,6 @@
       "published": "2026-09-17T17:21:07+00:00",
       "summary": "Dragonfly's Haseeb Qureshi said the shift reflects crypto's broader maturation toward tokenized stocks, bonds, and other real-world assets.",
       "title_es": "As RWA trading surges on Hyperliquid, Dragonfly’s Qureshi makes the case for a multichain future"
-    },
-    {
-      "id": "22b228ae7dea",
-      "title": "Regulators keep moving on crypto: CFTC follows SEC with developer-friendly no-action stance",
-      "link": "https://www.theblock.co/news/regulation/2026-09-17-regulators-keep-moving-crypto-cftc-follows-sec-developer-friendly-no-action-stance-415425",
-      "source": "theblock",
-      "published": "2026-09-17T16:50:22+00:00",
-      "summary": "Software developers who build crypto trading tools just got some breathing room from the Commodity Futures Trading Commission.",
-      "title_es": "Regulators keep moving on crypto: CFTC follows SEC with developer-friendly no-action stance"
     }
   ]
 }
