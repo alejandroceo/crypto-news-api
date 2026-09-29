@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T17:13:47.954689+00:00",
+  "updated_at": "2026-09-29T00:45:46.253383+00:00",
   "count": 115,
   "sources": [
     "coindesk",
@@ -10,6 +10,159 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "f33c8d25bf6a",
+      "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
+      "link": "https://decrypt.co/379508/openai-ai-agents-target-us-government-sites",
+      "source": "decrypt",
+      "published": "2026-09-28T21:46:03+00:00",
+      "summary": "OpenAI says its agents keep landing on government websites because they treat them as reliable sources, but it's pausing training while it adds safeguards.",
+      "title_es": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites"
+    },
+    {
+      "id": "4e15d663785a",
+      "title": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
+      "link": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
+      "source": "decrypt",
+      "published": "2026-09-28T21:16:03+00:00",
+      "summary": "A UC San Diego-led team impersonated a hardware security module without extracting its key.",
+      "title_es": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto"
+    },
+    {
+      "id": "68a3381de8b0",
+      "title": "Canadian ‘crypto king’ set to represent himself at fraud trial",
+      "link": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-28T20:41:44+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Canadian ‘crypto king’ set to represent himself at fraud trial\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MQWPR3MTCT9E31PTGCN3TH/court-law-judge-flags-canada.jpg\" /></p><p>Aiden",
+      "title_es": "Canadian ‘crypto king’ set to represent himself at fraud trial"
+    },
+    {
+      "id": "c3bbf81a4a33",
+      "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
+      "link": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
+      "source": "decrypt",
+      "published": "2026-09-28T20:36:03+00:00",
+      "summary": "Coinbase and Citi expanded an existing deal so Citi's institutional clients can accept stablecoin payments, while Coinbase business accounts run on Citi's banking rails.",
+      "title_es": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto"
+    },
+    {
+      "id": "a46ba476943d",
+      "title": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
+      "link": "https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-28T20:28:13+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MTCJ1E1J8KDT907A531CF3/hi-ipo-stocks-bitpgo.png\" /></p><p>The cry",
+      "title_es": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report"
+    },
+    {
+      "id": "696ab4651de9",
+      "title": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
+      "link": "https://decrypt.co/379482/anthropic-claude-sonnet-5-5-release",
+      "source": "decrypt",
+      "published": "2026-09-28T20:06:03+00:00",
+      "summary": "Anthropic's mid-tier model tops its own flagship on Terminal-Bench 4.0 and costs half as much per token, but an independent tester found it burns more tokens than any model it has measured.",
+      "title_es": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price"
+    },
+    {
+      "id": "def18d45eddc",
+      "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
+      "link": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack",
+      "source": "decrypt",
+      "published": "2026-09-28T19:36:21+00:00",
+      "summary": "Senator Sarah Hanson-Young has invited the OpenAI and Anthropic CEOs to a Canberra hearing on October 1, after an OpenAI agent quietly accessed Australia's Medicare data and nobody said a word for months.",
+      "title_es": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify"
+    },
+    {
+      "id": "cb2fd0b4dc54",
+      "title": "XRP Price Slides 2.9% as $1.50 Reclaim Becomes Critical",
+      "link": "https://cryptonews.com/news/xrp-price-150-reclaim/",
+      "source": "cryptonews",
+      "published": "2026-09-28T19:16:00+00:00",
+      "summary": "<p>XRP price slips 2.9% to $1.47 as bulls face a key test: reclaim $1.50 or risk a deeper pullback toward $1.37 and $1.30 if support fails.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrp-price-150-reclaim/\">XRP Price Slides 2.9% as $1.50 Reclaim Becomes Critical</a> appeared first on <a hr",
+      "title_es": "XRP Price Slides 2.9% as $1.50 Reclaim Becomes Critical"
+    },
+    {
+      "id": "1a401fa4244b",
+      "title": "Tether’s USDT at center of Iran’s shadow banking network, new Senate Report says",
+      "link": "https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094",
+      "source": "theblock",
+      "published": "2026-09-28T19:10:42+00:00",
+      "summary": "Tether and its stablecoin have become central in \"Iran's shadow banking system,\" according to a new Senate investigation.",
+      "title_es": "Tether’s USDT at center of Iran’s shadow banking network, new Senate Report says"
+    },
+    {
+      "id": "552e43ae5e35",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-28T19:02:45+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
+      "title_es": "Here’s what happened in crypto today"
+    },
+    {
+      "id": "001b0bf28597",
+      "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
+      "link": "https://decrypt.co/379468/nvidia-kill-switch-ai-agents",
+      "source": "decrypt",
+      "published": "2026-09-28T18:46:03+00:00",
+      "summary": "OpenShell and Sentry give AI agents a hardware-enforced leash, arriving after a summer of agents breaching a government site, hacking their own tests, and going rogue during a security evaluation.",
+      "title_es": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out"
+    },
+    {
+      "id": "4a97854707be",
+      "title": "US SEC follows CFTC in staff guidance for crypto",
+      "link": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-28T18:39:09+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US SEC follows CFTC in staff guidance for crypto\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MEF526Z3GMGWVA23CRVP2J/hi-sec-cftc-event-overview-1.jpg\" /></p><p>With the failed clo",
+      "title_es": "US SEC follows CFTC in staff guidance for crypto"
+    },
+    {
+      "id": "a56869b3127f",
+      "title": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
+      "link": "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc",
+      "source": "decrypt",
+      "published": "2026-09-28T18:16:02+00:00",
+      "summary": "Strive bought 1,107 BTC for $94.5 million last week, lifting its holdings to 27,462 BTC, with its SATA preferred stock supplying 85% of the capital.",
+      "title_es": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC"
+    },
+    {
+      "id": "185ffb213af0",
+      "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
+      "link": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-09-28T18:02:54+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bybit accepts Franklin Templeton tokenized funds as trading collateral\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MHTAW6FCEWPFXPKAW8DJG3/crypto-with-money.jpg\" /></p><p>Eligible",
+      "title_es": "Bybit accepts Franklin Templeton tokenized funds as trading collateral"
+    },
+    {
+      "id": "54caec6f8717",
+      "title": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
+      "link": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
+      "source": "coindesk",
+      "published": "2026-09-28T18:00:00+00:00",
+      "summary": "",
+      "title_es": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing"
+    },
+    {
+      "id": "465bbe0fc095",
+      "title": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
+      "link": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack",
+      "source": "decrypt",
+      "published": "2026-09-28T17:51:14+00:00",
+      "summary": "Chainlink's CCIP 2.0 lets banks run their own security checks on cross-chain transfers, five months after a rival's setup lost $292 million to hackers.",
+      "title_es": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks"
+    },
+    {
+      "id": "a04d476c007e",
+      "title": "Citi expands Coinbase partnership to power stablecoin payments for businesses",
+      "link": "https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082",
+      "source": "theblock",
+      "published": "2026-09-28T17:22:06+00:00",
+      "summary": "Coinbase is expanding partnership with Citi to provide businesses with infrastructure connecting traditional fiat payments and stablecoins.",
+      "title_es": "Citi expands Coinbase partnership to power stablecoin payments for businesses"
+    },
     {
       "id": "e96877906880",
       "title": "Crypto PAC spends $11M to oppose Sherrod Brown in Ohio",
@@ -135,15 +288,6 @@
       "published": "2026-09-28T13:39:06+00:00",
       "summary": "Bitmine's total crypto, cash and other investments currently stand at $17.2B, and the company owns over 4.9% of ether's circulating supply.",
       "title_es": "Tom Lee’s Bitmine tops 6 million ETH after buying another 17,362 ether"
-    },
-    {
-      "id": "552e43ae5e35",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-28T13:32:34+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
-      "title_es": "Here’s what happened in crypto today"
     },
     {
       "id": "9d4c69dea1d9",
@@ -318,12 +462,12 @@
     },
     {
       "id": "0c1cc6d27285",
-      "title": "Live updates: Bitcoin slips back to $83,000 as bond yields surge to new cycle highs",
+      "title": "Live updates: Bitcoin remains under pressure as Iran denies report of peace progress",
       "link": "https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs",
       "source": "coindesk",
       "published": "2026-09-28T10:02:37+00:00",
       "summary": "",
-      "title_es": "Live updates: Bitcoin slips back to $83,000 as bond yields surge to new cycle highs"
+      "title_es": "Live updates: Bitcoin remains under pressure as Iran denies report of peace progress"
     },
     {
       "id": "17810daae38f",
@@ -722,15 +866,6 @@
       "title_es": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning"
     },
     {
-      "id": "8ce275c38f47",
-      "title": "Elon Musk Grok AI Predicts a Bold Move for Ethereum in 2026",
-      "link": "https://cryptonews.com/news/grok-ai-predicts-the-boldest-ethereum-predicts-of-2026/",
-      "source": "cryptonews",
-      "published": "2026-09-26T15:00:00+00:00",
-      "summary": "<p>When prompted, the Elon Musk-backed Grok AI predicts a bold move for Ethereum (ETH) over the remainder of 2026. It claims that if a full-blown crypto market returns in Q4, ETH could hit $12,000 by January 1, 2027.ETH is currently trading near $2,600–$2,725. This outlook leans bullish relative to ",
-      "title_es": "Elon Musk Grok AI Predicts a Bold Move for Ethereum in 2026"
-    },
-    {
       "id": "e9dfc735dd12",
       "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
       "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
@@ -785,24 +920,6 @@
       "title_es": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules"
     },
     {
-      "id": "ed2d7162a906",
-      "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
-      "link": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-26T09:02:22+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC Commissioner Hester Peirce to leave post on Oct. 2\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3EF3D5VFWA1TXNZDN794WQV/hester-peirce-sec-1.jpg\" /></p><p>Peirce, known as “Cryp",
-      "title_es": "SEC Commissioner Hester Peirce to leave post on Oct. 2"
-    },
-    {
-      "id": "d0872ada6722",
-      "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
-      "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-26T06:59:29+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC sues Cash FX, alleges $950M crypto-linked forex scheme\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3E7R5YFBEX21VBGW5MY4472/hi-how-can-transform-government-sector-cftc.jpg\" />",
-      "title_es": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme"
-    },
-    {
       "id": "3472732b8965",
       "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
       "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
@@ -839,24 +956,6 @@
       "title_es": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether"
     },
     {
-      "id": "63ab16d0ffd9",
-      "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
-      "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
-      "source": "coindesk",
-      "published": "2026-09-25T21:17:30+00:00",
-      "summary": "",
-      "title_es": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations"
-    },
-    {
-      "id": "3acbdc47535a",
-      "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
-      "link": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-25T20:37:21+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OG.com seeks CFTC approval for single-stock perpetual futures\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3D0WG4ZAYJTG27YA8SJYJ5F/hi-the-biggest-challenge-for-crypto-exchanges-is-",
-      "title_es": "OG.com seeks CFTC approval for single-stock perpetual futures"
-    },
-    {
       "id": "ca5c5ce3a8de",
       "title": "SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit",
       "link": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
@@ -864,15 +963,6 @@
       "published": "2026-09-25T20:32:40+00:00",
       "summary": "Promoting a network’s current uses generally would not create an expectation of profit, SEC staff said.",
       "title_es": "SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit"
-    },
-    {
-      "id": "db65f0f04aa5",
-      "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
-      "link": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-09-25T20:26:40+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3D2CSJVVHTXWXSFEBTMN9GF/leaving-the-company-plain-1.jpg\" /></p>",
-      "title_es": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails"
     },
     {
       "id": "7c24b9afc631",
@@ -920,42 +1010,6 @@
       "title_es": "Man charged in $16 million crypto ‘massive pig butchering’ scam"
     },
     {
-      "id": "ffd9c710b919",
-      "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
-      "link": "https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan",
-      "source": "decrypt",
-      "published": "2026-09-25T17:46:05+00:00",
-      "summary": "Leaked code strings and screenshots point to a new tier that would cost 25 times more than ChatGPT Plus, aimed at people who need the bot to work faster, not just longer.",
-      "title_es": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest"
-    },
-    {
-      "id": "2790c120bb62",
-      "title": "Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect",
-      "link": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
-      "source": "decrypt",
-      "published": "2026-09-25T17:08:57+00:00",
-      "summary": "An attacker faked internal transfer requests to drain $387.5 million from Bitget's hot and warm wallets, and the exchange's CEO says the fingerprints look like Pyongyang's.",
-      "title_es": "Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect"
-    },
-    {
-      "id": "d12ab8eec065",
-      "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
-      "link": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
-      "source": "decrypt",
-      "published": "2026-09-25T16:17:19+00:00",
-      "summary": "A flaw in Limit Break's Payment Processor V2 put old Magic Eden Ethereum listings at risk, prompting a whitehat rescue of more than 23,000 NFTs.",
-      "title_es": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit"
-    },
-    {
-      "id": "759b2c26890d",
-      "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits—XRP and Solana Keep Climbing",
-      "link": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana",
-      "source": "decrypt",
-      "published": "2026-09-25T16:06:23+00:00",
-      "summary": "Pullback or reversal? Here's what the charts suggest for BTC.",
-      "title_es": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits—XRP and Solana Keep Climbing"
-    },
-    {
       "id": "2294ca4001b3",
       "title": "Magic Eden legacy approvals leave $5.7 million in NFTs exposed to exploit before rescue",
       "link": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874",
@@ -983,42 +1037,6 @@
       "title_es": "Strategy proposes daily dividends for STRC, STRD, STRF and STRK preferred stocks"
     },
     {
-      "id": "3e7cd11a22d5",
-      "title": "Strategy Wants Its Preferred Stock Dividends to Accrue 365 Days a Year",
-      "link": "https://decrypt.co/379309/strategy-wants-its-preferred-stock-dividends-to-accrue-365-days-a-year",
-      "source": "decrypt",
-      "published": "2026-09-25T13:22:00+00:00",
-      "summary": "STRF, STRC, STRK and STRD would accrue dividends on weekends and holidays, in a move Strategy says will dampen volatility.",
-      "title_es": "Strategy Wants Its Preferred Stock Dividends to Accrue 365 Days a Year"
-    },
-    {
-      "id": "acd9d82b1e31",
-      "title": "Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play",
-      "link": "https://decrypt.co/379218/morgan-stanley-joins-nextpredict-as-prediction-markets-bet-on-more-institutional-play",
-      "source": "decrypt",
-      "published": "2026-09-25T13:16:03+00:00",
-      "summary": "The bulk of prediction market trades are still sports bets, while valuations are predicated on rising institutional interest.",
-      "title_es": "Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play"
-    },
-    {
-      "id": "a60937d16a91",
-      "title": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo",
-      "link": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
-      "source": "decrypt",
-      "published": "2026-09-25T13:04:06+00:00",
-      "summary": "The biggest financial institutions in the world are bringing more products onchain, and the pace is accelerating.",
-      "title_es": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo"
-    },
-    {
-      "id": "433cea7bc826",
-      "title": "Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows",
-      "link": "https://decrypt.co/379290/defense-secretary-pete-hegseth-holds-bitcoin-in-a-coinbase-wallet-filing-shows",
-      "source": "decrypt",
-      "published": "2026-09-25T12:01:15+00:00",
-      "summary": "Two entries in his annual disclosure put the holding somewhere between $16,000 and $65,000, alongside more than $1 million in cash.",
-      "title_es": "Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows"
-    },
-    {
       "id": "90cffa5e9591",
       "title": "Ethena expands USDe backing strategy into bStocks and equity perpetuals on Binance",
       "link": "https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367",
@@ -1026,24 +1044,6 @@
       "published": "2026-09-25T11:00:00+00:00",
       "summary": "Ethena is adding Binance bStocks and equity perpetuals to the basis trade used for USDe's backing strategy.",
       "title_es": "Ethena expands USDe backing strategy into bStocks and equity perpetuals on Binance"
-    },
-    {
-      "id": "2e97a5525993",
-      "title": "KelpDAO sues LayerZero, claims it endorsed setup used in $292 million rsETH exploit",
-      "link": "https://www.theblock.co/news/regulation/2026-09-25-kelpdao-sues-layerzero-claims-it-endorsed-setup-used-in-292-million-rseth-exploit-416361",
-      "source": "theblock",
-      "published": "2026-09-25T09:13:08+00:00",
-      "summary": "KelpDAO sued LayerZero and Bryan Pellegrino over the April 18 rsETH exploit, alleging the bridge setup was endorsed in writing.",
-      "title_es": "KelpDAO sues LayerZero, claims it endorsed setup used in $292 million rsETH exploit"
-    },
-    {
-      "id": "4af1d07c0ca6",
-      "title": "Bitget confirms $387.5 million security breach affecting exchange hot wallets",
-      "link": "https://www.theblock.co/news/markets/2026-09-24-more-than-170-million-in-crypto-moves-from-bitget-wallets-unidentified-address-416345",
-      "source": "theblock",
-      "published": "2026-09-24T21:20:47+00:00",
-      "summary": "Bitget said private keys were not compromised and that losses from the incident will be covered by its User Protection Fund.",
-      "title_es": "Bitget confirms $387.5 million security breach affecting exchange hot wallets"
     }
   ]
 }
