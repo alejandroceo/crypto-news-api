@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T14:05:40.487148+00:00",
+  "updated_at": "2026-10-03T23:27:05.725332+00:00",
   "count": 114,
   "sources": [
     "coindesk",
@@ -10,6 +10,69 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "5ae824100e89",
+      "title": "XRP Price Prediction: Ripple Range-Bound at $1.50, Breakout Soon?",
+      "link": "https://cryptonews.com/news/xrp-price-prediction-ripple-range-bound-at-1-50-breakout-soon/",
+      "source": "cryptonews",
+      "published": "2026-10-03T17:30:00+00:00",
+      "summary": "<p>XRP price prediction shows Ripple entering October still trading within a broad range. XRP is currently around $1.50, with key resistance between $1.45 and $1.60. If it breaks above $1.60, it could pave the way for a rise to $1.65-$1.70, giving buyers an opportunity to push the token beyond its S",
+      "title_es": "XRP Price Prediction: Ripple Range-Bound at $1.50, Breakout Soon?"
+    },
+    {
+      "id": "432a4a312d71",
+      "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
+      "link": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
+      "source": "decrypt",
+      "published": "2026-10-03T17:01:03+00:00",
+      "summary": "The firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past $1 billion, and detailed how it used in-house AI to trace the stolen funds across four blockchains in a race against the attackers.",
+      "title_es": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea"
+    },
+    {
+      "id": "9a0a0267899e",
+      "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
+      "link": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
+      "source": "decrypt",
+      "published": "2026-10-03T16:01:03+00:00",
+      "summary": "The YouTuber says OpenAI suspended his account twice while he trained a small, uncensored model built to run on your own computer.",
+      "title_es": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC"
+    },
+    {
+      "id": "6fe1469fd8a5",
+      "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+      "link": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+      "source": "coindesk",
+      "published": "2026-10-03T16:00:00+00:00",
+      "summary": "",
+      "title_es": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions"
+    },
+    {
+      "id": "b9474dcf5505",
+      "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+      "link": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
+      "source": "coindesk",
+      "published": "2026-10-03T16:00:00+00:00",
+      "summary": "",
+      "title_es": "Crypto job postings triple to over 1,200 in September, but applications fall"
+    },
+    {
+      "id": "101f8227e82e",
+      "title": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
+      "link": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
+      "source": "decrypt",
+      "published": "2026-10-03T15:01:03+00:00",
+      "summary": "The TRUMP meme coin project is inviting its top 185 holders to a Nov. 22 gala dinner with President Trump two weeks after ethics disputes over his crypto interests helped stall the Clarity Act in the Senate.",
+      "title_es": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details"
+    },
+    {
+      "id": "333c7272b926",
+      "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+      "link": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
+      "source": "coindesk",
+      "published": "2026-10-03T15:00:00+00:00",
+      "summary": "",
+      "title_es": "Cathie Wood says smart investors need to start watching where AI agents spend money"
+    },
     {
       "id": "116df7051766",
       "title": "Elon Musk Grok AI Predicts a Wild End to 2026 for Bitcoin",
@@ -839,15 +902,6 @@
       "title_es": "NEAR Intents halts services after $3.8 million exploit, promises full compensation"
     },
     {
-      "id": "a50927ebb2e0",
-      "title": "Minecraft, Candy Crush Among 11 Games in EU Virtual Currency Crackdown",
-      "link": "https://decrypt.co/379813/minecraft-candy-crush-among-11-games-in-eu-virtual-currency-crackdown",
-      "source": "decrypt",
-      "published": "2026-10-01T13:22:58+00:00",
-      "summary": "The guidelines exclude cryptocurrencies, leaving tokens outside a regime written for currencies bought with real money inside games.",
-      "title_es": "Minecraft, Candy Crush Among 11 Games in EU Virtual Currency Crackdown"
-    },
-    {
       "id": "b0abd11d0c5d",
       "title": "China Crypto Future: Solana Co. CEO Joseph Chee on Regulation",
       "link": "https://cryptonews.com/news/china-crypto-policy-forecast/",
@@ -864,24 +918,6 @@
       "published": "2026-10-01T13:00:00+00:00",
       "summary": "Robinhood Wallet adds Arcus as a routing provider for Stock Token swaps, giving eligible users access to more than 190 tokens.",
       "title_es": "Robinhood Wallet integrates Arcus RFQ system for stock token swaps"
-    },
-    {
-      "id": "77c89ede9fde",
-      "title": "Morning Minute: Crypto Gives Up on Congress and Goes After Senators",
-      "link": "https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
-      "source": "decrypt",
-      "published": "2026-10-01T12:29:00+00:00",
-      "summary": "Plus, a major MetaMask security event has crypto natives on edge as details trickle out.",
-      "title_es": "Morning Minute: Crypto Gives Up on Congress and Goes After Senators"
-    },
-    {
-      "id": "b5c5a0b0b9cc",
-      "title": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
-      "link": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
-      "source": "decrypt",
-      "published": "2026-10-01T12:23:15+00:00",
-      "summary": "The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record.",
-      "title_es": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K"
     },
     {
       "id": "7d3ae09c8cb8",
@@ -947,15 +983,6 @@
       "title_es": "Synthetic tokenized stocks are bad for American investors"
     },
     {
-      "id": "4c35ebb90ed7",
-      "title": "Bitcoin kicks off new quarter in the old $82,000-$85,000 price range",
-      "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range",
-      "source": "coindesk",
-      "published": "2026-10-01T10:38:04+00:00",
-      "summary": "",
-      "title_es": "Bitcoin kicks off new quarter in the old $82,000-$85,000 price range"
-    },
-    {
       "id": "68deb8b24ce7",
       "title": "The Ethena Crypto Buyback Math Puts the $2 ENA Target to the Test",
       "link": "https://cryptonews.com/news/ethena-crypto-ena-2-price-target-standard-chartered/",
@@ -963,15 +990,6 @@
       "published": "2026-10-01T10:37:10+00:00",
       "summary": "<p>Standard Chartered’s ENA price target of $2 depends on USDe reaching $40 billion and buybacks scaling with protocol revenue by 2028.</p>\n<p>The post <a href=\"https://cryptonews.com/news/ethena-crypto-ena-2-price-target-standard-chartered/\">The Ethena Crypto Buyback Math Puts the $2 ENA Target to ",
       "title_es": "The Ethena Crypto Buyback Math Puts the $2 ENA Target to the Test"
-    },
-    {
-      "id": "44b47818842a",
-      "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
-      "link": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
-      "source": "coindesk",
-      "published": "2026-10-01T09:59:30+00:00",
-      "summary": "",
-      "title_es": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume"
     },
     {
       "id": "7cf4e061eff0",
@@ -990,24 +1008,6 @@
       "published": "2026-10-01T09:01:54+00:00",
       "summary": "<p>Citi’s Bitcoin price forecast rises to $113,000, but its $5 billion inflow outlook depends on steady institutional demand over 12 months.</p>\n<p>The post <a href=\"https://cryptonews.com/news/bitcoin-price-forecast-citi-target/\">Bitcoin Price Tests $85,000 as Citi Raises Target to $113K</a> appear",
       "title_es": "Bitcoin Price Tests $85,000 as Citi Raises Target to $113K"
-    },
-    {
-      "id": "b552be33d9c2",
-      "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
-      "link": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
-      "source": "coindesk",
-      "published": "2026-10-01T07:06:30+00:00",
-      "summary": "",
-      "title_es": "MetaMask security incident forces Ethereum staking exits, no funds at risk"
-    },
-    {
-      "id": "982b922639c4",
-      "title": "Bitcoin Price Prediction: Soft Inflation Sent Bitcoin Briefly above $85,000",
-      "link": "https://cryptonews.com/news/bitcoin-price-prediction-soft-inflation/",
-      "source": "cryptonews",
-      "published": "2026-10-01T07:03:31+00:00",
-      "summary": "<p>Bitcoin trades near $84,136 after a softer PCE report briefly pushed BTC above $85,000. Key support, resistance and macro catalysts to watch.</p>\n<p>The post <a href=\"https://cryptonews.com/news/bitcoin-price-prediction-soft-inflation/\">Bitcoin Price Prediction: Soft Inflation Sent Bitcoin Briefl",
-      "title_es": "Bitcoin Price Prediction: Soft Inflation Sent Bitcoin Briefly above $85,000"
     },
     {
       "id": "9f1fa68dd897",
