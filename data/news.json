@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T14:56:41.722227+00:00",
+  "updated_at": "2026-10-11T00:02:41.319321+00:00",
   "count": 115,
   "sources": [
     "coindesk",
@@ -10,6 +10,51 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "1c481bc31004",
+      "title": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ",
+      "link": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
+      "source": "theblock",
+      "published": "2026-10-10T18:35:25+00:00",
+      "summary": "Three bets totaling about $173 were placed before news outlets reported Zacharia's pick and are expected to pay out roughly $9,600 combined.",
+      "title_es": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ"
+    },
+    {
+      "id": "6aa4854642d0",
+      "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+      "link": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+      "source": "decrypt",
+      "published": "2026-10-10T17:01:03+00:00",
+      "summary": "A proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the “swap” definition, while an interim rule excludes casino-style gambling—sharpening the agency’s claim to exclusive jurisdiction.",
+      "title_es": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules"
+    },
+    {
+      "id": "1f3bf7658884",
+      "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+      "link": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+      "source": "decrypt",
+      "published": "2026-10-10T16:01:04+00:00",
+      "summary": "The Bermuda-based insurer, which runs entirely on Bitcoin, drew the funding from existing backers led by Bain Capital Crypto after a record year driven by demand from wealthy families in Asia, Europe and the Middle East.",
+      "title_es": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million"
+    },
+    {
+      "id": "60ee332549a5",
+      "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+      "link": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
+      "source": "theblock",
+      "published": "2026-10-10T15:10:37+00:00",
+      "summary": "Spot bitcoin, solana, and ether ETFs all logged weekly outflows following last week's trading, a notable shift for some of the funds.",
+      "title_es": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run"
+    },
+    {
+      "id": "2eaad82af64a",
+      "title": "Here’s a Way to Predict When AI Chatbots Will Turn Bad",
+      "link": "https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad",
+      "source": "decrypt",
+      "published": "2026-10-10T15:01:03+00:00",
+      "summary": "Physicists at George Washington University say a formula can estimate when an AI chatbot will flip from good answers to bad ones, and early tests on small models back it up.",
+      "title_es": "Here’s a Way to Predict When AI Chatbots Will Turn Bad"
+    },
     {
       "id": "1636f411b7bb",
       "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
@@ -857,15 +902,6 @@
       "title_es": "Will AI Break Crypto Encryption? Ethereum’s Vitalik Buterin Weighs In on 'Bunker Mode' Shift"
     },
     {
-      "id": "2af82ebd4b5d",
-      "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
-      "link": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
-      "source": "decrypt",
-      "published": "2026-10-08T16:44:20+00:00",
-      "summary": "A government wallet holding Bitcoin seized from the Bitfinex hacker sent 12,267 BTC to a new, unlabeled address, according to Arkham data.",
-      "title_es": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker"
-    },
-    {
       "id": "e7d4c5655a67",
       "title": "Bitwise CEO says ‘tragic’ Dogecoin ETF failure shows gap between ETF buyers and crypto-app users",
       "link": "https://www.theblock.co/news/business/2026-10-08-bitwise-ceo-dogecoin-etf-failure-hunter-horsley-418070",
@@ -873,24 +909,6 @@
       "published": "2026-10-08T16:43:47+00:00",
       "summary": "Alongside its recent spot NEAR ETF launch, Bitwise is prioritizing AI and intends to do more in that area.",
       "title_es": "Bitwise CEO says ‘tragic’ Dogecoin ETF failure shows gap between ETF buyers and crypto-app users"
-    },
-    {
-      "id": "099da101b0ae",
-      "title": "From Uptober to Spooky Szn? Bitcoin Cuts September Gains in Half",
-      "link": "https://decrypt.co/380462/uptober-spooky-szn-bitcoin-cuts-september-gains",
-      "source": "decrypt",
-      "published": "2026-10-08T16:14:46+00:00",
-      "summary": "Day traders are selling, leveraged longs are getting flushed and ETF money is heading for the door. The daily chart still holds the line, but its cushion is shrinking.",
-      "title_es": "From Uptober to Spooky Szn? Bitcoin Cuts September Gains in Half"
-    },
-    {
-      "id": "d9b4d5b5d256",
-      "title": "Decrypt Money Accounts on Solana to Power The Information Exchange",
-      "link": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
-      "source": "decrypt",
-      "published": "2026-10-08T15:42:16+00:00",
-      "summary": "One self-custodial platform to power Earn, Swaps, Predictions and Perps on Decrypt, as it builds out its financial and intelligence market.",
-      "title_es": "Decrypt Money Accounts on Solana to Power The Information Exchange"
     },
     {
       "id": "50e5cd05927f",
@@ -1026,24 +1044,6 @@
       "published": "2026-10-08T05:00:28+00:00",
       "summary": "Ethereum co-founder Vitalik Buterin warned that the crypto industry should take risks to cryptography from AI-accelerated math seriously.",
       "title_es": "‘Don’t rush anything’: Vitalik Buterin warns against hasty wallet migrations amid growing AI threats"
-    },
-    {
-      "id": "9798221242eb",
-      "title": "Samsung to launch USDC transfers on Solana for US Galaxy users",
-      "link": "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004",
-      "source": "theblock",
-      "published": "2026-10-08T02:50:01+00:00",
-      "summary": "The South Korean tech giant said the feature is built into Samsung Wallet, with fiat on- and off-ramps, rather than a separate crypto app.",
-      "title_es": "Samsung to launch USDC transfers on Solana for US Galaxy users"
-    },
-    {
-      "id": "fa886dea8186",
-      "title": "Solana’s Orca merges with Loopscale in push to finance AI, robotics and defense",
-      "link": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
-      "source": "theblock",
-      "published": "2026-10-07T22:01:02+00:00",
-      "summary": "Orca and Loopscale unite as Formation, targeting financing for AI, energy, robotics and defense.",
-      "title_es": "Solana’s Orca merges with Loopscale in push to finance AI, robotics and defense"
     }
   ]
 }
