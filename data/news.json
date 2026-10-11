@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T00:02:41.319321+00:00",
+  "updated_at": "2026-10-11T15:13:23.765696+00:00",
   "count": 115,
   "sources": [
     "coindesk",
@@ -10,6 +10,69 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "d1a9749304cf",
+      "title": "Bitcoin Price Prediction: Can BTC USD Hold $82K Ahead of Next Week’s CPI Drop?",
+      "link": "https://cryptonews.com/news/bitcoin-price-prediction-can-btc-usd-hold-82k-ahead-of-next-weeks-cpi-drop/",
+      "source": "cryptonews",
+      "published": "2026-10-11T14:30:00+00:00",
+      "summary": "<p>Bitcoin price prediction notes a brief recovery on Saturday, October 10, but the market remains poised for a weekly loss as rising oil prices, higher U.S. Treasury yields, and renewed concerns about cryptocurrency security have dampened sentiment.Currently, the world&#8217;s largest digital asset",
+      "title_es": "Bitcoin Price Prediction: Can BTC USD Hold $82K Ahead of Next Week’s CPI Drop?"
+    },
+    {
+      "id": "2dd362ce2716",
+      "title": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
+      "link": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
+      "source": "decrypt",
+      "published": "2026-10-11T13:00:03+00:00",
+      "summary": "Zakura, a Zcash full node developer, says it expects hash-based signatures to land in Zcash in January, and is rolling out a privacy tool for rotating transparent addresses this week.",
+      "title_es": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks"
+    },
+    {
+      "id": "0c2d5629fa7e",
+      "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+      "link": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+      "source": "coindesk",
+      "published": "2026-10-11T13:00:00+00:00",
+      "summary": "",
+      "title_es": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid"
+    },
+    {
+      "id": "552e43ae5e35",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-11T12:45:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
+      "title_es": "Here’s what happened in crypto today"
+    },
+    {
+      "id": "94d00148ed6a",
+      "title": "Coldcard says it’s investigating how phishing link appeared on its X account",
+      "link": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-11T10:22:44+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard says it’s investigating how phishing link appeared on its X account  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4N7GC7PDTK5CW4F08YBFCW8/hi-what-is-a-phishing-attack-in-",
+      "title_es": "Coldcard says it’s investigating how phishing link appeared on its X account"
+    },
+    {
+      "id": "bcd75a4b3496",
+      "title": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
+      "link": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-11T09:05:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger confirms unauthorized hardware implant, says losses may exceed $86M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4N2YQ5YYNE3JRCF0HH088AW/hi-ledger1.png\" /></p><p>Ledger said",
+      "title_es": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M"
+    },
+    {
+      "id": "ea12f96ace1b",
+      "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+      "link": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-11T07:44:51+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC proposals aimed at separating prediction markets from casino gambling  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJB7047S01XKJY4FWVJGEK/judge-hammer-regulation-cftc-2.jpg",
+      "title_es": "CFTC proposals aimed at separating prediction markets from casino gambling"
+    },
     {
       "id": "1c481bc31004",
       "title": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ",
@@ -65,15 +128,6 @@
       "title_es": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget"
     },
     {
-      "id": "552e43ae5e35",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-10T12:30:00+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
-      "title_es": "Here’s what happened in crypto today"
-    },
-    {
       "id": "0b7fc67feaca",
       "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
       "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
@@ -114,8 +168,8 @@
       "title": "Tech chief says EU can fend off rogue AI risk: Report",
       "link": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph",
-      "published": "2026-10-10T08:41:06+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tech chief says EU can fend off rogue AI risk: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4JFDB4ND4321Z9KER496JAS/ai-machine-cyber-mind-google.png\" /></p><p>There are glob",
+      "published": "2026-10-10T08:45:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tech chief says EU can fend off rogue AI risk: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4JFDB4ND4321Z9KER496JAS/ai-machine-cyber-mind-google.png\" /></p><p>Recent inciden",
       "title_es": "Tech chief says EU can fend off rogue AI risk: Report"
     },
     {
@@ -731,15 +785,6 @@
       "title_es": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds"
     },
     {
-      "id": "5727e97699f5",
-      "title": "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
-      "link": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
-      "source": "coindesk",
-      "published": "2026-10-09T04:04:36+00:00",
-      "summary": "",
-      "title_es": "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush"
-    },
-    {
       "id": "e3811b5ed00a",
       "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
       "link": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -749,15 +794,6 @@
       "title_es": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs"
     },
     {
-      "id": "b48262f2f0f2",
-      "title": "Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties",
-      "link": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-09T00:46:27+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4F1W4R51W8W7BPK0508NAMP/investigation.jpg\" /></p><p>The letter f",
-      "title_es": "Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties"
-    },
-    {
       "id": "455acec9391f",
       "title": "Claude AI Predicts Bitcoin Could Hit $250K by 2027",
       "link": "https://cryptonews.com/news/claude-ai-predicts-bitcoin-could-hit-250k-by-2027/",
@@ -765,15 +801,6 @@
       "published": "2026-10-08T22:49:00+00:00",
       "summary": "<p>Anthropic&#8217;s Claude AI predicts that if the US announced a strategic Bitcoin reserve and begin buying BTC on the open market, it could spike to $250,000 by January 1, 2027. Bitcoin is currently around $82,000–$83,000, roughly -34% below its ~$126,000 all-time high. Reaching $250,000 by Janua",
       "title_es": "Claude AI Predicts Bitcoin Could Hit $250K by 2027"
-    },
-    {
-      "id": "a1579d6f2a9d",
-      "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
-      "link": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-08T22:35:00+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.j",
-      "title_es": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express"
     },
     {
       "id": "e1736bc5451f",
@@ -801,15 +828,6 @@
       "published": "2026-10-08T20:16:03+00:00",
       "summary": "Ethereum's Sepolia test network activated Glamsterdam on October 6 with a block gas limit near 200 million, over three times mainnet's 60 million.",
       "title_es": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity"
-    },
-    {
-      "id": "027150e0f433",
-      "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
-      "link": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-08T19:31:38+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize stock jumps over 10% after launching tokenized US equities on Solana\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4EEEA4K0X2GAJFKB9A8T56C/hi-how-ondo-finance-plans-to-br",
-      "title_es": "Securitize stock jumps over 10% after launching tokenized US equities on Solana"
     },
     {
       "id": "31c6170ea84f",
@@ -891,15 +909,6 @@
       "published": "2026-10-08T17:16:23+00:00",
       "summary": "Section 1: The Block’s Global Crypto Competitiveness Index Crypto markets have historically been measured on their trading volume, ownership, or adoption. While these metrics remain important, they speak to demand-side factors rather than the environment in which crypto companies and capital can ope",
       "title_es": "The Block GCCI 2026 Country Profile: Inside Korea’s Crypto Market"
-    },
-    {
-      "id": "c0fbfaa007e3",
-      "title": "Will AI Break Crypto Encryption? Ethereum’s Vitalik Buterin Weighs In on 'Bunker Mode' Shift",
-      "link": "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode",
-      "source": "decrypt",
-      "published": "2026-10-08T17:07:48+00:00",
-      "summary": "Ethereum co-founder Vitalik Buterin thinks the crypto industry needs to make sure encryption is both quantum and AI-resistant.",
-      "title_es": "Will AI Break Crypto Encryption? Ethereum’s Vitalik Buterin Weighs In on 'Bunker Mode' Shift"
     },
     {
       "id": "e7d4c5655a67",
@@ -1026,15 +1035,6 @@
       "published": "2026-10-08T07:10:00+00:00",
       "summary": "<p>Ripple Prime will provide Brevan Howard funds with multi-asset brokerage, clearing and financing, but the announcement confirms no XRP use.</p>\n<p>The post <a href=\"https://cryptonews.com/news/ripple-prime-brevan-howard-services-xrp-news/\">XRP News: Brevan Howard Deal Broadens Ripple&#8217;s Scop",
       "title_es": "XRP News: Brevan Howard Deal Broadens Ripple’s Scope"
-    },
-    {
-      "id": "66d46712c050",
-      "title": "Bitcoin Price Prediction: Hawkish FOMC Minutes, Oil Price, and Rising Yields Send BTC Below 83K",
-      "link": "https://cryptonews.com/news/bitcoin-price-prediction-oil-yields-hawkish-fed/",
-      "source": "cryptonews",
-      "published": "2026-10-08T06:40:12+00:00",
-      "summary": "<p>Bitcoin trades below $83,000 as hawkish Fed minutes, oil above $101 and rising yields weigh on risk appetite. Key BTC support and resistance levels.</p>\n<p>The post <a href=\"https://cryptonews.com/news/bitcoin-price-prediction-oil-yields-hawkish-fed/\">Bitcoin Price Prediction: Hawkish FOMC Minute",
-      "title_es": "Bitcoin Price Prediction: Hawkish FOMC Minutes, Oil Price, and Rising Yields Send BTC Below 83K"
     },
     {
       "id": "f33da3b4c7d1",
