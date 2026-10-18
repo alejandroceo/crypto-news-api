@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T22:47:55.352800+00:00",
-  "count": 115,
+  "updated_at": "2026-10-18T12:54:04.854296+00:00",
+  "count": 125,
   "sources": [
     "coindesk",
     "cointelegraph",
@@ -10,6 +10,69 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "b5112167703f",
+      "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+      "link": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+      "source": "coindesk",
+      "published": "2026-10-18T12:00:00+00:00",
+      "summary": "",
+      "title_es": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million"
+    },
+    {
+      "id": "0f599a75989a",
+      "title": "ChatGPT AI Predicts Million-Dollar Bitcoin by 2027",
+      "link": "https://cryptonews.com/news/chatgpt-ai-predicts-million-dollar-bitcoin-2027/",
+      "source": "cryptonews",
+      "published": "2026-10-18T11:58:23+00:00",
+      "summary": "<p>ChatGPT AI predicts Bitcoin will hit $1M+, which isn&#8217;t a crazy call, since many analysts share the same view. What makes this prediction interesting is that OpenAI&#8217;s bot believes it will happen by 2027. ChatGPT believes that by January 1, 2027, Bitcoin will rise to $700,000–$1,500,000",
+      "title_es": "ChatGPT AI Predicts Million-Dollar Bitcoin by 2027"
+    },
+    {
+      "id": "eb2f9423bf8d",
+      "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+      "link": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-18T10:43:12+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cysic crypto bridge halted after unauthorized mint of 10M CYS\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M579P8BRBQSA398D6CZ7DFCZ/hi-company-halts-bridge-after-reported-exploit.jp",
+      "title_es": "Cysic crypto bridge halted after unauthorized mint of 10M CYS"
+    },
+    {
+      "id": "0549911662ae",
+      "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+      "link": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-18T09:14:26+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chinese suspect in $75M international crime network arrested in Bangkok\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M574HWMKKS1RW0G387NCF974/hi-comparing-money-laundering-with-cryp",
+      "title_es": "Chinese suspect in $75M international crime network arrested in Bangkok"
+    },
+    {
+      "id": "83fddefa831c",
+      "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+      "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
+      "source": "coindesk",
+      "published": "2026-10-18T07:13:32+00:00",
+      "summary": "",
+      "title_es": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut"
+    },
+    {
+      "id": "a9640f0e0a36",
+      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+      "link": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-18T06:26:53+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether backs AIsa as strategic investor, completing seed extension round\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M56TW7NK49R9HTEZKPD8PEYY/hi-j-tether-investments-1.jpg\" /></p><",
+      "title_es": "Tether backs AIsa as strategic investor, completing seed extension round"
+    },
+    {
+      "id": "201ccde0ca36",
+      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+      "source": "coindesk",
+      "published": "2026-10-18T01:06:35+00:00",
+      "summary": "",
+      "title_es": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut"
+    },
     {
       "id": "7ac8729a8807",
       "title": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE",
@@ -105,7 +168,7 @@
       "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
       "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph",
-      "published": "2026-10-17T12:58:03+00:00",
+      "published": "2026-10-17T13:01:00+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana shows resilience, but some areas need continued observation, Fidelity says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54YYWKHSQFED5NV6YFBFNJY/hi-surviving-crypto-volatilit",
       "title_es": "Solana shows resilience, but some areas need continued observation, Fidelity says"
     },
@@ -123,25 +186,25 @@
       "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
       "link": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph",
-      "published": "2026-10-17T10:00:07+00:00",
+      "published": "2026-10-17T10:03:00+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20BVCME3MRSYGBFGFFS62XW/world-global-rating-circ",
       "title_es": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report"
     },
     {
       "id": "c29ce58629e2",
-      "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
+      "title": "Lagarde says euro-area economy is resilient, digital euro under development",
       "link": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph",
-      "published": "2026-10-17T08:32:11+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Lagarde says euro-area economy is resilient, digital euro imminent\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54ENNHY19CENP5ZV5HX428Z/christine-lagarde-eu.jpg\" /></p><p>“The digi",
-      "title_es": "Lagarde says euro-area economy is resilient, digital euro imminent"
+      "published": "2026-10-17T08:45:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Lagarde says euro-area economy is resilient, digital euro under development\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54ENNHY19CENP5ZV5HX428Z/christine-lagarde-eu.jpg\" /></p><p>",
+      "title_es": "Lagarde says euro-area economy is resilient, digital euro under development"
     },
     {
       "id": "34bd1d562b79",
       "title": "Bitget to discontinue services for some users in one-off exercise",
       "link": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph",
-      "published": "2026-10-17T07:26:57+00:00",
+      "published": "2026-10-17T07:28:00+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget to discontinue services for some users in one-off exercise   \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5499P2SZPHXNNS2X8W74AV7/hi-how-are-governments-implementing-the-bi",
       "title_es": "Bitget to discontinue services for some users in one-off exercise"
     },
@@ -164,6 +227,15 @@
       "title_es": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough"
     },
     {
+      "id": "10c8588063b0",
+      "title": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
+      "link": "https://bitcoinmagazine.com/news/scammer-lost-bitcoin-to-ledger-thieves",
+      "source": "bitcoinmagazine",
+      "published": "2026-10-16T22:12:36+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-16.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/scammer-lost-bitcoin-to-ledger-thieves\" rel=\"n",
+      "title_es": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves"
+    },
+    {
       "id": "05f733cad021",
       "title": "Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen",
       "link": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839",
@@ -182,6 +254,15 @@
       "title_es": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can’t Have"
     },
     {
+      "id": "cfe3e991a1d5",
+      "title": "BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons",
+      "link": "https://bitcoinmagazine.com/press-releases/bffs26-denver-joseph-kelly-on-bitcoin-custody-and-credit-alan-lane-on-banking-lessons",
+      "source": "bitcoinmagazine",
+      "published": "2026-10-16T19:44:29+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-1.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/press-releases/bffs26-denver-joseph-kelly-on-bitcoin-",
+      "title_es": "BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons"
+    },
+    {
       "id": "11f98b39d940",
       "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
       "link": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
@@ -191,6 +272,15 @@
       "title_es": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot"
     },
     {
+      "id": "8de7a2870f86",
+      "title": "Sazmining Now Sells Jack Dorsey’s Proto Immersion Hashboards",
+      "link": "https://bitcoinmagazine.com/news/sazmining-now-sells-proto-hashboards",
+      "source": "bitcoinmagazine",
+      "published": "2026-10-16T19:19:40+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/b7d506cc-b358-4bfd-a7fa-f948d9b6fa68.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/sazmining-now-sel",
+      "title_es": "Sazmining Now Sells Jack Dorsey’s Proto Immersion Hashboards"
+    },
+    {
       "id": "8bcb122f3007",
       "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
       "link": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
@@ -198,6 +288,15 @@
       "published": "2026-10-16T18:55:37+00:00",
       "summary": "Circle CEO Jeremy Allaire told Reuters the USDC issuer plans to enter about 40 emerging and developing markets, citing rising demand in Southeast Asia, Latin America, Africa and the Middle East.",
       "title_es": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says"
+    },
+    {
+      "id": "c70d0d9d0e6c",
+      "title": "Hot Inflation Data Puts Bitcoin Under Pressure, but ‘Difficult’ Isn’t ‘Bearish’: CoinShares",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-under-pressure-says-coinshares",
+      "source": "bitcoinmagazine",
+      "published": "2026-10-16T18:30:57+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-15.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-under-pressure-says-coinshares\" rel=\"n",
+      "title_es": "Hot Inflation Data Puts Bitcoin Under Pressure, but ‘Difficult’ Isn’t ‘Bearish’: CoinShares"
     },
     {
       "id": "862cb8b848e6",
@@ -261,6 +360,24 @@
       "published": "2026-10-16T16:36:04+00:00",
       "summary": "The judge ruled that a shift in the CFTC’s enforcement priorities and misconduct allegations against its enforcement division weren’t enough to reopen a deal Gemini signed weeks before trial.",
       "title_es": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No"
+    },
+    {
+      "id": "54be151ff52e",
+      "title": "Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report",
+      "link": "https://bitcoinmagazine.com/news/deutsche-bank-will-debut-bitcoin-custody",
+      "source": "bitcoinmagazine",
+      "published": "2026-10-16T16:35:55+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/image7_1920x1080.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/deutsche-bank-will-debut-bitcoin-cust",
+      "title_es": "Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report"
+    },
+    {
+      "id": "e389a73a1281",
+      "title": "MSCI To Move Forward With Proposal That Could Exclude Strategy From Index",
+      "link": "https://bitcoinmagazine.com/news/msci-could-exclude-strategy-from-index",
+      "source": "bitcoinmagazine",
+      "published": "2026-10-16T16:32:41+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bi",
+      "title_es": "MSCI To Move Forward With Proposal That Could Exclude Strategy From Index"
     },
     {
       "id": "533c2dedd6f3",
@@ -344,6 +461,15 @@
       "title_es": "Ledger’s early implant warnings deserved more action, Karpelès says"
     },
     {
+      "id": "8578f0d17c51",
+      "title": "Crypto Analyst Lark Davis: The Bitcoin Bull Run has Begun",
+      "link": "https://bitcoinmagazine.com/videos/crypto-analyst-lark-davis-the-bitcoin-bull-run-has-begun",
+      "source": "bitcoinmagazine",
+      "published": "2026-10-16T13:48:18+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Crypto-Analyst-Lark-Davis-The-Bitcoin-Bull-Run-has-Begun-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/v",
+      "title_es": "Crypto Analyst Lark Davis: The Bitcoin Bull Run has Begun"
+    },
+    {
       "id": "8aea16504a11",
       "title": "XRP News: RLUSD Settlement Comes to Cross River Fintechs",
       "link": "https://cryptonews.com/news/rlusd-cross-river-api-xrp-news/",
@@ -369,6 +495,33 @@
       "published": "2026-10-16T13:31:07+00:00",
       "summary": "The focus is how Ethereum works under the hood: how it tracks and updates state, how transactions flow through the network, how computation is priced through gas, how smart contracts and token standards make Ethereum programmable, and how other Layer 1 blockchains approach the same problems in diffe",
       "title_es": "How Ethereum Works"
+    },
+    {
+      "id": "710b9fa131b2",
+      "title": "Math Professor Warns of Threat to Bitcoin from AI Pivot",
+      "link": "https://bitcoinmagazine.com/videos/math-professor-warns-of-threat-to-bitcoin-from-ai-pivot",
+      "source": "bitcoinmagazine",
+      "published": "2026-10-16T13:25:44+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Math-Professor-Warns-of-Threat-to-Bitcoin-from-AI-Pivot-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/vi",
+      "title_es": "Math Professor Warns of Threat to Bitcoin from AI Pivot"
+    },
+    {
+      "id": "f19701ad9adc",
+      "title": "Morgan Stanley’s Amy Oldenburg: The Digital Gold Investment Case for Bitcoin",
+      "link": "https://bitcoinmagazine.com/videos/morgan-stanleys-amy-oldenburg-the-digital-gold-investment-case-for-bitcoin",
+      "source": "bitcoinmagazine",
+      "published": "2026-10-16T13:20:36+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Morgan-Stanleys-Amy-Oldenburg-The-Digital-Gold-Investment-Case-for-Bitcoin-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bit",
+      "title_es": "Morgan Stanley’s Amy Oldenburg: The Digital Gold Investment Case for Bitcoin"
+    },
+    {
+      "id": "297c54fed2ab",
+      "title": "Sazmining Brings Proto’s Immersion Hashboards to Individual Owners, With 0% Financing From $1,397 Down",
+      "link": "https://bitcoinmagazine.com/press-releases/sazmining-brings-protos-immersion-hashboards-to-individual-owners-with-0-financing-from-1397-down",
+      "source": "bitcoinmagazine",
+      "published": "2026-10-16T12:42:22+00:00",
+      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Sazmining-Brings-Protos-Immersion-Hashboards-to-Individual-Owners.jpeg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagaz",
+      "title_es": "Sazmining Brings Proto’s Immersion Hashboards to Individual Owners, With 0% Financing From $1,397 Down"
     },
     {
       "id": "6cc79daee4e7",
@@ -776,15 +929,6 @@
       "title_es": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms"
     },
     {
-      "id": "868885c0aeed",
-      "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
-      "link": "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-15T20:21:11+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance.US seeks $1B valuation in potential $100M funding round: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50GBDK9V1K1J9DSAGNBWX7S/us-binance.jpg\" /></p><p>The crypto exc",
-      "title_es": "Binance.US seeks $1B valuation in potential $100M funding round: Report"
-    },
-    {
       "id": "f6bd671bc446",
       "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
       "link": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
@@ -828,24 +972,6 @@
       "published": "2026-10-15T17:36:05+00:00",
       "summary": "Google DeepMind's first internal audit of AI-driven research finds no measurable speedup in AI progress.",
       "title_es": "Google Says AI Isn't Building Itself Yet—Even Though It Writes 75% of the Code"
-    },
-    {
-      "id": "7ea5570bb47e",
-      "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
-      "link": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-15T17:14:45+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5021VDZN3M8VCH21XJTRFJY/bribe-money-corrupt-usa-1.jpg\" /></p><",
-      "title_es": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ"
-    },
-    {
-      "id": "4c0dad8df2c8",
-      "title": "Sweden revisits digital krona as ECB advances digital euro plans",
-      "link": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-15T16:49:59+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sweden revisits digital krona as ECB advances digital euro plans \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M505KEFKPMPQ9SXKC8HEV451/stockholm-sweden.jpg\" /></p><p>Sweden’s Riksb",
-      "title_es": "Sweden revisits digital krona as ECB advances digital euro plans"
     },
     {
       "id": "45d8bbc5b3f4",
@@ -983,15 +1109,6 @@
       "title_es": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers"
     },
     {
-      "id": "35a49ae24d09",
-      "title": "Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
-      "link": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
-      "source": "coindesk",
-      "published": "2026-10-15T12:00:00+00:00",
-      "summary": "",
-      "title_es": "Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone"
-    },
-    {
       "id": "68cce43a0d69",
       "title": "Musk Exposes Washington: US Tightens Noose on Ukrainian Drones, Sending Polymarket Odds into a Tailspin",
       "link": "https://cryptonews.com/news/ukraine-war-polymarket-odds-starlink-limits/",
@@ -999,15 +1116,6 @@
       "published": "2026-10-15T11:30:03+00:00",
       "summary": "<p>Starlink limits disrupted Ukraine’s military missions, but Polymarket odds show no verified repricing across contracts through 2027.</p>\n<p>The post <a href=\"https://cryptonews.com/news/ukraine-war-polymarket-odds-starlink-limits/\">Musk Exposes Washington: US Tightens Noose on Ukrainian Drones, S",
       "title_es": "Musk Exposes Washington: US Tightens Noose on Ukrainian Drones, Sending Polymarket Odds into a Tailspin"
-    },
-    {
-      "id": "4f200a789ddd",
-      "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
-      "source": "coindesk",
-      "published": "2026-10-15T11:15:00+00:00",
-      "summary": "",
-      "title_es": "Bitcoin, copper, stocks, yields all fall; gold rises"
     },
     {
       "id": "1038af1c0405",
@@ -1026,24 +1134,6 @@
       "published": "2026-10-15T10:54:15+00:00",
       "summary": "<p>SEC-approved binary options tied to Coinbase and MARA metrics offer crypto exposure without tokens, while Clarity Act questions remain unresolved.</p>\n<p>The post <a href=\"https://cryptonews.com/news/sec-crypto-binary-options-coinbase-mara/\">SEC Crypto: What do the Coinbase and MARA Binary Option",
       "title_es": "SEC Crypto: What do the Coinbase and MARA Binary Options Mean?"
-    },
-    {
-      "id": "ad8f383c47d9",
-      "title": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight",
-      "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
-      "source": "coindesk",
-      "published": "2026-10-15T10:52:11+00:00",
-      "summary": "",
-      "title_es": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight"
-    },
-    {
-      "id": "dd680cd3537e",
-      "title": "Bitcoin Price Prediction: Can BTC Rebound After a Brutal Sell-off?",
-      "link": "https://cryptonews.com/news/bitcoin-price-prediction-can-btc-recover/",
-      "source": "cryptonews",
-      "published": "2026-10-15T09:40:00+00:00",
-      "summary": "<p>Bitcoin trades near $81,139 as inflation revives rate-hike fears. Key support, recovery levels, and catalysts traders are watching.</p>\n<p>The post <a href=\"https://cryptonews.com/news/bitcoin-price-prediction-can-btc-recover/\">Bitcoin Price Prediction: Can BTC Rebound After a Brutal Sell-off?</a",
-      "title_es": "Bitcoin Price Prediction: Can BTC Rebound After a Brutal Sell-off?"
     }
   ]
 }
