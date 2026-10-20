@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T16:04:07.072093+00:00",
+  "updated_at": "2026-10-20T00:03:01.022752+00:00",
   "count": 115,
   "sources": [
     "coindesk",
@@ -10,6 +10,231 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "89a73353d17f",
+      "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
+      "link": "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087",
+      "source": "theblock",
+      "published": "2026-10-19T22:00:53+00:00",
+      "summary": "One of the world's largest investment managers, BlackRock has filed for another bitcoin fund, marking its third tied to the asset.",
+      "title_es": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT"
+    },
+    {
+      "id": "477149928081",
+      "title": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
+      "link": "https://decrypt.co/381382/strive-buys-335-million-bitcoin",
+      "source": "decrypt",
+      "published": "2026-10-19T21:46:05+00:00",
+      "summary": "The Nasdaq-listed bitcoin holder bought as warrant holders exercised, bringing in $369 million, and it now plans a $630 million sale of 15% preferred stock.",
+      "title_es": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million"
+    },
+    {
+      "id": "e56560053216",
+      "title": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
+      "link": "https://decrypt.co/381371/anthropic-gives-public-musk-answers-spacex-shares",
+      "source": "decrypt",
+      "published": "2026-10-19T21:15:04+00:00",
+      "summary": "Anthropic committed 5% of its shares to a public benefit fund, and within hours Elon Musk promised a SpaceX share to every American child.",
+      "title_es": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares"
+    },
+    {
+      "id": "f3003fa4bf71",
+      "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
+      "link": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-19T21:04:34+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5AYKKWE9EN0JZE01QZ6T9SW/hi-how-to-swap-tokens-between-base-an",
+      "title_es": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback"
+    },
+    {
+      "id": "ee3fd575628d",
+      "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
+      "link": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
+      "source": "decrypt",
+      "published": "2026-10-19T20:46:05+00:00",
+      "summary": "XRP developers published a second amendment to repair the ledger’s new uncollateralized lending feature while the original still awaits validator approval.",
+      "title_es": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live"
+    },
+    {
+      "id": "dd5b156f17cb",
+      "title": "Crypto PAC pours $362K into California race voters essentially decided in August",
+      "link": "https://cointelegraph.com/news/crypto-pac-california-race-voters-special-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-19T20:22:41+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC pours $362K into California race voters essentially decided in August\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ABCKS2FMK83350383BZ19K/hi-the-great-tech-exodus-calif",
+      "title_es": "Crypto PAC pours $362K into California race voters essentially decided in August"
+    },
+    {
+      "id": "a7af9ba69451",
+      "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
+      "link": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
+      "source": "coindesk",
+      "published": "2026-10-19T20:21:13+00:00",
+      "summary": "",
+      "title_es": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes"
+    },
+    {
+      "id": "552e43ae5e35",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-19T20:02:30+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
+      "title_es": "Here’s what happened in crypto today"
+    },
+    {
+      "id": "7f75e0ee52df",
+      "title": "Market participants weigh in on SEC’s proposed crypto regulations",
+      "link": "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-19T19:54:38+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Market participants weigh in on SEC’s proposed crypto regulations\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5APHDVZD1BGG3JK7KN10823/man-documents-sec.jpg\" /></p><p>The financial",
+      "title_es": "Market participants weigh in on SEC’s proposed crypto regulations"
+    },
+    {
+      "id": "454650c9e722",
+      "title": "Hackers Are Running Apple's iOS on Android Phones for the First Time",
+      "link": "https://decrypt.co/381351/hackers-running-apple-ios-android-phones",
+      "source": "decrypt",
+      "published": "2026-10-19T19:46:04+00:00",
+      "summary": "Hobbyists are booting iOS 16 on Xiaomi and Nothing phones and posting the proof. It barely works, but it suggests Apple's software is no longer welded to Apple's hardware.",
+      "title_es": "Hackers Are Running Apple's iOS on Android Phones for the First Time"
+    },
+    {
+      "id": "ec2e09c88b75",
+      "title": "Visa, Mesh partner to enable crypto spending at 175M merchant locations",
+      "link": "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-19T19:16:19+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Visa, Mesh partner to enable crypto spending at 175M merchant locations\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5AQTAX4CZKP1822SBZZMSMC/hi-could-those-who-left-visa-come-back.",
+      "title_es": "Visa, Mesh partner to enable crypto spending at 175M merchant locations"
+    },
+    {
+      "id": "0521ac7310b9",
+      "title": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
+      "link": "https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments",
+      "source": "decrypt",
+      "published": "2026-10-19T19:16:04+00:00",
+      "summary": "Unveiled at Money20/20, the API-based tool combines payment and blockchain intelligence to flag fraud, scams and sanctions exposure before funds move on-chain.",
+      "title_es": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments"
+    },
+    {
+      "id": "34e17ab8d2bf",
+      "title": "Mastercard launches stablecoin risk screening for banks and payment providers",
+      "link": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-19T19:03:23+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Mastercard launches stablecoin risk screening for banks and payment providers \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5APDAY3V814QCHNF8PWJB4F/hi-how-mastercard-plans-to-settl",
+      "title_es": "Mastercard launches stablecoin risk screening for banks and payment providers"
+    },
+    {
+      "id": "6b696838ce19",
+      "title": "Why Some of America’s Biggest Companies Are Objecting to Tokenized Shares",
+      "link": "https://decrypt.co/381349/why-some-america-biggest-companies-objecting-tokenized-shares",
+      "source": "decrypt",
+      "published": "2026-10-19T18:46:05+00:00",
+      "summary": "Nine companies, including Verizon, Broadcom and UnitedHealth, have objected to having their shares traded on the planned OKX-ICE tokenized stock venue.",
+      "title_es": "Why Some of America’s Biggest Companies Are Objecting to Tokenized Shares"
+    },
+    {
+      "id": "0def8e81ba35",
+      "title": "US Orders Civilian Agencies to Rip DeepSeek Out of Government Systems",
+      "link": "https://decrypt.co/381347/us-orders-civilian-agencies-rip-deepseek-out-government-systems",
+      "source": "decrypt",
+      "published": "2026-10-19T18:16:04+00:00",
+      "summary": "The Department of Homeland Security told civilian agencies to remove China's DeepSeek and any service built on it, and banned buying more, citing the risk of sensitive data reaching Beijing.",
+      "title_es": "US Orders Civilian Agencies to Rip DeepSeek Out of Government Systems"
+    },
+    {
+      "id": "189878c8c744",
+      "title": "The Math Behind the $210 XRP Price Target",
+      "link": "https://cryptonews.com/news/xrp-price-210-target/",
+      "source": "cryptonews",
+      "published": "2026-10-19T18:16:00+00:00",
+      "summary": "<p>The XRP price prediction of $210 implies a $13.26 trillion market cap, but Ripple’s growth does not prove institutions will buy XRP.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrp-price-210-target/\">The Math Behind the $210 XRP Price Target</a> appeared first on <a href=\"https://crypton",
+      "title_es": "The Math Behind the $210 XRP Price Target"
+    },
+    {
+      "id": "d27e3bfa7466",
+      "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
+      "link": "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
+      "source": "decrypt",
+      "published": "2026-10-19T17:31:04+00:00",
+      "summary": "JPMorgan is rolling out JPM Coin on Ethereum for institutional clients, a token backed by dollars in its accounts that settles in seconds, any day of the week.",
+      "title_es": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain"
+    },
+    {
+      "id": "ec4fd2145e86",
+      "title": "Revolut secures Gibraltar crypto license to support global expansion",
+      "link": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-19T17:24:49+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Revolut secures Gibraltar crypto license to support global expansion\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5AJ2EGPXJENGSEWEZ0NCJ4J/hi-taking-a-closer-look-at-gibraltar-and-h",
+      "title_es": "Revolut secures Gibraltar crypto license to support global expansion"
+    },
+    {
+      "id": "e1541b326d27",
+      "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
+      "link": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
+      "source": "coindesk",
+      "published": "2026-10-19T16:47:00+00:00",
+      "summary": "",
+      "title_es": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures"
+    },
+    {
+      "id": "c1010984a9a5",
+      "title": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
+      "link": "https://decrypt.co/381337/abandoned-bitcoin-wallet-noah-doe-lawsuit-moves-33-million",
+      "source": "decrypt",
+      "published": "2026-10-19T16:46:05+00:00",
+      "summary": "A Bitcoin address dormant since 2013 moved 411.45 BTC worth about $33.4 million, according to Galaxy Research, and it’s among the wallets named in the “Noah Doe” lawsuit.",
+      "title_es": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million"
+    },
+    {
+      "id": "7f4747c073c7",
+      "title": "Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal",
+      "link": "https://cointelegraph.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-19T16:41:55+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5AD2F6MT3YFMVZ52S5T2ARH/hi-defi-wont-last-long-without-unlocking",
+      "title_es": "Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal"
+    },
+    {
+      "id": "2541492f8e3d",
+      "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
+      "link": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-19T16:30:18+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5AEENVMENSY40QKZBNFA626/crypto-bitcoin-storage.png\" /></p><p>The Bitcoi",
+      "title_es": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC"
+    },
+    {
+      "id": "c26ae1c3bf2d",
+      "title": "Mesh taps Visa to let users spend crypto without a separate card",
+      "link": "https://www.theblock.co/news/business/2026-10-19-mesh-visa-partner-spend-crypto-stablecoins-421058",
+      "source": "theblock",
+      "published": "2026-10-19T16:10:02+00:00",
+      "summary": "Mesh and Visa will let users spend crypto and stablecoin balances from wallet apps, with no need to sell or transfer assets first.",
+      "title_es": "Mesh taps Visa to let users spend crypto without a separate card"
+    },
+    {
+      "id": "5a13c56d856b",
+      "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
+      "link": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-19T16:05:57+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin is rejected at $83K as US bond yields reverse higher with equities \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45MNAH6T9X0V6SRTWP10EC6/bitcoin-lazer-eyes-and-bull-run-gra",
+      "title_es": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities"
+    },
+    {
+      "id": "7029ed8ef6a1",
+      "title": "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets",
+      "link": "https://decrypt.co/381319/bitcoin-price-key-support-oil-ai-fears-squeeze-markets",
+      "source": "decrypt",
+      "published": "2026-10-19T16:05:09+00:00",
+      "summary": "Bitcoin keeps limping back to the same floor while $108 oil and 5% yields weigh on risk assets. The chart shows a coiled spring, not a trend.",
+      "title_es": "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets"
+    },
     {
       "id": "c48b24e2d388",
       "title": "Mastercard unveils Stablecoin Security tool to screen payments for fraud and sanctions risks",
@@ -99,15 +324,6 @@
       "published": "2026-10-19T13:30:00+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Made an ‘honest’ mistake with crypto taxes? New bill offers way out\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Y6ADK23SXVZZ2X6X5VB391/grounded-figure-for-taxes.png\" /></p><p>A p",
       "title_es": "Made an ‘honest’ mistake with crypto taxes? New bill offers way out"
-    },
-    {
-      "id": "552e43ae5e35",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-19T13:19:50+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
-      "title_es": "Here’s what happened in crypto today"
     },
     {
       "id": "91e37cf07f65",
@@ -668,15 +884,6 @@
       "title_es": "Cysic crypto bridge halted after unauthorized mint of 10M CYS"
     },
     {
-      "id": "0549911662ae",
-      "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
-      "link": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-18T09:14:26+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chinese suspect in $75M international crime network arrested in Bangkok\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M574HWMKKS1RW0G387NCF974/hi-comparing-money-laundering-with-cryp",
-      "title_es": "Chinese suspect in $75M international crime network arrested in Bangkok"
-    },
-    {
       "id": "83fddefa831c",
       "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
       "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
@@ -684,24 +891,6 @@
       "published": "2026-10-18T07:13:32+00:00",
       "summary": "",
       "title_es": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut"
-    },
-    {
-      "id": "a9640f0e0a36",
-      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
-      "link": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-18T06:29:00+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether backs AIsa as strategic investor, completing seed extension round\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M56TW7NK49R9HTEZKPD8PEYY/hi-j-tether-investments-1.jpg\" /></p><",
-      "title_es": "Tether backs AIsa as strategic investor, completing seed extension round"
-    },
-    {
-      "id": "201ccde0ca36",
-      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
-      "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
-      "source": "coindesk",
-      "published": "2026-10-18T01:06:35+00:00",
-      "summary": "",
-      "title_es": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut"
     },
     {
       "id": "7ac8729a8807",
@@ -731,15 +920,6 @@
       "title_es": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown"
     },
     {
-      "id": "17b13e948a09",
-      "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
-      "link": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
-      "source": "coindesk",
-      "published": "2026-10-17T17:00:00+00:00",
-      "summary": "",
-      "title_es": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat"
-    },
-    {
       "id": "6a0ee0dbfbe8",
       "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
       "link": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
@@ -767,42 +947,6 @@
       "title_es": "TokenMaxxing: How to Get the Most Out of Your AI Models"
     },
     {
-      "id": "0b39ea104fd2",
-      "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
-      "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-17T13:01:00+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana shows resilience, but some areas need continued observation, Fidelity says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54YYWKHSQFED5NV6YFBFNJY/hi-surviving-crypto-volatilit",
-      "title_es": "Solana shows resilience, but some areas need continued observation, Fidelity says"
-    },
-    {
-      "id": "2d0ba556e5cc",
-      "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-      "link": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-17T10:03:00+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20BVCME3MRSYGBFGFFS62XW/world-global-rating-circ",
-      "title_es": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report"
-    },
-    {
-      "id": "c29ce58629e2",
-      "title": "Lagarde says euro-area economy is resilient, digital euro under development",
-      "link": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-17T08:45:00+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Lagarde says euro-area economy is resilient, digital euro under development\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M54ENNHY19CENP5ZV5HX428Z/christine-lagarde-eu.jpg\" /></p><p>",
-      "title_es": "Lagarde says euro-area economy is resilient, digital euro under development"
-    },
-    {
-      "id": "34bd1d562b79",
-      "title": "Bitget to discontinue services for some users in one-off exercise",
-      "link": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-17T07:28:00+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget to discontinue services for some users in one-off exercise   \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5499P2SZPHXNNS2X8W74AV7/hi-how-are-governments-implementing-the-bi",
-      "title_es": "Bitget to discontinue services for some users in one-off exercise"
-    },
-    {
       "id": "05f733cad021",
       "title": "Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen",
       "link": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839",
@@ -821,42 +965,6 @@
       "title_es": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can’t Have"
     },
     {
-      "id": "11f98b39d940",
-      "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
-      "link": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
-      "source": "decrypt",
-      "published": "2026-10-16T19:36:04+00:00",
-      "summary": "Calif showed an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1 at Hexacon in Paris. It survived a reboot, but no tool or bug details are public yet.",
-      "title_es": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot"
-    },
-    {
-      "id": "8bcb122f3007",
-      "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
-      "link": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
-      "source": "decrypt",
-      "published": "2026-10-16T18:55:37+00:00",
-      "summary": "Circle CEO Jeremy Allaire told Reuters the USDC issuer plans to enter about 40 emerging and developing markets, citing rising demand in Southeast Asia, Latin America, Africa and the Middle East.",
-      "title_es": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says"
-    },
-    {
-      "id": "862cb8b848e6",
-      "title": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
-      "link": "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules",
-      "source": "decrypt",
-      "published": "2026-10-16T18:16:04+00:00",
-      "summary": "The index provider will classify “non-operating companies” as ineligible starting Nov. 30, targeting firms whose balance sheets are dominated by a single asset.",
-      "title_es": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules"
-    },
-    {
-      "id": "b0cd8bf4d482",
-      "title": "India's Cyber Agency Says AI Agents Read Confidential Business Records Without Authorization",
-      "link": "https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records",
-      "source": "decrypt",
-      "published": "2026-10-16T17:48:06+00:00",
-      "summary": "India's CERT-In says AI agents exceeded their assigned tasks in tests and read confidential records on live Indian systems.",
-      "title_es": "India's Cyber Agency Says AI Agents Read Confidential Business Records Without Authorization"
-    },
-    {
       "id": "2eb4f6b336ae",
       "title": "XRP Price Could Surge 145% as 2023 Rally Pattern Returns",
       "link": "https://cryptonews.com/news/xrp-price-2023-rally-pattern-145-percent-jump/",
@@ -866,24 +974,6 @@
       "title_es": "XRP Price Could Surge 145% as 2023 Rally Pattern Returns"
     },
     {
-      "id": "b0ed5d0d5afa",
-      "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
-      "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-16T17:30:09+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52HJ9YWKB542GFBKZMAPWM1/dollars-fly-away-us-senate-1.jpg\" /></p",
-      "title_es": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race"
-    },
-    {
-      "id": "0f6aaaf4bcfe",
-      "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
-      "link": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-16T17:21:45+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin remittances cost 84% less than traditional transfers, report finds \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52M2X6XQAK15HXKMTSR830M/hi-how-to-send-money-to-family-a",
-      "title_es": "Stablecoin remittances cost 84% less than traditional transfers, report finds"
-    },
-    {
       "id": "de70e6e47cb3",
       "title": "Coinbase to power stablecoin-backed cards for Marqeta customers",
       "link": "https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833",
@@ -891,42 +981,6 @@
       "published": "2026-10-16T17:21:29+00:00",
       "summary": "The expanded partnership builds on Marqeta’s work powering Coinbase’s U.S. debit card offering in 2020.",
       "title_es": "Coinbase to power stablecoin-backed cards for Marqeta customers"
-    },
-    {
-      "id": "b6fc9492deee",
-      "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
-      "link": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no",
-      "source": "decrypt",
-      "published": "2026-10-16T16:36:04+00:00",
-      "summary": "The judge ruled that a shift in the CFTC’s enforcement priorities and misconduct allegations against its enforcement division weren’t enough to reopen a deal Gemini signed weeks before trial.",
-      "title_es": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No"
-    },
-    {
-      "id": "533c2dedd6f3",
-      "title": "Bitcoin Bounces, But Where Does It Go Next? Here’s What the Charts Say",
-      "link": "https://decrypt.co/381150/bitcoin-price-rebounds-where-next-charts",
-      "source": "decrypt",
-      "published": "2026-10-16T16:06:05+00:00",
-      "summary": "Technical indicators suggest the bullish trend remains intact, but prediction market traders are sending mix signals.",
-      "title_es": "Bitcoin Bounces, But Where Does It Go Next? Here’s What the Charts Say"
-    },
-    {
-      "id": "78c753d1124a",
-      "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-      "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-16T15:52:28+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52N5E63563HHENSDSV1NCN7/hi-how-grayscale-brought-crypto-staking-to-",
-      "title_es": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading"
-    },
-    {
-      "id": "a0551a0e9ed6",
-      "title": "Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner",
-      "link": "https://decrypt.co/381148/three-canadian-armed-forces-members-charged-in-kidnapping-of-crypto-exchange-owner",
-      "source": "decrypt",
-      "published": "2026-10-16T15:43:58+00:00",
-      "summary": "Police seized guns, silencers and more than 2,000 rounds of ammunition, nearly all of it allegedly stolen from the Canadian military.",
-      "title_es": "Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner"
     },
     {
       "id": "6077f8e49fcb",
@@ -965,15 +1019,6 @@
       "title_es": "How Ethereum Works"
     },
     {
-      "id": "6cc79daee4e7",
-      "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
-      "link": "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis",
-      "source": "decrypt",
-      "published": "2026-10-16T12:22:18+00:00",
-      "summary": "The funds came from a task scam that paid people to fake product sales and reviews, then demanded deposits before releasing their pay.",
-      "title_es": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis"
-    },
-    {
       "id": "2e013a7780ce",
       "title": "Toobit Adds Five SmartK Indicators for More Structured Futures Analysis",
       "link": "https://cryptonews.com/news/toobit-adds-five-smartk-indicators-for-more-structured-futures-analysis/",
@@ -981,42 +1026,6 @@
       "published": "2026-10-16T12:12:57+00:00",
       "summary": "<p>The award-winning global cryptocurrency exchange Toobit has added to its SmartK futures charting mode &#8211; bringing five proprietary indicators covering market direction, price structure, volume, momentum, and risk planning.The new system separates its tools into three main-chart indicators an",
       "title_es": "Toobit Adds Five SmartK Indicators for More Structured Futures Analysis"
-    },
-    {
-      "id": "66efda7912ce",
-      "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
-      "link": "https://decrypt.co/381138/morning-minute-google-clears-a-major-quantum-hurdle-bitcoin-still-safe",
-      "source": "decrypt",
-      "published": "2026-10-16T11:46:54+00:00",
-      "summary": "Plus, crypto majors rebound despite hot PPI and Saylor’s Strategy is at risk of removal from a major index.",
-      "title_es": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe"
-    },
-    {
-      "id": "6a07834c76c7",
-      "title": "OpenAI says research model spent another wallet’s testnet ETH without authorization on coding task",
-      "link": "https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798",
-      "source": "theblock",
-      "published": "2026-10-16T11:34:54+00:00",
-      "summary": "OpenAI's research model used another wallet's testnet ETH without permission to complete a coding task in June.",
-      "title_es": "OpenAI says research model spent another wallet’s testnet ETH without authorization on coding task"
-    },
-    {
-      "id": "5ea5d8d33bdd",
-      "title": "Visa Direct moves USDC prefunding into commercial production with Inyo Global",
-      "link": "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802",
-      "source": "theblock",
-      "published": "2026-10-16T11:25:12+00:00",
-      "summary": "Visa Direct has brought USDC prefunding into commercial production with Inyo Global as its first commercial enabler.",
-      "title_es": "Visa Direct moves USDC prefunding into commercial production with Inyo Global"
-    },
-    {
-      "id": "56900688b9b3",
-      "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
-      "link": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
-      "source": "decrypt",
-      "published": "2026-10-16T10:39:08+00:00",
-      "summary": "The internal model derived keys from public developer recovery phrases, spent another account's test ETH, and left it out of its report.",
-      "title_es": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task"
     },
     {
       "id": "0f17933c5b44",
@@ -1035,15 +1044,6 @@
       "published": "2026-10-16T07:29:00+00:00",
       "summary": "<p>The Solana Shanghai event was postponed after attendees reported blocked venue access, but the foundation gave no replacement date yet.</p>\n<p>The post <a href=\"https://cryptonews.com/news/solana-shanghai-event-cz-binance-postponed/\">Solana Shanghai Event Halted After Police Visit, Raising China ",
       "title_es": "Solana Shanghai Event Halted After Police Visit, Raising China Fears"
-    },
-    {
-      "id": "41baa2904eea",
-      "title": "XRP Price Prediction: XRP Duo Turn Bullish, $1,000 Dream Lives On",
-      "link": "https://cryptonews.com/news/xrp-price-prediction-1000-target/",
-      "source": "cryptonews",
-      "published": "2026-10-16T06:20:43+00:00",
-      "summary": "<p>XRP trades near $1.34 as support and resistance levels frame the outlook. Garlinghouse defends legal clarity while traders weigh adoption and risk.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrp-price-prediction-1000-target/\">XRP Price Prediction: XRP Duo Turn Bullish, $1,000 Dream Live",
-      "title_es": "XRP Price Prediction: XRP Duo Turn Bullish, $1,000 Dream Lives On"
     }
   ]
 }
