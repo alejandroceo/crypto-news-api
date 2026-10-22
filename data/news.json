@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T23:50:52.098634+00:00",
-  "count": 123,
+  "updated_at": "2026-10-22T14:15:31.428029+00:00",
+  "count": 114,
   "sources": [
     "coindesk",
     "cointelegraph",
@@ -10,6 +10,420 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "ba4b5659cce3",
+      "title": "Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange",
+      "link": "https://decrypt.co/381593/trade-where-you-read-decrypt-brings-jupiter-powered-trading-to-the-information-exchange",
+      "source": "decrypt",
+      "published": "2026-10-22T14:04:48+00:00",
+      "summary": "Decrypt is building a destination where readers can discover, understand and trade the news, directly where they consume information.",
+      "title_es": "Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange"
+    },
+    {
+      "id": "46809cf6669b",
+      "title": "Coinbase Ireland fined $3.6 million over customer fund segregation, oversight failures",
+      "link": "https://www.theblock.co/news/regulation/2026-10-22-coinbase-ireland-fined-3-6-million-over-customer-fund-segregation-oversight-failures-421943",
+      "source": "theblock",
+      "published": "2026-10-22T14:03:40+00:00",
+      "summary": "Coinbase Ireland fined $3.6 million for safeguarding breaches that left customer funds underfunded and mixed with group accounts.",
+      "title_es": "Coinbase Ireland fined $3.6 million over customer fund segregation, oversight failures"
+    },
+    {
+      "id": "b101d05c7c5f",
+      "title": "Uniswap’s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
+      "link": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
+      "source": "theblock",
+      "published": "2026-10-22T13:55:03+00:00",
+      "summary": "Uniswap Labs has launched aggregator hooks, allowing Uniswap v4 to route trades through liquidity held on external platforms.",
+      "title_es": "Uniswap’s aggregator hooks go live on Ethereum, Base and Robinhood Chain"
+    },
+    {
+      "id": "9d1131d89f02",
+      "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
+      "link": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-22T13:42:34+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HTMN9GYAR5H2ZXAEB803XX/hi-bitcoin-mining-di",
+      "title_es": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions"
+    },
+    {
+      "id": "78e43f4ee891",
+      "title": "XRP Price Falls as Crypto Longs Get Wiped Out and XRPL Upgrade Delayed",
+      "link": "https://cryptonews.com/news/xrp-price-falls-crypto-longs-wiped-out-xrpl-upgrade-delayed/",
+      "source": "cryptonews",
+      "published": "2026-10-22T13:28:00+00:00",
+      "summary": "<p>XRP Price falls toward $1.33 as crypto liquidations top $220 million. The XRPL upgrade is delayed to November 4 after validator support dips.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrp-price-falls-crypto-longs-wiped-out-xrpl-upgrade-delayed/\">XRP Price Falls as Crypto Longs Get Wipe",
+      "title_es": "XRP Price Falls as Crypto Longs Get Wiped Out and XRPL Upgrade Delayed"
+    },
+    {
+      "id": "ed71aa7cb7eb",
+      "title": "Fireblocks denies report of $2.5 billion acquisition talks with Visa",
+      "link": "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926",
+      "source": "theblock",
+      "published": "2026-10-22T13:27:54+00:00",
+      "summary": "Fireblocks denied an Axios report that Visa is in talks to acquire the crypto custody firm for around $2.5 billion.",
+      "title_es": "Fireblocks denies report of $2.5 billion acquisition talks with Visa"
+    },
+    {
+      "id": "552e43ae5e35",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-22T13:22:57+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
+      "title_es": "Here’s what happened in crypto today"
+    },
+    {
+      "id": "bd86f8d7a293",
+      "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
+      "link": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-22T13:20:57+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thailand SEC says several companies eye crypto ETFs, none has applied\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HP7DQ484K9JYNHR6WQMB12/regulations-thailand-crypto-1.jpg\" /></p>",
+      "title_es": "Thailand SEC says several companies eye crypto ETFs, none has applied"
+    },
+    {
+      "id": "4e9b4e800441",
+      "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
+      "link": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-22T13:13:45+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HTDR3RG1PRKW22RG4VE5A4/hi-sofi-and-mastercard-move-stablecoi",
+      "title_es": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds"
+    },
+    {
+      "id": "2e9def53da87",
+      "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
+      "link": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
+      "source": "coindesk",
+      "published": "2026-10-22T13:00:00+00:00",
+      "summary": "",
+      "title_es": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence"
+    },
+    {
+      "id": "fded4915fa6a",
+      "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
+      "link": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-22T13:00:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETF buyers are trend followers, not setters, DWF Labs says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5H5T36QZ3A96VS2GX65FP67/bull-crypto-running-bitcoin-etf-btc.png\" /><",
+      "title_es": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says"
+    },
+    {
+      "id": "933c079c31db",
+      "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
+      "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
+      "source": "coindesk",
+      "published": "2026-10-22T12:14:29+00:00",
+      "summary": "",
+      "title_es": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto"
+    },
+    {
+      "id": "3e15bf0f4f03",
+      "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
+      "link": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
+      "source": "decrypt",
+      "published": "2026-10-22T12:01:03+00:00",
+      "summary": "Each SOFIE token represents $1 on deposit at SoFi Bank, earning 4.40% APY with FDIC insurance—a yield-and-protection combination ordinary stablecoins lack.",
+      "title_es": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin"
+    },
+    {
+      "id": "bfa793fb4ee9",
+      "title": "The UK needs a workable route to regulated DeFi access",
+      "link": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-22T12:00:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The UK needs a workable route to regulated DeFi access\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HHQJ6G4J091462661VC59G/hi-defi-revolution-during-a-global-crisis.png\" /></p><p>",
+      "title_es": "The UK needs a workable route to regulated DeFi access"
+    },
+    {
+      "id": "e029926c6f3d",
+      "title": "Dune launches onchain trading data feeds as tokenized markets expand",
+      "link": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889",
+      "source": "theblock",
+      "published": "2026-10-22T12:00:00+00:00",
+      "summary": "The new real-time market feeds will cover trade data from over 200 onchain venues across 12 blockchain networks.",
+      "title_es": "Dune launches onchain trading data feeds as tokenized markets expand"
+    },
+    {
+      "id": "0a9898673b0a",
+      "title": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
+      "link": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916",
+      "source": "theblock",
+      "published": "2026-10-22T12:00:00+00:00",
+      "summary": "SoFi has launched SOFIE, a tokenized deposit offering 4.4% APY and FDIC insurance, with the option to convert to SoFiUSD.",
+      "title_es": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users"
+    },
+    {
+      "id": "38c1389f6e68",
+      "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
+      "source": "coindesk",
+      "published": "2026-10-22T11:20:04+00:00",
+      "summary": "",
+      "title_es": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble"
+    },
+    {
+      "id": "10c70ff7c2d3",
+      "title": "CoinDCX admits ‘operational losses’ after $16M wallet transfers draw scrutiny",
+      "link": "https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-22T10:53:10+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CoinDCX admits ‘operational losses’ after $16M wallet transfers draw scrutiny\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HF5EN0WZ0ZGS5T8DTYKV1S/hi-the-perfect-storm-cybercrime-s",
+      "title_es": "CoinDCX admits ‘operational losses’ after $16M wallet transfers draw scrutiny"
+    },
+    {
+      "id": "39c8305b5c84",
+      "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
+      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
+      "source": "coindesk",
+      "published": "2026-10-22T10:50:04+00:00",
+      "summary": "",
+      "title_es": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines"
+    },
+    {
+      "id": "be5979edfe30",
+      "title": "Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M",
+      "link": "https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m",
+      "source": "decrypt",
+      "published": "2026-10-22T10:45:13+00:00",
+      "summary": "Police say a car-rental firm near Milan was an underground bank for 'Ndrangheta and Camorra figures, moving money abroad and into crypto.",
+      "title_es": "Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M"
+    },
+    {
+      "id": "32236fbb9fbe",
+      "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
+      "link": "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-22T10:38:51+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HJSXMPY51PCJ82B9PXHE2E/hi-market-correction-vs-bear-market-btc-2.jpg\"",
+      "title_es": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls"
+    },
+    {
+      "id": "18f9c48eaf05",
+      "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
+      "link": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
+      "source": "coindesk",
+      "published": "2026-10-22T10:18:28+00:00",
+      "summary": "",
+      "title_es": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion"
+    },
+    {
+      "id": "98755e6000ca",
+      "title": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
+      "link": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
+      "source": "decrypt",
+      "published": "2026-10-22T10:09:42+00:00",
+      "summary": "A Tianjin court will hear the application after a six-month notice period, while a parallel fight over the same coins continues in London.",
+      "title_es": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case"
+    },
+    {
+      "id": "193544b276c9",
+      "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
+      "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
+      "source": "theblock",
+      "published": "2026-10-22T09:56:16+00:00",
+      "summary": "Spot bitcoin ETFs attracted $528 million on Wednesday as BlackRock and Fidelity led a recovery in institutional demand.",
+      "title_es": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak"
+    },
+    {
+      "id": "b9a9330ca46b",
+      "title": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
+      "link": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
+      "source": "coindesk",
+      "published": "2026-10-22T09:54:26+00:00",
+      "summary": "",
+      "title_es": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge"
+    },
+    {
+      "id": "c5f3f1215722",
+      "title": "Starknet voters back research into life beyond Ethereum",
+      "link": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-22T09:37:54+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Starknet voters back research into life beyond Ethereum\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HD0868XDVMAEX50APTK2HS/quantum.png\" /></p><p>StarkWare plans to release a draf",
+      "title_es": "Starknet voters back research into life beyond Ethereum"
+    },
+    {
+      "id": "5c6072cce777",
+      "title": "Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1",
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885",
+      "source": "theblock",
+      "published": "2026-10-22T09:32:00+00:00",
+      "summary": "Starknet's community backed research into becoming an independent post-quantum Layer 1, with a draft whitepaper expected in November.",
+      "title_es": "Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1"
+    },
+    {
+      "id": "ff98ec630029",
+      "title": "Layer 2 Scaling Solutions",
+      "link": "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685",
+      "source": "theblock",
+      "published": "2026-10-22T09:15:50+00:00",
+      "summary": "Layer 2 scaling solutions help blockchains like Ethereum process more activity without forcing every transaction to happen directly on the base chain.\nEthereum’s main network is secure and decentralized, but blockspace is limited. When demand rises, fees increase and users can get priced out. Layer ",
+      "title_es": "Layer 2 Scaling Solutions"
+    },
+    {
+      "id": "98d7d00b6c68",
+      "title": "South Korea’s crypto bill nears completion while tax debate intensifies: reports",
+      "link": "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880",
+      "source": "theblock",
+      "published": "2026-10-22T09:11:57+00:00",
+      "summary": "The bill seeks to establish a framework for digital assets, including licensing regimes for exchanges and rules for stablecoin issuance.",
+      "title_es": "South Korea’s crypto bill nears completion while tax debate intensifies: reports"
+    },
+    {
+      "id": "4d980d8d3941",
+      "title": "ETH to XMR: How to Swap Ethereum to Monero Without an Account as XMR Outpaces Ether",
+      "link": "https://cryptonews.com/news/eth-to-xmr-how-to-swap-ethereum-to-monero-without-an-account-as-xmr-outpaces-ether/",
+      "source": "cryptonews",
+      "published": "2026-10-22T09:11:22+00:00",
+      "summary": "<p>One Ether (ETH) now swaps for about 3.7 Monero (XMR), down from almost 13 a year ago. On October 22, 2025, ETH traded near $3,866 and XMR near $305, according to CoinGecko. On October 22, 2026, ETH is worth around $2,400 and XMR around $645: Monero has more than doubled over the year, while Ether",
+      "title_es": "ETH to XMR: How to Swap Ethereum to Monero Without an Account as XMR Outpaces Ether"
+    },
+    {
+      "id": "a7100fad843c",
+      "title": "Bitcoin ETFs Pull In $1.07B as Irish Drug Trafficker-Linked Wallet Moves $41M",
+      "link": "https://cryptonews.com/news/bitcoin-etf-pull-in-1-07b-as-irish-drug-trafficker-linked-wallet-moves-41m/",
+      "source": "cryptonews",
+      "published": "2026-10-22T09:10:13+00:00",
+      "summary": "<p>Bitcoin ETF pulled $1.07 billion in three days as a wallet linked to Irish drug trafficker Clifton Collins moved 500 BTC to Coinbase Prime.</p>\n<p>The post <a href=\"https://cryptonews.com/news/bitcoin-etf-pull-in-1-07b-as-irish-drug-trafficker-linked-wallet-moves-41m/\">Bitcoin ETFs Pull In $1.07B",
+      "title_es": "Bitcoin ETFs Pull In $1.07B as Irish Drug Trafficker-Linked Wallet Moves $41M"
+    },
+    {
+      "id": "8ab01ee38909",
+      "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
+      "link": "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-22T09:06:02+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"PHP flaw draws millions of exploit attempts, Cloudflare CEO warns\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HCAK0M3P221WDQM62JF33T/hi-why-address-poisoning-works-without-steali",
+      "title_es": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns"
+    },
+    {
+      "id": "cf56dc60dfba",
+      "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
+      "link": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
+      "source": "coindesk",
+      "published": "2026-10-22T08:49:08+00:00",
+      "summary": "",
+      "title_es": "Asian stocks tumble, bitcoin retreats as China enters bear market"
+    },
+    {
+      "id": "41bda244b695",
+      "title": "Dogecoin Expands Utility as Robinhood Memecoin Boom Reveals Crypto’s Biggest Adoption Engine",
+      "link": "https://cryptonews.com/news/dogecoin-expands-utility-as-robinhood-memecoin-boom-reveals-cryptos-biggest-adoption-engine/",
+      "source": "cryptonews",
+      "published": "2026-10-22T08:29:21+00:00",
+      "summary": "<p>Dogecoin, Shiba Inu and Robinhood once again highlight how memecoins could drive on-chain adoption and bring more users into crypto.</p>\n<p>The post <a href=\"https://cryptonews.com/news/dogecoin-expands-utility-as-robinhood-memecoin-boom-reveals-cryptos-biggest-adoption-engine/\">Dogecoin Expands ",
+      "title_es": "Dogecoin Expands Utility as Robinhood Memecoin Boom Reveals Crypto’s Biggest Adoption Engine"
+    },
+    {
+      "id": "f1c6fd2bb269",
+      "title": "GENIUS Act Rules Are Reshaping the USDC vs. USDT Battle",
+      "link": "https://cryptonews.com/news/genius-act-rules-are-reshaping-the-usdc-vs-usdt-battle/",
+      "source": "cryptonews",
+      "published": "2026-10-22T07:45:36+00:00",
+      "summary": "<p>New GENIUS Act rules put Circle and Tether on different paths as USDC and USDT compete for US adoption and global stablecoin dominance.</p>\n<p>The post <a href=\"https://cryptonews.com/news/genius-act-rules-are-reshaping-the-usdc-vs-usdt-battle/\">GENIUS Act Rules Are Reshaping the USDC vs. USDT Ba",
+      "title_es": "GENIUS Act Rules Are Reshaping the USDC vs. USDT Battle"
+    },
+    {
+      "id": "f082da4c9123",
+      "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-22T07:37:32+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs bag another $528M, taking 3-day haul past $1B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NJXA13RF9N1Q13C8RH5D6G/surfing-blockchain-wave-etf-1.jpg\" /></p><p>US spot ",
+      "title_es": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B"
+    },
+    {
+      "id": "dabe0362bbd1",
+      "title": "PHP Attack Threatens Crypto Safety: Should You Cash Out or Pull Funds From Exchanges?",
+      "link": "https://cryptonews.com/news/php-attack-threatens-crypto-safety-should-you-cash-out-or-pull-funds-from-exchanges/",
+      "source": "cryptonews",
+      "published": "2026-10-22T07:04:11+00:00",
+      "summary": "<p>Should you cash out? The PHP attack raises crypto safety concerns as experts urge vulnerable servers to patch critical flaws.</p>\n<p>The post <a href=\"https://cryptonews.com/news/php-attack-threatens-crypto-safety-should-you-cash-out-or-pull-funds-from-exchanges/\">PHP Attack Threatens Crypto Safe",
+      "title_es": "PHP Attack Threatens Crypto Safety: Should You Cash Out or Pull Funds From Exchanges?"
+    },
+    {
+      "id": "dee5457143e4",
+      "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+      "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
+      "source": "coindesk",
+      "published": "2026-10-22T06:24:10+00:00",
+      "summary": "",
+      "title_es": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme"
+    },
+    {
+      "id": "207ca03528d8",
+      "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
+      "link": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-22T05:35:38+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Move over memecoins: Crypto ‘meme games’ coming, bagholders and all\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5H1AQMX8R4G54PG9X27A71M/crypto-meme-games.jpg\" /></p><p>“Plenty wil",
+      "title_es": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all"
+    },
+    {
+      "id": "bcbb63c3e2e9",
+      "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
+      "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
+      "source": "coindesk",
+      "published": "2026-10-22T05:24:58+00:00",
+      "summary": "",
+      "title_es": "Solana’s biggest network change since 2020 is live. Here’s how users benefit"
+    },
+    {
+      "id": "e4ac1dc64b29",
+      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+      "source": "coindesk",
+      "published": "2026-10-22T04:41:59+00:00",
+      "summary": "",
+      "title_es": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally"
+    },
+    {
+      "id": "045d72ab98be",
+      "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+      "link": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
+      "source": "coindesk",
+      "published": "2026-10-22T04:36:20+00:00",
+      "summary": "",
+      "title_es": "XRP Ledger bug fix moved to November after validator support dipped for two hours"
+    },
+    {
+      "id": "f92c92cf4c68",
+      "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
+      "source": "coindesk",
+      "published": "2026-10-22T03:51:34+00:00",
+      "summary": "",
+      "title_es": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves"
+    },
+    {
+      "id": "6e7302de1923",
+      "title": "Google Gemini AI Predicts an Explosive Q4 for Zcash",
+      "link": "https://cryptonews.com/news/google-gemini-ai-predicts-explosive-q4-for-zcash/",
+      "source": "cryptonews",
+      "published": "2026-10-22T01:19:00+00:00",
+      "summary": "<p>Google Gemini AI predicts something potentially explosive for Zcash (ZEC) by January 1, 2027. This isn&#8217;t a conventional bullish forecast; it&#8217;s a prediction based on a specific landmark catalyst for the privacy-focused token.The concept centers on a coordinated effort by major global b",
+      "title_es": "Google Gemini AI Predicts an Explosive Q4 for Zcash"
+    },
+    {
+      "id": "850311e97a14",
+      "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
+      "link": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-22T00:44:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"PHP Foundation admits ‘structural failure’ delayed critical security fix \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5GGTJWWHWMY5DQNPCZCMGFG/hi-what-is-dns-hijacking-2.jpg\" /></p",
+      "title_es": "PHP Foundation admits ‘structural failure’ delayed critical security fix"
+    },
+    {
+      "id": "9d4a77e9b0ef",
+      "title": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
+      "link": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
+      "source": "theblock",
+      "published": "2026-10-22T00:00:00+00:00",
+      "summary": "Aerodrome and Velodrome have merged to launch Aero across Ethereum mainnet, Base, Robinhood Chain, Ink, OP Mainnet, Arc, and Arbitrum.",
+      "title_es": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks"
+    },
     {
       "id": "5a01fc281928",
       "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
@@ -27,15 +441,6 @@
       "published": "2026-10-21T21:31:02+00:00",
       "summary": "Citadel's founder says investors are almost certainly in an AI bubble, warns a chip glut could crash prices like empty airline seats, yet expects the survivors to lead for decades.",
       "title_es": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble—And Compares GPUs to Airline Seats"
-    },
-    {
-      "id": "af059f5160f8",
-      "title": "Three Companies Have Notified the SEC of Intention To Start Tokenized Stocks Trading",
-      "link": "https://bitcoinmagazine.com/news/companies-apply-to-list-tokenized-stocks",
-      "source": "bitcoinmagazine",
-      "published": "2026-10-21T20:55:23+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/SEC-Green-Lights-Tokenized-Stock-Trading-Despite-Clarity-Act-Fail.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazi",
-      "title_es": "Three Companies Have Notified the SEC of Intention To Start Tokenized Stocks Trading"
     },
     {
       "id": "27f49eef7142",
@@ -72,15 +477,6 @@
       "published": "2026-10-21T20:16:02+00:00",
       "summary": "Nvidia's OpenShell Reference Architecture pairs a software sandbox on Vera CPUs with Sentry monitoring on BlueField-4 chips, aiming to let companies run autonomous agents while enforcing limits agents cannot reach.",
       "title_es": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents"
-    },
-    {
-      "id": "552e43ae5e35",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-21T20:10:47+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
-      "title_es": "Here’s what happened in crypto today"
     },
     {
       "id": "9abc4c79b470",
@@ -146,15 +542,6 @@
       "title_es": "Bitcoin Hits Weekly High as Crypto Market Rebounds"
     },
     {
-      "id": "5ac5769be78a",
-      "title": "Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia Custody",
-      "link": "https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian",
-      "source": "bitcoinmagazine",
-      "published": "2026-10-21T17:28:34+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Gemini_Generated_Image_nt4nqknt4nqknt4n.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/standard-chart",
-      "title_es": "Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia Custody"
-    },
-    {
       "id": "cd82229c2b7e",
       "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
       "link": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -191,15 +578,6 @@
       "title_es": "Dataline raises $10.6 million for decentralized data network for AI agents, plans ICO"
     },
     {
-      "id": "c90323182988",
-      "title": "Beyond HODLing: How Bitcoin-Backed Loans Can Unlock New Financial Opportunities",
-      "link": "https://bitcoinmagazine.com/markets/beyond-hodling-how-bitcoin-backed-loans-can-unlock-new-financial-opportunities",
-      "source": "bitcoinmagazine",
-      "published": "2026-10-21T16:24:07+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Liquidity-Without-Selling-Bitcoin.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/beyond-hodling-ho",
-      "title_es": "Beyond HODLing: How Bitcoin-Backed Loans Can Unlock New Financial Opportunities"
-    },
-    {
       "id": "5a0f593021e2",
       "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
       "link": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
@@ -218,15 +596,6 @@
       "title_es": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth"
     },
     {
-      "id": "f4bcadd8711d",
-      "title": "Kalshi Pushes Deeper Into Crypto Derivatives With Bitcoin-Backed Margin Loans",
-      "link": "https://bitcoinmagazine.com/news/kalshi-pushes-deeper-bitcoin-derivatives",
-      "source": "bitcoinmagazine",
-      "published": "2026-10-21T16:11:52+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Kalshi-Goes-Live-With-Americas-First-Regulated-Bitcoin-Perpetual-Futures.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoi",
-      "title_es": "Kalshi Pushes Deeper Into Crypto Derivatives With Bitcoin-Backed Margin Loans"
-    },
-    {
       "id": "9e1007fa85b0",
       "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
       "link": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -243,15 +612,6 @@
       "published": "2026-10-21T15:58:00+00:00",
       "summary": "<p>Something potentially massive could be brewing for Cardano (ADA) by January 1, 2027. Sam Altman&#8217;s ChatGPT AI predicts that, in an intentionally extreme, over-the-top scenario built on a hypothetical landmark catalyst landing for the project, a monumental price surge could be on the cards.Th",
       "title_es": "Is Cardano About to Take Over? ChatGPT AI Predicts a Huge Move"
-    },
-    {
-      "id": "bd022b207f9e",
-      "title": "Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-price-nears-85000-spacex-earnings",
-      "source": "bitcoinmagazine",
-      "published": "2026-10-21T15:46:14+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-20.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-price-nears-85000-spacex-earnings\" rel",
-      "title_es": "Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite"
     },
     {
       "id": "7508f6f72f90",
@@ -317,15 +677,6 @@
       "title_es": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain"
     },
     {
-      "id": "71444473c9f0",
-      "title": "President Trump to Highlight Crackdown on Overseas Crypto Scams",
-      "link": "https://bitcoinmagazine.com/news/president-trump-to-highlight-crackdown",
-      "source": "bitcoinmagazine",
-      "published": "2026-10-21T14:52:06+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/New-Clarity-Act-Draft-Would-Bar-Trump-and-Officials-From-Issuing-Crypto-With-a-2029-Sunset.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a hr",
-      "title_es": "President Trump to Highlight Crackdown on Overseas Crypto Scams"
-    },
-    {
       "id": "e7bc6a4c587b",
       "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
       "link": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
@@ -351,42 +702,6 @@
       "published": "2026-10-21T13:57:14+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana’s Alpenglow launches on mainnet, targets 99% faster finality \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F9M5QVFXDEA42YHSF756WB/hi-despite-the-markets-being-down-the-bloc",
       "title_es": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality"
-    },
-    {
-      "id": "5071d4c6aea8",
-      "title": "J.P. Morgan Reveals First-Ever Bitcoin Price Forecast in Long-Term Capital Market Report",
-      "link": "https://bitcoinmagazine.com/videos/j-p-morgan-reveals-first-ever-bitcoin-price-forecast-in-long-term-capital-market-report",
-      "source": "bitcoinmagazine",
-      "published": "2026-10-21T13:56:27+00:00",
-      "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><p></p><p><a href=\"https://www.youtube.com/watch?v=v-zWiMIuK1o\" rel=\"noopener noreferrer\" target=\"_blank\">📺 Watch Video</a></p></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmaga",
-      "title_es": "J.P. Morgan Reveals First-Ever Bitcoin Price Forecast in Long-Term Capital Market Report"
-    },
-    {
-      "id": "dcfebb3258a5",
-      "title": "Strive’s SATS: How 15% Yield Becomes A Bitcoin Accretion Machine",
-      "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/strives-sats-bitcoin-accretion",
-      "source": "bitcoinmagazine",
-      "published": "2026-10-21T13:52:51+00:00",
-      "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/e5ad517d-b23f-48c9-9595-051e0fb14901.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/bitcoin-for-corporatio",
-      "title_es": "Strive’s SATS: How 15% Yield Becomes A Bitcoin Accretion Machine"
-    },
-    {
-      "id": "e7d0b5479ab6",
-      "title": "Blockchain.com CEO: “Crypto Spring” has Arrived – Institutions Driving the Market",
-      "link": "https://bitcoinmagazine.com/videos/blockchain-com-ceo-crypto-spring-has-arrived-institutions-driving-the-market",
-      "source": "bitcoinmagazine",
-      "published": "2026-10-21T13:48:02+00:00",
-      "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><p></p><p><a href=\"https://www.youtube.com/watch?v=5oQuRGvq-_I\" rel=\"noopener noreferrer\" target=\"_blank\">📺 Watch Video</a></p></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmaga",
-      "title_es": "Blockchain.com CEO: “Crypto Spring” has Arrived – Institutions Driving the Market"
-    },
-    {
-      "id": "11054df28b94",
-      "title": "“Massively Undervalued” – Samson Mow on MSTR & Bitcoin Treasuries",
-      "link": "https://bitcoinmagazine.com/videos/massively-undervalued-samson-mow-on-mstr-bitcoin-treasuries",
-      "source": "bitcoinmagazine",
-      "published": "2026-10-21T13:43:51+00:00",
-      "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><p></p><p><a href=\"https://www.youtube.com/watch?v=ok6v03R4cC0\" rel=\"noopener noreferrer\" target=\"_blank\">📺 Watch Video</a></p></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmaga",
-      "title_es": "“Massively Undervalued” – Samson Mow on MSTR & Bitcoin Treasuries"
     },
     {
       "id": "c67a22f1202d",
@@ -470,15 +785,6 @@
       "title_es": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact"
     },
     {
-      "id": "2c36d18fac73",
-      "title": "Standard Chartered signs definitive deal to acquire Zodia Custody",
-      "link": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-21T12:06:23+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered signs definitive deal to acquire Zodia Custody\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F1FSSR50BKQNJE8H5390BV/hi-the-biggest-crypto-investments-as-in-fundi",
-      "title_es": "Standard Chartered signs definitive deal to acquire Zodia Custody"
-    },
-    {
       "id": "69b2d78d25a0",
       "title": "Ethereum Price Disappoints: Bitmine Fails to Offset ETF Exodus",
       "link": "https://cryptonews.com/news/ethereum-price-disappoints-as-bitmine-buying-fails-to-offset-389m-etf-exodus/",
@@ -560,42 +866,6 @@
       "title_es": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban"
     },
     {
-      "id": "8a049b129c30",
-      "title": "BitGo launches innovation unit to design crypto’s next breakout application",
-      "link": "https://www.theblock.co/news/business/2026-10-21-bitgo-launches-research-unit-421502",
-      "source": "theblock",
-      "published": "2026-10-21T11:00:00+00:00",
-      "summary": "BitGo Labs will initially focus on the intersection of AI and crypto, stating that the AI economy needs crypto financial infrastructure.",
-      "title_es": "BitGo launches innovation unit to design crypto’s next breakout application"
-    },
-    {
-      "id": "0b93d128274e",
-      "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
-      "link": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-21T10:50:52+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"PancakeSwap TVL tops $380M as major fee overhaul heads to vote \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F0XMYD8030VW50866B29EH/defi-pancakeswap-icon-changed.png\" /></p><p>Pan",
-      "title_es": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote"
-    },
-    {
-      "id": "ee327954f339",
-      "title": "France proposes liability for crypto exchanges offering DeFi access",
-      "link": "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-21T10:46:00+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"France proposes liability for crypto exchanges offering DeFi access\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EW6T8X7HNP6HYDF0Y90R51/cointelegraph-with-french-flag.png\" /></p><",
-      "title_es": "France proposes liability for crypto exchanges offering DeFi access"
-    },
-    {
-      "id": "6c9f1cee3b59",
-      "title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
-      "link": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-21T10:39:13+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F0PB0PYRW4ADV979RY5M5W/hi-on-chain-volume-vs-trading-value.",
-      "title_es": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode"
-    },
-    {
       "id": "005303216cb5",
       "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
       "link": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date",
@@ -621,33 +891,6 @@
       "published": "2026-10-21T10:29:41+00:00",
       "summary": "Lloyds drew the most complaints despite having no published policy restricting crypto transfers, according to a Stand With Crypto report.",
       "title_es": "UK Banks Hit With 10,000 Complaints Over Blocked Crypto Transfers in 90 Days: Report"
-    },
-    {
-      "id": "70c3c2c3cf44",
-      "title": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins",
-      "link": "https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-21T10:22:44+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ES4410V5T0TB2Z1ESB86ZY/hi-south-korea-lifts-9-year-corp",
-      "title_es": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins"
-    },
-    {
-      "id": "2020f9efc753",
-      "title": "Zcash rallies 12% as developers finalize NU7 activation height",
-      "link": "https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-21T10:15:00+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zcash rallies 12% as developers finalize NU7 activation height\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EY9NGAQBRRNWG4WW84BF23/zcash-with-blockchain-elements.png\" /></p><p>Zca",
-      "title_es": "Zcash rallies 12% as developers finalize NU7 activation height"
-    },
-    {
-      "id": "e483a8575e85",
-      "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
-      "link": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-21T10:13:52+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Drift exploiter sends $109M in Ether to Tornado Cash in 2 days\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K817QH0K358EBX7ENA8QG7/hacker-and-lasers-ethereum.jpg\" /></p><p>Wallets",
-      "title_es": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days"
     },
     {
       "id": "9750e75ff624",
@@ -677,33 +920,6 @@
       "title_es": "Monero futures are again heating with leverage, raising volatility risks"
     },
     {
-      "id": "d62d4a550cf1",
-      "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
-      "link": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
-      "source": "coindesk",
-      "published": "2026-10-21T08:47:11+00:00",
-      "summary": "",
-      "title_es": "Tether leads $15 million funding round for AI-focused payment startup Mural"
-    },
-    {
-      "id": "fbfdc12d573d",
-      "title": "Ether ETF outflows continue, pass $1B in October so far",
-      "link": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-21T08:11:50+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether ETF outflows continue, pass $1B in October so far\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ENVP95CYXDBRWRRSVDGA2V/cointelegraph-eth-etf.png\" /></p><p>US spot Ether ETFs ",
-      "title_es": "Ether ETF outflows continue, pass $1B in October so far"
-    },
-    {
-      "id": "9909d2150625",
-      "title": "Zcash developers confirm November date for upgrade that triples payment speed",
-      "link": "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed",
-      "source": "coindesk",
-      "published": "2026-10-21T08:10:12+00:00",
-      "summary": "",
-      "title_es": "Zcash developers confirm November date for upgrade that triples payment speed"
-    },
-    {
       "id": "0d161bf29f5a",
       "title": "Switzerland Bitcoin ETF and Cameroon’s Paul Biya: A Financial Haven Debate",
       "link": "https://cryptonews.com/news/switzerland-bitcoin-etf-and-cameroon-paul-biya-a-financial-haven-debate/",
@@ -720,87 +936,6 @@
       "published": "2026-10-21T07:14:19+00:00",
       "summary": "<p>Your crypto may be safe, but can you access it? The Revolut outage highlights the risks of centralized platforms.</p>\n<p>The post <a href=\"https://cryptonews.com/news/revolut-outage-crypto-access-google-cloud-failure/\">Revolut Outage Hits Crypto Access as Google Cloud Failure Disrupts Banking Ser",
       "title_es": "Revolut Outage Hits Crypto Access as Google Cloud Failure Disrupts Banking Services"
-    },
-    {
-      "id": "933fff426ec4",
-      "title": "Malaysia central bank launches DLT platform for tokenized bonds",
-      "link": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-21T05:56:29+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Malaysia central bank launches DLT platform for tokenized bonds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EFRAEF78CJAMAFGA606YZ5/hi-us-banks-have-deeper-interest-in-digital-tha",
-      "title_es": "Malaysia central bank launches DLT platform for tokenized bonds"
-    },
-    {
-      "id": "5dfe23fd6818",
-      "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
-      "link": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
-      "source": "coindesk",
-      "published": "2026-10-21T05:25:57+00:00",
-      "summary": "",
-      "title_es": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin"
-    },
-    {
-      "id": "5f6d1462e526",
-      "title": "Tech giants rush to block 8 eMudhra certs that could enable fake sites",
-      "link": "https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-21T05:15:00+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tech giants rush to block 8 eMudhra certs that could enable fake sites\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EC7DBTTRHAW1KTA88RS4JK/hi-timeframes3-warning.jpg\" /></p><p>A p",
-      "title_es": "Tech giants rush to block 8 eMudhra certs that could enable fake sites"
-    },
-    {
-      "id": "05a3eff4bcd5",
-      "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
-      "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
-      "source": "coindesk",
-      "published": "2026-10-21T04:35:52+00:00",
-      "summary": "",
-      "title_es": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday"
-    },
-    {
-      "id": "195444ff5c4d",
-      "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
-      "link": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
-      "source": "coindesk",
-      "published": "2026-10-21T04:11:58+00:00",
-      "summary": "",
-      "title_es": "A company that vouches for websites had secret keys so weak that 8 of them were cracked"
-    },
-    {
-      "id": "c7220f0788d6",
-      "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
-      "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
-      "source": "coindesk",
-      "published": "2026-10-21T04:07:07+00:00",
-      "summary": "",
-      "title_es": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%"
-    },
-    {
-      "id": "e0ce3e8e53d5",
-      "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
-      "link": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
-      "source": "theblock",
-      "published": "2026-10-21T02:30:08+00:00",
-      "summary": "The companies also plan to explore ways to broaden global access to Dunamu's Ethereum Layer 2, GIWA chain.",
-      "title_es": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion"
-    },
-    {
-      "id": "f6dce6dc0d0e",
-      "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
-      "link": "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-21T01:19:14+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5E0JNAWGS0RJBJ6F6WV37FG/spacex.jpg\" /></p><p>A merger would b",
-      "title_es": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold"
-    },
-    {
-      "id": "5e60c3d2ea5c",
-      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
-      "link": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-20T23:26:02+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Qubic restarts blockchain, opens recovery claims after $1.4M hack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5DSAH36P14HYENYBM6CHPAW/blockchain-network.jpg\" /></p><p>The network’",
-      "title_es": "Qubic restarts blockchain, opens recovery claims after $1.4M hack"
     },
     {
       "id": "332eefb4ab2f",
@@ -848,15 +983,6 @@
       "title_es": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat"
     },
     {
-      "id": "83a4f26ee865",
-      "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
-      "link": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
-      "source": "coindesk",
-      "published": "2026-10-20T21:12:21+00:00",
-      "summary": "",
-      "title_es": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance"
-    },
-    {
       "id": "d719cf346deb",
       "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
       "link": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
@@ -884,24 +1010,6 @@
       "title_es": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly"
     },
     {
-      "id": "2df2c48ae085",
-      "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
-      "link": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
-      "source": "theblock",
-      "published": "2026-10-20T19:19:54+00:00",
-      "summary": "As the SEC’s comment period on a cryptocurrency proposal draws to a close, digital asset firms and Wall Street institutions have thoughts.",
-      "title_es": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close"
-    },
-    {
-      "id": "1bf9e2a0048a",
-      "title": "Utah likens Kalshi to a ‘back-alley gambling den’ in lawsuit naming Susquehanna firms",
-      "link": "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442",
-      "source": "theblock",
-      "published": "2026-10-20T19:12:38+00:00",
-      "summary": "Utah seeks to recover alleged gambling profits and block Kalshi bets across sports, politics and culture.",
-      "title_es": "Utah likens Kalshi to a ‘back-alley gambling den’ in lawsuit naming Susquehanna firms"
-    },
-    {
       "id": "ec365141ff14",
       "title": "Websites Offering GTA 6 Early Access for Crypto Payments",
       "link": "https://cryptonews.com/news/gta-6-crypto-scams/",
@@ -920,105 +1028,6 @@
       "title_es": "XRP Price Prediction: Evernorth Teases Surprise Ahead of Ripple Swell"
     },
     {
-      "id": "8de569e95581",
-      "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
-      "link": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying",
-      "source": "decrypt",
-      "published": "2026-10-20T18:31:04+00:00",
-      "summary": "U.S. spot Bitcoin ETFs took in $526.7 million on Monday, their biggest day since Sept. 22. BlackRock's IBIT supplied all of it while Fidelity and Grayscale funds bled.",
-      "title_es": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying"
-    },
-    {
-      "id": "c4873ad5e8a2",
-      "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
-      "link": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
-      "source": "coindesk",
-      "published": "2026-10-20T18:26:29+00:00",
-      "summary": "",
-      "title_es": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans"
-    },
-    {
-      "id": "665acdf56fe7",
-      "title": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
-      "link": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
-      "source": "theblock",
-      "published": "2026-10-20T18:14:28+00:00",
-      "summary": "J.P. Morgan Asset Management's first long-term bitcoin forecast projects a 10% annual return but flags 55% volatility as a barrier to portfolio adoption.",
-      "title_es": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually"
-    },
-    {
-      "id": "14cba2dc897c",
-      "title": "Bitcoin's Next Move: Here's What to Watch",
-      "link": "https://decrypt.co/381435/bitcoins-next-move-heres-what-to-watch",
-      "source": "decrypt",
-      "published": "2026-10-20T17:45:04+00:00",
-      "summary": "Bitcoin trades just below $83,000, above both the short-term and long-term moving averages. Here are the levels traders are watching.",
-      "title_es": "Bitcoin's Next Move: Here's What to Watch"
-    },
-    {
-      "id": "9c610c464788",
-      "title": "Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation",
-      "link": "https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430",
-      "source": "theblock",
-      "published": "2026-10-20T17:11:47+00:00",
-      "summary": "Nectar Group, the developer of bitcoin income platform HoneyB, has raised $5 million in a seed funding round.",
-      "title_es": "Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation"
-    },
-    {
-      "id": "9d498bf479df",
-      "title": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000",
-      "link": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims",
-      "source": "decrypt",
-      "published": "2026-10-20T17:03:26+00:00",
-      "summary": "Zcash jumped 8.5% in 24 hours to $1,215.85 as the broader crypto market rebounded, with Bitcoin up 1.6% and ETF money flowing back in.",
-      "title_es": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000"
-    },
-    {
-      "id": "de2ca794af61",
-      "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
-      "link": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
-      "source": "coindesk",
-      "published": "2026-10-20T17:02:31+00:00",
-      "summary": "",
-      "title_es": "The Coinbase allegations expose Bitcoin's corporate governance gap"
-    },
-    {
-      "id": "9051338eaeef",
-      "title": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
-      "link": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
-      "source": "theblock",
-      "published": "2026-10-20T16:31:24+00:00",
-      "summary": "A record 43.8 million ETH, nearly 36% of supply, was staked in Q3 as yields fell to 2.63%. Solana staking hit a record 440.5 million SOL.",
-      "title_es": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise"
-    },
-    {
-      "id": "fe71268cc30c",
-      "title": "The Midterms Are the First Real Test of Whether Markets Beat Pollsters",
-      "link": "https://decrypt.co/380966/the-midterms-are-the-first-real-test-of-whether-markets-beat-pollsters",
-      "source": "decrypt",
-      "published": "2026-10-20T16:26:58+00:00",
-      "summary": "Former NBC News political director Chuck Todd is hosting NEXTPredict two weeks before the vote, and has yet to pick a side.",
-      "title_es": "The Midterms Are the First Real Test of Whether Markets Beat Pollsters"
-    },
-    {
-      "id": "4f9679559ac4",
-      "title": "OKX is putting its money where its mouth is with new protection plan: Former NY Gov. Cuomo",
-      "link": "https://www.theblock.co/news/regulation/2026-10-20-okx-putting-money-where-mouth-is-new-protection-plan-former-ny-gov-cuomo-421421",
-      "source": "theblock",
-      "published": "2026-10-20T16:20:40+00:00",
-      "summary": "OKX debuted OKX Shield in the U.S. on Tuesday, in what former New York Gov. Andrew Cuomo says is a sign of trust.",
-      "title_es": "OKX is putting its money where its mouth is with new protection plan: Former NY Gov. Cuomo"
-    },
-    {
-      "id": "3b9e81cf207b",
-      "title": "Mastercard opens early access to AI agent payments following pilots with Coinbase, Base and Cloudflare",
-      "link": "https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406",
-      "source": "theblock",
-      "published": "2026-10-20T16:00:00+00:00",
-      "summary": "Mastercard opened early access to Agent Pay for Machines after pilots with Coinbase, Base, Cloudflare, and other partners.",
-      "title_es": "Mastercard opens early access to AI agent payments following pilots with Coinbase, Base and Cloudflare"
-    },
-    {
       "id": "2b019f5c5652",
       "title": "XRP Price Warning: Leverage Resets as $11.8B in Reserves Loom",
       "link": "https://cryptonews.com/news/xrp-price-vs-exchange-reserves-leverage/",
@@ -1026,96 +1035,6 @@
       "published": "2026-10-20T14:56:00+00:00",
       "summary": "<p>XRP exchange reserves reach 11.81 billion tokens as $1.25 support faces pressure, while lighter leverage leaves supply concerns unresolved.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrp-price-vs-exchange-reserves-leverage/\">XRP Price Warning: Leverage Resets as $11.8B in Reserves Loom<",
       "title_es": "XRP Price Warning: Leverage Resets as $11.8B in Reserves Loom"
-    },
-    {
-      "id": "8b1856feaf0f",
-      "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
-      "link": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
-      "source": "coindesk",
-      "published": "2026-10-20T14:28:39+00:00",
-      "summary": "",
-      "title_es": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash"
-    },
-    {
-      "id": "45b9465fb077",
-      "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
-      "link": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
-      "source": "coindesk",
-      "published": "2026-10-20T13:35:08+00:00",
-      "summary": "",
-      "title_es": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre"
-    },
-    {
-      "id": "4ee4e317352d",
-      "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
-      "link": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
-      "source": "coindesk",
-      "published": "2026-10-20T12:40:17+00:00",
-      "summary": "",
-      "title_es": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading"
-    },
-    {
-      "id": "91857dcc7fd1",
-      "title": "North Korea Polymarket Prediction Odds: Kim Jong Un’s Appearance Did Not Settle Leadership Fears",
-      "link": "https://cryptonews.com/news/north-korea-polymarket-prediction-odds-kim-leadership-contract/",
-      "source": "cryptonews",
-      "published": "2026-10-20T12:12:29+00:00",
-      "summary": "<p>Kim Jong Un’s October 19 appearance challenged death rumors, but Polymarket still tracks whether he remains supreme leader through 2026.</p>\n<p>The post <a href=\"https://cryptonews.com/news/north-korea-polymarket-prediction-odds-kim-leadership-contract/\">North Korea Polymarket Prediction Odds: Ki",
-      "title_es": "North Korea Polymarket Prediction Odds: Kim Jong Un’s Appearance Did Not Settle Leadership Fears"
-    },
-    {
-      "id": "8461c5eab019",
-      "title": "Ethereum Price Prediction: Is the $60,000 ETH Forecast Realistic?",
-      "link": "https://cryptonews.com/news/ethereum-price-prediction-is-60-000-realistic/",
-      "source": "cryptonews",
-      "published": "2026-10-20T10:55:00+00:00",
-      "summary": "<p>ETH trades near $2,391 as traders assess whether institutional adoption and network upgrades can support a $60,000 forecast.</p>\n<p>The post <a href=\"https://cryptonews.com/news/ethereum-price-prediction-is-60-000-realistic/\">Ethereum Price Prediction: Is the $60,000 ETH Forecast Realistic?</a> a",
-      "title_es": "Ethereum Price Prediction: Is the $60,000 ETH Forecast Realistic?"
-    },
-    {
-      "id": "cb6608c3f18b",
-      "title": "Börse Stuttgart Wins EU Blockchain Trading License: But Is Europe Too Late to the Crypto Game?",
-      "link": "https://cryptonews.com/news/borse-stuttgart-seturion-liquidity-test/",
-      "source": "cryptonews",
-      "published": "2026-10-20T10:48:36+00:00",
-      "summary": "<p>Seturion is authorized to trade and settle tokenized securities in Europe. Thin liquidity and fragmented blockchain networks remain the test.</p>\n<p>The post <a href=\"https://cryptonews.com/news/borse-stuttgart-seturion-liquidity-test/\">Börse Stuttgart Wins EU Blockchain Trading License: But Is E",
-      "title_es": "Börse Stuttgart Wins EU Blockchain Trading License: But Is Europe Too Late to the Crypto Game?"
-    },
-    {
-      "id": "b948b53e9fc3",
-      "title": "XRP News: Lending Awaits Votes, Cleanup Nears Activation",
-      "link": "https://cryptonews.com/news/xrp-news-xrpl-lending-validator-votes/",
-      "source": "cryptonews",
-      "published": "2026-10-20T09:39:00+00:00",
-      "summary": "<p>XRPL lending remains unavailable as two amendments sit 10 votes short, while a separate cleanup package could activate on October 23 if support holds.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrp-news-xrpl-lending-validator-votes/\">XRP News: Lending Awaits Votes, Cleanup Nears Activat",
-      "title_es": "XRP News: Lending Awaits Votes, Cleanup Nears Activation"
-    },
-    {
-      "id": "8c11420cea34",
-      "title": "Tether Iran Dispute: Ardoino Pushes Back Against Senate",
-      "link": "https://cryptonews.com/news/tether-iran-wallet-freezes/",
-      "source": "cryptonews",
-      "published": "2026-10-20T08:55:00+00:00",
-      "summary": "<p>Tether faces Senate scrutiny after a report questioned Iran-linked wallet freezes and referrals raised potential sanctions and banking-law violations.</p>\n<p>The post <a href=\"https://cryptonews.com/news/tether-iran-wallet-freezes/\">Tether Iran Dispute: Ardoino Pushes Back Against Senate</a> appe",
-      "title_es": "Tether Iran Dispute: Ardoino Pushes Back Against Senate"
-    },
-    {
-      "id": "add5f24b5cb0",
-      "title": "BlackRock Tokenization Push Gathers Pace as Wall Street Races to Tokenize Assets",
-      "link": "https://cryptonews.com/news/blackrock-tokenization-push-funds-buidl-collateral/",
-      "source": "cryptonews",
-      "published": "2026-10-20T08:34:08+00:00",
-      "summary": "<p>BlackRock’s tokenised funds are already collateral in digital-asset markets, but Wall Street use depends on legal and institutional acceptance.</p>\n<p>The post <a href=\"https://cryptonews.com/news/blackrock-tokenization-push-funds-buidl-collateral/\">BlackRock Tokenization Push Gathers Pace as Wal",
-      "title_es": "BlackRock Tokenization Push Gathers Pace as Wall Street Races to Tokenize Assets"
-    },
-    {
-      "id": "5fd28c47fdfd",
-      "title": "Bitcoin Price Prediction: Strategy Slapped the Buy Button Amid MSCI Delisting Rumours",
-      "link": "https://cryptonews.com/news/bitcoin-price-prediction-msci-risk/",
-      "source": "cryptonews",
-      "published": "2026-10-20T07:52:03+00:00",
-      "summary": "<p>Bitcoin trades at $81,834 as Strategy adds 267 BTC and MSCI reviews its index eligibility. Key BTC levels, scenarios, and risks ahead.</p>\n<p>The post <a href=\"https://cryptonews.com/news/bitcoin-price-prediction-msci-risk/\">Bitcoin Price Prediction: Strategy Slapped the Buy Button Amid MSCI Deli",
-      "title_es": "Bitcoin Price Prediction: Strategy Slapped the Buy Button Amid MSCI Delisting Rumours"
     }
   ]
 }
