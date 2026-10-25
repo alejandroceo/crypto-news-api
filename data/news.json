@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T22:48:15.946564+00:00",
+  "updated_at": "2026-10-25T13:28:53.000354+00:00",
   "count": 114,
   "sources": [
     "coindesk",
@@ -10,6 +10,24 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "d7d87800d75e",
+      "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
+      "link": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
+      "source": "coindesk",
+      "published": "2026-10-25T13:00:00+00:00",
+      "summary": "",
+      "title_es": "UK banks face 10,000 complaints in 3 months over crypto restrictions"
+    },
+    {
+      "id": "dd7a629fdd9e",
+      "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+      "link": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-25T11:42:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Netanyahu floats use of blockchain as solution to potential financial sanctions\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5SCA4VS7NKA06DYBPJVW2FM/benjamin-netanyahu.png\" /></p><",
+      "title_es": "Netanyahu floats use of blockchain as solution to potential financial sanctions"
+    },
     {
       "id": "3e8502b2df5e",
       "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
@@ -875,15 +893,6 @@
       "title_es": "Oil Climbs Above $111 as AI Stocks Slide, Dragging the S&#038;P 500 and Global Markets With Them"
     },
     {
-      "id": "91775c20e50e",
-      "title": "Underdog taps zerohash to bring crypto deposits to prediction markets",
-      "link": "https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-22T17:24:49+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Underdog taps zerohash to bring crypto deposits to prediction markets \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J8K4B5TT5MGQN65E52S1DC/hi-when-will-the-prediction-market-take-",
-      "title_es": "Underdog taps zerohash to bring crypto deposits to prediction markets"
-    },
-    {
       "id": "a172ce1eb09a",
       "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
       "link": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
@@ -891,15 +900,6 @@
       "published": "2026-10-22T16:31:07+00:00",
       "summary": "Spot Bitcoin ETFs have drawn about $1.07 billion over three sessions, pushing October flows to a gain of roughly $460 million, even as Bitcoin and Ethereum prices slipped.",
       "title_es": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days"
-    },
-    {
-      "id": "1a5b4ec50802",
-      "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
-      "link": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
-      "source": "coindesk",
-      "published": "2026-10-22T15:40:25+00:00",
-      "summary": "",
-      "title_es": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures"
     },
     {
       "id": "792de5128dbc",
