@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T14:56:02.424375+00:00",
+  "updated_at": "2026-10-31T23:52:58.016240+00:00",
   "count": 115,
   "sources": [
     "coindesk",
@@ -10,6 +10,96 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "e5af74987e21",
+      "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+      "link": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
+      "source": "coindesk",
+      "published": "2026-10-31T18:00:00+00:00",
+      "summary": "",
+      "title_es": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered"
+    },
+    {
+      "id": "79437addc947",
+      "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+      "link": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
+      "source": "coindesk",
+      "published": "2026-10-31T16:09:30+00:00",
+      "summary": "",
+      "title_es": "A stolen iPhone, $14,000 in losses and London's crypto theft problem"
+    },
+    {
+      "id": "51f6e4a5a092",
+      "title": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
+      "link": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
+      "source": "coindesk",
+      "published": "2026-10-31T16:00:00+00:00",
+      "summary": "",
+      "title_es": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts"
+    },
+    {
+      "id": "5c2aa4f3f647",
+      "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+      "link": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-31T15:36:01+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance says 90% of stolen assets replenished, targets Sunday withdrawals\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M699FRTD1VV81MBCZE1W7405/binance-robot-hands.png\" /></p><p>Les",
+      "title_es": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals"
+    },
+    {
+      "id": "04e07f99ea5b",
+      "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+      "link": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-31T15:26:46+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin held up better than expected after Binance hack, Strive CEO says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6784E305ZRSTBDYV0WKG4RR/hi-true-or-false-91-of-surveys-about-b",
+      "title_es": "Bitcoin held up better than expected after Binance hack, Strive CEO says"
+    },
+    {
+      "id": "21bed95e3229",
+      "title": "Hackers hijack a dozen DeFi websites, all registered with Name.com, and steal about $138,000",
+      "link": "https://www.theblock.co/news/defi/2026-10-31-hackers-hijack-a-dozen-defi-websites-all-registered-with-name-com-and-steal-about-138000-432251",
+      "source": "theblock",
+      "published": "2026-10-31T15:26:27+00:00",
+      "summary": "All 12 hijacked domains are registered through Name.com, according to registry records accessed by The Block, suggesting a compromise.",
+      "title_es": "Hackers hijack a dozen DeFi websites, all registered with Name.com, and steal about $138,000"
+    },
+    {
+      "id": "3b17bac98999",
+      "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+      "link": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
+      "source": "coindesk",
+      "published": "2026-10-31T15:24:10+00:00",
+      "summary": "",
+      "title_es": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach"
+    },
+    {
+      "id": "552e43ae5e35",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-10-31T15:09:55+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
+      "title_es": "Here’s what happened in crypto today"
+    },
+    {
+      "id": "bd2e8391f4ad",
+      "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+      "link": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+      "source": "decrypt",
+      "published": "2026-10-31T15:01:02+00:00",
+      "summary": "Attackers tied to North Korea drained roughly $6.4 billion from the world’s largest crypto exchange. Here’s what we know about how it happened, who’s behind it, and what comes next.",
+      "title_es": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History"
+    },
+    {
+      "id": "8b5c43e3048f",
+      "title": "Institutions embrace crypto staking despite shrinking yields",
+      "link": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
+      "source": "coindesk",
+      "published": "2026-10-31T15:00:00+00:00",
+      "summary": "",
+      "title_es": "Institutions embrace crypto staking despite shrinking yields"
+    },
     {
       "id": "96ec6bd4f2f8",
       "title": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
@@ -344,15 +434,6 @@
       "title_es": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack"
     },
     {
-      "id": "552e43ae5e35",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-30T14:07:42+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
-      "title_es": "Here’s what happened in crypto today"
-    },
-    {
       "id": "0d0f93d38d59",
       "title": "Grok AI Predicts Wild Bitcoin Price Amid $6.3Bn Binance Hack",
       "link": "https://cryptonews.com/news/grok-ai-predicts-wild-bitcoin-price-amid-6-3bn-binance-hack/",
@@ -650,51 +731,6 @@
       "title_es": "Binance hack bites India's largest crypto exchange as it curbs futures trading"
     },
     {
-      "id": "3d976124c1f3",
-      "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
-      "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
-      "source": "coindesk",
-      "published": "2026-10-30T04:50:42+00:00",
-      "summary": "",
-      "title_es": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze"
-    },
-    {
-      "id": "326a71c336c8",
-      "title": "Standard Chartered sees more pain after $6 billion Binance hack sends bitcoin lower",
-      "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
-      "source": "coindesk",
-      "published": "2026-10-30T04:00:43+00:00",
-      "summary": "",
-      "title_es": "Standard Chartered sees more pain after $6 billion Binance hack sends bitcoin lower"
-    },
-    {
-      "id": "2f7503b601af",
-      "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
-      "link": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
-      "source": "coindesk",
-      "published": "2026-10-30T03:56:40+00:00",
-      "summary": "",
-      "title_es": "Institutional crypto investors rush to pull funds from exchanges after Binance hack"
-    },
-    {
-      "id": "1fcaad07768f",
-      "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
-      "link": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-30T03:47:01+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance hack could accelerate shift to DEXs: Standard Chartered\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65CZZGFZ3KNMMA8P6JN3YH4/uniswap.jpg\" /></p><p>Standard Chartered’s Geof",
-      "title_es": "Binance hack could accelerate shift to DEXs: Standard Chartered"
-    },
-    {
-      "id": "16387e287669",
-      "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
-      "link": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
-      "source": "coindesk",
-      "published": "2026-10-30T03:36:11+00:00",
-      "summary": "",
-      "title_es": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths"
-    },
-    {
       "id": "84a79e143fba",
       "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
       "link": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
@@ -702,24 +738,6 @@
       "published": "2026-10-30T02:22:31+00:00",
       "summary": "BNB lost 7.1%, while Binance Co-CEO Yi He pledged that the exchange will cover all user losses resulting from the hack.",
       "title_es": "Bitcoin slides below $77,000, BNB drops amid Binance hack"
-    },
-    {
-      "id": "601ab3fef380",
-      "title": "Binance hack drained wallets backing customer assets, reserve data shows",
-      "link": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
-      "source": "coindesk",
-      "published": "2026-10-30T00:17:10+00:00",
-      "summary": "",
-      "title_es": "Binance hack drained wallets backing customer assets, reserve data shows"
-    },
-    {
-      "id": "3de5b2a10f40",
-      "title": "Binance points to engineer’s hacked laptop in $6.3B breach",
-      "link": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-10-30T00:11:26+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance points to engineer’s hacked laptop in $6.3B breach \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6527RDQRJD95JK0XDRPNDD2/key.jpg\" /></p><p>Binance said attackers may have u",
-      "title_es": "Binance points to engineer’s hacked laptop in $6.3B breach"
     },
     {
       "id": "96c79be066ce",
@@ -828,15 +846,6 @@
       "published": "2026-10-29T17:15:11+00:00",
       "summary": "A third of Deribit's Bitcoin options settle Friday, a day after the Fed held rates with two officials voting to hike. Here's why that matters for Bitcoin's price.",
       "title_es": "$11 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means"
-    },
-    {
-      "id": "4582350115a1",
-      "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
-      "link": "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode",
-      "source": "decrypt",
-      "published": "2026-10-29T16:32:47+00:00",
-      "summary": "Bitcoin is trading close to the average price paid by U.S. spot ETF holders, a day after the Federal Reserve held rates steady.",
-      "title_es": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode"
     },
     {
       "id": "fbf35b0ee635",
@@ -990,15 +999,6 @@
       "published": "2026-10-28T16:07:08+00:00",
       "summary": "Bitwise's bear case puts bitcoin at $130,686 by 2036, while its bull case reaches $3.67 million over the next decade.",
       "title_es": "Bitwise raises bitcoin price target to $1.6 million by 2036, projects 34% annualized returns"
-    },
-    {
-      "id": "92fa6cf8d56f",
-      "title": "Coinbase adds Ripple’s RLUSD stablecoin across retail, exchange and Prime platforms",
-      "link": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009",
-      "source": "theblock",
-      "published": "2026-10-28T15:56:36+00:00",
-      "summary": "RLUSD is live on Coinbase with 1:1 USD conversion on XRP Ledger, Ethereum and Base, capping a big week of news for Ripple.",
-      "title_es": "Coinbase adds Ripple’s RLUSD stablecoin across retail, exchange and Prime platforms"
     },
     {
       "id": "c134f6344bc0",
