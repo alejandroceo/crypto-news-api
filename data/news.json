@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T15:18:20.720266+00:00",
+  "updated_at": "2026-11-08T00:06:39.414864+00:00",
   "count": 115,
   "sources": [
     "coindesk",
@@ -10,6 +10,78 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "2173fac23bc6",
+      "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
+      "link": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
+      "source": "theblock",
+      "published": "2026-11-07T21:57:58+00:00",
+      "summary": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months.",
+      "title_es": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago"
+    },
+    {
+      "id": "9c4608e665de",
+      "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
+      "link": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988",
+      "source": "theblock",
+      "published": "2026-11-07T20:59:47+00:00",
+      "summary": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story.",
+      "title_es": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations"
+    },
+    {
+      "id": "40fc94677bef",
+      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+      "source": "coindesk",
+      "published": "2026-11-07T19:13:16+00:00",
+      "summary": "",
+      "title_es": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end"
+    },
+    {
+      "id": "9e599ca2c916",
+      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+      "source": "coindesk",
+      "published": "2026-11-07T17:36:46+00:00",
+      "summary": "",
+      "title_es": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows"
+    },
+    {
+      "id": "ceca23beb141",
+      "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+      "link": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue",
+      "source": "decrypt",
+      "published": "2026-11-07T17:01:03+00:00",
+      "summary": "Apple and Meta’s objections mean all seven of the biggest U.S. tech companies have now asked to keep their shares off the planned OKX-ICE venue.",
+      "title_es": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue"
+    },
+    {
+      "id": "62014a88065e",
+      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+      "source": "coindesk",
+      "published": "2026-11-07T16:51:00+00:00",
+      "summary": "",
+      "title_es": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets"
+    },
+    {
+      "id": "67384296283a",
+      "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+      "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+      "source": "theblock",
+      "published": "2026-11-07T16:46:02+00:00",
+      "summary": "BlackRock's IBIT accounted for 98% of Friday's outflows, with $403 million leaving the industry-leading fund.",
+      "title_es": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June"
+    },
+    {
+      "id": "315510a8fbce",
+      "title": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?",
+      "link": "https://decrypt.co/382770/ai-chip-stocks-bounce-global-rout-bubble-starting-burst",
+      "source": "decrypt",
+      "published": "2026-11-07T16:01:02+00:00",
+      "summary": "A Friday rebound offered relief after a historic selloff. The question now is whether politics and mounting debt could turn an AI correction into something much worse.",
+      "title_es": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?"
+    },
     {
       "id": "552e43ae5e35",
       "title": "Here’s what happened in crypto today",
@@ -785,15 +857,6 @@
       "title_es": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them"
     },
     {
-      "id": "1c78a589231d",
-      "title": "Base deploys Denim upgrade on mainnet, replacing Flashblocks with 200ms block times",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-05-base-deploys-denim-upgrade-on-mainnet-replacing-flashblocks-with-200ms-block-times-434433",
-      "source": "theblock",
-      "published": "2026-11-05T19:00:00+00:00",
-      "summary": "Base activated its fourth network upgrade, Denim, introducing five canonical blocks per second at 200ms intervals.",
-      "title_es": "Base deploys Denim upgrade on mainnet, replacing Flashblocks with 200ms block times"
-    },
-    {
       "id": "e429f7fa48c7",
       "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
       "link": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
@@ -821,24 +884,6 @@
       "title_es": "Trump-Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books"
     },
     {
-      "id": "e13687958f99",
-      "title": "S&#038;P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs",
-      "link": "https://decrypt.co/382637/sp-500-plunges-wall-street-circuit-breaker-trump-record-highs",
-      "source": "decrypt",
-      "published": "2026-11-05T18:05:21+00:00",
-      "summary": "A day after Trump celebrated stock market records, the S&#038;P 500 sank 3.8%, putting emergency trading halts in focus as AI stocks dragged Wall Street sharply lower during Thursday trading.",
-      "title_es": "S&#038;P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs"
-    },
-    {
-      "id": "2a1304ef8679",
-      "title": "Hollywood Studios Quietly Ban Staff From Betting on Prediction Markets: Report",
-      "link": "https://decrypt.co/382626/hollywood-studios-quietly-ban-staff-from-betting-on-prediction-markets-report",
-      "source": "decrypt",
-      "published": "2026-11-05T17:31:10+00:00",
-      "summary": "Employees are being told not to bet on casting news, release dates or earnings, though experts say the rules will be hard to enforce.",
-      "title_es": "Hollywood Studios Quietly Ban Staff From Betting on Prediction Markets: Report"
-    },
-    {
       "id": "d75e55c1fd67",
       "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
       "link": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
@@ -846,15 +891,6 @@
       "published": "2026-11-05T16:58:21+00:00",
       "summary": "",
       "title_es": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?"
-    },
-    {
-      "id": "7d59a0d39e33",
-      "title": "Canary’s Injective ETF debuts on Nasdaq with exposure to staking rewards",
-      "link": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
-      "source": "theblock",
-      "published": "2026-11-05T16:53:56+00:00",
-      "summary": "Canary Capital's Staked INJ ETF debuts on Nasdaq, giving investors exposure to Injective's INJ token plus staking rewards reflected in NAV.",
-      "title_es": "Canary’s Injective ETF debuts on Nasdaq with exposure to staking rewards"
     },
     {
       "id": "ebf046e6d27e",
@@ -882,15 +918,6 @@
       "published": "2026-11-05T16:13:32+00:00",
       "summary": "",
       "title_es": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep"
-    },
-    {
-      "id": "6c69b5eaab1c",
-      "title": "Anchorage Digital seeks CFTC swap dealer registration for crypto options business",
-      "link": "https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437",
-      "source": "theblock",
-      "published": "2026-11-05T16:00:02+00:00",
-      "summary": "Anchorage Digital has applied for CFTC swap dealer registration and plans to offer European-style bitcoin and ether options if approved.",
-      "title_es": "Anchorage Digital seeks CFTC swap dealer registration for crypto options business"
     },
     {
       "id": "3b3d7bdaaafe",
@@ -927,33 +954,6 @@
       "published": "2026-11-05T13:16:42+00:00",
       "summary": "<p>Bitcoin ETF funds attracted $74.6 million as Goldman Sachs delayed expected Fed rate cuts to December 2026 and March 2027.</p>\n<p>The post <a href=\"https://cryptonews.com/news/bitcoin-etf-attracts-75m-as-goldman-sachs-calls-december-fed-rate-cut/\">Bitcoin ETF Attracts $75M as Goldman Sachs Calls ",
       "title_es": "Bitcoin ETF Attracts $75M as Goldman Sachs Calls December Fed Rate Cut"
-    },
-    {
-      "id": "86206e474672",
-      "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
-      "link": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
-      "source": "coindesk",
-      "published": "2026-11-05T12:55:03+00:00",
-      "summary": "",
-      "title_es": "Binance cuts SignalPlus access after security warning, urges users to check accounts"
-    },
-    {
-      "id": "ea83bde69be0",
-      "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
-      "link": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
-      "source": "coindesk",
-      "published": "2026-11-05T12:50:57+00:00",
-      "summary": "",
-      "title_es": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns"
-    },
-    {
-      "id": "4d0a3f0fdef5",
-      "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid",
-      "source": "coindesk",
-      "published": "2026-11-05T12:27:04+00:00",
-      "summary": "",
-      "title_es": "Bitcoin is resilient, but leverage is missing and demand still tepid"
     },
     {
       "id": "3064e0f1de09",
