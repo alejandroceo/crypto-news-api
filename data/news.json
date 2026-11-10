@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T03:05:14.027720+00:00",
+  "updated_at": "2026-11-10T16:42:06.791411+00:00",
   "count": 115,
   "sources": [
     "coindesk",
@@ -10,6 +10,528 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "bbfff8dc3f37",
+      "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
+      "link": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
+      "source": "decrypt",
+      "published": "2026-11-10T16:27:57+00:00",
+      "summary": "Bitcoin fell below $74,000 after October inflation beat forecasts, increasing pressure on the Federal Reserve to raise rates again at its December meeting.",
+      "title_es": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike"
+    },
+    {
+      "id": "0c8691880570",
+      "title": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat",
+      "link": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-10T16:25:03+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7321EC4JJA90DW6KN2X8639/us-inflation-1-960x640.webp\" /></p><p>Bitc",
+      "title_es": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat"
+    },
+    {
+      "id": "d10b3305abfb",
+      "title": "Alta raises $47.5 million Series A to build a blockchain for financial institutions",
+      "link": "https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244",
+      "source": "theblock",
+      "published": "2026-11-10T16:19:16+00:00",
+      "summary": "Alta’s blockchain will combine privacy and compliance controls for banks and other financial firms.",
+      "title_es": "Alta raises $47.5 million Series A to build a blockchain for financial institutions"
+    },
+    {
+      "id": "b3a062080bbf",
+      "title": "Canaan’s Q3 revenue plunges 90% to $14.5 million as bitcoin mining hardware sales slump",
+      "link": "https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252",
+      "source": "theblock",
+      "published": "2026-11-10T16:02:02+00:00",
+      "summary": "Canaan's Q3 revenue fell 90% to $14.5 million, though cryptocurrency and derivatives gains supported an $8 million profit.",
+      "title_es": "Canaan’s Q3 revenue plunges 90% to $14.5 million as bitcoin mining hardware sales slump"
+    },
+    {
+      "id": "a4945974a5d3",
+      "title": "MEGA commits $30 million to new products, starting with AI inference",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
+      "source": "theblock",
+      "published": "2026-11-10T15:56:02+00:00",
+      "summary": "The MegaETH Foundation has rebranded as MEGA and committed $30 million to new products, starting with AI inference.",
+      "title_es": "MEGA commits $30 million to new products, starting with AI inference"
+    },
+    {
+      "id": "ff2b21df6127",
+      "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
+      "link": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
+      "source": "coindesk",
+      "published": "2026-11-10T15:51:56+00:00",
+      "summary": "",
+      "title_es": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain"
+    },
+    {
+      "id": "c7456dc0f739",
+      "title": "Moody’s and Chainlink test cross-chain credit ratings distribution",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245",
+      "source": "theblock",
+      "published": "2026-11-10T15:49:59+00:00",
+      "summary": "Moody's Ratings and Chainlink ran a testnet pilot using CCIP to distribute credit ratings data across permissioned and public blockchains.",
+      "title_es": "Moody’s and Chainlink test cross-chain credit ratings distribution"
+    },
+    {
+      "id": "0a671cd705da",
+      "title": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
+      "link": "https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio",
+      "source": "decrypt",
+      "published": "2026-11-10T15:01:02+00:00",
+      "summary": "The trading platform, which says it has routed more than $1.3 trillion in trades, is launching four products ahead of Solana Breakpoint.",
+      "title_es": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio"
+    },
+    {
+      "id": "0bb7b8eb5ddf",
+      "title": "Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius",
+      "link": "https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius",
+      "source": "decrypt",
+      "published": "2026-11-10T14:32:48+00:00",
+      "summary": "Helius' Solana Privacy Rings will let Decrypt users send funds without broadcasting amounts, as it grows out The Information Exchange.",
+      "title_es": "Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius"
+    },
+    {
+      "id": "ef78157f601a",
+      "title": "Bitdeer reports record Q3 revenue as net loss widens to $125.5 million",
+      "link": "https://www.theblock.co/news/business/2026-11-10-bitdeer-reports-record-q3-revenue-as-net-loss-widens-to-125-5-million-437217",
+      "source": "theblock",
+      "published": "2026-11-10T14:26:02+00:00",
+      "summary": "Bitdeer reported record third-quarter revenue of $320.7 million as bitcoin production surged 248% to 3,855 BTC.",
+      "title_es": "Bitdeer reports record Q3 revenue as net loss widens to $125.5 million"
+    },
+    {
+      "id": "b2dce149f9b9",
+      "title": "Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion",
+      "link": "https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-to-78-valuing-company-at-up-to-1-4-trillion",
+      "source": "decrypt",
+      "published": "2026-11-10T14:06:02+00:00",
+      "summary": "The Claude developer is also lining up $26 billion from Nvidia, Google and other tech giants in a private placement alongside the listing.",
+      "title_es": "Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion"
+    },
+    {
+      "id": "1091936e102c",
+      "title": "Moody’s Taps Chainlink to Send Credit Ratings Across Multiple Blockchains",
+      "link": "https://decrypt.co/382888/moodys-chainlink-credit-ratings-across-multiple-blockchains",
+      "source": "decrypt",
+      "published": "2026-11-10T14:01:02+00:00",
+      "summary": "The testnet pilot used Chainlink’s CCIP to distribute Moody’s ratings simultaneously across permissioned and permissionless blockchains, while preserving the firm’s existing publication and governance processes.",
+      "title_es": "Moody’s Taps Chainlink to Send Credit Ratings Across Multiple Blockchains"
+    },
+    {
+      "id": "86464324e66c",
+      "title": "Visa adds Monad to stablecoin settlement network options",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201",
+      "source": "theblock",
+      "published": "2026-11-10T14:00:02+00:00",
+      "summary": "Visa has added Monad as a stablecoin settlement option for participating issuers and acquirers, the Monad Foundation said.",
+      "title_es": "Visa adds Monad to stablecoin settlement network options"
+    },
+    {
+      "id": "c24bc402ce9a",
+      "title": "Will stablecoins survive once the banks catch up?",
+      "link": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
+      "source": "coindesk",
+      "published": "2026-11-10T14:00:00+00:00",
+      "summary": "",
+      "title_es": "Will stablecoins survive once the banks catch up?"
+    },
+    {
+      "id": "04eb61b376c9",
+      "title": "eToro’s Q3 profit plunges 74% as weaker crypto trading weighs on earnings",
+      "link": "https://www.theblock.co/news/business/2026-11-10-etoros-q3-profit-plunges-74-as-weaker-crypto-trading-weighs-on-earnings-437192",
+      "source": "theblock",
+      "published": "2026-11-10T13:44:35+00:00",
+      "summary": "eToro reported a 74% decline in Q3 profit to $15 million, with weaker crypto activity weighing on earnings.",
+      "title_es": "eToro’s Q3 profit plunges 74% as weaker crypto trading weighs on earnings"
+    },
+    {
+      "id": "2afdf300c1df",
+      "title": "Poland’s lower house backs sanctions bill covering crypto freezes",
+      "link": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-10T13:40:39+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Poland’s lower house backs sanctions bill covering crypto freezes\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72PYD519ZQBWS31RRW4K0PX/edited-cointelegraph-illustration.png\" /></p>",
+      "title_es": "Poland’s lower house backs sanctions bill covering crypto freezes"
+    },
+    {
+      "id": "552e43ae5e35",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-10T13:34:37+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
+      "title_es": "Here’s what happened in crypto today"
+    },
+    {
+      "id": "b67696e4df3a",
+      "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
+      "link": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3",
+      "source": "coindesk",
+      "published": "2026-11-10T13:32:09+00:00",
+      "summary": "",
+      "title_es": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%"
+    },
+    {
+      "id": "ab0cdef3d309",
+      "title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
+      "link": "https://cointelegraph.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-10T13:30:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M706AM1558Y70YWGC5XVGNF0/mark-moss-trade-secrets.png\" /></p><p>Bitcoin O",
+      "title_es": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss"
+    },
+    {
+      "id": "ae7a81f0aa0d",
+      "title": "Morning Minute: Vitalik Recasts ETH as a Store of Value",
+      "link": "https://decrypt.co/382931/morning-minute-vitalik-recasts-eth-as-a-store-of-value",
+      "source": "decrypt",
+      "published": "2026-11-10T13:24:51+00:00",
+      "summary": "It’s a big shift for Ethereum from the “ultrasound money” days. But can ETH compete as a store-of-value play?",
+      "title_es": "Morning Minute: Vitalik Recasts ETH as a Store of Value"
+    },
+    {
+      "id": "8db9ed76f4d8",
+      "title": "North Korea Hackers Launches Elon Musk Memecoins to Launder $6.4B Binance Hack",
+      "link": "https://cryptonews.com/news/north-korea-memecoins-binance-hack/",
+      "source": "cryptonews",
+      "published": "2026-11-10T13:18:17+00:00",
+      "summary": "<p>North Korea memecoins featuring Elon Musk are helping launder funds from the $6.4B Binance hack. Here's what happens.</p>\n<p>The post <a href=\"https://cryptonews.com/news/north-korea-memecoins-binance-hack/\">North Korea Hackers Launches Elon Musk Memecoins to Launder $6.4B Binance Hack</a> appear",
+      "title_es": "North Korea Hackers Launches Elon Musk Memecoins to Launder $6.4B Binance Hack"
+    },
+    {
+      "id": "9452f47c085e",
+      "title": "Bitcoin may benefit as global tightening slows, Binance Research says",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-10T13:15:59+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin may benefit as global tightening slows, Binance Research says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72H4DJ226BDHE1MFZ2MJ0XJ/analysis-psychoanalyst2-1.jpg\" /></p><p>B",
+      "title_es": "Bitcoin may benefit as global tightening slows, Binance Research says"
+    },
+    {
+      "id": "1ced58a112ce",
+      "title": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
+      "link": "https://decrypt.co/382928/binance-warns-of-apple-ios-flaw-that-could-expose-iphone-users-private-keys",
+      "source": "decrypt",
+      "published": "2026-11-10T12:45:34+00:00",
+      "summary": "Apple has not publicly confirmed the \"worse_query\" bug, which a researcher published days before its latest iOS security update.",
+      "title_es": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys"
+    },
+    {
+      "id": "5a99aaab683d",
+      "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
+      "link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
+      "source": "coindesk",
+      "published": "2026-11-10T12:38:20+00:00",
+      "summary": "",
+      "title_es": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor"
+    },
+    {
+      "id": "87c70f41625d",
+      "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
+      "source": "coindesk",
+      "published": "2026-11-10T12:15:00+00:00",
+      "summary": "",
+      "title_es": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings"
+    },
+    {
+      "id": "ed671ec47059",
+      "title": "Binance Halts MEXC Transfers as FinCEN Cuts Exchange Off From US Financial System",
+      "link": "https://decrypt.co/382926/binance-halts-mexc-transfers-as-fincen-cuts-exchange-off-from-us-financial-system",
+      "source": "decrypt",
+      "published": "2026-11-10T12:13:27+00:00",
+      "summary": "The exchange will reject withdrawals to MEXC and hold deposits from it for review, after FinCEN tied it to $16 billion in suspicious flows.",
+      "title_es": "Binance Halts MEXC Transfers as FinCEN Cuts Exchange Off From US Financial System"
+    },
+    {
+      "id": "998198bf9e21",
+      "title": "Your iPhone Duo Under Attack? Binance Flags Dangerous iOS Security Flaw",
+      "link": "https://cryptonews.com/news/binance-ios-worse-query-iphone-duo-18pro-security-flaw/",
+      "source": "cryptonews",
+      "published": "2026-11-10T12:02:32+00:00",
+      "summary": "<p>Binance warns iPhone users that an iOS flaw could expose crypto seed phrases, private keys, and login credentials through malicious apps.</p>\n<p>The post <a href=\"https://cryptonews.com/news/binance-ios-worse-query-iphone-duo-18pro-security-flaw/\">Your iPhone Duo Under Attack? Binance Flags Dange",
+      "title_es": "Your iPhone Duo Under Attack? Binance Flags Dangerous iOS Security Flaw"
+    },
+    {
+      "id": "e16dd027fd8b",
+      "title": "HIVE reports $79 million quarterly net loss as bitcoin mining revenue falls and AI business grows",
+      "link": "https://www.theblock.co/news/business/2026-11-10-hive-reports-79-million-quarterly-net-loss-as-bitcoin-mining-revenue-falls-and-ai-business-grows-437177",
+      "source": "theblock",
+      "published": "2026-11-10T11:52:16+00:00",
+      "summary": "HIVE reported a $78.7 million quarterly net loss and $84.9 million in revenue, including $8.8 million from its AI business.",
+      "title_es": "HIVE reports $79 million quarterly net loss as bitcoin mining revenue falls and AI business grows"
+    },
+    {
+      "id": "aa07b288a093",
+      "title": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures",
+      "link": "https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-10T11:44:55+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72DGPHCSG70YGY72DZ7EFS4/hinew-us-government-crypto-coinbase.jpg\" ",
+      "title_es": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures"
+    },
+    {
+      "id": "749aebbb0fb4",
+      "title": "Nvidia, Jensen Huang Sued by Shareholders Over Alleged Ties to Suspected Chinese Spy",
+      "link": "https://decrypt.co/382913/nvidia-jensen-huang-sued-by-shareholders-over-alleged-ties-to-suspected-chinese-spy",
+      "source": "decrypt",
+      "published": "2026-11-10T11:26:56+00:00",
+      "summary": "A proposed class action claims the chipmaker misled investors about the CEO's alleged affair and the national security risks it posed.",
+      "title_es": "Nvidia, Jensen Huang Sued by Shareholders Over Alleged Ties to Suspected Chinese Spy"
+    },
+    {
+      "id": "23ef58d2338d",
+      "title": "Binance warns iOS flaw could expose crypto wallet keys",
+      "link": "https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-10T11:25:57+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance warns iOS flaw could expose crypto wallet keys\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72JTX67XQ0ZM4JSV4NCX5K5/hi-how-a-wrong-number-message-turned-into-a-34m-crypto-s",
+      "title_es": "Binance warns iOS flaw could expose crypto wallet keys"
+    },
+    {
+      "id": "388c98cc8ea6",
+      "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
+      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
+      "source": "coindesk",
+      "published": "2026-11-10T11:24:10+00:00",
+      "summary": "",
+      "title_es": "Bitcoin lags stock rebound in advance of U.S. inflation report"
+    },
+    {
+      "id": "b46adee2c85c",
+      "title": "Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing",
+      "link": "https://cointelegraph.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-10T10:56:51+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72FWR1NA57RHTK5MYEQ38F1/lawsuit-editorial-illustration.jpeg\" /></p",
+      "title_es": "Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing"
+    },
+    {
+      "id": "f69f37c84192",
+      "title": "Exodus shares rise 10% ahead of Q3 earnings showing 7% revenue growth, $8.3 million loss",
+      "link": "https://www.theblock.co/news/business/2026-11-10-exodus-shares-rise-10-ahead-of-q3-earnings-showing-7-revenue-growth-8-3-million-loss-437012",
+      "source": "theblock",
+      "published": "2026-11-10T10:53:57+00:00",
+      "summary": "Exodus shares rose 10% as the company reported third-quarter revenue of $32.5 million and a net loss of $8.3 million.",
+      "title_es": "Exodus shares rise 10% ahead of Q3 earnings showing 7% revenue growth, $8.3 million loss"
+    },
+    {
+      "id": "4d8f4b81f30a",
+      "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
+      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
+      "source": "coindesk",
+      "published": "2026-11-10T10:48:37+00:00",
+      "summary": "",
+      "title_es": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase"
+    },
+    {
+      "id": "0597263331b9",
+      "title": "Live news: Bitcoin falls to nearly three-month low after disappointing inflation data",
+      "link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
+      "source": "coindesk",
+      "published": "2026-11-10T10:41:45+00:00",
+      "summary": "",
+      "title_es": "Live news: Bitcoin falls to nearly three-month low after disappointing inflation data"
+    },
+    {
+      "id": "6fe78fbbe51b",
+      "title": "'Tough Questions' Ahead: Warren Targets Prediction Markets, Trump Crypto as Banking Chair",
+      "link": "https://decrypt.co/382910/tough-questions-ahead-warren-targets-prediction-markets-trump-crypto-as-banking-chair",
+      "source": "decrypt",
+      "published": "2026-11-10T10:41:06+00:00",
+      "summary": "An aide said Trump family crypto businesses should \"preserve their documents\" as Warren prepares to take over the Senate Banking Committee.",
+      "title_es": "'Tough Questions' Ahead: Warren Targets Prediction Markets, Trump Crypto as Banking Chair"
+    },
+    {
+      "id": "8020eb593d05",
+      "title": "Ark Invest trims Block, Bullish and its own bitcoin ETF holdings while buying Nvidia, SoFi",
+      "link": "https://www.theblock.co/news/business/2026-11-10-ark-invest-trims-block-bullish-holdings-437003",
+      "source": "theblock",
+      "published": "2026-11-10T10:36:53+00:00",
+      "summary": "Cathie Wood's Ark Invest sold $6.1 million worth of Block shares and $1.13 million worth of Bullish shares through its ETFs on Monday.",
+      "title_es": "Ark Invest trims Block, Bullish and its own bitcoin ETF holdings while buying Nvidia, SoFi"
+    },
+    {
+      "id": "ec35d2bcbdc1",
+      "title": "NEAR AI says SGLang vulnerability exposed user account details in security breach",
+      "link": "https://www.theblock.co/news/defi/2026-11-10-near-ai-security-breach-437002",
+      "source": "theblock",
+      "published": "2026-11-10T10:17:13+00:00",
+      "summary": "NEAR AI explained that it found no indication that stored Private Chat conversations or uploaded files were accessed.",
+      "title_es": "NEAR AI says SGLang vulnerability exposed user account details in security breach"
+    },
+    {
+      "id": "c33056aeacb3",
+      "title": "Iran War Nears End as Waller Floats 50-Bps Hike and Bitcoin Treasury Odds Jump",
+      "link": "https://cryptonews.com/news/iran-war-bitcoin-treasury-waller-fed-hike/",
+      "source": "cryptonews",
+      "published": "2026-11-10T10:14:14+00:00",
+      "summary": "<p>Iran war tensions ease as oil prices fall, Waller signals a possible 50-bps hike, and US Treasury Bitcoin buying odds climb.</p>\n<p>The post <a href=\"https://cryptonews.com/news/iran-war-bitcoin-treasury-waller-fed-hike/\">Iran War Nears End as Waller Floats 50-Bps Hike and Bitcoin Treasury Odds J",
+      "title_es": "Iran War Nears End as Waller Floats 50-Bps Hike and Bitcoin Treasury Odds Jump"
+    },
+    {
+      "id": "9d63ac837691",
+      "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-10T10:08:22+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72E53YB00WRJ8DEC2G296HR/article-covers-210628-fed-governor-te",
+      "title_es": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech"
+    },
+    {
+      "id": "c4cca210c1bc",
+      "title": "The crypto wallet that grew up inside Telegram is striking out on its own",
+      "link": "https://www.coindesk.com/business/2026/11/10/the-crypto-wallet-that-grew-up-inside-telegram-is-striking-out-on-its-own",
+      "source": "coindesk",
+      "published": "2026-11-10T09:59:17+00:00",
+      "summary": "",
+      "title_es": "The crypto wallet that grew up inside Telegram is striking out on its own"
+    },
+    {
+      "id": "bfdcc28bfb85",
+      "title": "Walt launches standalone crypto trading app following Wallet in Telegram rebrand",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-10-walt-standalone-crypto-trading-app-436981",
+      "source": "theblock",
+      "published": "2026-11-10T09:30:00+00:00",
+      "summary": "Walt launched a standalone app, expanding its crypto investment platform beyond Telegram for the first time.",
+      "title_es": "Walt launches standalone crypto trading app following Wallet in Telegram rebrand"
+    },
+    {
+      "id": "9d717bc2f5ce",
+      "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
+      "link": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
+      "source": "coindesk",
+      "published": "2026-11-10T09:14:30+00:00",
+      "summary": "",
+      "title_es": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures"
+    },
+    {
+      "id": "11b3aecb4d40",
+      "title": "BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%",
+      "link": "https://cointelegraph.com/news/bitgo-q3-2026-earnings-crypto-treasury-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-10T09:05:16+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72A03Z2PT2DV3G2XDQ2KCP2/car-exchange-smartphone-blockchain-bitgo-us",
+      "title_es": "BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%"
+    },
+    {
+      "id": "5f85d15f17a7",
+      "title": "BitGo revenue falls 51% in Q3 as trading slows; net income rises on treasury gains",
+      "link": "https://www.theblock.co/news/business/2026-11-10-bitgo-revenue-falls-q3-436986",
+      "source": "theblock",
+      "published": "2026-11-10T08:20:53+00:00",
+      "summary": "The revenue decline was driven by continued soft crypto trading environment and a higher mix of lower-margin stablecoin transactions.",
+      "title_es": "BitGo revenue falls 51% in Q3 as trading slows; net income rises on treasury gains"
+    },
+    {
+      "id": "dd7ee5044cbe",
+      "title": "AVAX NYSE Deal Sparks 10% Rally: Avalanche Wins Tokenized Stock Role",
+      "link": "https://cryptonews.com/news/avax-nyse-deal-tokenized-stock-trading/",
+      "source": "cryptonews",
+      "published": "2026-11-10T08:06:22+00:00",
+      "summary": "<p>AVAX NYSE partnership ignites a 10% rally as Avalanche wins a major role in the exchange's planned 24/7 tokenized stock trading platform.</p>\n<p>The post <a href=\"https://cryptonews.com/news/avax-nyse-deal-tokenized-stock-trading/\">AVAX NYSE Deal Sparks 10% Rally: Avalanche Wins Tokenized Stock R",
+      "title_es": "AVAX NYSE Deal Sparks 10% Rally: Avalanche Wins Tokenized Stock Role"
+    },
+    {
+      "id": "69681c76a577",
+      "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
+      "link": "https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-10T08:02:05+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7232GA99A62ZXE0BWPQXX71/hi-blackrock-issues-rare-warningis-bitcoi",
+      "title_es": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions"
+    },
+    {
+      "id": "90d40dd4cb48",
+      "title": "Securitize agrees to buy River One to expand into asset-backed lending",
+      "link": "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-10T07:49:14+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize agrees to buy River One to expand into asset-backed lending\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HFDYJCKJWQTKRMYKMVPJFP/hi-how-ondo-finance-plans-to-bring-token",
+      "title_es": "Securitize agrees to buy River One to expand into asset-backed lending"
+    },
+    {
+      "id": "0a8e3e671444",
+      "title": "LIVE – Will CPI Cause a Sell-Off? Asian Stocks and Bitcoin Face Fresh Test as NVIDIA Anxiety Grows",
+      "link": "https://cryptonews.com/news/will-cpi-cause-sell-off-asian-stocks-bitcoin-kospi/",
+      "source": "cryptonews",
+      "published": "2026-11-10T07:07:00+00:00",
+      "summary": "<p>Will CPI cause a sell-off? KOSPI, Hang Seng and Singapore markets brace for US inflation as Jensen Huang of NVIDIA faces a lawsuit.</p>\n<p>The post <a href=\"https://cryptonews.com/news/will-cpi-cause-sell-off-asian-stocks-bitcoin-kospi/\">LIVE &#8211; Will CPI Cause a Sell-Off? Asian Stocks and Bi",
+      "title_es": "LIVE – Will CPI Cause a Sell-Off? Asian Stocks and Bitcoin Face Fresh Test as NVIDIA Anxiety Grows"
+    },
+    {
+      "id": "f31a9d7d174c",
+      "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+      "link": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
+      "source": "coindesk",
+      "published": "2026-11-10T07:01:06+00:00",
+      "summary": "",
+      "title_es": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes"
+    },
+    {
+      "id": "9a7ed4e607c8",
+      "title": "Coinbase, Kalshi and Payward backs CFTC in lawsuit over single-stock perp futures",
+      "link": "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971",
+      "source": "theblock",
+      "published": "2026-11-10T06:19:10+00:00",
+      "summary": "The crypto firms moved for leave to file an amicus brief defending the CFTC's authority to regulate single-stock perpetual futures in the US.",
+      "title_es": "Coinbase, Kalshi and Payward backs CFTC in lawsuit over single-stock perp futures"
+    },
+    {
+      "id": "1a126bb9da87",
+      "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
+      "source": "coindesk",
+      "published": "2026-11-10T05:18:31+00:00",
+      "summary": "",
+      "title_es": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more"
+    },
+    {
+      "id": "1eb91f2360fc",
+      "title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
+      "link": "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-10T05:05:58+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto exchanges need hard dollar caps on hot wallets, CertiK says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71XK0AKCR5VV61ST5J6AGKW/cold-wallet-1.jpg\" /></p><p>“Cold storage is",
+      "title_es": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says"
+    },
+    {
+      "id": "851e7f0a2d3e",
+      "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+      "link": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
+      "source": "coindesk",
+      "published": "2026-11-10T04:51:20+00:00",
+      "summary": "",
+      "title_es": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users"
+    },
+    {
+      "id": "a901b87ebc88",
+      "title": "Trump Media swings to $410 million profit in Q3, driven by crypto gains",
+      "link": "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964",
+      "source": "theblock",
+      "published": "2026-11-10T03:36:43+00:00",
+      "summary": "Trump Media and Technology Group reported a net income of $409.7 million in Q3, compared with a net loss of $54.8 million a year earlier.",
+      "title_es": "Trump Media swings to $410 million profit in Q3, driven by crypto gains"
+    },
+    {
+      "id": "a41b3bf4ab07",
+      "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+      "source": "coindesk",
+      "published": "2026-11-10T03:22:26+00:00",
+      "summary": "",
+      "title_es": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough"
+    },
+    {
+      "id": "1bac089069c9",
+      "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
+      "link": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-10T03:04:54+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OpenAI builds kill switch to stop rogue agents within 35 seconds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71N7GC9GWKMNHVENCJ5D0PB/hi-how-to-launch-and-push-prediction-markets-m",
+      "title_es": "OpenAI builds kill switch to stop rogue agents within 35 seconds"
+    },
     {
       "id": "654a108f0e0a",
       "title": "Mark Zuckerberg Meta AI Predicts Top 3 ZK Cryptos",
@@ -72,15 +594,6 @@
       "published": "2026-11-09T22:07:00+00:00",
       "summary": "MARA posted a $634.4 million Q3 net profit, then sold 13,597 BTC to repay $750 million in loans as it pivots to AI.",
       "title_es": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans"
-    },
-    {
-      "id": "552e43ae5e35",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-09T22:06:26+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
-      "title_es": "Here’s what happened in crypto today"
     },
     {
       "id": "a00f15cd67a9",
@@ -290,24 +803,6 @@
       "title_es": "StoneX sees 97% upside for Bullish as $4.2 billion Equiniti deal opens tokenization market"
     },
     {
-      "id": "81b8b3771eef",
-      "title": "Coinbase and PNC Bank expand partnership with USDC payments for corporate clients",
-      "link": "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466",
-      "source": "theblock",
-      "published": "2026-11-09T16:01:28+00:00",
-      "summary": "PNC Bank is piloting USDC payment acceptance for corporate and institutional clients through its expanded partnership with Coinbase.",
-      "title_es": "Coinbase and PNC Bank expand partnership with USDC payments for corporate clients"
-    },
-    {
-      "id": "56e86ca15219",
-      "title": "Binance hack launderers mint homemade Elon Musk, animal memecoins to move stolen funds: Elliptic",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440",
-      "source": "theblock",
-      "published": "2026-11-09T15:54:16+00:00",
-      "summary": "Elliptic says the extra swaps slow investigators down, but the stolen funds remain traceable onchain.",
-      "title_es": "Binance hack launderers mint homemade Elon Musk, animal memecoins to move stolen funds: Elliptic"
-    },
-    {
       "id": "836db68309bf",
       "title": "NYSE Taps Avalanche to Settle Its Planned Tokenized Stock Platform",
       "link": "https://decrypt.co/382833/nyse-avalanche-settle-tokenized-stock-platform",
@@ -317,15 +812,6 @@
       "title_es": "NYSE Taps Avalanche to Settle Its Planned Tokenized Stock Platform"
     },
     {
-      "id": "58cdbffcf5e5",
-      "title": "Ethereum treasury Sharplink’s Q3 net income hits $751 million on unrealized ether gains",
-      "link": "https://www.theblock.co/news/markets/2026-11-09-sharplink-q3-2026-earnings-net-income-eth-holdings-436459",
-      "source": "theblock",
-      "published": "2026-11-09T15:40:30+00:00",
-      "summary": "Sharplink posted Q3 revenue of $13.5 million and net income of $751.4 million, driven by unrealized ETH gains.",
-      "title_es": "Ethereum treasury Sharplink’s Q3 net income hits $751 million on unrealized ether gains"
-    },
-    {
       "id": "70a717fe1c4d",
       "title": "Google’s AI chip push adds more pressure on Nvidia",
       "link": "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia",
@@ -333,15 +819,6 @@
       "published": "2026-11-09T15:20:05+00:00",
       "summary": "",
       "title_es": "Google’s AI chip push adds more pressure on Nvidia"
-    },
-    {
-      "id": "a12c6907423c",
-      "title": "Prediction market broker River Markets registers affiliate as CFTC futures commission merchant",
-      "link": "https://www.theblock.co/news/regulation/2026-11-09-river-markets-prediction-market-prime-brokerage-cftc-fcm-registration-436266",
-      "source": "theblock",
-      "published": "2026-11-09T15:05:02+00:00",
-      "summary": "River Markets' affiliate registered with CFTC as an FCM as it builds a prime brokerage for institutional prediction market traders.",
-      "title_es": "Prediction market broker River Markets registers affiliate as CFTC futures commission merchant"
     },
     {
       "id": "62c6fdc0d92a",
@@ -360,24 +837,6 @@
       "published": "2026-11-09T14:47:34+00:00",
       "summary": "<p>Strategy buys 1,036 Bitcoin for $82 million as Michael Saylor expands holdings, repurchases $188M in STRC, and faces ETF outflows.</p>\n<p>The post <a href=\"https://cryptonews.com/news/strategy-bitcoin-holdings-btc-strc-tokenization/\">Strategy Buys $82M in Bitcoin as STRC Tokenized Stock Adds New ",
       "title_es": "Strategy Buys $82M in Bitcoin as STRC Tokenized Stock Adds New Twist to Saylor’s BTC"
-    },
-    {
-      "id": "53be6e219c77",
-      "title": "Tom Lee’s Bitmine nears 5% Ethereum supply target with $20 million ETH buy as he predicts tokenization and AI ‘supercycle’",
-      "link": "https://www.theblock.co/news/business/2026-11-09-tom-lee-bitmine-nears-ethereum-supply-target-20-million-eth-tokenization-ai-supercycle-436219",
-      "source": "theblock",
-      "published": "2026-11-09T14:32:40+00:00",
-      "summary": "Bitmine bought another 9,587 ETH last week, closing in on its target of 5% of Ethereum's circulating supply.",
-      "title_es": "Tom Lee’s Bitmine nears 5% Ethereum supply target with $20 million ETH buy as he predicts tokenization and AI ‘supercycle’"
-    },
-    {
-      "id": "08d88bc2e7ee",
-      "title": "NYSE to settle tokenized stocks on Avalanche in planned 24/7 market",
-      "link": "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208",
-      "source": "theblock",
-      "published": "2026-11-09T14:07:27+00:00",
-      "summary": "NYSE picked Avalanche to supply the core ledger technology for the clearing firm of its affiliated tokenized-securities platform.",
-      "title_es": "NYSE to settle tokenized stocks on Avalanche in planned 24/7 market"
     },
     {
       "id": "245624b21467",
@@ -425,24 +884,6 @@
       "title_es": "Strategy Buys $82M in Bitcoin, Buys Back $188M of STRC"
     },
     {
-      "id": "85bcdaaf6d79",
-      "title": "‘Connecting the dots’: Michael Saylor’s Strategy buys another 1,036 bitcoin for $82 million as holdings top 850,000 BTC",
-      "link": "https://www.theblock.co/news/business/2026-11-09-connecting-the-dots-michael-saylor-strategy-bitcoin-436094",
-      "source": "theblock",
-      "published": "2026-11-09T13:10:42+00:00",
-      "summary": "Strategy's total holdings account for more than 4% of bitcoin's supply cap, with $500 million in paper gains.",
-      "title_es": "‘Connecting the dots’: Michael Saylor’s Strategy buys another 1,036 bitcoin for $82 million as holdings top 850,000 BTC"
-    },
-    {
-      "id": "50c3f65bd63e",
-      "title": "Bitcoin loses 50-week moving average as 24-hour crypto long liquidations top $1 billion",
-      "link": "https://www.theblock.co/news/markets/2026-11-09-bitcoin-loses-50-week-moving-average-as-24-hour-crypto-long-liquidations-top-1-billion-436102",
-      "source": "theblock",
-      "published": "2026-11-09T13:04:21+00:00",
-      "summary": "Bitcoin closed below its 50-week moving average as more than $1 billion in crypto long positions were liquidated.",
-      "title_es": "Bitcoin loses 50-week moving average as 24-hour crypto long liquidations top $1 billion"
-    },
-    {
       "id": "36d66f7aa488",
       "title": "Microsoft-Backed Space and Time Launches Platform to Let AI Agents Verify Private Data",
       "link": "https://decrypt.co/382697/microsoft-backed-space-and-time-launches-platform-to-let-ai-agents-verify-private-data",
@@ -479,24 +920,6 @@
       "title_es": "Bitcoin bulls can't rely on ETF flows"
     },
     {
-      "id": "26e0b253a857",
-      "title": "Formation notifies SEC to operate first tokenized securities venue on Solana",
-      "link": "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060",
-      "source": "theblock",
-      "published": "2026-11-09T12:30:00+00:00",
-      "summary": "Launch is expected in early 2027, with tokenized shares of Exodus Movement, Forward Industries, and Galaxy Digital among initial offerings.",
-      "title_es": "Formation notifies SEC to operate first tokenized securities venue on Solana"
-    },
-    {
-      "id": "620cbb60d6c0",
-      "title": "EU taps industry to set standards for tokenized securities",
-      "link": "https://cointelegraph.com/news/eu-nominations-tokenization-standards-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-09T12:27:06+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU taps industry to set standards for tokenized securities\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M702QB3WBZE6GCA3TM7M3NJ9/hi-markets-in-crypto-assets-regulation-mica-explaine",
-      "title_es": "EU taps industry to set standards for tokenized securities"
-    },
-    {
       "id": "8460535fca6b",
       "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
       "link": "https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter",
@@ -513,15 +936,6 @@
       "published": "2026-11-09T11:42:04+00:00",
       "summary": "",
       "title_es": "Nvidia-led tech selloff weighs on crypto majors"
-    },
-    {
-      "id": "4865c973cc50",
-      "title": "Coinbase’s US national trust bank charter takes effect",
-      "link": "https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-09T11:38:52+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase’s US national trust bank charter takes effect\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MT4V83BPCA5X7B3XFWNYE8/hi-crypto-derivatives-are-now-available-how-much-interes",
-      "title_es": "Coinbase’s US national trust bank charter takes effect"
     },
     {
       "id": "90e60e11e188",
@@ -542,15 +956,6 @@
       "title_es": "Trump Says He Knows 'Nothing' About World Liberty Financial as He Defends UAE Ties"
     },
     {
-      "id": "60260ba3268c",
-      "title": "Robinhood opens access to US IPOs for UK retail investors",
-      "link": "https://cointelegraph.com/news/robinhood-us-ipo-access-uk-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-09T11:14:08+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood opens access to US IPOs for UK retail investors\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M283JZSQVMT1TPB7GVMGKVNK/robinhood2-2.jpg\" /></p><p>Robinhood’s UK customers c",
-      "title_es": "Robinhood opens access to US IPOs for UK retail investors"
-    },
-    {
       "id": "cf4b357a01a3",
       "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
       "link": "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade",
@@ -558,33 +963,6 @@
       "published": "2026-11-09T10:52:49+00:00",
       "summary": "",
       "title_es": "Zcash developers want 20-second blocks just days after major speed upgrade"
-    },
-    {
-      "id": "29b5bdd4e57f",
-      "title": "Live news: Crypto prices give ground even as stocks and gold surge, oil plunges",
-      "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
-      "source": "coindesk",
-      "published": "2026-11-09T10:51:48+00:00",
-      "summary": "",
-      "title_es": "Live news: Crypto prices give ground even as stocks and gold surge, oil plunges"
-    },
-    {
-      "id": "ed5ead1091ad",
-      "title": "Crypto-friendly Robinhood brings US IPO access to UK retail investors",
-      "link": "https://www.theblock.co/news/business/2026-11-09-crypto-friendly-robinhood-brings-us-ipo-access-to-uk-retail-investors-436089",
-      "source": "theblock",
-      "published": "2026-11-09T10:48:31+00:00",
-      "summary": "Robinhood has launched commission-free IPO Access in the UK, allowing retail investors to request shares in eligible U.S. listings",
-      "title_es": "Crypto-friendly Robinhood brings US IPO access to UK retail investors"
-    },
-    {
-      "id": "a2156d661dbe",
-      "title": "Trump says he knows ‘nothing’ about UAE-linked investment in his crypto firm",
-      "link": "https://www.theblock.co/news/business/2026-11-09-trump-says-he-knows-nothing-about-uae-linked-investment-in-his-crypto-firm-436079",
-      "source": "theblock",
-      "published": "2026-11-09T10:33:55+00:00",
-      "summary": "Trump said he \"knows nothing\" about the UAE-linked investment in the crypto firm he co-owns, and that his sons run the business.",
-      "title_es": "Trump says he knows ‘nothing’ about UAE-linked investment in his crypto firm"
     },
     {
       "id": "ae8d428f123b",
@@ -596,24 +974,6 @@
       "title_es": "Solana Targets Durable Nonces After $270M Drift Hack as Pump.fun Backlash Grows"
     },
     {
-      "id": "f7fcd319721c",
-      "title": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-09T10:03:40+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZPZ3XN7CEBDWKGJCADW5H6/ai-falling-stock-prices-9",
-      "title_es": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week"
-    },
-    {
-      "id": "67172b7a588f",
-      "title": "Coinbase gets full U.S. trust charter from federal banking regulator",
-      "link": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
-      "source": "coindesk",
-      "published": "2026-11-09T10:00:00+00:00",
-      "summary": "",
-      "title_es": "Coinbase gets full U.S. trust charter from federal banking regulator"
-    },
-    {
       "id": "6aeb8a2e5d47",
       "title": "Nvidia Board Investigates Jensen Huang After Report He Was Target of Chinese Spy Effort",
       "link": "https://decrypt.co/382793/nvidia-board-investigates-jensen-huang-after-report-he-was-target-of-chinese-spy-effort",
@@ -621,60 +981,6 @@
       "published": "2026-11-09T09:50:21+00:00",
       "summary": "Huang told staff he had been \"unfaithful\" to his wife, as Nvidia shares fell nearly 5% in premarket trading on Monday.",
       "title_es": "Nvidia Board Investigates Jensen Huang After Report He Was Target of Chinese Spy Effort"
-    },
-    {
-      "id": "09e581cb1a90",
-      "title": "U.S. inflation, corporate earnings: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead",
-      "source": "coindesk",
-      "published": "2026-11-09T09:33:27+00:00",
-      "summary": "",
-      "title_es": "U.S. inflation, corporate earnings: Crypto Week Ahead"
-    },
-    {
-      "id": "b8a55babfa6c",
-      "title": "Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum",
-      "link": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909",
-      "source": "theblock",
-      "published": "2026-11-09T09:05:02+00:00",
-      "summary": "Raycash has launched its app on Ethereum, enabling private stablecoin payments and Morpho yield on idle balances.",
-      "title_es": "Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum"
-    },
-    {
-      "id": "e14026f8fa38",
-      "title": "Binance, Tether and Trump crypto firms face Senate records deadline",
-      "link": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-09T09:00:17+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance, Tether and Trump crypto firms face Senate records deadline\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMS02Q1MEXVDRE9TMMRDPD/hi-the-evolution-of-crypto-regulations-in-2",
-      "title_es": "Binance, Tether and Trump crypto firms face Senate records deadline"
-    },
-    {
-      "id": "e232c8833eb4",
-      "title": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-09T08:17:35+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2M5WQHM74XV1CTRDCQ9ZXS3/bitcoin-etf-4.jpg\" /></p><p>Investors pulled ",
-      "title_es": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June"
-    },
-    {
-      "id": "18a33f84b87e",
-      "title": "SpaceX proposes a $24 billion Texas supercomputer and a gas plant",
-      "link": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
-      "source": "coindesk",
-      "published": "2026-11-09T06:54:41+00:00",
-      "summary": "",
-      "title_es": "SpaceX proposes a $24 billion Texas supercomputer and a gas plant"
-    },
-    {
-      "id": "428c41290aeb",
-      "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
-      "link": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
-      "source": "coindesk",
-      "published": "2026-11-09T06:36:45+00:00",
-      "summary": "",
-      "title_es": "Solana moves to scrap the transaction feature used in the $270 million Drift hack"
     },
     {
       "id": "298737d182e3",
@@ -686,94 +992,13 @@
       "title_es": "Blumenthal Investigation Targets Binance, Tether and Trump Crypto Firms as Senate Sets January Deadline"
     },
     {
-      "id": "bfed7639a933",
-      "title": "Zcash devs propose another block time cut days after NU7 upgrade",
-      "link": "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-09T05:36:08+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zcash devs propose another block time cut days after NU7 upgrade\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZCTV693BR2130FJ37YTBT0/hi-bounties-and-do-they-work-zcash-2.jpg\" /></",
-      "title_es": "Zcash devs propose another block time cut days after NU7 upgrade"
-    },
-    {
-      "id": "dfe547cece72",
-      "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
-      "link": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
-      "source": "coindesk",
-      "published": "2026-11-09T05:16:54+00:00",
-      "summary": "",
-      "title_es": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts"
-    },
-    {
-      "id": "97096533e632",
-      "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
-      "link": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
-      "source": "coindesk",
-      "published": "2026-11-09T04:54:39+00:00",
-      "summary": "",
-      "title_es": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears"
-    },
-    {
-      "id": "1675d85bf378",
-      "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
-      "link": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-09T04:03:08+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"tBTC bridge partially resumes as $120M Aave reserve remains frozen\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Z7HEM0J3VD1G6Q7DHXMEMM/bitcoin-bridge-paused.png\" /></p><p>Threshol",
-      "title_es": "tBTC bridge partially resumes as $120M Aave reserve remains frozen"
-    },
-    {
-      "id": "d6d964376e69",
-      "title": "Nvidia perps slide as market reacts to CEO Jensen Huang’s Chinese spy scandal",
-      "link": "https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047",
-      "source": "theblock",
-      "published": "2026-11-09T03:36:16+00:00",
-      "summary": "Nvidia said its board of directors is investigating Huang's relationship with a woman identified by intelligence officials as a Chinese spy.",
-      "title_es": "Nvidia perps slide as market reacts to CEO Jensen Huang’s Chinese spy scandal"
-    },
-    {
-      "id": "410087a3330c",
-      "title": "Bitcoin drops as Nvidia cheating scandal and failed Iran talks trigger volatility",
-      "link": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
-      "source": "coindesk",
-      "published": "2026-11-09T03:21:49+00:00",
-      "summary": "",
-      "title_es": "Bitcoin drops as Nvidia cheating scandal and failed Iran talks trigger volatility"
-    },
-    {
       "id": "894750015d0b",
-      "title": "LIVE – Why Is Crypto Down? Jensen Huang Chinese Spy Scandal Sends AI Stocks Into Chaos",
+      "title": "Why Is Crypto Down? Jensen Huang Chinese Spy Scandal Sends AI Stocks Into Chaos",
       "link": "https://cryptonews.com/news/why-is-crypto-down-jensen-huang-ai-stocks/",
       "source": "cryptonews",
       "published": "2026-11-09T02:39:32+00:00",
-      "summary": "<p>Why is crypto down? Bitcoin slide as AI stocks crash and Nvidia CEO Jensen Huang faces an investigation over alleged Chinese spy links.</p>\n<p>The post <a href=\"https://cryptonews.com/news/why-is-crypto-down-jensen-huang-ai-stocks/\">LIVE &#8211; Why Is Crypto Down? Jensen Huang Chinese Spy Scanda",
-      "title_es": "LIVE – Why Is Crypto Down? Jensen Huang Chinese Spy Scandal Sends AI Stocks Into Chaos"
-    },
-    {
-      "id": "5fe88aeaaed9",
-      "title": "What is Zcash (ZEC)? How shielded transactions work",
-      "link": "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
-      "source": "theblock",
-      "published": "2026-11-09T02:36:01+00:00",
-      "summary": "Zcash (ZEC) is a privacy coin and blockchain launched in 2016. It allows users to make both public and private transactions. The latter — called “shielded transactions” on the network — make use of zero-knowledge proofs called zk-SNARKs to verify payments without revealing the sender, recipient or a",
-      "title_es": "What is Zcash (ZEC)? How shielded transactions work"
-    },
-    {
-      "id": "1bcd1b8fd7a4",
-      "title": "Onchain data casts doubt on insider-trading theory in NYT’s ‘suspicious’ election betting story",
-      "link": "https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034",
-      "source": "theblock",
-      "published": "2026-11-08T23:07:02+00:00",
-      "summary": "The New York Times reported on 'suspicious' bets, but two experts who reviewed The Block's findings said the evidence doesn't strongly suggest foul play.",
-      "title_es": "Onchain data casts doubt on insider-trading theory in NYT’s ‘suspicious’ election betting story"
-    },
-    {
-      "id": "355c29b049ae",
-      "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
-      "link": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-08T22:59:06+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6YMNVH88N4KSXQB6XWMMW2K/screenshot-2026-11-09",
-      "title_es": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest"
+      "summary": "<p>Why is crypto down? Bitcoin slide as AI stocks crash and Nvidia CEO Jensen Huang faces an investigation over alleged Chinese spy links.</p>\n<p>The post <a href=\"https://cryptonews.com/news/why-is-crypto-down-jensen-huang-ai-stocks/\">Why Is Crypto Down? Jensen Huang Chinese Spy Scandal Sends AI St",
+      "title_es": "Why Is Crypto Down? Jensen Huang Chinese Spy Scandal Sends AI Stocks Into Chaos"
     },
     {
       "id": "f359c5b8539c",
@@ -783,24 +1008,6 @@
       "published": "2026-11-08T22:47:41+00:00",
       "summary": "<p>Bitcoin treasury stocks are set to react sharply to Tuesday’s US CPI release, as these companies’ share prices track Bitcoin closely and Bitcoin has grown more sensitive to inflation data as a macro asset.The Consumer Price Index (CPI), published by the Bureau of Labor Statistics, measures the mo",
       "title_es": "Which Bitcoin Treasury Stocks Could Surge on Bullish CPI Data Drop?"
-    },
-    {
-      "id": "1cc62f57e2e9",
-      "title": "What the election results mean for crypto: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
-      "source": "coindesk",
-      "published": "2026-11-08T19:30:00+00:00",
-      "summary": "",
-      "title_es": "What the election results mean for crypto: State of Crypto"
-    },
-    {
-      "id": "06763f62930f",
-      "title": "Stablecoin growth has stalled. The payments boom hasn't",
-      "link": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
-      "source": "coindesk",
-      "published": "2026-11-08T19:16:42+00:00",
-      "summary": "",
-      "title_es": "Stablecoin growth has stalled. The payments boom hasn't"
     },
     {
       "id": "14b365963b0a",
@@ -830,159 +1037,6 @@
       "title_es": "Mark Zuckerberg Meta AI Predicts ‘Will Crypto Recover in November’"
     },
     {
-      "id": "516d3f7ea51a",
-      "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
-      "link": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
-      "source": "decrypt",
-      "published": "2026-11-08T14:01:03+00:00",
-      "summary": "Cory Fields wants future quantum attackers to post Bitcoin as collateral before touching vulnerable wallets, giving prepared owners a chance to recover their coins and collect a potentially costly penalty.",
-      "title_es": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet"
-    },
-    {
-      "id": "a38bace2a83e",
-      "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
-      "link": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-08T12:57:51+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance France emails announce closure of its users’ accounts on Dec. 31\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6XKMA4GCCY02X2C5H5XBVBP/hi-consortium-open-doors-binance.jpg\" ",
-      "title_es": "Binance France emails announce closure of its users’ accounts on Dec. 31"
-    },
-    {
-      "id": "2826810ae2f6",
-      "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-      "link": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
-      "source": "coindesk",
-      "published": "2026-11-08T12:55:59+00:00",
-      "summary": "",
-      "title_es": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)"
-    },
-    {
-      "id": "68df7ecba1cd",
-      "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
-      "link": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-08T09:48:48+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Amsterdam protesters break into Microsoft data center construction site: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X8JFEEG972QNHB7E2TQ63J/hi-the-rise-of-major-institutio",
-      "title_es": "Amsterdam protesters break into Microsoft data center construction site: Report"
-    },
-    {
-      "id": "1d7a234ee549",
-      "title": "Binance’s  finance chief Kaiser Ng to leave company, report says",
-      "link": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-08T08:12:56+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance’s  finance chief Kaiser Ng to leave company, report says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X3D6NBXVQ58B0WF2EB2C96/bank-building-hall-entrance-door-binance.png\" ",
-      "title_es": "Binance’s  finance chief Kaiser Ng to leave company, report says"
-    },
-    {
-      "id": "40fc94677bef",
-      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
-      "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
-      "source": "coindesk",
-      "published": "2026-11-07T19:13:16+00:00",
-      "summary": "",
-      "title_es": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end"
-    },
-    {
-      "id": "9e599ca2c916",
-      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-      "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
-      "source": "coindesk",
-      "published": "2026-11-07T17:36:46+00:00",
-      "summary": "",
-      "title_es": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows"
-    },
-    {
-      "id": "ceca23beb141",
-      "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
-      "link": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue",
-      "source": "decrypt",
-      "published": "2026-11-07T17:01:03+00:00",
-      "summary": "Apple and Meta’s objections mean all seven of the biggest U.S. tech companies have now asked to keep their shares off the planned OKX-ICE venue.",
-      "title_es": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue"
-    },
-    {
-      "id": "62014a88065e",
-      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-      "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-      "source": "coindesk",
-      "published": "2026-11-07T16:51:00+00:00",
-      "summary": "",
-      "title_es": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets"
-    },
-    {
-      "id": "315510a8fbce",
-      "title": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?",
-      "link": "https://decrypt.co/382770/ai-chip-stocks-bounce-global-rout-bubble-starting-burst",
-      "source": "decrypt",
-      "published": "2026-11-07T16:01:02+00:00",
-      "summary": "A Friday rebound offered relief after a historic selloff. The question now is whether politics and mounting debt could turn an AI correction into something much worse.",
-      "title_es": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?"
-    },
-    {
-      "id": "93b43cac4180",
-      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
-      "link": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-07T14:16:00+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ex-FBI counterintelligence agent stole almost $2.5M in crypto\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6V5PT52GJ6H06ZRY3P4BHFK/arrest-crime-police-hacker-fbi.jpg\" /></p><p>Yaro",
-      "title_es": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto"
-    },
-    {
-      "id": "8a0919fd497f",
-      "title": "Sony Axing Game Discs Will Have Outsized Impact on Low-Income Gamers, Experts Say",
-      "link": "https://decrypt.co/382714/sony-axing-game-discs-will-have-outsized-impact-on-low-income-gamers-experts-say",
-      "source": "decrypt",
-      "published": "2026-11-07T14:01:02+00:00",
-      "summary": "Experts say a disc-free PlayStation will price out low-income players, while in much of Africa, digital-only gaming means breaking Sony’s rules.",
-      "title_es": "Sony Axing Game Discs Will Have Outsized Impact on Low-Income Gamers, Experts Say"
-    },
-    {
-      "id": "36177d33aff2",
-      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
-      "link": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
-      "source": "decrypt",
-      "published": "2026-11-06T21:06:03+00:00",
-      "summary": "FinCEN’s order, part of Operation Economic Outcast, bars U.S. institutions from any transfers to or from MEXC, which Treasury says facilitated $16 billion in illicit finance tied to Iran, North Korea and Russia.",
-      "title_es": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System"
-    },
-    {
-      "id": "0f810f875dec",
-      "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
-      "link": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
-      "source": "decrypt",
-      "published": "2026-11-06T20:36:03+00:00",
-      "summary": "Greece has approved a crypto tax framework with a €500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left important questions about token swaps unresolved.",
-      "title_es": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi"
-    },
-    {
-      "id": "7713e04e394c",
-      "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
-      "link": "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker",
-      "source": "decrypt",
-      "published": "2026-11-06T19:46:03+00:00",
-      "summary": "Hyperliquid Strategies has applied to become a U.S. futures commission merchant, a move that could let Americans trade perpetual futures on permissioned Hyperliquid markets, pending regulatory approval.",
-      "title_es": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker"
-    },
-    {
-      "id": "e673029c6f34",
-      "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
-      "link": "https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears",
-      "source": "decrypt",
-      "published": "2026-11-06T19:16:03+00:00",
-      "summary": "Savers locked out of Ueno Bank burned their cards, booed a former presidential candidate out of the crowd, and watched Congress move to remove President Peña.",
-      "title_es": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears"
-    },
-    {
-      "id": "713fecced3aa",
-      "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
-      "link": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
-      "source": "decrypt",
-      "published": "2026-11-06T18:36:03+00:00",
-      "summary": "Fidelity and BlackRock led Thursday's Bitcoin ETF withdrawals as a technology-stock selloff rattled risk assets.",
-      "title_es": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers"
-    },
-    {
       "id": "98ab1bd6cc2d",
       "title": "Wall Street Power Grab? Anti-Crypto Elizabeth Warren Could Put Day Trading in the Crosshairs",
       "link": "https://cryptonews.com/news/elizabeth-warren-day-trading-senate-banking/",
@@ -990,60 +1044,6 @@
       "published": "2026-11-06T17:55:00+00:00",
       "summary": "<p>Elizabeth Warren is poised to lead Senate Banking as Wall Street, crypto, and day trading face tougher scrutiny under a Democratic Congress.</p>\n<p>The post <a href=\"https://cryptonews.com/news/elizabeth-warren-day-trading-senate-banking/\">Wall Street Power Grab? Anti-Crypto Elizabeth Warren Coul",
       "title_es": "Wall Street Power Grab? Anti-Crypto Elizabeth Warren Could Put Day Trading in the Crosshairs"
-    },
-    {
-      "id": "a18a64a17e35",
-      "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
-      "link": "https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group",
-      "source": "decrypt",
-      "published": "2026-11-06T17:42:31+00:00",
-      "summary": "OFAC targeted offshore companies and associates it says helped Prince Group executives hide assets and dodge earlier sanctions.",
-      "title_es": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group"
-    },
-    {
-      "id": "cca1ae095d02",
-      "title": "Claude AI Predicts and Backs Claver’s $10K XRP Price Prediction as Anthropic Faces Pompliano Backlash",
-      "link": "https://cryptonews.com/news/claude-ai-predicts-xrp-price-anthropic-pompliano-claver-10000/",
-      "source": "cryptonews",
-      "published": "2026-11-06T15:42:00+00:00",
-      "summary": "<p>Claude AI Predicts and backs a $10K Jake Claver's XRP price prediction amid the Anthropic Pompliano clash over AI-powered finance.</p>\n<p>The post <a href=\"https://cryptonews.com/news/claude-ai-predicts-xrp-price-anthropic-pompliano-claver-10000/\">Claude AI Predicts and Backs Claver&#8217;s $10K ",
-      "title_es": "Claude AI Predicts and Backs Claver’s $10K XRP Price Prediction as Anthropic Faces Pompliano Backlash"
-    },
-    {
-      "id": "72ba7000bd6a",
-      "title": "Hollywood Prediction Market Faces Insider Scare: James Bond Casting Bets Shift",
-      "link": "https://cryptonews.com/news/hollywood-prediction-market-james-bond-casting/",
-      "source": "cryptonews",
-      "published": "2026-11-06T13:34:15+00:00",
-      "summary": "<p>Hollywood prediction market scrutiny grows after suspicious James Bond cast bets trigger employee betting restrictions.</p>\n<p>The post <a href=\"https://cryptonews.com/news/hollywood-prediction-market-james-bond-casting/\">Hollywood Prediction Market Faces Insider Scare: James Bond Casting Bets Sh",
-      "title_es": "Hollywood Prediction Market Faces Insider Scare: James Bond Casting Bets Shift"
-    },
-    {
-      "id": "f24328984f41",
-      "title": "Paraguay Bank Collapse Shows Why Bitcoin Was Created as USDT Hits Premium",
-      "link": "https://cryptonews.com/news/paraguay-bank-collapse-usdt-premium-bitcoin-purpose/",
-      "source": "cryptonews",
-      "published": "2026-11-06T12:27:39+00:00",
-      "summary": "<p>Paraguay's bank crisis pushes USDT P2P prices higher, reviving Bitcoin's original purpose as an alternative to traditional banking.</p>\n<p>The post <a href=\"https://cryptonews.com/news/paraguay-bank-collapse-usdt-premium-bitcoin-purpose/\">Paraguay Bank Collapse Shows Why Bitcoin Was Created as US",
-      "title_es": "Paraguay Bank Collapse Shows Why Bitcoin Was Created as USDT Hits Premium"
-    },
-    {
-      "id": "ee312c6cdff2",
-      "title": "Elon Musk’s Tesla and SpaceX Join 67 Firms Rejecting OKXICE Tokenised Stocks",
-      "link": "https://cryptonews.com/news/elon-musk-tesla-spacex-okxice-tokenized-stocks/",
-      "source": "cryptonews",
-      "published": "2026-11-06T11:34:13+00:00",
-      "summary": "<p>Elon Musk's Tesla and SpaceX join 67 companies rejecting OKXICE tokenized stocks as his Hyperliquid reaction adds another twist.</p>\n<p>The post <a href=\"https://cryptonews.com/news/elon-musk-tesla-spacex-okxice-tokenized-stocks/\">Elon Musk’s Tesla and SpaceX Join 67 Firms Rejecting OKXICE Tokeni",
-      "title_es": "Elon Musk’s Tesla and SpaceX Join 67 Firms Rejecting OKXICE Tokenised Stocks"
-    },
-    {
-      "id": "22bdaf15c8f8",
-      "title": "Bitcoin ETF Outflows Hit $430M as Hong Kong Expands Its BTC Market",
-      "link": "https://cryptonews.com/news/bitcoin-etf-outflows-hong-kong-btc-market/",
-      "source": "cryptonews",
-      "published": "2026-11-06T09:17:06+00:00",
-      "summary": "<p>Bitcoin ETF outflows reached $430M as Hong Kong expanded its spot BTC market and wealth managers increased cryptocurrency exposure.</p>\n<p>The post <a href=\"https://cryptonews.com/news/bitcoin-etf-outflows-hong-kong-btc-market/\">Bitcoin ETF Outflows Hit $430M as Hong Kong Expands Its BTC Market</",
-      "title_es": "Bitcoin ETF Outflows Hit $430M as Hong Kong Expands Its BTC Market"
     }
   ]
 }
