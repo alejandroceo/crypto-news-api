@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T15:26:31.647754+00:00",
+  "updated_at": "2026-11-15T00:35:44.843717+00:00",
   "count": 115,
   "sources": [
     "coindesk",
@@ -10,6 +10,87 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "31714de204ac",
+      "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+      "link": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+      "source": "theblock",
+      "published": "2026-11-14T23:07:35+00:00",
+      "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
+      "title_es": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%"
+    },
+    {
+      "id": "1d829ea32f6f",
+      "title": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
+      "link": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
+      "source": "theblock",
+      "published": "2026-11-14T19:06:59+00:00",
+      "summary": "The CFTC sued Louisiana Friday to block a state judge's order banning 31 prediction markets, including Kalshi and Polymarket, in the state.",
+      "title_es": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit"
+    },
+    {
+      "id": "0600a4aa328e",
+      "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
+      "link": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
+      "source": "decrypt",
+      "published": "2026-11-14T18:01:02+00:00",
+      "summary": "In a matter of days, the executive synonymous with the AI boom resigned after 33 years amid reports of affairs and suspected Chinese intelligence ties—sending Nvidia’s stock reeling and leaving the chipmaker leaderless.",
+      "title_es": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO"
+    },
+    {
+      "id": "0f0ea16d569b",
+      "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+      "link": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
+      "source": "theblock",
+      "published": "2026-11-14T17:50:41+00:00",
+      "summary": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks.",
+      "title_es": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding"
+    },
+    {
+      "id": "179f10f9ac10",
+      "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
+      "link": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
+      "source": "decrypt",
+      "published": "2026-11-14T17:01:02+00:00",
+      "summary": "Four nonprofit advocacy groups want a California court to stop major AI developers from building stronger models, alleging their technology could cause catastrophic harm worldwide.",
+      "title_es": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze"
+    },
+    {
+      "id": "55702da5b58a",
+      "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
+      "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+      "source": "coindesk",
+      "published": "2026-11-14T16:33:29+00:00",
+      "summary": "",
+      "title_es": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave"
+    },
+    {
+      "id": "76fdb999c9cc",
+      "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+      "link": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
+      "source": "coindesk",
+      "published": "2026-11-14T16:33:23+00:00",
+      "summary": "",
+      "title_es": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business"
+    },
+    {
+      "id": "ce12d04a76d2",
+      "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
+      "link": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
+      "source": "decrypt",
+      "published": "2026-11-14T16:01:02+00:00",
+      "summary": "Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does.",
+      "title_es": "What Is Canton Network? The Privacy Blockchain Built for Wall Street"
+    },
+    {
+      "id": "9c40265a0288",
+      "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+      "link": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
+      "source": "coindesk",
+      "published": "2026-11-14T15:38:27+00:00",
+      "summary": "",
+      "title_es": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale"
+    },
     {
       "id": "a29ec008e695",
       "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
@@ -615,12 +696,12 @@
     },
     {
       "id": "81a2324ddc1d",
-      "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+      "title": "Bitcoin firm Nakamoto pushes $60 million Kraken loan repayment to 2027 to extend its 'runway'",
       "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
       "source": "coindesk",
       "published": "2026-11-13T06:03:41+00:00",
       "summary": "",
-      "title_es": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value"
+      "title_es": "Bitcoin firm Nakamoto pushes $60 million Kraken loan repayment to 2027 to extend its 'runway'"
     },
     {
       "id": "69d9ecc6f639",
@@ -666,15 +747,6 @@
       "published": "2026-11-13T04:56:47+00:00",
       "summary": "Crypto Council for Innovation's Ji Kim said this bipartisan lineup could develop durable rules that safeguard markets and support innovation.",
       "title_es": "White House sends crypto-relevant picks to fill SEC and CFTC seats"
-    },
-    {
-      "id": "8ddc5ef8b327",
-      "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
-      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049",
-      "source": "theblock",
-      "published": "2026-11-13T04:20:00+00:00",
-      "summary": "In today's newsletter, bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets; Strategy, Metaplanet to lose MSCI index membership on Nov. 30; and more.",
-      "title_es": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more"
     },
     {
       "id": "ca864d1c47d4",
@@ -749,15 +821,6 @@
       "title_es": "U.S. President Trump names CFTC, SEC nominees for first time in a year"
     },
     {
-      "id": "32eef508e579",
-      "title": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
-      "link": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065",
-      "source": "theblock",
-      "published": "2026-11-12T22:40:22+00:00",
-      "summary": "DOJ got court approval to seize $1.2B stolen from Binance by North Korea's TraderTraitor &amp; took down the FaceStealer deepfake scam.",
-      "title_es": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme"
-    },
-    {
       "id": "4998ecc3d623",
       "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
       "link": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
@@ -774,15 +837,6 @@
       "published": "2026-11-12T22:29:58+00:00",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg\" ",
       "title_es": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express"
-    },
-    {
-      "id": "6815982491e8",
-      "title": "Gemini trading volume drops 73% as Q3 revenue falls to $41 million",
-      "link": "https://www.theblock.co/news/markets/2026-11-12-gemini-trading-volume-drops-q3-revenue-falls-to-41-million-439050",
-      "source": "theblock",
-      "published": "2026-11-12T22:18:10+00:00",
-      "summary": "Gemini shares rose more than 6% after hours, though the stock remains down around 75% since the year began.",
-      "title_es": "Gemini trading volume drops 73% as Q3 revenue falls to $41 million"
     },
     {
       "id": "4aa62c50fa82",
@@ -884,15 +938,6 @@
       "title_es": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi"
     },
     {
-      "id": "8159486efba4",
-      "title": "'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit",
-      "link": "https://decrypt.co/383141/massive-mistake-tech-ai-crypto-founders-react-jensen-huang-nvidia-exit",
-      "source": "decrypt",
-      "published": "2026-11-12T17:14:42+00:00",
-      "summary": "Nvidia’s founder is out, and tech and crypto leaders are fuming. Some fear for open-source AI, others question the board, while Elon Musk says he’d be honored to hire Huang.",
-      "title_es": "'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit"
-    },
-    {
       "id": "4e3822ac188f",
       "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
       "link": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
@@ -900,15 +945,6 @@
       "published": "2026-11-12T16:45:52+00:00",
       "summary": "",
       "title_es": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court"
-    },
-    {
-      "id": "100104fddfe2",
-      "title": "Tron, Tether and Chainalysis Form a New Crypto-Crime Task Force—Replacing One That Just Collapsed",
-      "link": "https://decrypt.co/383139/tron-tether-chainalysis-new-crypto-crime-task-force-replacing-trm",
-      "source": "decrypt",
-      "published": "2026-11-12T16:36:02+00:00",
-      "summary": "The Digital Crime Task Force aims to proactively trace illicit USDT on Tron and freeze funds before they move—just weeks after the trio’s near-identical T3 unit, built with rival firm TRM Labs, quietly collapsed.",
-      "title_es": "Tron, Tether and Chainalysis Form a New Crypto-Crime Task Force—Replacing One That Just Collapsed"
     },
     {
       "id": "71d2834cb4dd",
@@ -920,15 +956,6 @@
       "title_es": "XRP Price Prediction: Whale Targets $10.11 as ETFs Bleed"
     },
     {
-      "id": "ad09c8bfb8dc",
-      "title": "Anchorage Digital’s Stablecoins Can Now Settle Payments on Visa’s Network",
-      "link": "https://decrypt.co/383098/anchorage-digital-stablecoins-settle-payments-visa-network",
-      "source": "decrypt",
-      "published": "2026-11-12T16:01:03+00:00",
-      "summary": "Visa and eligible companies can now use Western Union’s USDPT—issued and custodied by the federally chartered Anchorage Digital Bank—to settle VisaNet obligations.",
-      "title_es": "Anchorage Digital’s Stablecoins Can Now Settle Payments on Visa’s Network"
-    },
-    {
       "id": "5d2bf713adf9",
       "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
       "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
@@ -938,24 +965,6 @@
       "title_es": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout"
     },
     {
-      "id": "38f2af83c1b7",
-      "title": "Crypto for Advisors: The blockchain built to run financial markets",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
-      "source": "coindesk",
-      "published": "2026-11-12T15:34:29+00:00",
-      "summary": "",
-      "title_es": "Crypto for Advisors: The blockchain built to run financial markets"
-    },
-    {
-      "id": "8161b377f8ab",
-      "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
-      "link": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
-      "source": "coindesk",
-      "published": "2026-11-12T14:45:00+00:00",
-      "summary": "",
-      "title_es": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform"
-    },
-    {
       "id": "15a22c09176b",
       "title": "Jensen Huang Resigns: NVDA Crashes, Sending Shockwaves to The Crypto Market",
       "link": "https://cryptonews.com/news/jensen-huang-resigns-nvda-bitcoin-below-72k/",
@@ -963,15 +972,6 @@
       "published": "2026-11-12T14:43:00+00:00",
       "summary": "<p>Jensen Huang resigns as Nvidia CEO, sending NVDA plunging nearly 10%. Bitcoin falls below $72K as Nvidia perpetual futures tumble.</p>\n<p>The post <a href=\"https://cryptonews.com/news/jensen-huang-resigns-nvda-bitcoin-below-72k/\">Jensen Huang Resigns: NVDA Crashes, Sending Shockwaves to The Crypt",
       "title_es": "Jensen Huang Resigns: NVDA Crashes, Sending Shockwaves to The Crypto Market"
-    },
-    {
-      "id": "839b46e820f4",
-      "title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
-      "link": "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
-      "source": "coindesk",
-      "published": "2026-11-12T14:24:51+00:00",
-      "summary": "",
-      "title_es": "The next Congress will write rules for AI and emerging tech. They should use the stuff first."
     },
     {
       "id": "9e9575456d28",
