@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T00:50:15.342583+00:00",
+  "updated_at": "2026-11-22T16:48:42.755770+00:00",
   "count": 115,
   "sources": [
     "coindesk",
@@ -10,6 +10,69 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "42d25ce02239",
+      "title": "The future of onchain FX could start with users, not institutional liquidity",
+      "link": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-22T14:30:00+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The future of onchain FX could start with users, not institutional liquidity\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HXR8PX0V9ND83QRBCRCYJB/hi-international-association-of-tr",
+      "title_es": "The future of onchain FX could start with users, not institutional liquidity"
+    },
+    {
+      "id": "e8b31a25dfa4",
+      "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
+      "link": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
+      "source": "decrypt",
+      "published": "2026-11-22T14:01:02+00:00",
+      "summary": "Google’s Willow quantum processor beat the classical ceiling in a four-qubit coordination game, revealing a promising hardware test rather than commercial quantum computing.",
+      "title_es": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game"
+    },
+    {
+      "id": "4d688ad8603b",
+      "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+      "link": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+      "source": "coindesk",
+      "published": "2026-11-22T14:00:00+00:00",
+      "summary": "",
+      "title_es": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins"
+    },
+    {
+      "id": "552e43ae5e35",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-22T11:25:27+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
+      "title_es": "Here’s what happened in crypto today"
+    },
+    {
+      "id": "8c845ae83c5f",
+      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+      "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-22T09:33:06+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin briefly drops to $17K on Kraken, exchange upholds trades\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M819JW0D1CC9W3NZY32KQ4A0/hi-kraken2-1.jpg\" /></p><p>Kraken said all ord",
+      "title_es": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades"
+    },
+    {
+      "id": "a66548064018",
+      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+      "link": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-22T07:24:05+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korean exchanges halt CYBER transfers amid suspected bridge exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8127PW0MX9AKGQ6Y4GQ51JX/hand-laptop-coin.png\" /></p><p>Cyber ",
+      "title_es": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit"
+    },
+    {
+      "id": "65d5ff655009",
+      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+      "link": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-22T05:28:43+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chainflip confirms $12M hack, offers attacker 10% bounty\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M80VMG116PQ22VH13YJ5ANN8/hacky-hack-2.png\" /></p><p>Chainflip offered the attac",
+      "title_es": "Chainflip confirms $12M hack, offers attacker 10% bounty"
+    },
     {
       "id": "771f30101885",
       "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
@@ -108,15 +171,6 @@
       "published": "2026-11-21T12:30:00+00:00",
       "summary": "",
       "title_es": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated"
-    },
-    {
-      "id": "552e43ae5e35",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-21T11:18:52+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
-      "title_es": "Here’s what happened in crypto today"
     },
     {
       "id": "f8aa62b42b45",
@@ -758,15 +812,6 @@
       "title_es": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive"
     },
     {
-      "id": "37a70cc6e7b3",
-      "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
-      "link": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
-      "source": "coindesk",
-      "published": "2026-11-20T05:20:51+00:00",
-      "summary": "",
-      "title_es": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling"
-    },
-    {
       "id": "e0f51f19cabe",
       "title": "Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling",
       "link": "https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152",
@@ -848,15 +893,6 @@
       "title_es": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature"
     },
     {
-      "id": "cf2727531b61",
-      "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
-      "link": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-19T20:33:24+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TJNVM868BCDV9G2DVS1TSG/hi-kraken-ipo.png\" /></p><p>Hyperliquid ",
-      "title_es": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price"
-    },
-    {
       "id": "919e53ff7210",
       "title": "Kalshi’s Quintenz says insider trading is ‘just easier to see’ in prediction markets than stocks",
       "link": "https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133",
@@ -873,15 +909,6 @@
       "published": "2026-11-19T20:15:32+00:00",
       "summary": "A ransomware group breached third-party vendors, not the companies’ own systems. Visa said no card data was affected while Mastercard cited a limited cardholder subset.",
       "title_es": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data"
-    },
-    {
-      "id": "98c34ad30fbc",
-      "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
-      "link": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-19T20:06:34+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TFD02FRZ10BM2N4QZ1NBPG/hi-the-evolution-of-crypto-regu",
-      "title_es": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading"
     },
     {
       "id": "bce5d856ee64",
@@ -902,24 +929,6 @@
       "title_es": "Ripple’s Alderoty doubts Elizabeth Warren will ‘set crypto policy in this country,’ backs durable agency rules"
     },
     {
-      "id": "ce10b9fa4b00",
-      "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
-      "link": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-19T18:20:49+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7T8797NST8JEDN3F6EH12SR/hi-can-crypto-exchanges-be-tr",
-      "title_es": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns"
-    },
-    {
-      "id": "36b2c070e204",
-      "title": "Why higher rates could slow Bitcoin buying at treasury firms",
-      "link": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-19T18:09:32+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Why higher rates could slow Bitcoin buying at treasury firms\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg\" ",
-      "title_es": "Why higher rates could slow Bitcoin buying at treasury firms"
-    },
-    {
       "id": "7a15e20c3f0e",
       "title": "Protesters Arrested Outside Nasdaq as Activists Oppose Anthropic IPO Over AI Bubble Risks",
       "link": "https://decrypt.co/383642/protesters-arrested-nasdaq-anthropic-ipo-ai-bubble-risks",
@@ -936,15 +945,6 @@
       "published": "2026-11-19T17:28:03+00:00",
       "summary": "Perpetual futures let traders bet on prices with leverage and no expiry date. Here's how they work, and why they dominate crypto trading.",
       "title_es": "What Are Perpetual Futures? How Crypto's Most Popular Derivative Works"
-    },
-    {
-      "id": "f05ad1c95eb5",
-      "title": "Anthropic Stock Opens 33% Above IPO Price as AI Stocks Rally",
-      "link": "https://decrypt.co/383631/anthropic-stock-indicated-open-33-above-ipo-price",
-      "source": "decrypt",
-      "published": "2026-11-19T16:55:10+00:00",
-      "summary": "The Claude maker's shares could debut at $110, pushing its valuation toward $2 trillion as enthusiasm for its historic IPO lifts the broader technology sector.",
-      "title_es": "Anthropic Stock Opens 33% Above IPO Price as AI Stocks Rally"
     },
     {
       "id": "26b12a1c614c",
