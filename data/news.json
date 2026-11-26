@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T18:55:16.144724+00:00",
+  "updated_at": "2026-11-26T03:19:08.073504+00:00",
   "count": 115,
   "sources": [
     "coindesk",
@@ -10,6 +10,177 @@
     "cryptonews"
   ],
   "items": [
+    {
+      "id": "0bd8b980221e",
+      "title": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
+      "link": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778",
+      "source": "theblock",
+      "published": "2026-11-26T03:03:01+00:00",
+      "summary": "The current 119th Congress is expected to adjourn in the coming weeks, leaving little time for full passage before the session ends.",
+      "title_es": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage"
+    },
+    {
+      "id": "a1f1d6b344a0",
+      "title": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain",
+      "link": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770",
+      "source": "theblock",
+      "published": "2026-11-26T02:22:43+00:00",
+      "summary": "Zero uses ZK proofs to separate execution from verification, removing a layer of redundancy by leaving validators to only verify the proofs.",
+      "title_es": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain"
+    },
+    {
+      "id": "9d8c9620989a",
+      "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
+      "link": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-26T01:33:20+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8AQMMS0BSMYA1QTZ20HG364/hi-aicpac.jpg\" /></p><p>AI is driv",
+      "title_es": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says"
+    },
+    {
+      "id": "89c928b38fa9",
+      "title": "China's Google Just Released Its Fast New AI Model for Free",
+      "link": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+      "source": "decrypt",
+      "published": "2026-11-25T22:38:09+00:00",
+      "summary": "Baidu has released the weights of its new high-speed reasoning model, giving developers a commercially usable alternative to proprietary AI services from OpenAI, Google, and Anthropic",
+      "title_es": "China's Google Just Released Its Fast New AI Model for Free"
+    },
+    {
+      "id": "552e43ae5e35",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-25T22:33:13+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
+      "title_es": "Here’s what happened in crypto today"
+    },
+    {
+      "id": "b5fdff8c388d",
+      "title": "Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption",
+      "link": "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756",
+      "source": "theblock",
+      "published": "2026-11-25T22:20:02+00:00",
+      "summary": "Sens. Warren and Van Hollen sent two letters to SEC Chair Atkins demanding he rescind the innovation exemption and Regulation Crypto.",
+      "title_es": "Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption"
+    },
+    {
+      "id": "6a0d48f22403",
+      "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
+      "link": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-25T21:53:38+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Switzerland clears 57 jurisdictions for crypto tax data sharing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8A4536P99DZ11ZD4K1M4RQA/hi-how-to-file-crypto-taxes-in-the-us.png\" /></",
+      "title_es": "Switzerland clears 57 jurisdictions for crypto tax data sharing"
+    },
+    {
+      "id": "2473c904596c",
+      "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
+      "link": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
+      "source": "decrypt",
+      "published": "2026-11-25T21:46:02+00:00",
+      "summary": "U.S. intelligence found no evidence that Beijing directed Alice Huang to spy on Nvidia’s CEO, but the former Megaspeed executive still faces entry bans and scrutiny of business ties.",
+      "title_es": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?"
+    },
+    {
+      "id": "71570a5efc69",
+      "title": "Sam Altman’s ChatGPT AI Predicts a Monster Quant Crypto Move",
+      "link": "https://cryptonews.com/news/sam-altmans-chatgpt-ai-predicts-monster-quant-crypto-move/",
+      "source": "cryptonews",
+      "published": "2026-11-25T21:40:00+00:00",
+      "summary": "<p>Quant crypto is poised for a move that could rewrite its valuation. Sam Altman&#8217;s ChatGPT AI predicts that a hypothetical landmark catalyst could send QNT USD to new heights by January 1, 2027.In this scenario, a coalition of major central banks and the Bank for International Settlements des",
+      "title_es": "Sam Altman’s ChatGPT AI Predicts a Monster Quant Crypto Move"
+    },
+    {
+      "id": "f401e220aa51",
+      "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+      "link": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-25T21:22:19+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Braiins warns of Bitcoin mining attacks affecting over 1,000 sites\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8A6MMEPRZNERDMM8DPPCV1R/hi-hacker-launders-nearly-all-money-in-stole",
+      "title_es": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites"
+    },
+    {
+      "id": "e5a8de5817a7",
+      "title": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
+      "link": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
+      "source": "decrypt",
+      "published": "2026-11-25T21:16:02+00:00",
+      "summary": "An attacker compromised an employee’s GitHub account to reach 1Password’s backend and copy customer names and emails, but the company says vault contents, encryption keys and your Secret Key were never exposed.",
+      "title_es": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might"
+    },
+    {
+      "id": "b880ff1d948a",
+      "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
+      "link": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-25T21:11:39+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Why ECB collateral eligibility could boost demand for tokenized bonds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89SGJ98DS23Q9G7WEFX07KJ/lift-rise-rising-digital-euro-man-up.jpg\"",
+      "title_es": "Why ECB collateral eligibility could boost demand for tokenized bonds"
+    },
+    {
+      "id": "4a7caddbd98f",
+      "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
+      "link": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
+      "source": "decrypt",
+      "published": "2026-11-25T20:36:03+00:00",
+      "summary": "Braiins says an attacker exploited the unencrypted Stratum V1 protocol and internet route hijacking to impersonate mining pools, striking over 1,000 sites in a single second.",
+      "title_es": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards"
+    },
+    {
+      "id": "82c5ffc414dd",
+      "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
+      "link": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
+      "source": "decrypt",
+      "published": "2026-11-25T20:06:03+00:00",
+      "summary": "Microsoft says state-backed hackers and cybercriminals are using Artex to automate attacks with AI agents, exploiting familiar security flaws at speeds that leave defenders little time to respond or recover.",
+      "title_es": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach"
+    },
+    {
+      "id": "623182a06c64",
+      "title": "Anthropic Claude AI Predicts a Mind-Blowing BTC Reversal",
+      "link": "https://cryptonews.com/news/anthropic-claude-ai-predicts-mindblowing-btc-reversal/",
+      "source": "cryptonews",
+      "published": "2026-11-25T19:45:00+00:00",
+      "summary": "<p>Anthropic Claude AI predicts a wild Bitcoin price by January 1, 2027. It forecasts a price range so extreme that it would redefine Bitcoin’s role in the global financial system if a full-blown cryptocurrency bull market emerges alongside a major catalyst, and comes at a time when there is mass fe",
+      "title_es": "Anthropic Claude AI Predicts a Mind-Blowing BTC Reversal"
+    },
+    {
+      "id": "3faacf53ce65",
+      "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+      "source": "theblock",
+      "published": "2026-11-25T19:37:10+00:00",
+      "summary": "Braiins warns that an attacker is redirecting miners' compute power to steal bitcoin mining rewards.",
+      "title_es": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections"
+    },
+    {
+      "id": "c188079bca60",
+      "title": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
+      "link": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
+      "source": "theblock",
+      "published": "2026-11-25T19:32:42+00:00",
+      "summary": "Fidelity has filed with the U.S. Securities and Exchange Commission to launch a spot Chainlink exchange-traded fund.",
+      "title_es": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing"
+    },
+    {
+      "id": "2eb13ea8d0cf",
+      "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
+      "link": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
+      "source": "decrypt",
+      "published": "2026-11-25T19:28:54+00:00",
+      "summary": "The proposed cash settlement would resolve a shareholder suit alleging the chipmaker hid how much of its 2017-2018 gaming revenue came from crypto miners.",
+      "title_es": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit"
+    },
+    {
+      "id": "dc23c1a37032",
+      "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
+      "link": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph",
+      "published": "2026-11-25T18:54:51+00:00",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum Foundation backs Keccak-256 to counter quantum, AI threats\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89SXA51G4YCM0WZSF0YF9C3/ethereum-characters-in-line.png\" /></p><p>E",
+      "title_es": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats"
+    },
     {
       "id": "bfe04c031d4b",
       "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
@@ -245,15 +416,6 @@
       "title_es": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise"
     },
     {
-      "id": "552e43ae5e35",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-25T13:26:05+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today?",
-      "title_es": "Here’s what happened in crypto today"
-    },
-    {
       "id": "dff296afe666",
       "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
       "link": "https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets",
@@ -480,12 +642,12 @@
     },
     {
       "id": "1796f44be208",
-      "title": "Live updates: Bitcoin climbs from lows as markets attempt midday bounce",
+      "title": "Live updates: Bitcoin climbs from lows as markets bounce from big early declines",
       "link": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
       "source": "coindesk",
       "published": "2026-11-25T08:35:47+00:00",
       "summary": "",
-      "title_es": "Live updates: Bitcoin climbs from lows as markets attempt midday bounce"
+      "title_es": "Live updates: Bitcoin climbs from lows as markets bounce from big early declines"
     },
     {
       "id": "146246e82389",
@@ -578,15 +740,6 @@
       "title_es": "Trump willing to pardon Jensen Huang, says it won’t be necessary"
     },
     {
-      "id": "14bcb57129fb",
-      "title": "Utah moves to drop criminal charges against Kalshi after platform halts operations",
-      "link": "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090",
-      "source": "theblock",
-      "published": "2026-11-25T03:59:52+00:00",
-      "summary": "AG Derek Brown's office filed a motion Monday to drop the charges without prejudice, meaning it can refile if Kalshi returns.",
-      "title_es": "Utah moves to drop criminal charges against Kalshi after platform halts operations"
-    },
-    {
       "id": "47d4fed5d162",
       "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
       "link": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one",
@@ -594,15 +747,6 @@
       "published": "2026-11-25T03:35:20+00:00",
       "summary": "",
       "title_es": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one"
-    },
-    {
-      "id": "f0d4e0f73636",
-      "title": "New York senator proposes 10% tax on prediction market fees to fund universal pre-K",
-      "link": "https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082",
-      "source": "theblock",
-      "published": "2026-11-25T02:46:14+00:00",
-      "summary": "Proceeds from the 10% tax would be channeled to a new fund for universal pre-kindergarten for children ages 2 to 4.",
-      "title_es": "New York senator proposes 10% tax on prediction market fees to fund universal pre-K"
     },
     {
       "id": "ef14e31f2511",
@@ -632,24 +776,6 @@
       "title_es": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release"
     },
     {
-      "id": "e90213c65d58",
-      "title": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines",
-      "link": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061",
-      "source": "theblock",
-      "published": "2026-11-24T22:10:45+00:00",
-      "summary": "CleanSpark's annual revenue fell 25% as the bitcoin miner continues to shift toward AI infrastructure.",
-      "title_es": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines"
-    },
-    {
-      "id": "66db682ad3ef",
-      "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
-      "link": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-24T21:50:25+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Europol follows $28.5M crypto trail in streaming piracy crackdown\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87NDASB12J5RE5T6ERAE76K/detective-coin-2.png\" /></p><p>Authorities fr",
-      "title_es": "Europol follows $28.5M crypto trail in streaming piracy crackdown"
-    },
-    {
       "id": "7b108ad0c168",
       "title": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code",
       "link": "https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code",
@@ -666,24 +792,6 @@
       "published": "2026-11-24T21:16:02+00:00",
       "summary": "Coinkite’s postmortem reveals a software random-number generator shipped in place of the hardware one for over five years, slipping past at least 15 reviews.",
       "title_es": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits"
-    },
-    {
-      "id": "8bfc1e674cda",
-      "title": "SEC staff gives Molecule no-action relief for scientific research tokens",
-      "link": "https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067",
-      "source": "theblock",
-      "published": "2026-11-24T20:53:14+00:00",
-      "summary": "SEC staff said it would not recommend an enforcement action against Molecule for its utility tokens that allow people to support research.",
-      "title_es": "SEC staff gives Molecule no-action relief for scientific research tokens"
-    },
-    {
-      "id": "3cc1e69a355a",
-      "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
-      "link": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-24T20:48:27+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Utah moves to dismiss criminal charges against Kalshi after trading halt\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87J6N3Z9XVM655E8KKXZ6HP/court-vs-kalshi.png\" /></p><p>Utah’s a",
-      "title_es": "Utah moves to dismiss criminal charges against Kalshi after trading halt"
     },
     {
       "id": "358c500ae3ca",
@@ -713,15 +821,6 @@
       "title_es": "Will Crypto Recover? Is Bitcoin Hyper the Best Alternative to BTC and ETH Right Now?"
     },
     {
-      "id": "fd3037e34d74",
-      "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
-      "link": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-24T19:44:23+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51V1P8ZQ063ADC4P2T050NT/market-red-graph-falling-danger-stones-bi",
-      "title_es": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares"
-    },
-    {
       "id": "1a2b7c6f6cbb",
       "title": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
       "link": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near",
@@ -729,15 +828,6 @@
       "published": "2026-11-24T19:35:32+00:00",
       "summary": "Bitcoin slipped below $60,000 as realized losses nearly doubled in a week. Glassnode says the sell-off resembles past market bottoms, but another drop to $53,200 could be in the cards.",
       "title_es": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?"
-    },
-    {
-      "id": "d48db5789209",
-      "title": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
-      "link": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-24T19:04:26+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87AWRBC8FGN1Y9J8122FYZF/thief-bitcoin-1280x854.webp\" /></p><p",
-      "title_es": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years"
     },
     {
       "id": "92fb044b797f",
@@ -756,24 +846,6 @@
       "published": "2026-11-24T18:36:03+00:00",
       "summary": "The Financial Services Commission’s draft Digital Asset Act would let domestic projects sell tokens again under IPO-style disclosure rules, reversing a 2017 ban that mostly pushed Korean issuers offshore.",
       "title_es": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade"
-    },
-    {
-      "id": "0e56db9adc43",
-      "title": "Payward’s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC",
-      "link": "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498",
-      "source": "theblock",
-      "published": "2026-11-24T18:35:02+00:00",
-      "summary": "Krak has opened a waitlist for two U.S. credit card products, including a secured card that uses USDC as collateral.",
-      "title_es": "Payward’s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC"
-    },
-    {
-      "id": "2c01ae5fac0d",
-      "title": "CFTC sets new prediction market rules as more firms seek US entry",
-      "link": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph",
-      "published": "2026-11-24T18:31:42+00:00",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC sets new prediction market rules as more firms seek US entry\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJB7047S01XKJY4FWVJGEK/judge-hammer-regulation-cftc-2.jpg\" /></p><p>",
-      "title_es": "CFTC sets new prediction market rules as more firms seek US entry"
     },
     {
       "id": "5b1f6c68fcf5",
@@ -812,15 +884,6 @@
       "title_es": "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained"
     },
     {
-      "id": "3dbf843e451b",
-      "title": "Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Security Breach",
-      "link": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach",
-      "source": "decrypt",
-      "published": "2026-11-24T17:43:03+00:00",
-      "summary": "Bullpen identified unauthorized transfers from as many as 19 early accounts after millions moved from wallets linked to Ansem.",
-      "title_es": "Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Security Breach"
-    },
-    {
       "id": "b497aebbb32b",
       "title": "XRP Price Stalls Below $1 as XRPL Wipes Testnet and Devnet",
       "link": "https://cryptonews.com/news/xrp-price-stalls-below-1-xrpl-testnet-devnet-reset/",
@@ -828,15 +891,6 @@
       "published": "2026-11-24T16:48:00+00:00",
       "summary": "<p>XRP price fails to hold $1 after the Nvidia-led bounce as XRPL prepares to wipe Testnet and Devnet data following a server failure.</p>\n<p>The post <a href=\"https://cryptonews.com/news/xrp-price-stalls-below-1-xrpl-testnet-devnet-reset/\">XRP Price Stalls Below $1 as XRPL Wipes Testnet and Devnet<",
       "title_es": "XRP Price Stalls Below $1 as XRPL Wipes Testnet and Devnet"
-    },
-    {
-      "id": "80de72ee140e",
-      "title": "Europol Traces $28M in Crypto Behind Europe's Illegal Streaming Industry",
-      "link": "https://decrypt.co/383877/europol-traces-28m-in-crypto-behind-europes-illegal-streaming-industry",
-      "source": "decrypt",
-      "published": "2026-11-24T16:00:44+00:00",
-      "summary": "Police from 11 countries worked with Binance, Coinbase and Chainalysis to follow crypto payments made to pirate TV services.",
-      "title_es": "Europol Traces $28M in Crypto Behind Europe's Illegal Streaming Industry"
     },
     {
       "id": "0db4bb9ccefb",
@@ -882,42 +936,6 @@
       "published": "2026-11-24T14:40:53+00:00",
       "summary": "",
       "title_es": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment"
-    },
-    {
-      "id": "b88ab0144ad1",
-      "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
-      "link": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
-      "source": "decrypt",
-      "published": "2026-11-24T14:13:03+00:00",
-      "summary": "U.S. authorities say they've now helped freeze, seize or return more than $2.9 billion of the crypto stolen from Binance in October.",
-      "title_es": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack"
-    },
-    {
-      "id": "3780cd1c24a2",
-      "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
-      "link": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
-      "source": "decrypt",
-      "published": "2026-11-24T13:46:03+00:00",
-      "summary": "The blockchain security firm walked officers from across Asia and the South Pacific through a real wallet-theft case at a workshop in Hanoi.",
-      "title_es": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto"
-    },
-    {
-      "id": "8c94a2c3a8c9",
-      "title": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
-      "link": "https://decrypt.co/383868/morning-minute-jensen-returns-markets-soar-except-crypto",
-      "source": "decrypt",
-      "published": "2026-11-24T13:07:49+00:00",
-      "summary": "It was a very green Monday for most markets, but crypto couldn’t hold the pump as ETF sellers race for the exits.",
-      "title_es": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)"
-    },
-    {
-      "id": "13823d074eff",
-      "title": "GTA 6 PC Ports ‘Nuked’ Just Days Before Devs Expected It to Be Playable",
-      "link": "https://decrypt.co/383860/gta-6-pc-ports-nuked-just-days-before-devs-expected-it-to-be-playable",
-      "source": "decrypt",
-      "published": "2026-11-24T13:01:30+00:00",
-      "summary": "Leonida and GTA6Modding went dark a day after Cyberleek released the executable file that porters had been waiting for.",
-      "title_es": "GTA 6 PC Ports ‘Nuked’ Just Days Before Devs Expected It to Be Playable"
     },
     {
       "id": "c5d77095c07b",
@@ -1026,24 +1044,6 @@
       "published": "2026-11-23T15:34:25+00:00",
       "summary": "<p>BTC price rebounds sharply as Jensen Huang returns to Nvidia, triggering a massive rally across tech stocks and crypto markets.</p>\n<p>The post <a href=\"https://cryptonews.com/news/jensen-huang-back-btc-price-explodes-8k/\">BTC Price Explodes by $8k: Jensen Huang Is Back!</a> appeared first on <a ",
       "title_es": "BTC Price Explodes by $8k: Jensen Huang Is Back!"
-    },
-    {
-      "id": "93dbb08c58af",
-      "title": "HYPE and ENA Catch the Bid, but ZEC Misses Crypto Bounce",
-      "link": "https://cryptonews.com/news/hype-ena-rally-zec-lags-crypto-bounce/",
-      "source": "cryptonews",
-      "published": "2026-11-23T11:15:27+00:00",
-      "summary": "<p>HYPE and ENA surge nearly 6% as Zcash lags the crypto rebound. We analyze for a potential bottom in HYPE and ZEC.</p>\n<p>The post <a href=\"https://cryptonews.com/news/hype-ena-rally-zec-lags-crypto-bounce/\">HYPE and ENA Catch the Bid, but ZEC Misses Crypto Bounce</a> appeared first on <a href=\"ht",
-      "title_es": "HYPE and ENA Catch the Bid, but ZEC Misses Crypto Bounce"
-    },
-    {
-      "id": "2fdf634ecd4d",
-      "title": "Ripple News: XRP Eyes Recovery as $0.90 Support Could Set Up a Rebound",
-      "link": "https://cryptonews.com/news/ripple-news-xrp-90-support-recovery/",
-      "source": "cryptonews",
-      "published": "2026-11-23T08:10:26+00:00",
-      "summary": "<p>In ripple news today, XRP rebounds near $0.93 after touching $0.86. Can $0.90 support hold and open the door toward $1.10?</p>\n<p>The post <a href=\"https://cryptonews.com/news/ripple-news-xrp-90-support-recovery/\">Ripple News: XRP Eyes Recovery as $0.90 Support Could Set Up a Rebound</a> appeared",
-      "title_es": "Ripple News: XRP Eyes Recovery as $0.90 Support Could Set Up a Rebound"
     }
   ]
 }
